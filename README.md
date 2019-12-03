@@ -1,2 +1,2 @@
 # Geneus
-Deep Learning Final Project 2019 Fall
+Deep Learning Final Project Fall 2019
