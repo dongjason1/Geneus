@@ -10,7 +10,7 @@ def scrape(wikipedia_url):
     contents = soup.find("div", {"id": "mw-content-text"})
     lists = set()
     for a in contents.findChildren("a", href=lambda href: href and 'wiki' in href):
-        lists.add('https://en.wikipedia.org/' + a.text)
+        lists.add('https://en.wikipedia.org/wiki/' + a.text)
 
     for list in sorted(lists):
         print(list)

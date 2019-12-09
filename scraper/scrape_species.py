@@ -43,10 +43,17 @@ def get_classication(wikipedia_url):
     return mappings
 
 
-def print_sections(sections, level=0):
-    for s in sections:
-        print("%s: %s - %s" % ("*" * (level + 1), s.title, s.text[0:40]))
-        print_sections(s.sections, level + 1)
+def collect_sections(sections, parents=None):
+    if len(sections) == 0:
+        return dict()
+
+    sections_mapping = dict()
+    for section in sections:
+        title = section.title if parents is None else parents + '-' + section.title
+        sections_mapping[title] = section.text
+        inner_sections_mappings = collect_sections(section.sections, section.title if parents is None else parents + '-' + section.title)
+        sections_mapping = {**sections_mapping, **inner_sections_mappings}
+    return sections_mapping
 
 
 def get_text_contents(wikipedia_article):
@@ -55,14 +62,18 @@ def get_text_contents(wikipedia_article):
         extract_format=wikipediaapi.ExtractFormat.WIKI
     )
     page = wiki_wiki.page(wikipedia_article)
-    print_sections(page.sections)
+
+    sections_mapping = collect_sections(page.sections)
+
+    sections_mapping = {'__SUMMARY__': page.summary, **sections_mapping}
+
+    return sections_mapping
 
 
 def scrape(wikipedia_url):
     classification_mappings = get_classication(wikipedia_url)
 
     text_contents = get_text_contents(wikipedia_url.split('en.wikipedia.org/wiki/', 1)[1])
-
 
     return {
         "url": wikipedia_url,
@@ -74,4 +85,4 @@ def scrape(wikipedia_url):
 if __name__ == '__main__':
     mappings = scrape(sys.argv[1])
     with open(sys.argv[2], mode='w') as output_file:
-        json.dump(mappings, output_file, ensure_ascii=False)
+        json.dump(mappings, output_file, ensure_ascii=False, indent=2)
