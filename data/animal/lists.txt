@@ -1,35 +1,37 @@
-https://en.wikipedia.org/List of Canis species and subspecies
-https://en.wikipedia.org/List of Casuariiformes species
-https://en.wikipedia.org/List of Conus species
-https://en.wikipedia.org/List of Corydoras species
-https://en.wikipedia.org/List of Late Quaternary prehistoric bird species
-https://en.wikipedia.org/List of Odostomia species
-https://en.wikipedia.org/List of Procellariidae species
-https://en.wikipedia.org/List of Tinamidae species and subspecies
-https://en.wikipedia.org/List of anomalepidid species and subspecies
-https://en.wikipedia.org/List of atractaspidid species and subspecies
-https://en.wikipedia.org/List of boine species and subspecies
-https://en.wikipedia.org/List of brackish aquarium invertebrate species
-https://en.wikipedia.org/List of cetacean species
-https://en.wikipedia.org/List of crotaline species and subspecies
-https://en.wikipedia.org/List of elephant species
-https://en.wikipedia.org/List of erycine species and subspecies
-https://en.wikipedia.org/List of freshwater aquarium invertebrate species
-https://en.wikipedia.org/List of fulmarine petrel species
-https://en.wikipedia.org/List of introduced bird species
-https://en.wikipedia.org/List of introduced mammal species
-https://en.wikipedia.org/List of leptotyphlopid species and subspecies
-https://en.wikipedia.org/List of marine aquarium invertebrate species
-https://en.wikipedia.org/List of moa species
-https://en.wikipedia.org/List of paleognath species
-https://en.wikipedia.org/List of pythonid species and subspecies
-https://en.wikipedia.org/List of rattlesnake species and subspecies
-https://en.wikipedia.org/List of recently extinct bird species
-https://en.wikipedia.org/List of shearwater species
-https://en.wikipedia.org/List of species of Galápagos tortoise
-https://en.wikipedia.org/List of tropidophiid species and subspecies
-https://en.wikipedia.org/List of true finch species
-https://en.wikipedia.org/List of typhlopid species and subspecies
-https://en.wikipedia.org/List of uropeltid species and subspecies
-https://en.wikipedia.org/List of viperine species and subspecies
-https://en.wikipedia.org/Lists of arthropod species
+https://en.wikipedia.org/wiki/List of Canis species and subspecies
+https://en.wikipedia.org/wiki/List of Casuariiformes species
+https://en.wikipedia.org/wiki/List of Conus species
+https://en.wikipedia.org/wiki/List of Corydoras species
+https://en.wikipedia.org/wiki/List of Late Quaternary prehistoric bird species
+https://en.wikipedia.org/wiki/List of Odostomia species
+https://en.wikipedia.org/wiki/List of Procellariidae species
+https://en.wikipedia.org/wiki/List of Tinamidae species and subspecies
+https://en.wikipedia.org/wiki/List of anomalepidid species and subspecies
+https://en.wikipedia.org/wiki/List of atractaspidid species and subspecies
+https://en.wikipedia.org/wiki/List of boine species and subspecies
+https://en.wikipedia.org/wiki/List of brackish aquarium invertebrate species
+https://en.wikipedia.org/wiki/List of cetacean species
+https://en.wikipedia.org/wiki/List of crotaline species and subspecies
+https://en.wikipedia.org/wiki/List of elephant species
+https://en.wikipedia.org/wiki/List of erycine species and subspecies
+https://en.wikipedia.org/wiki/List of freshwater aquarium invertebrate species
+https://en.wikipedia.org/wiki/List of fulmarine petrel species
+https://en.wikipedia.org/wiki/List of introduced bird species
+https://en.wikipedia.org/wiki/List of introduced mammal species
+https://en.wikipedia.org/wiki/List of leptotyphlopid species and subspecies
+https://en.wikipedia.org/wiki/List of marine aquarium invertebrate species
+https://en.wikipedia.org/wiki/List of moa species
+https://en.wikipedia.org/wiki/List of paleognath species
+https://en.wikipedia.org/wiki/List of pythonid species and subspecies
+https://en.wikipedia.org/wiki/List of rattlesnake species and subspecies
+https://en.wikipedia.org/wiki/List of recently extinct bird species
+https://en.wikipedia.org/wiki/List of shearwater species
+https://en.wikipedia.org/wiki/List of species of Galápagos tortoise
+https://en.wikipedia.org/wiki/List of tropidophiid species and subspecies
+https://en.wikipedia.org/wiki/List of true finch species
+https://en.wikipedia.org/wiki/List of typhlopid species and subspecies
+https://en.wikipedia.org/wiki/List of uropeltid species and subspecies
+https://en.wikipedia.org/wiki/List of viperine species and subspecies
+https://en.wikipedia.org/wiki/Lists of arthropod species
+https://en.wikipedia.org/wiki/List of bats
+

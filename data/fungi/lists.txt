@@ -1,54 +1,54 @@
-https://en.wikipedia.org/List of Amanita species
-https://en.wikipedia.org/List of Armillaria species
-https://en.wikipedia.org/List of Ascochyta species
-https://en.wikipedia.org/List of Aspergillus species
-https://en.wikipedia.org/List of Boletus species
-https://en.wikipedia.org/List of Caloplaca species
-https://en.wikipedia.org/List of Candida species
-https://en.wikipedia.org/List of Cladonia species
-https://en.wikipedia.org/List of Coprinopsis species
-https://en.wikipedia.org/List of Cortinarius species
-https://en.wikipedia.org/List of Cyathus species
-https://en.wikipedia.org/List of Entoloma species
-https://en.wikipedia.org/List of Fusarium species
-https://en.wikipedia.org/List of Gymnopilus species
-https://en.wikipedia.org/List of Gymnopus species
-https://en.wikipedia.org/List of Hebeloma species
-https://en.wikipedia.org/List of Hygrocybe species
-https://en.wikipedia.org/List of Hygrophorus species
-https://en.wikipedia.org/List of Inocybe species
-https://en.wikipedia.org/List of Lactarius species
-https://en.wikipedia.org/List of Lactifluus species
-https://en.wikipedia.org/List of Lecanora species
-https://en.wikipedia.org/List of Leccinum species
-https://en.wikipedia.org/List of Lepiota species
-https://en.wikipedia.org/List of Leucoagaricus species
-https://en.wikipedia.org/List of Marasmius species
-https://en.wikipedia.org/List of Mycosphaerella species
-https://en.wikipedia.org/List of North American Tricholoma species
-https://en.wikipedia.org/List of Panaeolus species
-https://en.wikipedia.org/List of Penicillium species
-https://en.wikipedia.org/List of Peniophora species
-https://en.wikipedia.org/List of Pertusaria species
-https://en.wikipedia.org/List of Phaeocollybia species
-https://en.wikipedia.org/List of Pholiota species
-https://en.wikipedia.org/List of Pholiotina species
-https://en.wikipedia.org/List of Pleurotus species
-https://en.wikipedia.org/List of Pluteus species
-https://en.wikipedia.org/List of Psathyrella species
-https://en.wikipedia.org/List of Psilocybe species
-https://en.wikipedia.org/List of Puccinia species
-https://en.wikipedia.org/List of Russula species
-https://en.wikipedia.org/List of Scleroderma species
-https://en.wikipedia.org/List of Serpula species
-https://en.wikipedia.org/List of Trametes species
-https://en.wikipedia.org/List of Trichoderma species
-https://en.wikipedia.org/List of Tricholoma species
-https://en.wikipedia.org/List of Tuber (fungus) species
-https://en.wikipedia.org/List of Tulostoma species
-https://en.wikipedia.org/List of bioluminescent fungus species
-https://en.wikipedia.org/List of deadly fungus species
-https://en.wikipedia.org/List of lichen species of Montana
-https://en.wikipedia.org/List of microorganisms used in food and beverage preparation
-https://en.wikipedia.org/List of poisonous fungus species
-https://en.wikipedia.org/List of psilocybin mushroom species
+https://en.wikipedia.org/wiki/List of Amanita species
+https://en.wikipedia.org/wiki/List of Armillaria species
+https://en.wikipedia.org/wiki/List of Ascochyta species
+https://en.wikipedia.org/wiki/List of Aspergillus species
+https://en.wikipedia.org/wiki/List of Boletus species
+https://en.wikipedia.org/wiki/List of Caloplaca species
+https://en.wikipedia.org/wiki/List of Candida species
+https://en.wikipedia.org/wiki/List of Cladonia species
+https://en.wikipedia.org/wiki/List of Coprinopsis species
+https://en.wikipedia.org/wiki/List of Cortinarius species
+https://en.wikipedia.org/wiki/List of Cyathus species
+https://en.wikipedia.org/wiki/List of Entoloma species
+https://en.wikipedia.org/wiki/List of Fusarium species
+https://en.wikipedia.org/wiki/List of Gymnopilus species
+https://en.wikipedia.org/wiki/List of Gymnopus species
+https://en.wikipedia.org/wiki/List of Hebeloma species
+https://en.wikipedia.org/wiki/List of Hygrocybe species
+https://en.wikipedia.org/wiki/List of Hygrophorus species
+https://en.wikipedia.org/wiki/List of Inocybe species
+https://en.wikipedia.org/wiki/List of Lactarius species
+https://en.wikipedia.org/wiki/List of Lactifluus species
+https://en.wikipedia.org/wiki/List of Lecanora species
+https://en.wikipedia.org/wiki/List of Leccinum species
+https://en.wikipedia.org/wiki/List of Lepiota species
+https://en.wikipedia.org/wiki/List of Leucoagaricus species
+https://en.wikipedia.org/wiki/List of Marasmius species
+https://en.wikipedia.org/wiki/List of Mycosphaerella species
+https://en.wikipedia.org/wiki/List of North American Tricholoma species
+https://en.wikipedia.org/wiki/List of Panaeolus species
+https://en.wikipedia.org/wiki/List of Penicillium species
+https://en.wikipedia.org/wiki/List of Peniophora species
+https://en.wikipedia.org/wiki/List of Pertusaria species
+https://en.wikipedia.org/wiki/List of Phaeocollybia species
+https://en.wikipedia.org/wiki/List of Pholiota species
+https://en.wikipedia.org/wiki/List of Pholiotina species
+https://en.wikipedia.org/wiki/List of Pleurotus species
+https://en.wikipedia.org/wiki/List of Pluteus species
+https://en.wikipedia.org/wiki/List of Psathyrella species
+https://en.wikipedia.org/wiki/List of Psilocybe species
+https://en.wikipedia.org/wiki/List of Puccinia species
+https://en.wikipedia.org/wiki/List of Russula species
+https://en.wikipedia.org/wiki/List of Scleroderma species
+https://en.wikipedia.org/wiki/List of Serpula species
+https://en.wikipedia.org/wiki/List of Trametes species
+https://en.wikipedia.org/wiki/List of Trichoderma species
+https://en.wikipedia.org/wiki/List of Tricholoma species
+https://en.wikipedia.org/wiki/List of Tuber (fungus) species
+https://en.wikipedia.org/wiki/List of Tulostoma species
+https://en.wikipedia.org/wiki/List of bioluminescent fungus species
+https://en.wikipedia.org/wiki/List of deadly fungus species
+https://en.wikipedia.org/wiki/List of lichen species of Montana
+https://en.wikipedia.org/wiki/List of microorganisms used in food and beverage preparation
+https://en.wikipedia.org/wiki/List of poisonous fungus species
+https://en.wikipedia.org/wiki/List of psilocybin mushroom species
