@@ -3,17 +3,21 @@ import glob
 import json
 import os
 import sys
+import numpy as np
 from json import JSONDecodeError
 from pathlib import Path
 
 from tqdm import tqdm
+
+from keyword_extractor.keyword import get_keywords, load_embeddings_dict, embed_keywords
+
 
 
 def load_all(data_directory):
     json_files = list(Path(data_directory).rglob('*.json'))
 
     data = []
-    for json_file in tqdm(json_files, desc='Loading JSON files into memory...'):
+    for json_file in tqdm(json_files[:5], desc='Loading JSON files into memory...'):
         with json_file.open() as json_f:
             try:
                 data.append(json.load(fp=json_f))
@@ -84,6 +88,53 @@ def one_hot_encode_kingdom(all_data):
         sys.exit(1)
 
     return list(map(one_hot_encode, tqdm(all_data)))
+
+"""
+Creates the keyword word embedding representation of the text data. Cleans the data for mentions of the taxonomy
+
+Params:
+    documents (lis of dict): JSON documents to convert
+    n (int): number of keywords to generate
+    weighted (bool): whether or not to use a weighted sum
+"""
+def create_keyword_representation(documents, n=20, weighted=True):
+    print('loading embeddings...')
+    embed = load_embeddings_dict(path='data_processing/keyword_extractor/glove_model/glove.6B.300d.txt')
+    
+    # wikipedia sections not to read
+    banned_sections = ['references', 'see also', 'external links']
+    output = []
+    
+    print('converting...')
+    for doc in tqdm(documents, desc='Converting documents to keyword vectors'):
+        # taxonomy words to remove from training data
+        taxonomy_words = []
+        for dic in doc['classification']:
+            key = list(dic.keys())[0]
+            val = dic[key]
+            taxonomy_words.append(key.lower())
+            taxonomy_words.append(val.lower())
+        
+        #concatenate the paragraphs
+        concat = ""
+        for key, val in doc['text'].items():
+            if key.lower() not in banned_sections:
+                concat += " " + val
+                
+        # get keywords from concatenated sections and remove taxonomy words
+        keys, weights = get_keywords(concat, num=n)
+        i = 0
+        while i < len(keys):
+            if keys[i].lower() in taxonomy_words:
+                del keys[i]
+                np.delete(weights, i)
+                i-=1
+            i += 1
+        
+        # Get the word embedding representation
+        representation = embed_keywords(keys, embed, weights) if weighted else embed_keywords(keys, embed)
+        output.append(representation.tolist())
+    return output
 
 
 if __name__ == '__main__':
