@@ -99,7 +99,7 @@ Params:
 """
 def create_keyword_representation(documents, n=20, weighted=True):
     print('loading embeddings...')
-    embed = load_embeddings_dict(path='data_processing/keyword_extractor/glove_model/glove.6B.300d.txt')
+    embed = load_embeddings_dict(path='data_processing/glove_model/glove.6B.300d.txt')
     
     # wikipedia sections not to read
     banned_sections = ['references', 'see also', 'external links']
