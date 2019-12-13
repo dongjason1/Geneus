@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_brunneoviolaceus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. brunneoviolaceus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus brunneoviolaceus is a species of fungus in the genus Aspergillus. It belongs to the group of black Aspergilli which are important industrial workhorses. A. brunneoviolaceus belongs to the Nigri section. The species was first described in 1955 and has been found in Brazil.\nThe genome of A. brunneoviolaceus was sequenced and published in 2014 as part of the Aspergillus whole-genome sequencing project – a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 37.48 Mbp.",
+    "Growth and morphology": "A. brunneoviolaceus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Advances in Applied Microbiology. Academic Press. 2013. ISBN 9780128002988.\n\"Home - Aspergillus brunneoviolaceus CBS 621.78 v1.0\". Genome.jgi.doe.gov.\n\"Fig. 3. Aspergillus brunneoviolaceus (syn. A. fijiensis; ITEM 7037),…\". ResearchGate."
+  }
+}

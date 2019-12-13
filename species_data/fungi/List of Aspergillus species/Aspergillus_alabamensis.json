@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_alabamensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. alabamensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus alabamensis is a soil fungus in the division Ascomycota first described in 2009 as a segregated taxon of A. terreus. Originally thought to be a variant of A. terreus, A. alabamensis is situated in a distinctive clade identified by genetic analysis. While A. alabamensis has been found to be morphologically similar to Aspergillus terreus by morphological studies, the two differ significantly in active metabolic pathways, with A. alabamensis producing the mycotoxins citrinin and citreoviridin but lacking mevinolin.",
+    "History and etymology": "Aspergillus alabamensis was discovered by Balajee and colleagues in 2009 while investigating the cryptic lineages in A. terreus in a multilocus sequence typing (MLST) study of three protein-encoding genes: enolase (enoA), β-tubulin (benA), and calmodulin (calM). They chose the species epithet \"alabamensis\" to reflect their geographic origin of strains comprising the new clade with 11 of the 14 isolates originating from clinical specimens obtained from the University of Alabama at Birmingham. The other three isolates were derived from soil samples collected in Argentina and Florida.",
+    "Growth and morphology": "Aspergillus alabamensis produces slow growing colonies that are wooly and white becoming yellow-brown to cinnamon-brown in colour with the onset of asexual sporulation. Conidiophores are colourless and smooth with densely columnar conidial heads 30–50 μm in diameter and 150–500 μm in length. The vesicles are subglobose with a diameter of 10–16 μm. The metulae attached to the vesicles are closely packed, measuring 5.5–7.5 μm long by 1.5–2.0 μm wide. Phialides attached to the apices of the metulae are 5.0–7.0 μm long by 2.0–2.5 μm wide. The conidia arising from the tips of the phialides are slightly elliptical and smooth-walled reaching a diameter of 1.8–2.4 μm. While Aspergillus alabamensis can grow between 25–50 °C, its optimal growth temperature is 37 °C. A. alabamensis can grow in vitro on a range of growth media including potato flake agar, carnation leaf agar, Czapek's yeast autolysate agar, and malt extract agar. This species is able to utilize glucose and sucrose as sources of carbon. \nA. alabamensis has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "Habitat and ecology": "Similar to most species of Aspergillus, the spores of A. alabamensis are readily dispersed through the air and carried across long distances in the wind. A. alabamensis, is ubiquitous, having been found in South America, North America and Europe. It shares similarities in both habitat and ecology with its sister species, A. terreus. Both are common found in soil, waste and compost. Aspergillus alabamensis is able to grow at water activities as low as those tolerated by A. terreus (e.g., aW = 0.78). Unlike closely related Aspergilli, A. alabamensis is uncommon in soil, occurring mainly in plant debris where its presence has been suggested to be exclusive of Aspergillus niger (a common saprotroph), suggesting that A. alabamensis may be a natural antagonist of the latter.",
+    "Disease": "Aspergillus alabamensis is able to cause aspergillosis, although this species is rarely differentiated from the morphologically similar A. terreus because morphological studies are routinely used to identify and distinguish different clinical Aspergilli. The adoption of DNA sequence-based analysis of critical genes such as β-tubulin and calmodulin is likely to expand the number of case reports of this and other cryptic agents of aspergillosis. Notwithstanding, proper identification remains difficult due to the complexity involved in the sequencing process as well as the relatively high costs associated with these advanced techniques. Recent studies have found that the crude extract of A. alabamensis cultures to exhibit antiisectan properties. Samples derived from a dead hardwood branch near a river in northern Florida produced dioxomorpholines which showed insect repelling activity against Spodoptera frugiperda. Similar to A. terreus, A. alabamensis exhibits a high minimum inhibitory concentration (MIC) to the antifungal drug amphotericin B though it is generally thought susceptible to other antifungal drugs such as voriconazole, itraconazole, and echinocandins.There have been no reported cases of invasive aspergillosis caused by A. alabamensis in humans. However, given its similarity to A. terreus, it is likely that some case reports have been misattributed to the latter taxon. It is recommended that patients suspected to have aspergillosis to be treated with first-line therapy drugs for the disease and have treatment modified base on in vitro susceptibility testing. In cases of reported non-invasive aspergillosis caused by A. alabamensis, isolates are usually recovered from sputum, tracheal aspirates, ear canal, burn wounds or the cystic fibrosis lung. Immunocompromised individuals are more susceptible than immunocompetent people to aspergillosis.\nIn 2012, a case of disseminated aspergillosis in a 5-year-old female English springer spaniel was discovered suffering from vomiting (for seven days), loss of appetite and lethargy. Dissemination of the disease is rare but localized infections are common. In disseminated cases, organs which might become infected include the gallbladder, diaphragm, esophagus, and small intestine.\n\n\n== References =="
+  }
+}

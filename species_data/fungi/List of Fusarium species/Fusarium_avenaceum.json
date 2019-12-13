@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_avenaceum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Gibberella"
+    },
+    {
+      "Species": "G. avenacea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gibberella avenacea is a fungal plant pathogen.",
+    "References": "",
+    "External links": "USDA ARS Fungal Database"
+  }
+}

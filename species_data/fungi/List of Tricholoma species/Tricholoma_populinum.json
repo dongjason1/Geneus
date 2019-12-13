@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_populinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. populinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma populinum is a mushroom of the agaric genus Tricholoma. It was formally described by Danish mycologist Jakob Emanuel Lange in 1933.",
+    "See also": "List of North American Tricholoma\nList of Tricholoma species",
+    "References": "",
+    "External links": "Tricholoma populinum  in Index Fungorum"
+  }
+}

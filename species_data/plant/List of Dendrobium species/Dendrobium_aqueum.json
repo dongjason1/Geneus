@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_aqueum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. aqueum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium aqueum is a species of orchid endemic to southern India. It is found in the\nupper reaches of Palakkad district, in the State of Kerala.\n\n\n== References =="
+  }
+}

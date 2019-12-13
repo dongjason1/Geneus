@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Madagascar_turtle_dove",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Nesoenas"
+    },
+    {
+      "Species": "N. picturatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malagasy turtle dove (Nesoenas picturatus) is a bird species in the pigeon and dove family, Columbidae. It is found in British Indian Ocean Territory, the Comoros, Madagascar, Mauritius, Mayotte, Réunion, and the Seychelles.",
+    "Taxonomy": "The bird has several subspecies. The Rodrigues pigeon, an extinct but fairly enigmatic taxon from Rodrigues on the Mascarenes, was for some time suspected to be another subspecies of N. picturata, but today is generally considered a distinct species (N. rodericanus).\nThe pink pigeon (N. mayeri) is its closest living relative, and together they form a lineage apart from both the typical pigeons (Columba) and the typical turtle doves (Streptopelia), slightly closer to the latter, if anything. Consequently, either these two are both placed in Streptopelia, or – as is probably the most accurate solution at present – separated as Nesoenas. The present species was in former times sometimes placed in a monotypic genus Homopelia. While this is not outright wrong, if the Rodrigues population is also placed in Homopelia and Nesoenas is considered distinct too, it would probably be considered oversplitting by modern authors.",
+    "Status and conservation": "Though some island populations are rare – some precariously so – as a whole N. picturata is considered a species of least concern by the IUCN.",
+    "Footnotes": "",
+    "References": " Media related to Nesoenas picturatus at Wikimedia Commons\n\nCheke, Anthony S. (2005): Naming segregates from the Columba–Streptopelia pigeons following DNA studies on phylogeny. Bull. B.O.C. 125(4): 293-295. PDF fulltext\nJohnson, Kevin P.; de Kort, Selvino; Dinwoodey, Karen, Mateman, A. C.; ten Cate, Carel; Lessells, C. M. & Clayton, Dale H. (2001): A molecular phylogeny of the dove genera Streptopelia and Columba. Auk 118(4): 874-887. DOI:10.1642/0004-8038(2001)118[0874:AMPOTD]2.0.CO;2 PDF fulltext"
+  }
+}

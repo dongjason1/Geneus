@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_malabaricus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. malabaricus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus malabaricus is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The length of the shell attains 55 mm.",
+    "Distribution": "This marine species occurs off Kerala, India and off Sri Lanka.",
+    "References": "Monnier E., Limpalaër L. & Tenorio M.J. (2017). Virgiconus malabaricus (Gastropoda, Conidae), a new cone snail from Southern India, with taxonomic notes on related species. Xenophora Taxonomy. 14: 22-28",
+    "External links": "\"Virgiconus malabaricus\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

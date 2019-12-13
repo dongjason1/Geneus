@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miralda_scopulorum",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Miralda"
+    },
+    {
+      "Species": "M. scopulorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miralda scopulorum is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The shell grows to a length of 2 mm.",
+    "Distribution": "This species occurs in the Pacific Ocean off the Philippines and Hawaii.",
+    "References": "",
+    "External links": "To World Register of Marine Species\nSea Slugs of Hawaii : Miralda scopulorum"
+  }
+}

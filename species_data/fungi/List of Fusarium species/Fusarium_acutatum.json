@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_acutatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. acutatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium acutatum is a fungus species of the genus Fusarium. Fusarium acutatum can cause gangrenous necrosis on the feet from diabetic patients. Fusarium acutatum produces fumonisin B1, fumonisin B2, fumonisin B3 and 8-O-Methyl-fusarubin.",
+    "References": "",
+    "Further reading": "Leslie, John F.; Bullock, Brett A. Summerell ; photographs by Suzanne (2008). The Fusarium Laboratory Manual (1st ed.). Hoboken: John Wiley & Sons. ISBN 0-470-27646-0.\nDesjardins, Anne E. (2006). Fusarium mycotoxins : chemistry, genetics and biology. St. Paul: APS Press. ISBN 0-890-54335-6."
+  }
+}

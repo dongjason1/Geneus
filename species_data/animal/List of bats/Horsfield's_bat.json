@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Horsfield's_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. horsfieldii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Horsfield's bat (Myotis horsfieldii) is a species of vesper bat. It is found in China, India, Indonesia, Malaysia, Myanmar, the Philippines, Thailand, and Vietnam.\n\n\n== References =="
+  }
+}

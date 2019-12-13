@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Solanum_fortunense",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Solanum"
+    },
+    {
+      "Species": "S. fortunense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Solanum fortunense is a species of plant in the family Solanaceae. It is found in Costa Rica and Panama.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Solanum fortunense\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T35466A9930210. doi:10.2305/IUCN.UK.1998.RLTS.T35466A9930210.en. Retrieved 16 December 2017."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_panamense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. panamense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium panamense is a species of fungus in the genus Penicillium which produces vermicellin.",
+    "Further reading": "Rijksherbarium (1989). Persoonia volum 14. Rijksherbarium.\n\n\n== References =="
+  }
+}

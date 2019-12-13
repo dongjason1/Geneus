@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_monoica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "Puccinia monoica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia monoica is a parasitic rust fungus of the genus Puccinia that inhibits flowering in its host plant (usually an Arabis species) and radically transforms host morphology in order to facilitate its own sexual reproduction.",
+    "Life cycle": "Infection of host plants (including Arabis and several other members of the mustard family) occurs via wind-borne basidiospores in late summer. Upon germination of the spores, fungal hyphae penetrate the stem of the mustard plant and siphon off nutrients. However, in order to reproduce sexually, the fungus must facilitate the transfer of spermatia from the spermatogonia on this plant to receptive hyphae borne in the spermatogonia on another infected mustard plant. To accomplish this, the fungus sterilizes the host plant, preventing it from producing true flowers. Instead, it forces the infected plant to grow clusters of leaves into brilliant yellow \"pseudoflowers\" bearing the fungal spermatogonia. Insects visiting the pseudoflowers transfer spermatia from one host plant to another, in the same way that pollinators transfer pollen between the true flowers of uninfected plants.\nSpermatia transferred in this way fuse with receptive spermatogonial hyphae on the recipient plant. The resulting hyphae subsequently form aecia. At this time, the pseudoflowers lose their green colour and stop producing nectar. Spores produced in the aecia, referred to as aeciospores, are responsible for infecting P. monoica's alternate host plant (a grass species of Koeleria, Trisetum, or Stipa).\nUpon germination hyphae produced by the aeciospores penetrate the grass, leading to the production of uredia. The uredia produce urediniospores capable of infecting more grass plants. Ultimately, telia are produced on the infected grasses. This leads to production of basidia and basidiospores. When released the basidiospores may infect new mustard plants, completing the life cycle.",
+    "Pseudoflowers": "The pseudoflowers are borne from basal leaf rosettes of the host mustard and mimic the yellow, early spring corollae of distantly related wildflowers (e.g. buttercups), not only in visible light but also in ultraviolet. Since bees and many pollinating insects \"see\" in the ultraviolet range, these pseudoflowers are highly attractive. In addition, the fungus produces a distinct scent to attract insects; this olfactory appeal has allowed the fungus to evolve and \"improve\" upon the mimicry system by facilitating proper transfer of fungal spermatia. The bees feed on a sweet, sticky substance similar to nectar that the fungus forces the plant to produce on the imitation flowers.",
+    "Taxonomic variation": "Researchers have noted that Puccinia monoica is just one of a complex of closely related species which show considerable variation with regard to specific hosts and life cycle.  P. monoica has a life cycle involving two alternate hosts (a mustard and a grass), whereas other species may not. The P. monoica life cycle is macrocyclic, including the production of basidia, telia, spermatia, aecia, and uredia. By contrast, Puccinia thlaspeos also produces pseudoflowers, but has no aecia or uredia phase, completing its entire life cycle on Arabis.",
+    "See also": "List of Puccinia species\n\n\n== References =="
+  }
+}

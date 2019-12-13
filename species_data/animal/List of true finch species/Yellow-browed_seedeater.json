@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yellow-browed_seedeater",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. whytii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The yellow-browed seedeater (Crithagra whytii) is a species of finch in the Fringillidae family. It is found in Malawi, Tanzania, and Zambia.\nThe yellow-browed seedeater was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the yellow-browed seedeater were moved to the resurrected genus Crithagra.",
+    "References": "\nBirdLife International 2004.  Serinus whytii.   2006 IUCN Red List of Threatened Species.   Downloaded on 10 July 2007."
+  }
+}

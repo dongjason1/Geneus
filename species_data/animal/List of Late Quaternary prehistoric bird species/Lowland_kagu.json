@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lowland_kagu",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Eurypygiformes"
+    },
+    {
+      "Family": "Rhynochetidae"
+    },
+    {
+      "Genus": "Rhynochetos"
+    },
+    {
+      "Species": "†R. orarius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lowland kagu (Rhynochetos orarius) is a large, extinct species of kagu.  It was endemic to the island of New Caledonia in Melanesia in the south-west Pacific region.  It was described from subfossil bones found at the Pindai Caves paleontological site on the west coast of Grande Terre.  The holotype is a right tibiotarsus (NCP 700), held by the Muséum national d'histoire naturelle in Paris.  The specific epithet comes from the Latin orarius (of the coast) from its presumed lowland distribution, as opposed to its congener the living kagu R. jubatus.",
+    "Description": "The general proportions of the various bones of the lowland kagu are very similar to those of the kagu.  They differ in the greater size of the extinct species in averaging about 15% larger, with no overlap between the hindlimb elements and only rare overlap between those of the wings.  The describers postulate that R. orarius and R. jubatus were lowland and highland forms, respectively.\n\n\n== References =="
+  }
+}

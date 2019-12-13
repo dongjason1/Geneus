@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhododendron_fauriei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Ericaceae"
+    },
+    {
+      "Genus": "Rhododendron"
+    },
+    {
+      "Species": "R. fauriei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhododendron fauriei is a rhododendron species native to Japan and Korea.  Its flower's colors are light red to white.",
+    "Synonyms": "Rhododendron brachycarpum auct.",
+    "References": "The Plant List\nHirsutum.com"
+  }
+}

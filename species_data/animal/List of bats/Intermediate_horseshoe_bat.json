@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Intermediate_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. affinis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The intermediate horseshoe bat (Rhinolophus affinis) is a bat species of the family Rhinolophidae that is very widespread throughout much of South Asia, southern and central China and Southeast Asia. It is listed by IUCN as Least Concern as it is considered common where it occurs, without any known major threats.",
+    "Distribution and habitat": "Rhinolophus affinis is found in Bangladesh, Bhutan, Brunei, China, India, Indonesia, Malaysia, Myanmar, Nepal, Thailand, and Vietnam.",
+    "External links": "Sound recordings of Rhinolophus affinis on BioAcoustica\n\n\n== References =="
+  }
+}

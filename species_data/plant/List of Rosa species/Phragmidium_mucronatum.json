@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phragmidium_mucronatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Phragmidiaceae"
+    },
+    {
+      "Genus": "Phragmidium"
+    },
+    {
+      "Species": "P. mucronatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phragmidium mucronatum is a plant pathogen that causes rose rust.",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_indica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. indica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas indica is a species of cycad endemic to India. The species grows in the dry plains of Karnataka and is known for its branching habit. A species Cycas swamyi also considered as a variety of Cycas circinalis is considered as a synonym of this species.",
+    "References": "",
+    "External links": "Sydney botanical gardens"
+  }
+}

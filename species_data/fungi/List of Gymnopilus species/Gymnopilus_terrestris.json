@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_terrestris",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. terrestris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus terrestris is a species of mushroom in the Cortinariaceae family.",
+    "Description": "The cap is 3 to 7 centimetres (1.2 to 2.8 in) in diameter.",
+    "Distribution and habitat": "Gymnopilus terrestris grows on soil and humus, under conifers. It has been found in Michigan, Colorado, Idaho, Washington, and Oregon, during June to October.",
+    "References": "",
+    "External links": "Gymnopilus terrestris at Index Fungorum"
+  }
+}

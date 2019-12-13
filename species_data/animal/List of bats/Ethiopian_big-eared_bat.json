@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ethiopian_big-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Plecotus"
+    },
+    {
+      "Species": "P. balensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ethiopian big-eared bat or Ethiopian long-eared bat (Plecotus balensis) is a recently described species of long-eared bat in the family Vespertilionidae.",
+    "Description": "The Ethiopian big-eared bat is a typical medium-size representative of the genus Plecotus sensu stricto which differs from the widespread Palearctic species grey long-eared bat by its smaller overall size, having a small head, short snout, dark-brownish fur and an absence of any yellow tinges to the fur.",
+    "Distribution": "The Ethiopian big-eared bat is endemic to the Ethiopian highlands where it is currently only known to occur in the upper belts of the Harenna Forest in the Bale Mountains National Park and at Abune Yosef. There are older poorly documented records which may have been collected in other montane forest areas, including possible records from Eritrea, although this specimen may prove to refer to the Christie's big-eared bat Plecotus christii.",
+    "Habitat": "The Ethiopian big-eared bat has only ever been recorded as occurring in humid evergreen montane forest. The type specimen was collected from a forest belt dominated by Schefflera spp and Hagenia spp. These bats have been reported to forage in the more open parts of the forest or at the edges of clearings.",
+    "Taxonomy": "The Ethiopian big-eared bat was described in 2000 and represents the farthest south that the genus Plecotus reaches in Africa, to the south of the two widespread Palearctic species brown long-eared bat Plecotis auritus and grey long-eared bat Plecotus austriacus . It forms a clade with the Canary big-eared bat Plecotus teneriffae which is clearly monophyletic and represents an ancient lineage within Plecotus. Christi's big-eared bat is its closest congener in a geographical context but there is a subspecies of the Canary big-eared bat P.t. gaisleri in Cyrenaica, with populations of the Mediterranean long-eared bat Plecotus kolombatovici found between them. There is still a lot of research to be carried out to resolve the phylogenetic relationships in the genus Plecotus.\n\n\n== References =="
+  }
+}

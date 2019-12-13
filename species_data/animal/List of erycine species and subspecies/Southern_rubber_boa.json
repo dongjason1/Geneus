@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southern_rubber_boa",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Boidae"
+    },
+    {
+      "Genus": "Charina"
+    },
+    {
+      "Species": "C. umbratica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Charina umbratica, known commonly as the southern rubber boa, is a species of snake in the family Boidae. The species is endemic to the United States, in southern California.",
+    "Conservation status": "As of April 2017, the southern rubber boa was listed as a state threatened species in the California Natural Diversity Database.",
+    "References": "",
+    "Further reading": "Klauber LM (1943). \"The Subspecies of the Rubber Snake, Charina \". Trans. San Diego Soc. Nat. Hist. 10 (7): 83-90. (Charina bottae umbratica, new subspecies, pp. 83–85).\nRodríguez-Robles, Javier A.; Stewart, Glenn R.; Papenfuss, Theodore J (2001). \"Mitochondrial DNA-Based Phylogeography of North American Rubber Boas, Charina bottae (Serpentes: Boidae)\". Molecular Phylogenetics and Evolution 18 (2): 227-237."
+  }
+}

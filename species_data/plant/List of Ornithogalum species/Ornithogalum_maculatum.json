@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ornithogalum_maculatum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Scilloideae"
+    },
+    {
+      "Tribe": "Ornithogaleae"
+    },
+    {
+      "Genus": "Ornithogalum"
+    },
+    {
+      "Species": "O. maculatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ornithogalum maculatum is a flowering plant native to the Cape Provinces of South Africa.",
+    "References": "",
+    "External links": "Gallery of the World's Bulbs\nKvětena Kapska (Flora of the Cape region)"
+  }
+}

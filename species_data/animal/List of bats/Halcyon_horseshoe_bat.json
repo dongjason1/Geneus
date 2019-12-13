@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Halcyon_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. alcyone"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Halcyon horseshoe bat (Rhinolophus alcyone) is a species of bat in the family Rhinolophidae. It is found in Cameroon, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Ghana, Guinea, Kenya, Liberia, Nigeria, Senegal, South Sudan, Togo, Uganda, possibly Gabon, and possibly Sierra Leone. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, moist savanna, caves, and subterranean habitats (other than caves). It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

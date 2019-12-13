@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Attalea_amygdalina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Arecales"
+    },
+    {
+      "Family": "Arecaceae"
+    },
+    {
+      "Genus": "Attalea"
+    },
+    {
+      "Species": "A. amygdalina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Attalea amygdalina is a species of palm endemic to Colombia.\n\n\n== References =="
+  }
+}

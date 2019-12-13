@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_roxburghii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. roxburghii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia roxburghii is a species of plant in the family Begoniaceae.\nThe Latin specific epithet roxburghii refers to the Scottish Botanist William Roxburgh.",
+    "References": "\nPharmacographia India page 40"
+  }
+}

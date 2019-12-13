@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_yarmokense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. yarmokense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium yarmokense is a species of fungus in the genus Penicillium which was isolated from soil near Es-Suveida in Syria.",
+    "Further reading": "Carlos Ramírez (1982). Manual and atlas of the Penicillia. Elsevier Biomedical Press. ISBN 0444803696.\n\n\n== References =="
+  }
+}

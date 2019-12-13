@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_magnivelaris",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Subclass": "Hymenomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. magnivelaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita magnivelaris, commonly known as the great felt skirt destroying angel, is a highly toxic basidiomycete fungus, one of many in the genus Amanita. Originally described from Ithaca, New York, by Charles Horton Peck, it is found in New York state and southeastern Canada.",
+    "See also": "\nList of Amanita species\nList of deadly fungi\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allen's_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Rhogeessa"
+    },
+    {
+      "Species": "R. alleni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allen's yellow bat (Rhogeessa alleni) is a species of vesper bat. There is some taxonomic debate surrounding this species, with some authors considering Baeodon a genus rather than a subgenus. It is endemic to Mexico.",
+    "Taxonomy and etymology": "It was described as a new species in 1892 by British zoologist Oldfield Thomas.\nThomas noted that the eponym for the species name \"alleni\" was Harrison Allen, calling him \"the chief authority on North-American bats.\"\nIn 1906, Gerrit Smith Miller placed Allen's yellow bat into a newly-coined genus, Baeodon.\nAt present, some authors keep Allen's yellow bat as part of Rhogeessa within the subgenus Baeodon, while others believe that it is distinct enough that Baeodon should be considered a monotypic genus rather than a subgenus.",
+    "Description": "It is a small species of bat, weighing only 5.8–8 g (0.20–0.28 oz).\nIt has large ears, with long tragi.\nThe tragi are rounded at the tips, with a straight or slightly concave inner margin and a slightly convex outer margin.\nThe posterior edges of its wings are white.\nIt has a small and narrow calcar.\nThe head and body is 47 mm (1.9 in), while the tail is 41 mm (1.6 in) long.\nIts forearm length is 35 mm (1.4 in).\nIts dental formula is 1.1.1.33.1.2.3 for a total of 30 teeth.",
+    "Range and habitat": "It is endemic to Mexico, with its range encompassing several states in southwest Mexico.\nIt has been documented at a range of elevations, from 125–1,990 m (410–6,529 ft) above sea level.\nHowever, most records of this species are at elevations greater than 1,000 m (3,300 ft) above sea level.\nIts habitat consists of tropical deciduous forests, thorny forests, deciduous forests, and xeric shrublands.",
+    "Conservation": "It is currently evaluated as least concern by the IUCN—its lowest conservation priority.\nIt meets the criteria for this assessment because it has a large geographic range; its range includes protected areas; and it lacks major threats to its continued existence.\nHowever, it is infrequently encountered and is considered rare or locally uncommon.\n\n\n== References =="
+  }
+}

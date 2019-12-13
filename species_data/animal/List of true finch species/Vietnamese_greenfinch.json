@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vietnamese_greenfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Chloris"
+    },
+    {
+      "Species": "C. monguilloti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Vietnamese greenfinch (Chloris monguilloti) is a small passerine bird in the Fringillidae family.\nIt is found only in Vietnam.\nIts natural habitat is subtropical or tropical dry forests.\nIt is threatened by habitat loss.",
+    "Taxonomy": "The first formal description of the Vietnamese greenfinch was by the American ornithologist Jean Théodore Delacour in 1926 under the binomial name Hypacanthis monguilloti. In the past the greenfinches were placed in the genus Carduelis but when molecular phylogenetic studies found that they were not closely related to the other species in Carduelis, they were moved to the resurrected genus Chloris. The genus had been first introduced by the French naturalist Georges Cuvier in 1800. The word Chloris is from the Ancient Greek khlōris for the European greenfinch; the specific epithet was chosen to honour Maurice Antoine François Monguillot, the General Secretary of French Indo-China. The species is monotypic.",
+    "Description": "The Vietnamese greenfinch is 13.5 to 14 cm (5.3 to 5.5 in) in length and weighs between 15 and 16 g (0.53 and 0.56 oz). It has a large conical bill, a black head and a narrow bright yellow collar. The plumage of the female is similar to that of the male but is less brightly coloured.",
+    "References": "",
+    "External links": "Xeno-canto: audio recordings of the Vietnamese greenfinch"
+  }
+}

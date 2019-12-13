@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Taiwan_tube-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Murina"
+    },
+    {
+      "Species": "M. puta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Taiwan tube-nosed bat (Murina puta) is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Taiwan. It is a close relative of Hutton's tube-nosed bat, and might even be the same species.\n\n\n== References =="
+  }
+}

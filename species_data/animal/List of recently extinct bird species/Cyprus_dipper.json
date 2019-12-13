@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cyprus_dipper",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Cinclidae"
+    },
+    {
+      "Genus": "Cinclus"
+    },
+    {
+      "Species": "C. cinclus"
+    },
+    {
+      "Subspecies": "†C. c. olympicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Cyprus dipper (Cinclus cinclus olympicus) was a bird species endemic to Cyprus. It was a stream wader in the montane forests of the island. This insectivorous bird was last observed c. 1950 on Cyprus. It disappeared after deforestation.\nHowever, this subspecies is not recognized as valid anymore. Its validity has long been questioned (Vaurie, 1955), and DNA sequence comparison of Aegean/eastern Mediterranean island populations of dippers shows that they are indistinguishable from adjacent mainland populations. Thus, it seems probable that the Cyprus population too had immigrated from Asia Minor rather recently and not evolved to the point where it could be considered a separate subspecies.\nThe cause for extinction was the introduction of Brown and Rainbow Trout into the streams of Troodos, rumoured to be introduced there by the British Military, which in turn competed for the same food. Still to this day, both invasive species can be observed in the Troodos rivers.",
+    "See also": "List of extinct birds\nList of extinct animals\nList of extinct animals of Europe",
+    "References": "Vaurie, Charles (1955): Systematic notes on Palearctic birds. No. 16, Troglodytinae, Cinclidae, and Prunellidae. American Museum Novitates 1751: 1-25. PDF fulltext",
+    "External links": "The Extinction Website"
+  }
+}

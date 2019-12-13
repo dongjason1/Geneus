@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sumatran_mastiff_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mormopterus"
+    },
+    {
+      "Subgenus": "Mormopterus"
+    },
+    {
+      "Species": "M. doriae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sumatran mastiff bat (Mormopterus doriae) is a species of bat in the family Molossidae, the free-tailed bats. It is only known from Sumatra in Indonesia. It was described in 1907 and has not been recorded since.",
+    "Taxonomy and etymology": "It was described as a new species in 1907 by Danish mammalogist Knud Andersen.\nAndersen stated that the eponym for the species name \"doriae\" was Italian naturalist Giacomo Doria, who \"always so generously placed his intimate knowledge of Chiroptera and the rich collections of the Museum under his charge at the service of specialists.\"\nAndersen had obtained the holotype from Doria's museum in Genoa.\nThe holotype had been initially collected by German entomologist Heinrich Wolfgang Ludwig Dohrn",
+    "Description": "Andersen wrote that it was most similar in appearance to Peters's wrinkle-lipped bat, Mormopterus jugularis.",
+    "Range and habitat": "The holotype was collected in Soekaranda in the Deli Serdang Regency of northwest Sumatra, which is part of Indonesia.\nIt was collected below 250 m (820 ft) above sea level.",
+    "Conservation": "As of 2016, the IUCN considers it as a data deficient species, meaning that there is not sufficient information available to evaluate threats to this species.\nPreviously, it was considered vulnerable from 1996–2008.\nThe only individual ever documented was the holotype described by Andersen in 1907.\n\n\n== References =="
+  }
+}

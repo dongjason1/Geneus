@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_limosum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. limosum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium limosum is a species of the genus of Penicillium which was isolated from marine sediment.\n\n\n== References =="
+  }
+}

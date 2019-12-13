@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Horsfield's_babbler",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Pellorneidae"
+    },
+    {
+      "Genus": "Malacocincla"
+    },
+    {
+      "Species": "M. sepiaria"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Horsfield's babbler (Malacocincla sepiaria) is a species of bird in the Pellorneidae family.\nIt is found in Brunei, Indonesia, Malaysia, and Thailand.\nIts natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montane forests.\nThe common name commemorates the American naturalist Thomas Horsfield.",
+    "References": "\nCollar, N. J. & Robson, C. 2007. Family Timaliidae (Babblers)  pp. 70 – 291 in; del Hoyo, J., Elliott, A. & Christie, D.A. eds. Handbook of the Birds of the World, Vol. 12. Picathartes to Tits and Chickadees. Lynx Edicions, Barcelona."
+  }
+}

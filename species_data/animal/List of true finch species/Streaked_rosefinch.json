@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Streaked_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. rubicilloides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The streaked rosefinch (Carpodacus rubicilloides) is a true finch species (family Fringillidae). It is found in Bhutan, China, India, and Nepal. Its natural habitat is boreal shrubland.\nTwo subspecies are recognised:\nC. r. rubicilloides - east Tibet to central and southern China\nC. r. lucifer - southern Tibet and the Himalayas\n\n\n== References =="
+  }
+}

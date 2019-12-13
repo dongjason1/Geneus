@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_undulatifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. undulatifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes undulatifolia is a tropical pitcher plant known only from South East Sulawesi, where it grows at an elevation of around 1800 m above sea level. The specific epithet undulatifolia refers to the wavy laminar margins of this species.",
+    "References": "\nLee, C.C. 2012. New Pitcher Plant Discoveries. Jungle Notes, February 2, 2012.\nMcPherson, S.R. & A. Robinson 2012. Field Guide to the Pitcher Plants of Sulawesi. Redfern Natural History Productions, Poole."
+  }
+}

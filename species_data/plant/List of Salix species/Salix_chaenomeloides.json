@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_chaenomeloides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. chaenomeloides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix chaenomeloides is a species of willow native to Japan, Korea and China. It is a deciduous tree, reaching a height of 10–20 m."
+  }
+}

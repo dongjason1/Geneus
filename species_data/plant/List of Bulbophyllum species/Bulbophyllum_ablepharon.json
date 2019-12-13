@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_ablepharon",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. ablepharon"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum ablepharon is a species of orchid in the genus Bulbophyllum.",
+    "References": "\nThe Bulbophyllum-Checklist\nThe Internet Orchid Species Photo Encyclopedia"
+  }
+}

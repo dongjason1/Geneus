@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Marasmius_sacchari",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Marasmiaceae"
+    },
+    {
+      "Genus": "Marasmius"
+    },
+    {
+      "Species": "M. sacchari"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Marasmius sacchari is a fungal plant pathogen which has been identified as causing root rot of sugar cane.",
+    "See also": "List of Marasmius species\n\n\n== References =="
+  }
+}

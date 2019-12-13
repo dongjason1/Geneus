@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_malacaense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. malacaense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium malacaense is an anamorph species of the genus of Penicillium.",
+    "Further reading": "Ramírez, C.; Martínez, A. T. (1980). \"Some new species of Penicillium recovered from the atmosphere in Madrid and from other substrata\". Mycopathologia. 72 (3): 181–91. doi:10.1007/BF00572662. PMID 7464904.\n\n\n== References =="
+  }
+}

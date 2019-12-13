@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Thoopterus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "ThoopterusMatschie, 1899"
+    },
+    {
+      "Species": "T. nigrescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The swift fruit bat (Thoopterus nigrescens) is a species of megabat in the family Pteropodidae. It is the only described species within the genus Thoopterus, but it is likely that more than one species exists. Thoopterus is found in Indonesia on Sulawesi and neighboring islands.",
+    "References": "",
+    "Literature cited": "Ruedas, L. 2008. Thoopterus nigrescens. In IUCN. IUCN Red List of Threatened Species. Version 2010.2. <www.iucnredlist.org>. Downloaded on October 27, 2011.\nSimmons, N.B. (2005). \"Order Chiroptera\".  In Wilson, D.E.; Reeder, D.M (eds.). Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Baltimore, Maryland: Johns Hopkins University Press. pp. 312–529. ISBN 978-0-8018-8221-0."
+  }
+}

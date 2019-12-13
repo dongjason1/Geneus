@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malayan_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mops"
+    },
+    {
+      "Species": "M. mops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malayan free-tailed bat (Mops mops) is a species of bat in the family Molossidae. It is found in Indonesia and Malaysia.\n\n\n== References =="
+  }
+}

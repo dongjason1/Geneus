@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Caledonia_wattled_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Chalinolobus"
+    },
+    {
+      "Species": "C. neocaledonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "New Caledonia wattled bat (Chalinolobus neocaledonicus) is a species of vesper bat (family Vespertilionidae) in the genus Chalinolobus. It is found only in New Caledonia.",
+    "Taxonomy": "The New Caledonia wattled bat was first described by Swiss naturalist Pierre Revilliod in 1914. It is commonly considered a subspecies of Chalinolobus gouldii, but evidence for synonymy is weak.\nIts species name \"neocaledonicus\" comes from Ancient Greek néos meaning \"new\" and the New Latin rendering of \"Caledonia,\" caledonicus; the species name refers to New Caledonia where this species is found.",
+    "Description": "It is a small species of bat, with a head and body length of only 50.5 mm (1.99 in).\nIts forearm is 35.3 mm (1.39 in) long, and its tail is 33 mm (1.3 in) long.\nIts ears are relatively long, at 12 mm (0.47 in)\nIts dental formula is 2.1.2.33.1.2.3, for a total of 32 teeth.",
+    "Range and habitat": "It is one of nine species of bat found in New Caledonia.\nIt is among the three species of bat endemic to the territory.",
+    "Conservation": "It is considered endangered by the IUCN.\nIt meets the criteria for this assessment because its area of occupancy is less than 500 km2 (190 sq mi), there are fewer than six known localities of occurrence, and its habitat is declining in quality and extent.\n\n\n== Sources =="
+  }
+}

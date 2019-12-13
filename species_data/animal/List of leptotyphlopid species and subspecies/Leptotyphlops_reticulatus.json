@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_reticulatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epacrophis"
+    },
+    {
+      "Species": "E. reticulatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The reticulate blind snake (Epacrophis reticulatus) is a species of snake in the family Leptotyphlopidae. It is endemic to Somalia.\n\n\n== References =="
+  }
+}

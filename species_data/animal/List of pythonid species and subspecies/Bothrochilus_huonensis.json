@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrochilus_huonensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Pythonidae"
+    },
+    {
+      "Genus": "Bothrochilus"
+    },
+    {
+      "Species": "B. huonensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Huon Peninsula whitelip python (Bothrochilus huonensis) is a species of snake of the family Pythonidae.",
+    "Geographic range": "The snake is found in Papua New Guinea.",
+    "References": "\nSpecies Bothrochilus huonensis at The Reptile Database"
+  }
+}

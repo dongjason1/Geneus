@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-necked_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. cervicalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-necked petrel (Pterodroma cervicalis), also known as the white-naped petrel, is a species of seabird in the family Procellariidae. During the non-breeding season it occurs throughout a large part of the Pacific, but it is only known to breed on Macauley Island in  New Zealand's Kermadec Islands and the Australian territory of Norfolk Island and Phillip Island. It formerly bred on Raoul Island, but has now been extirpated from this locality. Reports of breeding on Merelava, Vanuatu, are more likely to be the very similar Vanuatu petrel, P. occulta, which some consider to be a subspecies of the white-necked petrel. The IUCN rating as vulnerable is for the \"combined\" species.",
+    "Description": "This species resembles the Vanuatu petrel, P. occulta, but is slightly larger at 43 centimetres (17 in) in length, 95–105 centimetres (37–41 in) in wing span and 380–545 grams (13.4–19.2 oz) in weight. It has a black cap, white rear neck, dark grey back, wings and tail, and a darker rump. The underparts are white with dark bases on the primary feathers. The upperparts of worn birds become darker.\n\nIt is very difficult to separate the white-necked petrel from the Vanuatu petrel at sea.",
+    "Ecology": "This is a solitary pelagic gadfly petrel of the open seas of the south-west Pacific. It has an effortless graceful flight with few wing beats, and does not follow ships. It feeds on the wing, picking fish and squid from near the surface.\nIts natural habitats are subtropical or tropical seasonally wet or flooded lowland grassland (for breeding) and open seas (for foraging). It is threatened by habitat loss on its breeding grounds.",
+    "References": "Onley and Scofield, Albatrosses, Petrels and Shearwaters of the World (Helm 2007)  ISBN 978-0-7136-4332-9",
+    "External links": "BirdLife species factsheet"
+  }
+}

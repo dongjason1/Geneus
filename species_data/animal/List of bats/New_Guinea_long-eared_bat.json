@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Guinea_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Nyctophilus"
+    },
+    {
+      "Species": "N. microtis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The New Guinea long-eared bat, species Nyctophilus microtis, is a small flying mammal. It is found only in Papua New Guinea.",
+    "Taxonomy": "The description of the species was published by Oldfield Thomas in 1888, recognising the affinity with Nyctophilus timoriensis, the name ascribed to Australian vespertilionid 'long-eared bat' taxa. Thomas's description of a new species in the genus Nyctophilus was the first to indicate the diversity of the group, previously described as monotypic.\nThe specimen is noted as collected at Sogere, South-east New Guinea by Henry Ogg Forbes, and deposited at BMNH, London.\n\n\n== References =="
+  }
+}

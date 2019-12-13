@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_hughmorrisoni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. hughmorrisoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus hughmorrisoni is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 10 mm and 21 mm.",
+    "Distribution": "This marine species occurs off New Ireland, Papua New Guinea",
+    "References": "Lorenz F. & Puillandre N. (2015). Conus hughmorrisoni, a new species of cone snail from New Ireland, Papua New Guinea (Gastropoda: Conidae). European Journal of Taxonomy. 129: 1-15",
+    "External links": "To World Register of Marine Species\n\"Splinoconus hughmorrisoni\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

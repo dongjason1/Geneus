@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_leucocephalus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Rhinotyphlops"
+    },
+    {
+      "Species": "R. leucocephalus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinotyphlops leucocephalus is a species of snakes in the Typhlopidae family. It is endemic to Africa.",
+    "References": "",
+    "Further reading": "Parker, H.W. 1930. Three new Reptiles from Somaliland. Annals and Magazine of Natural History. Series 10, Volume 6, pp. 603–606."
+  }
+}

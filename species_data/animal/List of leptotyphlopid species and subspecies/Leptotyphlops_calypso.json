@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_calypso",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Mitophis"
+    },
+    {
+      "Species": "M. calypso"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Samana threadsnake (Mitophis calypso) is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

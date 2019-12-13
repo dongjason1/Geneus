@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_araucariicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hymenogastraceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. araucariicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe araucariicola is a species of psilocybin mushroom found in Brazil, where it grows on decayed Araucaria angustifolia wood in the  Floresta Nacional de São Francisco de Paula in Rio Grande do Sul.",
+    "See also": "List of psilocybin mushrooms\nList of Psilocybe species\n\n\n== References =="
+  }
+}

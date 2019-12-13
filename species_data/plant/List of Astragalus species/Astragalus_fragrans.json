@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Astragalus_fragrans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Astragalus"
+    },
+    {
+      "Species": "A. fragrans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Astragalus fragrans is a species of milkvetch in the family Fabaceae.\n\n\n== References =="
+  }
+}

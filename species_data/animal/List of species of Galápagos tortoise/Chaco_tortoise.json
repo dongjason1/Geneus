@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chaco_tortoise",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Testudinoidea"
+    },
+    {
+      "Family": "Testudinidae"
+    },
+    {
+      "Genus": "Chelonoidis"
+    },
+    {
+      "Species": "C. chilensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chaco tortoise (Chelonoidis chilensis), also known commonly as the Argentine tortoise, the Patagonian tortoise, or the southern wood tortoise, is a species of tortoise in the family Testudinidae. The species is endemic to South America.",
+    "Geographic range": "The Chaco tortoise is mainly found in Argentina, but also in Bolivia and Paraguay, mainly within the Chaco and Monte ecoregions. Its distribution is mainly limited by temperature-related variables, and precipitation in the reproductive period.",
+    "Taxonomy": "The scientific name for this species, Chelonoidis chilensis, is misleading because it is not native to Chile. It occurs mainly in Argentina, Bolivia and neighboring Paraguay. When the species was first described by Gray in 1870, he mistakenly thought that Mendoza was in Chile instead of Argentina, thus the misnomer. Sclater corrected Gray's mistake in the same year. However, the rules of nomenclature give precedence to the name chilensis, even though it was based on an erroneous assumption, and the name has persisted.",
+    "Description": "The carapace of C. chilensis can measure up to 43.3 cm (but usually less than 25 cm) in a straight line, and may be either totally yellowish brown or have dark-brown to black rings surrounding a tan center on each scute. Specimens found farther south tend to be much larger than those found in farther north populations. The rim of the shell is slightly serrated and has a dark wedge of pigment at the back edge of each scute. The plastron may be uniformly yellowish-brown or have a dark triangular wedge along the seams of each scute. The head, limbs and tail are greyish to yellowish-brown, with the front of each forelimb covered with large, angular scales and each thigh featuring several enlarged tubercles.",
+    "Diet": "Like all tortoise species, the Chaco tortoise is primarily herbivorous, consuming grasses, shrubs, fruits, and cactus pads.",
+    "Species status": "There is only one recognized species. However, some researchers believe C. chilensis should be divided into three species: C. chilensis, C. petersi, and C. donosobarrosi. Some support C. donosobarrosi as a subspecies (C. chilensis donosobarrosi). There is research to indicate that it may qualify as a separate species, while C. petersi may just be a variant of C. chilensis, the variances being clinal variations in adjacent populations. However,  these taxa mentioned have all been formally synonymised and accepted. The morphological variation is explainable as a factor of elevation. Historically, these have been viewed as separate taxa, with little work done to confirm or deny it. Subsequent molecular analysis has found little to no genetic variation.",
+    "Etymology": "The specific name (or subspecific name), donosobarrosi, is in honor of Chilean herpetologist Roberto Donoso-Barros and petersi is in honor of the American herpetologist James A. Peters.",
+    "References": "\nBibliographyRhodin, Anders G.J.; van Dijk, Peter Paul; Iverson, John B.; Shaffer, H. Bradley; Roger, Bour (2012-12-31). \"Turtles of the world, 2012 update: Annotated checklist of taxonomy, synonymy, distribution and conservation status\" (PDF). Chelonian Research Monographs. 5: 000.xx. doi:10.3854/crm.5.000.checklist.v5.2012. ISBN 978-0965354097. Archived from the original (PDF) on 2013-01-04.\nBoulenger GA (1889). Catalogue of the Chelonians, Rhynchocephalians, and Crocodiles in the British Museum (Natural History). New Edition. London: Trustees of the British Museum (Natural History). (Taylor and Francis, printers). x + 311 pp. + Plates I-III. (\"Testudo argentina\", p. 159).\nGray JE (1870). \"Notice of a new Chilian [sic] Tortoise (Testudo chilensis)\". Ann. Mag. Nat. Hist., Fourth Series 6: 190. [\"Testudo (Gopher) chilensis\", new species]."
+  }
+}

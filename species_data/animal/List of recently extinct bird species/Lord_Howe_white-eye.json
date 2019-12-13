@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lord_Howe_white-eye",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Zosteropidae"
+    },
+    {
+      "Genus": "Zosterops"
+    },
+    {
+      "Species": "Z. strenuus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The robust white-eye (Zosterops strenuus), also known as the Lord Howe white-eye or robust silvereye, and locally as the \"big grinnell\", was a species of bird in the family Zosteropidae. It was endemic to the lowland forests of Lord Howe Island, east of Australia.",
+    "Description": "It was a mainly green bird, around 7.6 cm long, with a white belly and yellow throat, which separated it from other species of white-eye.\n\nThe robust white-eye built loosely constructed, cup-shaped nests out of palm fibre and dried grasses, which were sometimes found in shrubs overgrown with vines. This made the species vulnerable to predation by black rats (Rattus rattus), which were accidentally introduced in 1918 following the grounding of the steamship SS Makambo on the island. Although once common, the bird was extinct by 1923.\nDespite its small size, the bird was known to islanders as \"big grinnell\", to differentiate it from the much smaller but related \"little grinnell\", or Lord Howe silvereye Zosterops lateralis tephropleurus, a subspecies of the silvereye. This subspecies hangs on, but is threatened with extinction.",
+    "References": "\nDay, David (1981), The Encyclopedia of Vanished Species, London, Universal Books Ltd., pp109–110, ISBN 0-947889-30-2"
+  }
+}

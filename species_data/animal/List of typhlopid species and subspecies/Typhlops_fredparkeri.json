@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_fredparkeri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. fredparkeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fred Parker's blind snake (Gerrhopilus fredparkeri) is a species of snake in the family Gerrhopilidae.",
+    "Etymology": "The specific name, fredparkeri, is in honor of Australian naturalist Frederick Stanley \"Fred\" Parker (born 1941).",
+    "Geographic range": "It is endemic to Papua New Guinea.",
+    "References": "",
+    "Further reading": "Vidal N, Marin J, Morini M, Donnellan S, Branch WR, Thomas R, Vences M, Wynn A, Cruaud C, Hedges SB (2010). \"Blindsnake evolutionary tree reveals long history on Gondwana\". Biology Letters 6: 558-561. (Gerrhopilus fredparkeri, new combination).\nWallach V (1996). \"Two new blind snakes of the Typhlops ater species group from Papua New Guinea\". Russian Journal of Herpetology 3 (2): 107-118. (Typhlops fredparkeri, new species)."
+  }
+}

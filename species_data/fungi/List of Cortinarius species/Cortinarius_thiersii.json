@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_thiersii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. thiersii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius thiersii is a basidiomycete fungus of the genus Cortinarius native to North America.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius thiersii  in Index Fungorum"
+  }
+}

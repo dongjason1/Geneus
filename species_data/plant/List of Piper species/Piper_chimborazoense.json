@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_chimborazoense",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. chimborazoense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper chimborazoense is a species of plant in the family Piperaceae. It is endemic to the western slopes of the Ecuadorean Andes.",
+    "References": "Santiana, J. & Pitman, N. 2004.  Piper chimborazoense.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

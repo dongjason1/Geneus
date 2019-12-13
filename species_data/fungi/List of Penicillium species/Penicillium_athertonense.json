@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_athertonense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. athertonense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium athertonense is a fungus species of the genus of Penicillium which is named after Atherton Tablelands where this species was found.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

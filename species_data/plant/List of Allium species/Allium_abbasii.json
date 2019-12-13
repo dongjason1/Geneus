@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allium_abbasii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Allioideae"
+    },
+    {
+      "Genus": "Allium"
+    },
+    {
+      "Species": "A. abbasii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allium abbasii is a species of onion native to Iran.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_viciae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Didymellaceae"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. viciae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta viciae is an ascomycete fungus species in the genus Ascochyta.\nAscofuranone is an antibiotic first isolated from a strain of A. viciae in 1972; however, the identification of the strain is later revised as Acremonium sclerotigenum, and A. viciae cannot produce this antibiotic.",
+    "References": "",
+    "See also": "List of Ascochyta species"
+  }
+}

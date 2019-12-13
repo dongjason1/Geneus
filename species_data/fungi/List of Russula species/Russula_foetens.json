@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_foetens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. foetens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula foetens commonly known as the stinking russula is a common Russula mushroom found in deciduous and coniferous forests.",
+    "Description": "The cap is hemispherical and very slimy when young, soon convex, honey yellow to ochre brown and up to 10 cm (4 in) in diameter. The gills and spores are pale cream.\nThe strong stem is white or blotchy yellowish brown. The flesh has a strong acrid smell, when old has a fishy smell and bad taste.",
+    "Edibility": "Stinking russula is widely considered inedible. In countries like Russia it is used for traditional mushroom pickles after being soaked in water for several days to remove the strong taste, as also all other Russula species. Such preservation method allows to use many otherwise inedible russulas and milk-caps for well digestible and savoury pickles, which are considered delicacy in Eastern Europe and Scandinavia.",
+    "See also": "List of Russula species",
+    "References": "E. Garnweidner. Mushrooms and Toadstools of Britain and Europe. Collins. 1994.",
+    "External links": "Russula foetens  in Index Fungorum\nRussula foetens  in MycoBank."
+  }
+}

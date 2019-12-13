@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrochilus_montanus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Pythonidae"
+    },
+    {
+      "Genus": "Bothrochilus"
+    },
+    {
+      "Species": "B. montanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Wau whitelip python (Bothrochilus montanus) is a species of snake of the family Pythonidae.",
+    "Geographic range": "The snake is found in Papua New Guinea.",
+    "References": "\nSpecies Bothrochilus montanus at The Reptile Database"
+  }
+}

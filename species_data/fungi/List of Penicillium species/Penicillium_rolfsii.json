@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_rolfsii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. rolfsii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium rolfsii is a species of fungus in the genus Penicillium which produces patulin.",
+    "Further reading": "Lee, Kok Chang; Arai, Takamitsu; Ibrahim, Darah; Kosugi, Akihiko; Prawitwong, Panida; Lan, Deng; Murata, Yoshinori; Mori, Yutaka (2014). \"Purification and Characterization of a Thermostable Laminarinase from Penicillium rolfsii c3-2(1) IBRL\". BioResources. 9. doi:10.15376/biores.9.1.1072-1084.\nLee, Kok Chang; Arai, Takamitsu; Ibrahim, Darah; Prawitwong, Panida; Deng, Lan; Murata, Yoshinori; Mori, Yutaka; Kosugi, Akihiko (2015). \"Purification and Characterization of a Xylanase from the Newly Isolated Penicillium rolfsii c3-2(1) IBRL\". BioResources. 10. doi:10.15376/biores.10.1.1627-1643.\n\n\n== References =="
+  }
+}

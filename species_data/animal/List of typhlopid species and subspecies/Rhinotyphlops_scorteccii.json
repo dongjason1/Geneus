@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_scorteccii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Rhinotyphlops"
+    },
+    {
+      "Species": "R. scorteccii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinotyphlops scorteccii, commonly known as Scortecci's blind snake, is a species of snake in the Typhlopidae family. It is endemic to Africa.",
+    "Etymology": "The specific name, scorteccii, is in honor of Italian herpetologist Giuseppe Scortecci (1898-1973).",
+    "References": "",
+    "Further reading": "Gans C, Laurent RF, Pandit H (1965). \"Notes on a herpetological collection from the Somali Republic\". Annales du Musée Royal de l'Afrique Centrale, Série in Octavo, Science Zoologique, Tervuren 134: 1-93. (Typhlops scorteccii, new species, p. 56)."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cox's_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. coxi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cox's roundleaf bat (Hipposideros coxi) is a species of bat in the family Hipposideridae. It is endemic to Malaysia.\n\n\n== References =="
+  }
+}

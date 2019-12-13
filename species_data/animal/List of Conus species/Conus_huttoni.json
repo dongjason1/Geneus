@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_huttoni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. huttoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus huttoni is a fossil species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "",
+    "Distribution": "This marine species occurs as a fossil in the Early Miocene off New Zealand, where it occurs in Altonian-aged marine strata, comparable in age to the Aquitanian stage.",
+    "References": "Maxwell, P.A. (2009). Cenozoic Mollusca. pp 232–254 in Gordon, D.P. (ed.) New Zealand inventory of biodiversity. Volume one. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia. Canterbury University Press, Christchurch.",
+    "External links": "To World Register of Marine Species"
+  }
+}

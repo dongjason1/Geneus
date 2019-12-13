@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_avenaceus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. avenaceus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus avenaceus is a species of fungus in the genus Aspergillus. It is from the Flavi section. The species was first described in 1943. A. avenaceus has been isolated in the UK from a Pisum sativum seed, and in the United States. It has been reported to produce avenaciolide and aspirochlorine.",
+    "Growth and morphology": "A. avenaceus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below. \n\n\t\t\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_tasymicris",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Amerotyphlops"
+    },
+    {
+      "Species": "A. tasymicris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Grenada worm snake or Grenada Bank blindsnake (Amerotyphlops tasymicris) is a species of blind snake that is endemic to Grenada, an island in the Caribbean Lesser Antilles.\nIt reaches a total length of 180 mm.  It has light lines on its dorsal surface, and its ventral surface is unpigmented.",
+    "References": "Notes\nSources",
+    "External links": "Typhlops tasymicris at the Encyclopedia of Life\nAmerotyphlops tasymicris at the Reptile Database"
+  }
+}

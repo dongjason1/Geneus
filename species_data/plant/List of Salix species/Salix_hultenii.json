@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_hultenii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. hultenii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix hultenii is a species of willow native to Hokkaidō (Japan), (South Korea), Kuriles, Sakhalin and Kamchatka (Russia). It is a deciduous small tree or large shrub, reaching a height of 15 m."
+  }
+}

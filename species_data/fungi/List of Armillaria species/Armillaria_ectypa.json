@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_ectypa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. ectypa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria ectypa is a species of mushroom in the family Physalacriaceae. Commonly known as the marsh honey fungus, it prefers growing in sphagnum bogs with mosses. It is classified as endangered in Great Britain, and is protected under the Wildlife and Countryside Act of 1981; it is also on the provisional European red data list.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

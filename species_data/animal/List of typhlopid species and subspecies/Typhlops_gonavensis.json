@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_gonavensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Typhlops"
+    },
+    {
+      "Species": "T. gonavensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Gonâve Island worm snake (Typhlops gonavensis) is a species of snake in the Typhlopidae family.",
+    "References": "",
+    "Further reading": "Richmond ND. 1964. The Blind Snakes (Typhlops) of Haiti with Descriptions of Three New Species. Breviora (202): 1-12. (\"Typhlops gonavensis sp. nov.\", pp. 3–4, Figure 2).\nSchwartz A, Thomas R. 1975. A Check-list of West Indian Amphibians and Reptiles. Special Publication No. 1. Pittsburgh, Pennsylvania: Carnegie Museum of Natural History. 216 pp. (\"Typhlops capitulata gonavensis \", p. 197)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Protea_laurifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Protea"
+    },
+    {
+      "Species": "P. laurifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Protea laurifolia is similar to Protea neriifolia but has a more westerly distribution. The leaves are grey to bluish green and short stalked with horny margins. It is native to the Cape Provinces of South Africa.",
+    "References": "\nvan Wyk, B. and van Wyk, P. 1997. Field Guide to trees of South Africa. Struik, Cape Town"
+  }
+}

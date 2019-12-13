@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_taichungensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. taichungensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus taichungensis is a species of fungus in the genus Aspergillus. The species was first described in 1995. It is from the Candidi section. The fungi in the Candidi section are known for their white spores. It has been isolated from soil in Taiwan. A. taichungensis has been shown to produce candidusin C, terphenyllin, and 3-hydroxyterphenyllin.The genome of A. taichungensis was sequenced as a part of the Aspergillus whole-genome sequencing project - a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 27.12 Mbp.",
+    "Growth and morphology": "Aspergillus taichungensis has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

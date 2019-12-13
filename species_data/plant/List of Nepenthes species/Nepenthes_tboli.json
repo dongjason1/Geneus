@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_tboli",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. tboli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes tboli is a tropical pitcher plant native to the Philippines. The type specimen was collected in 1993 around Lake Parker, T'Boli, South Cotabato, Mindanao, at 1463 m above sea level.",
+    "References": "\nCheek, M. & M. Jebb 2013. Recircumscription of the Nepenthes alata group (Caryophyllales: Nepenthaceae), in the Philippines, with four new species. European Journal of Taxonomy 69: 1–23. doi:10.5852/ejt.2013.69"
+  }
+}

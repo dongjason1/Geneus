@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bronze_tube-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Murina"
+    },
+    {
+      "Species": "M. aenea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The bronze tube-nosed bat (Murina aenea) is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Malaysia.\n\n\n== Sources =="
+  }
+}

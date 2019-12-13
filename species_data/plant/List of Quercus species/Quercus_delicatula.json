@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_delicatula",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Cyclobalanopsis"
+    },
+    {
+      "Species": "Q. delicatula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus delicatula is an Asian species of trees in the beech family. It has been found only in southern China, in the Provinces of Guangdong, Guangxi, and Hunan.Quercus delicatula is a tree up to 20 meters tall with reddish-brown hairs covering the twigs and the undersides of the leaves, the leaves as much as 12 cm long.",
+    "References": "",
+    "External links": "line drawing, Flora of China Illustrations vol. 4, figure 377, drawings 1 + 2 at lower left"
+  }
+}

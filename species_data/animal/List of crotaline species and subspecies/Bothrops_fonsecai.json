@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_fonsecai",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. fonsecai"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops fonsecai, or Fonseca's lancehead, is a species of venomous snake in the  family Viperidae. The species is endemic to Brazil.",
+    "Etymology": "The specific name, fonsecai, is in honor of Dr. Flavio da Fonseca, who was head of the laboratory of parasitology at the Instituto Butantan in São Paulo, Brazil.",
+    "Geographic range": "B. fonsecai is found in Brazil in the states of Minas Gerais, Rio de Janeiro, and São Paulo.",
+    "References": "",
+    "Further reading": "Hoge RA, Belluomini HE (1959). \"Uma nova espécie de Bothrops do Brasil (Serpentes) \". Memórias do Instituto Butantan 28: 195-206. (Bothrops fonsecai, new species). (in Portuguese)."
+  }
+}

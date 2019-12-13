@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_scalpturatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. scalpturatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma scalpturatum is a species of agaric fungus in the family Tricholomataceae. Found in Europe, it grows in a mycorrhizal association with deciduous trees including Quercus, Fagus, Tilia, and Populus, and occasionally with Pinus.",
+    "See also": "List of Tricholoma species",
+    "References": "",
+    "External links": "Tricholoma scalpturatum  in Index Fungorum"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_bressoni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Rena"
+    },
+    {
+      "Species": "R. bressoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Michoacán slender blind snake (Rena bressoni ) is a species of snake in the family Leptotyphlopidae. The species is endemic to Michoacán, Mexico.",
+    "Etymology": "The specific name, bressoni, is in honor of Julio Raymond Bresson, who collected the type specimen.",
+    "Reproduction": "R. bressoni is oviparous.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Rena bressoni, new combination).\nHeimes, Peter (2016). Snakes of Mexico: Herpetofauna Mexicana Vol. 1. Frankfurt, Germany: Chimaira. 572 pp. ISBN 978-3899731002.\nTaylor EH (1939). \"On North American Snakes of the Genus Leptotyphlops \". Copeia 1939 (1): 1-7. (Leptotyphlops bressoni, new species)."
+  }
+}

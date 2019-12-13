@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Coastal_sheath-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Taphozous"
+    },
+    {
+      "Species": "T. australis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The coastal sheath-tailed bat or coastal tomb bat (Taphozous australis) is a species of sheath-tailed bat in the family Emballonuridae. It is found in Australia and Papua New Guinea.\n\n\n== References =="
+  }
+}

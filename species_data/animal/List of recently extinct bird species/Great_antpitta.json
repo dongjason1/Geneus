@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Great_antpitta",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Grallariidae"
+    },
+    {
+      "Genus": "Grallaria"
+    },
+    {
+      "Species": "G. excelsa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The great antpitta (Grallaria excelsa) is a species of bird in the Grallariidae family.\nIt is endemic to Venezuela.\nIts natural habitat is subtropical or tropical moist montane forests.\nIt is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet.\nStamps (for Venezuela) with RangeMap"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pholiota_variicystis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Pholiota"
+    },
+    {
+      "Species": "P. variicystis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pholiota variicystis is a species of fungus in the family Strophariaceae. It is a plant pathogen that infects apricots.",
+    "See also": "List of Pholiota species\n\n\n== References =="
+  }
+}

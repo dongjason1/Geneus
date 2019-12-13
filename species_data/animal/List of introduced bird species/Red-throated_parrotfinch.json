@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Red-throated_parrotfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Erythrura"
+    },
+    {
+      "Species": "E. psittacea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The red-throated parrotfinch (Erythrura psittacea) is a species of estrildid finch found in New Caledonia. It has an estimated global extent of occurrence of 20,000 to 50,000 km².\nIt is found in both subtropical or tropical moist lowland forest and shrubland habitats. The IUCN has classified the species as being of least concern.",
+    "References": "\nSpecies factsheet - BirdLife International\nSpecies profile - Finch Information Center"
+  }
+}

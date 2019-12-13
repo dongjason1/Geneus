@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_pinodella",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Didymellaceae"
+    },
+    {
+      "Genus": "Didymella"
+    },
+    {
+      "Species": "D. pinodella"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Didymella pinodella (syn. Phoma pinodella) is a fungal plant pathogen infecting pea and red clover.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

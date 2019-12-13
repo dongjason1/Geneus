@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sphagnum_robustum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Division": "Bryophyta"
+    },
+    {
+      "Class": "Sphagnopsida"
+    },
+    {
+      "Order": "Sphagnales"
+    },
+    {
+      "Family": "Sphagnaceae"
+    },
+    {
+      "Genus": "Sphagnum"
+    },
+    {
+      "Species": "S. russowii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sphagnum russowii, Russow's sphagnum or Russow's bogmoss, is a species of peat moss with a Holarctic distribution.",
+    "References": "",
+    "External links": "Sphagnum russowii @ Moss Flora of China"
+  }
+}

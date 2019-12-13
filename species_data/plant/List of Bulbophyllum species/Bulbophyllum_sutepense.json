@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_sutepense",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. sutepense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum sutepense is a species of orchid in the genus Bulbophyllum from China and Southeast Asia. The small round pseudobulbs are closely spaced and each carries a single leaf.",
+    "References": "The Bulbophyllum-Checklist\nThe Internet Orchid Species Photo Encyclopedia"
+  }
+}

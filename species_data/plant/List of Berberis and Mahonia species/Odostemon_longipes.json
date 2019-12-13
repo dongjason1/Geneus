@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostemon_longipes",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Ranunculales"
+    },
+    {
+      "Family": "Berberidaceae"
+    },
+    {
+      "Genus": "Berberis"
+    },
+    {
+      "Species": "B. longipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Berberis longipes is a shrub in the family Berberidaceae, first described in 1918. It is native to the States of Durango, Sinaloa, Sonora, and Chihuahua in Mexico.",
+    "References": "",
+    "External links": "photo of herbarium specimen at Missouri Botanical Garden, isotype of Odostemon longipes"
+  }
+}

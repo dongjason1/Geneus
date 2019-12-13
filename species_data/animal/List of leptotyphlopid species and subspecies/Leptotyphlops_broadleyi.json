@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_broadleyi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Tricheilostoma"
+    },
+    {
+      "Species": "T. broadleyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricheilostoma broadleyi is a species of snake in the family Leptotyphlopidae. The species is endemic to Ivory Coast.",
+    "Etymology": "The specific name, broadleyi, is in honor of herpetologist Donald G. Broadley.",
+    "Geographic range": "T. broadleyi is found in south-central Ivory Coast at altitudes of 300–500 m (980–1,640 ft).",
+    "Habitat": "The preferred habitats of T. broadleyi are forest and savanna.",
+    "Description": "T. broadleyi is a small species. Maximum total length (including tail) is 11.5 cm (4.5 in).",
+    "Reproduction": "T. broadleyi is oviparous.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the Family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Guinea broadleyi, new combination).\nHedges SB (2011). \"The type species of the threadsnake genus Tricheilostoma Jan revisited (Squamata, Leptotyphlopidae)\". Zootaxa 3027: 63-64. (Tricheilostoma broadleyi, new combination).\nWallach V, Hahn DE (1997). \"Leptotyphlops broadleyi, a new species of worm snake from Côte d'Ivoire (Serpentes: Leptotyphlopidae)\". African Journal of Herpetology 46 (2): 103-109."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guzmania_teuscheri",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Guzmania"
+    },
+    {
+      "Species": "G. teuscheri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Guzmania teuscheri is a species of plant in the family Bromeliaceae. It is endemic to Ecuador.  Its natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montane forests. It is threatened by habitat loss.",
+    "References": "",
+    "Sources": "Smith, Lyman B. & Downs, Robert J. 1977. Tillandsioideae (Bromeliaceae). Fl. Neotrop. Monogr. 14 (2): 663—1492."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Temminck's_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. temminckii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Temminck's flying fox (Pteropus temminckii) is a species of flying fox in the family Pteropodidae. It is found in Indonesia. The species was classified as \"Vulnerable\" in 2008 by the IUCN due to threats from habitat destruction and hunting.\n\n\n== References =="
+  }
+}

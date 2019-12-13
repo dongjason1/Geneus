@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_batatas",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. oxysporum"
+    },
+    {
+      "Subspecies": "F. o. f.sp. batatas"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium oxysporum f.sp. batatas is a fungal plant pathogen infecting sweet potatoes.",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lachesis_muta_rhombeata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Lachesis"
+    },
+    {
+      "Species": "L. muta"
+    },
+    {
+      "Subspecies": "L. m. rhombeata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Common names: Atlantic Forest bushmaster.Lachesis muta rhombeata is a venomous pit viper subspecies endemic to the Atlantic Forest of Brazil.\n\n\n== References =="
+  }
+}

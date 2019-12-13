@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_bolleana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. arachidis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella bolleana is a fungal plant pathogen.",
+    "See also": "List of Mycosphaerella species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\nNew Zealand Fungi: Mycosphaerella bolleana\n\n\n== References =="
+  }
+}

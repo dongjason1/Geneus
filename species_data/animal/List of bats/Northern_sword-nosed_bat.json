@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Northern_sword-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lonchorhina"
+    },
+    {
+      "Species": "L. inusitata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The northern sword-nosed bat (Lonchorhina inusitata) is a bat species from South America. It is found in Brazil, French Guiana, Suriname and Venezuela.\n\n\n== References =="
+  }
+}

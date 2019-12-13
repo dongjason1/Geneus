@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Long-winged_tomb_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Taphozous"
+    },
+    {
+      "Species": "T. longimanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The long-winged tomb bat (Taphozous longimanus) is a species of sac-winged bat in the family Emballonuridae.\nIt is found in Bangladesh, Cambodia, India, Indonesia, Malaysia, Myanmar, Singapore, Sri Lanka, and Thailand.\n\n\n== References =="
+  }
+}

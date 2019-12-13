@@ -1,0 +1,28 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_campanulae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. campanulae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia campanulae is a plant pathogen that causes rust on bellflower (Campanula).",
+    "See also": "List of Puccinia species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

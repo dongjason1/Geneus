@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malagasy_serotine",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Neoromicia"
+    },
+    {
+      "Species": "N. matroka"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malagasy serotine (Neoromicia matroka),  is a species of vesper bat.\nIt is found only in Madagascar.\n\n\n== References =="
+  }
+}

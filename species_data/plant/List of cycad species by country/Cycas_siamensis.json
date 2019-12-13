@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_siamensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. siamensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas siamensis is a species of Cycad endemic to Myanmar, Thailand, and Vietnam.",
+    "Synonyms": "Cycas baguanheensis L.K.Fu & S.Z.Cheng\nCycas immersa Craib\nCycas intermedia B.S.Williams\nCycas panzhihuaensis L.Zhou & S.Y.Yang\nCycas siamensis subsp. siamensis\nEpicycas siamensis (Miq.) de Laub.",
+    "References": "Bot. Zeitung (Berlin) 21: 334 1863.\nThe Plant List\nIUCN Red List\nThe Cycad Pages"
+  }
+}

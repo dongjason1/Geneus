@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Micrelaps_bicoloratus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Micrelaps"
+    },
+    {
+      "Species": "M. bicoloratus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Micrelaps bicoloratus, or the Kenya two-headed snake, is a species of venomous opisthoglyphous (rear-fanged) snake in the family Atractaspididae. It is endemic to Kenya.",
+    "References": "\nSternfeld, R. 1908. Neue und ungenügend bekannte afrikanische Schlangen. Sitzber. Ber. Ges. naturf. Freunde Berlin 4:92-95."
+  }
+}

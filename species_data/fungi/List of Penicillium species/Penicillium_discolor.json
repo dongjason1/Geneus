@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_discolor",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. discolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium discolor is a species of the genus of Penicillium which occurs in nuts, vegetables and cheese and produces chaetoglobosins (chaetoglobosin A - J), palitantin, cyclopenin, cyclopenol, cyclopeptin, dehydrocyclopeptin, viridicatin and viridicatol.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Necklace_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Arielulus"
+    },
+    {
+      "Species": "A. torquatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The necklace pipistrelle (Arielulus torquatus) is a species of vesper bat found only in Taiwan.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_naked-backed_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Dobsonia"
+    },
+    {
+      "Species": "D. minor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser naked-backed fruit bat (Dobsonia minor) is a species of megabat in the family Pteropodidae. It is found in Indonesia and Papua New Guinea.\n\n\n== References =="
+  }
+}

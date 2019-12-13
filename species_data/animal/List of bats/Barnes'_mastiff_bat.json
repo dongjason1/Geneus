@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Barnes'_mastiff_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Molossus"
+    },
+    {
+      "Species": "M. coibensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Coiban mastiff bat (Molossus coibensis) is a species of bat in the family Molossidae. Its range extends from Chiapas in southern Mexico to Mato Grosso in Brazil, including Peru, Ecuador, Venezuela, Panama, Costa Rica and  El Salvador. The taxonomic status of the populations in Central America is uncertain. \nThe species is insectivorous and is known from a variety of forest habitats at elevations from near sea level to 1300 m.\n\n\n== References =="
+  }
+}

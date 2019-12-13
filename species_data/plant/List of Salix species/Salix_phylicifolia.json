@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_phylicifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. phylicifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix phylicifolia, the tea-leaved willow, is a species of willow native to Northern Europe including Iceland, the Faroe Islands, Scandinavia, Finland, Russia, and Western Siberia. It was the first bush found on the new volcanic island of Surtsey near Iceland.",
+    "Description": "Salix phylicifolia forms a shrub to 5 m (16 ft) tall.\n\n\n== External links =="
+  }
+}

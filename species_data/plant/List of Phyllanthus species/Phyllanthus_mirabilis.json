@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phyllanthus_mirabilis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Phyllanthaceae"
+    },
+    {
+      "Genus": "Phyllanthus"
+    },
+    {
+      "Species": "P. mirabilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phyllanthus mirabilis is a plant species of family Phyllanthaceae endemic to Thailand. It is the only Phyllanthus to be caudiciform. The leaves fold together at night."
+  }
+}

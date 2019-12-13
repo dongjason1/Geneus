@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Highland_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. ludovici"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The highland yellow-shouldered bat (Sturnira ludovici)  is a species of bat in the family Phyllostomidae. It is found in Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Panama, and Venezuela.\n\n\n== References =="
+  }
+}

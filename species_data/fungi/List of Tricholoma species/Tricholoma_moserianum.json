@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_moserianum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. moserianum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma moserianum is a European mushroom of the agaric genus Tricholoma. It was formally described in 1989 by Marcel Bon. The specific epithet honours Austrian mycologist Meinhard Moser.",
+    "See also": "List of Tricholoma species",
+    "References": "",
+    "External links": "Tricholoma moserianum  in Index Fungorum"
+  }
+}

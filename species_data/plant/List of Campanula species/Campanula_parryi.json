@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Campanula_parryi",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Campanulaceae"
+    },
+    {
+      "Genus": "Campanula"
+    },
+    {
+      "Species": "C. parryi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Campanula parryi, or Parry's bellflower, is a plant.",
+    "Uses": "It is used medicinally by the Zuni people. The blossoms are chewed, and the saliva is applied to the skin as a depilatory. A poultice of chewed root is also applied to bruises.\n\n\n== References =="
+  }
+}

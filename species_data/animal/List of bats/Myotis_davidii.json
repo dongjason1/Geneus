@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Myotis_davidii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. davidii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "David's myotis (Myotis davidii) is a species of vesper bat. It is endemic to China where it is found in the provinces of Hebei, Hubei, Inner Mongolia, Shaanxi, Shanxi and Hong Kong. It was previously considered to be a subspecies of the whiskered bat (Myotis mystacinus).\n\n\n== References =="
+  }
+}

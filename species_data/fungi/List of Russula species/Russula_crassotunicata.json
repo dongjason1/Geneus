@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_crassotunicata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. crassotunicata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula crassotunicata is a North American fungus in the mushroom genus Russula, described by Rolf Singer in 1938 from a collection made in Washington state, USA.It has been confirmed as a host of the parasitic fungus Dendrocollybia racemosa.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula crassotunicata  in Index Fungorum\nRussula crassotunicata  in MycoBank.\nDescription at Roger's Mushrooms\nTrial field key to the species of Russula in the Pacific Northwest"
+  }
+}

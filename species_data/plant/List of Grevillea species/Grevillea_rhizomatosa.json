@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_rhizomatosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. rhizomatosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea rhizomatosa is a shrub of the family Proteaceae native to northern New South Wales.\n\n\n== References =="
+  }
+}

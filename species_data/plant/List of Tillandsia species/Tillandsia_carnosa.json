@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_carnosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Species": "T. carnosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia carnosa is a species in the genus Tillandsia. This species is native to Bolivia.",
+    "References": "Checklist of Bolivian Bromeliaceae Retrieved 21 October 2009"
+  }
+}

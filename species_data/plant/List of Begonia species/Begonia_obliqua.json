@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_obliqua",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. obliqua"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia obliqua is the type species of the genus Begonia and the species to which Plumier first gave the name Begonia. It is native to Martinique, Dominica, and Guadeloupe.\nThe name has been misapplied to Begonia grandis by Thunberg, to Begonia minor by L'Héritier, and to Begonia fischeri by Vellozo.",
+    "References": "",
+    "External links": "World Checklist"
+  }
+}

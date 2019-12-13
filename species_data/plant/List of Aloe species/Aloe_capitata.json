@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_capitata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. capitata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe capitata is a species of flowering plant in the genus Aloe. It is native to Madagascar.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_nasalis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. ater"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Epictia ater, or black blind snake, is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

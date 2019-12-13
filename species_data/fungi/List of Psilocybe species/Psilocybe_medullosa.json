@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_medullosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. medullosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe medullosa is a species of psychoactive mushroom. It was originally described in 1898 as Naucoria medullosa by Italian mycologist Giacomo Bresadola. Czech mycologist Jan Borovička transferred it to Psilocybe in 2007. A widespread but rather rare species, it is found in Europe, where it grows as a saprobe on woody debris and detritus. Chemical analysis has been used to confirm the presence of the psychedelic compounds psilocin and psilocybin in the fruit bodies but probably at low levels. Psilocybe silvatica is its American sister species; it differs by subtle changes in molecular markers (LSU, ITS rDNA, and others).",
+    "See also": "List of Psilocybe species\nList of psilocybin mushrooms",
+    "References": "",
+    "External links": "Psilocybe medullosa  in Index Fungorum"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Verticillium_dahliae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Verticillium"
+    },
+    {
+      "Species": "V. dahliae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Verticillium dahliae is a fungal plant pathogen. It causes verticillium wilt in many plant species, causing leaves to curl and discolor.  It may cause death in some plants. Over 400 plant species are affected by Verticillium complex.",
+    "Management": "Verticillium dahliae has a wide host range and can persist as microsclerotia in the soil for years, so management via fallowing or crop rotation generally has little success. The exception to this is rotation using broccoli, which has been shown to decrease Verticillium severity and incidence in cauliflower fields. This is likely due to the production of allyl isothiocyanate in broccoli, which can suppress the growth of plant pathogenic fungi.Seed choice may reduce disease presence. Purchasing seed stock from certified Verticillium-free growers and utilizing resistant or partially resistant cultivars can decrease disease incidence. Even resistant cultivars may show symptoms if the field has a high concentration of Verticillium, so site selection is still essential to minimizing disease incidence.Using fertilizers high in nitrogen and overwatering crops, especially early in the season, may increase disease incidence, so proper fertilizer ratios and drip irrigation are recommended. Following harvest, burning crop residues will limit the amount of Verticillium that can enter the soil and overwinter.",
+    "Hosts and symptoms": "There are many strains of Verticillium dahliae which are categorized into vegetative compatibility groups (VCG). These groups comprise strains that are able to exchange genetic material via anastomosis. Each VCG affects a few or only one host and the virulence of the pathogen varies by host. While individual V. dahliae strains are relatively host specific, as a species it has a wide range.\nVerticillium Dahliae has a very wide host range, affecting over 300 plant species. Some susceptible crops include  brussel sprouts, cabbage, eggplant, cucumbers, mint, pepper, potatoes, pumpkin, spinach, tomato, watermelon, honeydew, and cantaloupe. Of these, tomato, potato, and eggplant have resistant or tolerant varieties.Symptoms of this disease are seen throughout the plant. Leaves may have abnormal coloration, necrotic areas, wilt,  and/or fall off the plant. The stem may have discolored vascular tissue, exhibit rosetting, and/or be stunted. Early senescence and dieback may also occur.Microsclerotia can be seen under a lens as small black structures in the vasculature of living and dead plants. This feature can be used to distinguish V. dahliae from V. albo-atrum, the other verticillium wilt pathogen.",
+    "Disease cycle": "Verticillium dahliae invades the host plant via natural wounds or by penetrating the root tissue. Following entry, the pathogen enters the xylem where conidia are spread throughout the host. The plant responds to the pathogen by producing tyloses which block the xylem, resulting in decreased water flow and wilting. When the plant dies, Verticillium survives as mycelia in dead tissue, as long-term resting spores in the form of microsclerotia, or saprophytically in the soil. Microsclerotia can be spread via wind and rain, resulting in infection of previously pathogen-free fields. Additionally, the disease can spread locally from the roots of affected plants to healthy plants, live in the vascular tissue of some resistant species, and spread via wind from host leaf tissue.With this pathogen’s ability to survive saprophytically or form resting spores that can survive for over a decade, once a site is infected, it will most likely never be Verticillium-free again.",
+    "Recombination": "V. dahliae, a fungus in the division Ascomycota, has a strongly clonal population structure.  Recombination events have occurred between different clonal lineages, and less frequently within lineages.  Two mating types have been identified. Homologs of eight meiosis specific genes are present in the V. dahliae genome.  These findings suggest that the capability for meiotic sexual reproduction has been adaptively maintained in the clonal lineages of V. dahliae, and can occasionally be expressed as recombination between genetic markers.  Perhaps, as suggested by Wallen and Perlin for Ascomycota fungi generally, in V. dahliae homologous recombination during sexual reproduction functions to repair DNA damage, especially under stressful conditions.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

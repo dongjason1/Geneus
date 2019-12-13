@@ -1,0 +1,44 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_coccolobifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. coccolobifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus coccolobifolia is a Mexican species of oak in the beech family. It is native to northern Mexico, from Sonora south to Jalisco and east as far as San Luis Potosí.",
+    "Description": "Quercus coccolobifolia is a short evergreen tree up to 15 meters tall with a trunk as much as 70 cm in diameter. Leaves are thick and rigid, up to 19 cm long, with wavy edges but no teeth or lobes.",
+    "References": "",
+    "External links": "photo of herbarium specimen collected in Nuevo León in 1993"
+  }
+}

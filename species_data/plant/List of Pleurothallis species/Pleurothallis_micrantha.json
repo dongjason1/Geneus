@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_micrantha",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. micrantha"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera micrantha is a species of orchid."
+  }
+}

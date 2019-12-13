@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Botswanan_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Laephotis"
+    },
+    {
+      "Species": "L. botswanae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Botswanan long-eared bat (Laephotis botswanae) is a species of vesper bat in the family Vespertilionidae.\nIt can be found in the following countries: Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia, and Zimbabwe.\nIt is found in these habitats: dry savanna, moist savanna, and swamps.\n\n\n== References =="
+  }
+}

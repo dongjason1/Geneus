@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_tricolor",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. tricolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The three-colored blind snake ( Epictia tricolor) is a species of snakes in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

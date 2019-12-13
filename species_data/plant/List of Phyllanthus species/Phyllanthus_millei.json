@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phyllanthus_millei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Phyllanthaceae"
+    },
+    {
+      "Genus": "Phyllanthus"
+    },
+    {
+      "Species": "P. millei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phyllanthus millei is a species of plant in the family Phyllanthaceae. It is endemic to Ecuador.  Its natural habitat is subtropical or tropical dry forests.\n\n\n== References =="
+  }
+}

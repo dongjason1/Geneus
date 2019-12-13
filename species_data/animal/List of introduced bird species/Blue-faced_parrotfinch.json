@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Blue-faced_parrotfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Erythrura"
+    },
+    {
+      "Species": "E. trichroa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The blue-faced parrotfinch (Erythrura trichroa) is a locally common species of estrildid finch found in north-eastern Australia, Japan, Indonesia, Federated States of Micronesia, France (introduced), New Caledonia, Palau, Papua New Guinea, the Solomon Islands and Vanuatu. It has an estimated global extent of occurrence of 10,000,000 km2.\nIt is found in subtropical and tropical zones in both montane and lowland moist forest areas, where it is most often associated with forest edges and disturbed habitat. It feeds largely on seeds of grasses, including in Australia several exotic genera especially Brachiaria. The IUCN has classified the species as being of least concern.",
+    "Origin": "Origin and phylogeny has been obtained by Antonio Arnaiz-Villena et al. Estrildinae may have originated in India and dispersed thereafter (towards Africa and Pacific Ocean habitats).",
+    "References": "",
+    "External links": "Species factsheet - BirdLife International"
+  }
+}

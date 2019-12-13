@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guzmania_regalis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Guzmania"
+    },
+    {
+      "Species": "G. regalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Guzmania regalis is a plant species in the genus Guzmania. This species is endemic to Ecuador.",
+    "References": "Catalogue of Vascular Plants of Ecuador Retrieved 12 October 2009"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_cacao",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. cacao"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus cacao is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of an adult shell varies between 22 mm and 55 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean off Senegal, and in the Mediterranean Sea.",
+    "References": "Ferrario, 1983 Più grande l'Enciclopedia delle Conchiglie di tutto il mondo, vol. 2\nFilmer R.M. (2001). A Catalogue of Nomenclature and Taxonomy in the Living Conidae 1758 - 1998. Backhuys Publishers, Leiden. 388pp.\nTucker J.K. (2009). Recent cone species database. September 4, 2009 Edition\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\n\"Lautoconus mercator mercator cacao\". Gastropods.com. Retrieved 17 January 2019.\nCone Shells - Knights of the Sea\nLectotype in MNHN, Paris"
+  }
+}

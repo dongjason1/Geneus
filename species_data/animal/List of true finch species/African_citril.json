@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/African_citril",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. citrinelloides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The African citril (Crithagra citrinelloides), also known as the Abyssinian citril, is a species of finch.  It is found from Ethiopia, Eritrea to western Kenya. It is closely related to the western and southern citril, to which it was formerly considered conspecific.",
+    "Phylogeny": "The African citril was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the African citril were moved to the resurrected genus Crithagra.",
+    "Habitat": "This bird was studied in the Degua Tembien massif, and observed to be a breeding resident of woodland edges, scrubland and forest edges.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_troglodytes",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Anilios"
+    },
+    {
+      "Species": "A. troglodytes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sandamara blind snake (Anilios troglodytes) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

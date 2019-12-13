@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_huronense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. huronense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma huronense is a mushroom of the agaric genus Tricholoma. It was first described in 1942 by American mycologist Alexander H. Smith based on collections made in Michigan.",
+    "References": "",
+    "External links": "Tricholoma huronense  in Index Fungorum"
+  }
+}

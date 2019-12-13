@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_brasiliensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hymenogastraceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. brasiliensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe brasiliensis is a species of psilocybin mushroom in the family Hymenogastraceae. Found in Brazil, it was described as new to science in 1978 by Mexican mycologist Gastón Guzmán.",
+    "See also": "List of Psilocybe species\nList of psilocybin mushrooms",
+    "References": "",
+    "External links": "Psilocybe brasiliensis  in Index Fungorum"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_lehneri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Amerotyphlops"
+    },
+    {
+      "Species": "A. lehneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Estado Falcón worm snake (Amerotyphlops lehneri ) is a species of snake in the family Typhlopidae. The species is endemic to Venezuela.",
+    "Etymology": "The specific name, lehneri, is in honor of geologist Ernst Lehner.",
+    "Geographic range": "A. lehneri is found in the Venezuelan state of Falcón.",
+    "Reproduction": "A. lehneri is oviparous.",
+    "References": "",
+    "Further reading": "Hedges, Stephen B., Angela B. Marion, Kelly M. Lipp, Julie Marin, and Nicolas Vidal (2014). \"A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61. (Amerotyphlops lehneri, new combination).\nRoux, Jean (1926). \"Notes d'erpétologie sud-américaine \". Revue Suisse de Zoologie 33 (4): 291-299. (Typhlops lehneri, new species, pp. 298–299). (in French)."
+  }
+}

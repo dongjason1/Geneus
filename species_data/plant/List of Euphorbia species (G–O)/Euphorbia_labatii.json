@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Euphorbia_labatii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Euphorbiaceae"
+    },
+    {
+      "Genus": "Euphorbia"
+    },
+    {
+      "Species": "E. labatii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Euphorbia labatii is a rare endemic known only from a single locality in Antsiranana Province, Madagascar.\n\n\n== References =="
+  }
+}

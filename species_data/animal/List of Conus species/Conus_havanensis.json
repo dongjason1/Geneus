@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_havanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. havanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus havanensis is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Distribution": "This marine species occurs off Cuba and Jamaica.",
+    "Description": "The maximum recorded shell length is 34 mm.",
+    "Habitat": "Minimum recorded depth is 10 m. Maximum recorded depth is 30 m.",
+    "References": "Bacallado J.J., Espinosa J. & Ortea J. (2007). Nueva especie del género Conus Linné, 1758 (Mollusca: Neogastropoda) de la costa norte occidental de Cuba. Revista de la Academia Canaria de Ciencias, 18(3-4): 117-123\n* Puillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Purpuriconus havanensis\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

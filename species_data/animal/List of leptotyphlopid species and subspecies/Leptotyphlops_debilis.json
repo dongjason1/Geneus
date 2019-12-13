@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_debilis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Myriopholis"
+    },
+    {
+      "Species": "M. boueti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bouet’s worm snake (Myriopholis boueti ) is a species of snake in the family Leptotyphlopidae. The species is endemic to Africa.",
+    "Etymology": "The specific name, boueti, is in honor of Georges Bouet (1869–1957), who was a French ornithologist and physician.",
+    "Geographic range": "M. boueti is found in Burkina Faso, Chad, The Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo, and Western Sahara.",
+    "Reproduction": "M. boueti is oviparous.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Myriopholis boueti, new combination).\nChabanaud P (1917). \"Note complémentaire sur les Ophidiens de l'Afrique occidentale, avec la description d'une espèce nouvelle \". Bulletin du Muséum National d'Histoire Naturelle 23: 7-14. (Glauconia boueti, new species, pp. 9–10, Figures 1-3). (in French)."
+  }
+}

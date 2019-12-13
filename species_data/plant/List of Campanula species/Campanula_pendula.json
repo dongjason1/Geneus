@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Campanula_pendula",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Campanulaceae"
+    },
+    {
+      "Genus": "Campanula"
+    },
+    {
+      "Species": "C. pendula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Campanula pendula is a species of flowering plant in the family Campanulaceae. It is native to the North Caucasus of Russia. It is a herbaceous perennial plant growing to 30–60 cm tall. The leaves are cordate to lanceolate in shape with biserrated edges. The flowers are nodding, bell-shaped, 3–5 cm long, creamy white, produced in arching panicles from early summer to early autumn.\n\n\n== References =="
+  }
+}

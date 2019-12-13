@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_asperellum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. asperellum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma asperellum is a species of fungus in the family Hypocreaceae.",
+    "Important Isolates": "This species has been used commercially and experimentally as a biopesticide for plant disease control: some commercial isolates were previously placed in T. harzianum.",
+    "References": "",
+    "External links": " Media related to Trichoderma at Wikimedia Commons\n Data related to Trichoderma at Wikispecies"
+  }
+}

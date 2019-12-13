@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_smithii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. smithii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius smithii is an agaric fungus of the genus Cortinarius. Originally named Cortinarius phoeniceus var. occidentalis by American mycologist Alexander H. Smith in 1939, it was renamed to honor Smith in 2012, after molecular analysis revealed that it was genetically different from Cortinarius phoeniceus. It is found in North America.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius smithii  in MycoBank."
+  }
+}

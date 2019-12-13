@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_aureocephalum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. aureocephalum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium aureocephalum is a fungus species of the genus of Penicillium which was isolated in Catalonia in Spain on leaves from Quercus suber and Cistus salviifolius.",
+    "Further reading": "Penicillium aureocephalum anam. sp. nov.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

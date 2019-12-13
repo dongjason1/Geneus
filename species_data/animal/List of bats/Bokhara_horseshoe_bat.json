@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bokhara_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. bocharicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bokhara horseshoe bat (Rhinolophus bocharicus) is a species of bat in the family Rhinolophidae. It is found in Afghanistan, Turkmenistan, Uzbekistan, and possibly in Iran and Pakistan.\n\n\n== References =="
+  }
+}

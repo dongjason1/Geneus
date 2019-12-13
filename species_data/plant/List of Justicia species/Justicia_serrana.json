@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Justicia_serrana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Acanthaceae"
+    },
+    {
+      "Genus": "Justicia"
+    },
+    {
+      "Species": "J. serrana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Justicia serrana is a plant native to the Cerrado vegetation of Brazil.",
+    "See also": "List of plants of Cerrado vegetation of Brazil\n\n\n== References =="
+  }
+}

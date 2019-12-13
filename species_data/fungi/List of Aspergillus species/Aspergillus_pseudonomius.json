@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_pseudonomius",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. pseudonomius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus pseudonomius is a species of fungus in the genus Aspergillus. It was first isolated from insects and soil in the United States. It is most related to Aspergillus nomius, producing aflatoxin B1, chrysogine, and kojic acid.",
+    "Growth and morphology": "A. pseudonomius has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "\n\n== Further reading =="
+  }
+}

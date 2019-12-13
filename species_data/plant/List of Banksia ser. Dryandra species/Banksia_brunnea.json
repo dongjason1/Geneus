@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_brunnea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. brunnea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia brunnea is a shrub endemic to Western Australia.\nIt was known as Dryandra brownii until 2007, when all Dryandra species were transferred to Banksia by Austin Mast and Kevin Thiele. As there was already a plant named Banksia brownii (feather-leaved banksia), Mast and Thiele were forced to choose a new specific epithet; their choice, \"brunnea\", is from the Latin brunneus (\"brown\"). Thus the new name maintains the original name's reference to Robert Brown.\nAn assessment of the potential impact of climate change on this species found that its range is likely to contract by between 30% and 80% by 2080, depending on the severity of the change.",
+    "References": "\nCavanagh, Tony; Pieroni, Margaret (2006). The Dryandras. Melbourne: Australian Plants Society (SGAP Victoria); Perth: Wildflower Society of Western Australia. ISBN 1-876473-54-1.\nMast, Austin R.; Thiele, Kevin (2007). \"The transfer of Dryandra R.Br. to Banksia L.f. (Proteaceae)\". Australian Systematic Botany. 20 (1): 63–71. doi:10.1071/SB06016.\n\"Dryandra brownii\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

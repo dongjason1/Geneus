@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brown_fruit-eating_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Artibeus"
+    },
+    {
+      "Species": "A. concolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The brown fruit-eating bat (Artibeus concolor) is a bat species from South America. It is found in Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname and Venezuela.\n\n\n== References =="
+  }
+}

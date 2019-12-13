@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Protea_obtusifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Protea"
+    },
+    {
+      "Species": "P. obtusifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Protea obtusifolia is a species of Protea. It is native to the Cape Provinces of South Africa.\n\n\n== References =="
+  }
+}

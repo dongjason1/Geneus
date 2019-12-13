@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_longii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. longii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex longii, or Long's sedge, is a species of sedge that was first described by Kenneth Mackenzie in 1922.\n\n\n== References =="
+  }
+}

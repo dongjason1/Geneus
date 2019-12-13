@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Heuglin's_francolin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "Pternistis"
+    },
+    {
+      "Species": "P. icterorhynchus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Heuglin's francolin (Pternistis icterorhynchus) is a species of bird in the family Phasianidae.\nIt is found in Central African Republic, Democratic Republic of the Congo, South Sudan, and Uganda.",
+    "References": "",
+    "External links": "Image at ADW"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Surat_serotine",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. dimissus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Surat serotine (Eptesicus dimissus) is a species of vesper bat. It is found only in Thailand.",
+    "Distribution": "Eptesicus dimissus has been found in Khao Nong, Tai Rom Yen National Park, Surat Thani Province, southern Thailand and in Royal Chitwan National Park, southern Nepal.\n\n\n== Sources =="
+  }
+}

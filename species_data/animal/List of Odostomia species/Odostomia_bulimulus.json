@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_bulimulus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. bulimulus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia bulimulus is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The shell grows to a length of 5 mm. The thin shell is smooth and shining. There are six slightly convex whorls. The aperture is long and rather narrow, with a plicate tooth above.",
+    "Distribution": "This species occurs in the following locations:\nEuropean waters (ERMS scope) : demersal zone of the Mediterranean Sea",
+    "References": "Templado, J. and R. Villanueva 2010 Checklist of Phylum Mollusca. pp. 148–198 In Coll, M., et al., 2010. The biodiversity of the Mediterranean Sea: estimates, patterns, and threats. PLoS ONE 5(8):36pp",
+    "External links": "To Biodiversity Heritage Library (2 publications)\nTo CLEMAM\nTo Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

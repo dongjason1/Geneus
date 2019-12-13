@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Megastomia_zijpi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Megastomia"
+    },
+    {
+      "Species": "M. zijpi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Megastomia zijpi is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The length of the shell varies between 1.8 mm and 2.1 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean off Mauritania.",
+    "References": "Peñas A. & Rolán E., 1999. La familia Pyramidellidae Gray, 1840 (Mollusca, Gastropoda, Heterostropha) en Africa Occidental. 4. los géneros Megastomia, Odostomia, Noemiamea y Syrnola. Iberus, suplemento 5: 1-150",
+    "External links": "To Encyclopedia of Life\nWorld Register of Marine Species"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_aequilateralis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. aequilateralis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia aequilateralis Irmsch., 1929 is a species of begonia known only from the Sungai Buloh area of Selangor, Peninsular Malaysia.\n\"...probably the most endangered begonia in the Peninsula, being known from a single small population in a forest area currently being cleared.\" - Kiew, p. 261",
+    "References": "\nEdgar Irmscher, Mitteilungen aus dem Institut für allgemeine Botanik in Hamburg   8:134.  1929\nRuth Kiew, Begonias of Peninsular Malaysia :261-264, 2005\n\"Begonia aequilateralis\". Germplasm Resources Information Network (GRIN). Agricultural Research Service (ARS), United States Department of Agriculture (USDA).\ntfbc.frim.gov: \"Saving a highly endangered begonia\""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eugenia_palumbis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eugenia"
+    },
+    {
+      "Species": "E. palumbis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eugenia palumbis (Chamorro: agatelang) is a shrub in the family Myrtaceae endemic to Guam and the Commonwealth of the Northern Mariana Islands.\n\n\n== References =="
+  }
+}

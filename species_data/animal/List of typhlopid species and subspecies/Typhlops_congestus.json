@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_congestus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. congestus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The blotched blind snake (Afrotyphlops congestus) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ceratozamia_fuscoviridis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Ceratozamia"
+    },
+    {
+      "Species": "C. fuscoviridis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ceratozamia fuscoviridis is a species of plant in the family Zamiaceae. It is endemic to Hidalgo state in Mexico. It is a Critically endangered species, threatened by habitat loss.",
+    "References": "\nOsborne R, Stevenson DWM, Vovides AP What is Ceratozamia fuscoviridis ? Delpinoa 2006; 48: 5-10"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_squamosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Leratiomyces"
+    },
+    {
+      "Species": "L. squamosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Leratiomyces squamosus is a mushroom in the Strophariaceae family.",
+    "External links": " Media related to Leratiomyces squamosus at Wikimedia Commons\nLeratiomyces squamosus  in Index Fungorum"
+  }
+}

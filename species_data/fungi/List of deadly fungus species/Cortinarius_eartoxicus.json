@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_eartoxicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. eartoxicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius eartoxicus is a species of potentially lethal fungus in the family Cortinariaceae native to Tasmania. It was implicated in the poisoning of two people who collected it at Fortescue Bay on the Tasman Peninsula in December 1985, one of whom required a kidney transplant. The toxin orellanine was later recovered from the species.",
+    "See also": "List of Cortinarius species\n\n\n== References =="
+  }
+}

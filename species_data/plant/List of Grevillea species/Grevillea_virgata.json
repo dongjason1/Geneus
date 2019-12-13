@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_virgata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. virgata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea virgata is a shrub of the family Proteaceae native to the New South Wales Central Coast.\n\n\n== References =="
+  }
+}

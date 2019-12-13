@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Red-mantled_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. rhodochlamys"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The red-mantled rosefinch (Carpodacus rhodochlamys) is a species of finch in the Fringillidae family.\nIt is found in Afghanistan, China, India, Kazakhstan, Mongolia, Pakistan, Russia, and Tajikistan.\nIts natural habitats are temperate forests and boreal shrubland.\n\n\n== References =="
+  }
+}

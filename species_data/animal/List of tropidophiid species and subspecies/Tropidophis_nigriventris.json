@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tropidophis_nigriventris",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Tropidophiidae"
+    },
+    {
+      "Genus": "Tropidophis"
+    },
+    {
+      "Species": "T. nigriventis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tropidophis nigriventis, or the black-bellied dwarf boa, is a species of snake in the family Tropidophiidae. The species is endemic to Cuba.",
+    "Geographic range": "T. nigriventris is found in central Cuba in Camagüey Province.",
+    "References": "",
+    "Further reading": "Bailey JR. 1937. A Review of some Recent Tropidophis Material. Proc. New England Zool. Club 16: 41-52. (Tropidophis nigriventris, new species, p. 45)."
+  }
+}

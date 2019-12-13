@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_borrichianus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Siagonodon"
+    },
+    {
+      "Species": "S. borrichianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Degerbøl's blind snake (Siagonodon borrichianus) is a species of snake in the family Leptotyphlopidae.",
+    "Etymology": "The specific name, borrichianus, is in honor of Danish scientist Ole Borch.",
+    "Geographic range": "It is found in western Argentina.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Siagonodon borrichianus, new combination).\nDegerbøl, Magnus (1923). \"Description of a new Snake of the Genus Glauconia, from Mendoza\". Videnskabelige Meddelelser fra Dansk naturhistorisk Forening i Københaven 76: 113-114. (Glauconia borrichiana, new species)."
+  }
+}

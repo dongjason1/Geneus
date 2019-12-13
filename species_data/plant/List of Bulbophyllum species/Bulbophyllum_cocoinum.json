@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_cocoinum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. cocoinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum cocoinum (coconut bulbophyllum) is a species of orchid."
+  }
+}

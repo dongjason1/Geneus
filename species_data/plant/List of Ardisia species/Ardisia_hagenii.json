@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ardisia_hagenii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Primulaceae"
+    },
+    {
+      "Genus": "Ardisia"
+    },
+    {
+      "Species": "A. hagenii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ardisia hagenii is a species of plant in the family Primulaceae. It is endemic to Panama.\n\n\n== References =="
+  }
+}

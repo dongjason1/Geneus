@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Oriole_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "LinurgusL. Reichenbach, 1850"
+    },
+    {
+      "Species": "L. olivaceus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The oriole finch (Linurgus olivaceus) is a small passerine bird in the finch family.\nThe male has a black head, a yellow body, black flight feathers and a stout bright yellow-orange conical bill. The female is a dull greenish-olive but has black flight feathers and a yellow bill. The oriole finch is found in Africa and is native to Burundi, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Kenya, Malawi, Nigeria, Rwanda, South Sudan, Tanzania and Uganda. It lives in subtropical or tropical moist evergreen montane forests.The species was described by the British zoologist and collector Louis Fraser in 1843 and given the binomial name Coccothraustes olivaceus. The oriole finch is placed in its own monotypic genus Linurgus. The exact relationship of this genus to other finch genera is unclear. In their phylogenetic analysis published in 2012, Zuccon and colleagues found that the oriole finch was a sister group to the genus Serinus. This contrasts with the earlier 2009 analysis by Nguembock and colleagues which found that the oriole finch was sister to the genus Carduelis.Four subspecies are recognised:\nL. o. olivaceus - (Fraser, 1843)\nL. o. prigoginei - Schouteden, 1950\nL. o. elgonensis - van Someren, 1918\nL. o. kilimensis - (Reichenow & Neumann, 1895)",
+    "Notes": "",
+    "References": "",
+    "Further reading": "Arnaiz-Villena, A.; Moscoso, J.; Ruiz-del-Valle, V.; Gonzalez, J.; Reguera, R.; Wink, M.; Serrano-Vela, J. I. (2007). \"Bayesian phylogeny of Fringillidae birds: status of the singular African oriole finch Linurgus olivaceus and evolution and heterogeneity of the genus Carpodacus\" (PDF). Acta Zoologica Sinica. 53 (5): 826–834."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_sublectaticum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. sublectaticum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium sublectaticum is a species of fungus in the genus Penicillium which was isolated from house dust in Dunedin in New Zealand.\n\n\n== References =="
+  }
+}

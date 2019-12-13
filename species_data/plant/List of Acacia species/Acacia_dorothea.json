@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_dorothea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. dorothea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia dorothea, commonly known as Dorothy's wattle, is a shrub or small tree which is native to New South Wales.",
+    "See also": "List of Acacia species\n\n\n== References =="
+  }
+}

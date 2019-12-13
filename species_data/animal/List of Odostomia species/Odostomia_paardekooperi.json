@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_paardekooperi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. paardekooperi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia paardekooperi is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This species occurs in the following locations:\nCape Verde",
+    "References": "",
+    "External links": "To Encyclopedia of Life"
+  }
+}

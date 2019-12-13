@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_alexandrei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. alexandrei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus alexandrei is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell varies between 30 mm and 46 mm.",
+    "Distribution": "This marine species occurs off the Philippines, Fiji and Vanuatu",
+    "References": "Limpalaër L. & Monnier E. (2012) Phasmoconus alexandrei (Gastropoda: Conidae), a new species from the western Pacific. Visaya 3(5): 21-27.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\n\"Phasmoconus alexandrei\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

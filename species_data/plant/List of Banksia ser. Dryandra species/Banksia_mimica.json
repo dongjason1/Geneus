@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_mimica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. mimica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia mimica, commonly known as summer honeypot, is a shrub endemic to Western Australia. Until 2007 it was known as Dryandra mimica; in 2007 all Dryandra species were transferred into Banksia.",
+    "References": "\"Banksia mimica\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

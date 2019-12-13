@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Morelia_clastolepis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Pythonidae"
+    },
+    {
+      "Genus": "Simalia"
+    },
+    {
+      "Species": "S. clastolepis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Simalia clastolepis, also known as the Mollucan python or Yellow python, is a species of python found in Indonesia. They can grow to be 8–9 feet in length.",
+    "Description": "As hatchlings they have a red in color, which then turns from brown to yellow, then as adults, will get black along their spine. They can also be patternless or striped.\n\n\n== References =="
+  }
+}

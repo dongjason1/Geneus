@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Long-tailed_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. sibiricus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The long-tailed rosefinch (Carpodacus sibiricus) is a species of finch of the family Fringillidae.\nIt is found in China, Japan, Kazakhstan, North Korea, South Korea, and Russia. Its natural habitats are temperate forests, subtropical or tropical moist shrubland, and temperate grassland.\nIt is a very rare vagrant to Europe, but like several related Asiatic rosefinches is reasonably frequent in the cage-bird trade so many records have been considered to relate to escapes.",
+    "Taxonomy": "The long-tailed rosefinch was formerly placed in the genus Uragus but was moved to Carpodacus based on the results of phylogenetic analyses of mitochondrial and nuclear DNA sequences.\n\n\n== References =="
+  }
+}

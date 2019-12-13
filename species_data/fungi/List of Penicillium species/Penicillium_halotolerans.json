@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_halotolerans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. halotolerans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium halotolerans is a species of the genus of Penicillium which has the ability to tolerate 5% NaCl.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_namibensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. namibensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe namibensis is a species of plant in the genus Aloe. It is endemic to Namibia.  Its natural habitat is rocky areas. It is threatened by habitat loss.",
+    "References": "\nLoots, S. 2004.  Aloe namibensis.   2006 IUCN Red List of Threatened Species.   Downloaded 20 August 2007."
+  }
+}

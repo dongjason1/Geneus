@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_exarata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. exarata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia exarata is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The elongate-ovate shell is white. Its length measures 6.3 mm. The whorls of the protoconch are obliquely immersed, only the tilted edge of the last volution is visible. The five whorls of the teleoconch are marked by two spiral keels which divide the space between the sutures into three equal parts. The posterior of these keels shows weak crenulation. The periphery of the body whorl is marked by a third keel which is almost as strong as those on the spire. A fourth keel considerably less strong occupies the middle of the base. The rounded spaces between the keels are marked by feeble lines of growth. The aperture is irregularly oval. The posterior angle is obtuse. The outer lip is angulated by the keels. The columella is strong, reflected and provided with a weak fold at insertion. The parietal wall is covered with a thin callus.",
+    "Distribution": "This species occurs in the Pacific Ocean off the Galapagos Islands. The type specimen was found off Mazatlán, Mexico.",
+    "References": "Finet, Y. (2001) The marine mollusks of the Galapagos Islands: a documented faunal list. Editions du Muséum d' Histoire naturelle, Genève, 237 pp.",
+    "External links": "To USNM Invertebrate Zoology Mollusca Collection\nTo World Register of Marine Species"
+  }
+}

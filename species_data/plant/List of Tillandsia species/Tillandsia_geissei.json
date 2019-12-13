@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_geissei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Anoplophytum"
+    },
+    {
+      "Species": "T. geissei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia geissei is a plant species in the genus Tillandsia. This species is endemic to Chile.",
+    "References": "Chilean Bromeliaceae: diversity, distribution and evaluation of conservation status (Published online: 10 March 2009)"
+  }
+}

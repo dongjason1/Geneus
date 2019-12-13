@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Turbonilla_rufa",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Pyrgiscus"
+    },
+    {
+      "Species": "P. rufus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pyrgiscus rufus is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Taxonomy": "Whether this species is distinct from Pyrgiscus crenatus (Brown, 1827) is controversial. Both are tentatively distinguished by Reñas & Rolán in Gofas et al. (2011) and by Giannuzzi-Saveli et al. (2014).",
+    "Description": "The shell grows to a length of 5 mm.",
+    "Distribution": "This species occurs in the Mediterranean Sea. Watson's record from Puerto Rico is probably not the same species.",
+    "References": "Giannuzzi-Savelli R., Pusateri F., Micali, P., Nofroni, I., Bartolini S. (2014). Atlante delle conchiglie marine del Mediterraneo, vol. 5 (Heterobranchia). Edizioni Danaus, Palermo, pp. 1– 111 with 41 unnumbered plates (figs. 1-363), appendix pp. 1–91.",
+    "External links": "To Encyclopedia of Life\nTo World Register of Marine Species\nTo Biodiversity Heritage Library (43 publications)\nTo CLEMAM"
+  }
+}

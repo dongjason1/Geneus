@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_arachidis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. arachidis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia arachidis (Peanut rust) is a plant pathogen that causes rust on groundnut. Its spread is promoted by warm, damp weather.",
+    "See also": "List of Puccinia species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\nphotos\n\n\n== References =="
+  }
+}

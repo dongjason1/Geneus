@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_albipunctus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. albipuncta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Epictia albipuncta is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

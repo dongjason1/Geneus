@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_maximus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Rena"
+    },
+    {
+      "Species": "R. maxima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The giant blind snake (Rena maxima) is a species of snake in the family Leptotyphlopidae. The species is endemic to Mexico.",
+    "Geographic range": "R. maxima is found in the Mexican states of Guerrero, Morelos, Oaxaca, and Puebla.",
+    "Description": "The largest recorded specimen of R. maxima is a female with a snout-to-vent length (SVL) of 33 cm (13 in) plus a tail 1.8 cm (0.71 in) long.",
+    "Reproduction": "R. maxima is oviparous. Clutch size may be as large as seven eggs.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Rena maxima, new combination).\nLoveridge A (1932). \"A New Worm Snake of the Genus Leptotyphlops from Guerrero, Mexico\". Proc. Biol. Soc. Washington 45: 151-152. (Leptotyphlops maximus, new species)."
+  }
+}

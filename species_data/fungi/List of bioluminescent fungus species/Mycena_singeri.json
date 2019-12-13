@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_singeri",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. singeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena singeri is a species of agaric fungus in the family Mycenaceae. Described as new to science in 1988, it is bioluminescent.",
+    "See also": "List of bioluminescent fungi",
+    "References": "",
+    "External links": "Mycena singeri  in Index Fungorum"
+  }
+}

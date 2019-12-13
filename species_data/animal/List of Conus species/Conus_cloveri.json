@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_cloveri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. cloveri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus cloveri is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 15 mm and 42 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean off Senegal.",
+    "References": "Pin, M.; Tack, K.D.L. (1995). Les cônes du Sénégal. [The Conidae of Senegal]. La Conchiglia 277(Suppl.): 1-55\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23\nTrovao, H. F.M., 1978. Contribuiçao para o estudo dos moluscos gasteropodes da familia Conidae da Africa Ocidental novas espécies de \"Conus Linné\", 1758 de Angola (Mollusca: Gastropoda). Boletim do Centro Português de Actividades Subaquaticas sér. 4 ( 4): 11, 12, 16-20",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Lautoconus cloveri\". Gastropods.com. Retrieved 15 January 2019.\nHolotype in MNHN, Paris"
+  }
+}

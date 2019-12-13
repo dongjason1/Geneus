@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_bromeliacearum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Subphylum": "Saccharomycotina"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. bromeliacearumLachance et al. 1999"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida bromeliacearum is a yeast species. Its type strain is UNESP 00-103T (=CBS 10002T =NRRL Y-27811T).",
+    "References": "",
+    "Further reading": "Kurtzman, Cletus; Fell, J.W.; Boekhout, Teun, eds. (2011). The Yeasts: A Taxonomic Study. 1 (5th ed.). Elsevier. ISBN 978-0-08-093127-2.\nRosa, Carlos A.; Peter, Gabor, eds. (2006). Biodiversity and Ecophysiology of Yeasts. 1. Springer. ISBN 978-3-540-30985-7."
+  }
+}

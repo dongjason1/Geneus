@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_rhizophoriensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Subphylum": "Saccharomycotina"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. rhizophoriensisFell et al. 2011"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida rhizophoriensis is a yeast species first found in the Florida Everglades.",
+    "References": "",
+    "Further reading": "Fell, Jack W. (2012). \"6 Yeasts in marine environments\".  In Jones, E. B. Gareth; Pang, Ka-Lai (eds.). Marine Fungi: and Fungal-like Organisms. Walter de Gruyter. p. 91. ISBN 978-3-11-026406-7."
+  }
+}

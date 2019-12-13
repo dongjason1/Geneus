@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mount_Mabu_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. mabuensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mount Mabu horseshoe bat (Rhinolophus mabuensis) is a species of horseshoe bat that is endemic to the Southeast African nation of Mozambique.",
+    "Taxonomy": "The Mount Mabu horseshoe bat was described as a new species in 2012 following analysis of the Hildebrandt's horseshoe bat species complex. Hildebrandt's horseshoe bat was shown via genetic, morphology, and acoustic analysis to actually be five species: four new species were segregated. In addition to the Mount Mabu horseshoe bat, researchers additionally described Cohen's horseshoe bat (R. cohenae), Smithers's horseshoe bat (R. smithersi), and the Mozambican horseshoe bat (R. mossambicus).\nThe holotype for the Mount Mabu horseshoe bat had been collected on Mount Mabu in October 2008.",
+    "Range and habitat": "As of 2019, the species has only been documented at two sites in northern Mozambique: Mount Mabu and Mount Inago.\nAll specimens collected as of 2012 were found in montane forests or submontane forests.",
+    "Conservation": "As of 2019, it is evaluated as an endangered species by the IUCN.\nIt meets the criteria for this classification as it has only been found on a few mountains, with a predicted area of occupancy of less than 500 km2 (190 sq mi).\nAdditionally, the IUCN referred to the loss and degradation of its forest habitats as \"alarming\".\n\n\n== References =="
+  }
+}

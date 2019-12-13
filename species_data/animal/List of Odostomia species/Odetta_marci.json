@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odetta_marci",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odetta"
+    },
+    {
+      "Species": "O. marci"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odetta marci is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The shell attains a length of 3.8 mm",
+    "Distribution": "This species occurs in the Atlantic Ocean off Mauritania.",
+    "References": "",
+    "External links": "To Encyclopedia of Life\n\"Odostomia marci\". Gastropods.com. Retrieved 7 November 2011."
+  }
+}

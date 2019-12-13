@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ficus_pertusa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Moraceae"
+    },
+    {
+      "Genus": "Ficus"
+    },
+    {
+      "Species": "F. pertusa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ficus pertusa is a species of tree in the family Moraceae. It is found in North and South America.",
+    "Description": "Trees up to 25 m tall. Leaves lanceolate, elliptic or ovate, with acuminate or acute apex. Figs edible, globose, 0.8-1.2 cm in diameter.\n\n\n== References =="
+  }
+}

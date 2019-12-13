@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bambusa_pallida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Bambusa"
+    },
+    {
+      "Species": "B. pallida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bambusa pallida is a type of bamboo.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_nodulum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. nodulum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium nodulum is a species of fungus in the genus Penicillium.",
+    "Further reading": "Rijksherbarium (1989). Persoonia, Band 14. Rijksherbarium/ University of Michigan.\n\n\n== References =="
+  }
+}

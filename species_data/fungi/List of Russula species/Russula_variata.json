@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_variata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. variata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula variata is a basidiomycete mushroom of the genus Russula native to North America.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula variata  in Index Fungorum"
+  }
+}

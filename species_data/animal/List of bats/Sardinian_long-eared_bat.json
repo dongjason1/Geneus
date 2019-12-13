@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sardinian_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Plecotus"
+    },
+    {
+      "Species": "P. sardus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sardinian long-eared bat (Plecotus sardus) is a species of bat endemic to Sardinia, Italy.\nThis species was discovered in 2002 in the caves of central Sardinia, the type locality being a cave in Lanaitto's Valley in the Oliena District. It appears to be closely related to Plecotus auritus and Plecotus alpinus.\nIt was identified as a new species by a study clearly showing divergence from other Plecotus species in its mitochondrial 16S rRNA gene.",
+    "Description": "P. sardus is a small bat with a head-and-body length of about 45 mm (1.8 in), ears of about 38 mm (1.5 in) and a weight of up to 9 g (0.32 oz). The snout is cone-shaped with a fleshy knob on the chin. The ears are oval and joined above the forehead by a fine membrane. The tragus is tapered with a blunt tip and is half as long as the ear. The wing membranes are attached to the rear part of the base of the fifth toe. The tail is long and extends a short way beyond the interfemoral membrane. The fur is fine, long and woolly and is greyish-brown dorsally and whitish or pale brown ventrally. The wing membranes are brown. Two features which distinguish this bat from related species are the cylindrical penis in males and the short, Y-shaped penile bone.",
+    "Status": "The Sardinian long-eared bat was first identified in 2002 and is only known from three caves where it roosts. Two of these are in the Gennargentu National Park and one near the coast. It hunts in forests and the threats it faces include habitat loss and disturbance by tourism. With a small total population and a decreasing population trend, the International Union for Conservation of Nature lists it as being a \"vulnerable species\". This bat is the sole surviving endemic mammal found on the Island of Sardinia, the others all having become extinct since the arrival of humans some 8500 years ago.",
+    "References": "Spitzenberger, F.; Strelkov, P. P.; Winkler, H.; Haring, E. (2006-05-16). \"A preliminary revision of the genus Plecotus (Chiroptera, Vespertilionidae) based on genetic and morphological results\". Zoologica Scripta. 35 (3): 187–230. doi:10.1111/j.1463-6409.2006.00224.x.",
+    "External links": "Sardegna Foreste"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_chrysanthum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. chrysanthum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium chrysanthum (golden yellow-flowered dendrobium) is a species of orchid. It is native to China (Guangxi, Guizhou, Tibet, Yunnan), Indochina (Laos, Thailand, Myanmar, Vietnam) and the Himalayas (Nepal, Bhutan, Assam etc.).\n\n\n== References =="
+  }
+}

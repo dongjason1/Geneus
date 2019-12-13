@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Keast's_tube-nosed_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Nyctimene"
+    },
+    {
+      "Species": "N. keasti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Keast's tube-nosed fruit bat – Nyctimene keasti – is a species of megabat in the family Pteropodidae found in Babar, Tanimbar, and the Kai Islands.",
+    "Description": "A species of Nyctimene, the tube-nosed megachiropteran genus which feature prominent nostrils that splay out in opposite directions. The pelage of the species is gender dimorphic, males are notably darker and fawn coloured, females are predominantly buff-yellow lightened by a drab colour at the base of the hair.",
+    "Taxonomy": "The taxon was first described as a subspecies of Nyctimene albiventer in 1993. A review of the systematics two years later elevated the status of the group to species and distinguished island populations previously described as Nyctimene cephalotes.The holotype was collected in 1992 in a mist net, close to sea level, at the edge of forest near a lake, on an island in the Maluku (province). The epithet of the species refers to an honorary assistant at the Western Australian Museum, Colin Keast, who assisted in the preparation of the specimen's skulls.The relationship to a widespread species, Nyctimene albifenta, is uncertain.",
+    "References": "\nD.E. Wilson & D.M. Reeder, 2005: Mammal Species of the World: A Taxonomic and Geographic Reference. Third Edition. The Johns Hopkins University Press, Baltimore"
+  }
+}

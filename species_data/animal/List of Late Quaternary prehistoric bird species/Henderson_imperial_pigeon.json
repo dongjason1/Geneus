@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Henderson_imperial_pigeon",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Ducula"
+    },
+    {
+      "Species": "D. harrisoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Henderson imperial pigeon (Ducula harrisoni), or Henderson Island imperial pigeon,  is an extinct species of bird in the Columbidae, or pigeon family.  It was described from subfossil remains found on Henderson Island in the Pitcairn Group of south-eastern Polynesia.",
+    "Extinction": "The pigeon became extinct following human colonisation of Henderson, an event that had occurred by 1050 CE.  Two of the other three species of pigeon on the island also disappeared, as did other birds.",
+    "References": "Wragg, G.M.; & Worthy, T.H. (2006). A new species of extinct imperial pigeon (Ducula: Columbidae) from Henderson Island, Pitcairn Group. Historical Biology 18(2):127–140."
+  }
+}

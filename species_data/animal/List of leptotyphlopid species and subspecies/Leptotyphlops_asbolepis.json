@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_asbolepis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Mitophis"
+    },
+    {
+      "Species": "M. asbolepis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mitophis asbolepis is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

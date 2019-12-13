@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_borealis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. borealis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria borealis is a species of mushroom in the Physalacriaceae family. Phylogenetic analysis of ribosomal DNA has shown that within the genus Armillaria, this species is most closely related to A. solidipes and A. gemina.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

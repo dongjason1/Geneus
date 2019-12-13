@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_luppii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. luppii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus luppii (also called A. aureofulgens) is a species of fungus in the genus Aspergillus. It is from the Flavipedes section. Aspergillus luppii produces the antimicrobics Curvularin and Dehydrocurvularin.",
+    "Growth and morphology": "A. luppii has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Caputo, O.; Viola, F. (1977). \"Isolation of a, beta-dehydrocurvularin from Aspergillus aureofulgens\". Planta Medica. 31 (1): 31–32. doi:10.1055/s-0028-1097485. ISSN 0032-0943. PMID 840925.\nGesellschaft für Arzneipflanzenforschung (Germany), Deutsche Gesellschaft für Arzneipflanzenforschung (1977). Planta medica. Hippokrates-Verlag.\nLaskin, Allen I.; Lechevalier, Hubert A.; Company, Chemical Rubber (1988). CRC Handbook of Microbiology: pt. A. Antibiotics. CRC Press."
+  }
+}

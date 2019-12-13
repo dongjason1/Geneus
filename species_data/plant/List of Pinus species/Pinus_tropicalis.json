@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pinus_tropicalis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Pinophyta"
+    },
+    {
+      "Class": "Pinopsida"
+    },
+    {
+      "Order": "Pinales"
+    },
+    {
+      "Family": "Pinaceae"
+    },
+    {
+      "Genus": "Pinus"
+    },
+    {
+      "Subgenus": "P. subg. Pinus"
+    },
+    {
+      "Section": "P. sect. Pinus"
+    },
+    {
+      "Subsection": "P. subsect. Pinus"
+    },
+    {
+      "Species": "P. tropicalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pinus tropicalis, the tropical pine, is a pine tree endemic to the western highlands of the island of Cuba.",
+    "See also": "Cuban pine forests",
+    "References": "\nEarle, Christopher J., ed. (2018). \"Pinus tropicalis\". The Gymnosperm Database."
+  }
+}

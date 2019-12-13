@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allium_massaessylum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Allioideae"
+    },
+    {
+      "Genus": "Allium"
+    },
+    {
+      "Species": "A. massaessylum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allium massaessylum is a Western Mediterranean species of wild onion native to Spain, Portugal, Morocco, and Algeria.",
+    "References": "\n\n== External links =="
+  }
+}

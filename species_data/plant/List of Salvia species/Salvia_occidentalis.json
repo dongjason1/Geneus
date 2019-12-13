@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_occidentalis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. occidentalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia occidentalis (West Indian sage) is a small annual herb native to the Caribbean, Mexico, and South America, typically growing in damp bushy areas between 50 to 1,300 m (160 to 4,270 ft) elevation. It bears 4 millimetres (0.16 in) long pale pink flowers.",
+    "Notes": "",
+    "External links": "USDA Plants Profile"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atractaspis_coalescens",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Atractaspis"
+    },
+    {
+      "Species": "A. coalescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Atractaspis coalescens, or the black burrowing asp, is a species of venomous snake in the Atractaspididae family. It is endemic to Africa.",
+    "References": "\nPerret, J.L. 1960. Une nouvelle et remarquable espèce d'Atractaspis (Viperidae) et quelques autres Serpents d'Afrique. Rev. suisse Zool. 67(1):129-139."
+  }
+}

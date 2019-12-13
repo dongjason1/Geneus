@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Spotted_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Chaerephon"
+    },
+    {
+      "Species": "C. bivittatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The spotted free-tailed bat (Chaerephon bivittatus) is a species of bat in the family Molossidae. It is found in Burundi, Djibouti, Eritrea, Ethiopia, Kenya, Mozambique, Rwanda, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. Its natural habitats are dry savanna, moist savanna, and rocky areas.\n\n\n== References =="
+  }
+}

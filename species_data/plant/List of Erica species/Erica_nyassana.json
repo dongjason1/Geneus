@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Erica_nyassana",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Arthropoda"
+    },
+    {
+      "Subphylum": "Chelicerata"
+    },
+    {
+      "Class": "Arachnida"
+    },
+    {
+      "Order": "Araneae"
+    },
+    {
+      "Infraorder": "Araneomorphae"
+    },
+    {
+      "Family": "Salticidae"
+    },
+    {
+      "Genus": "Erica"
+    },
+    {
+      "Species": "E. nyassana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Erica nyassana is a species of plant in the family Ericaceae. It is endemic to Malawi.  It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

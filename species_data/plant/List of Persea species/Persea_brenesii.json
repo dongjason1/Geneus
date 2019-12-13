@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Persea_brenesii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Magnoliids"
+    },
+    {
+      "Order": "Laurales"
+    },
+    {
+      "Family": "Lauraceae"
+    },
+    {
+      "Genus": "Persea"
+    },
+    {
+      "Species": "P. brenesii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Persea brenesii is a species of plant in the family Lauraceae. It is endemic to Costa Rica.",
+    "References": "\nWorld Conservation Monitoring Centre (1998). \"Persea brenesii\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T30667A9570704. doi:10.2305/IUCN.UK.1998.RLTS.T30667A9570704.en. Retrieved 16 December 2017."
+  }
+}

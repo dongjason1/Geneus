@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_alachuana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. alachuana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula alachuana is a species of mushroom.",
+    "See also": "List of Russula species"
+  }
+}

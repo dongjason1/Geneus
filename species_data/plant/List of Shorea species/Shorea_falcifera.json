@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shorea_falcifera",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Dipterocarpaceae"
+    },
+    {
+      "Genus": "Shorea"
+    },
+    {
+      "Species": "S. falcifera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Shorea falcifera is an endangered species of plant in the Dipterocarpaceae family.",
+    "Distribution": "It is found in Sumatra, Peninsular Malaysia and Borneo.",
+    "See also": "List of Shorea species",
+    "References": "Ashton, P. (1998). \"Shorea falcifera\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T33412A9781499. doi:10.2305/IUCN.UK.1998.RLTS.T33412A9781499.en. Retrieved 22 December 2017."
+  }
+}

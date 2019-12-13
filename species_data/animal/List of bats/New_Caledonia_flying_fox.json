@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Caledonia_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. vetulus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The New Caledonia flying fox (Pteropus vetulus) is a species of flying fox in the family Pteropodidae. It is endemic to New Caledonia.  The habitat of the species is highly fragmented, and possibly decreasing due to deforestation.  Other threats such as hunting are as of yet unquantified.\n\n\n== References =="
+  }
+}

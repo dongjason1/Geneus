@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_melanurus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. melanura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The dark blind snake (Epictia melanura) is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

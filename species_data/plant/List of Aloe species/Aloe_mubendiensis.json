@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_mubendiensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. mubendiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe mubendiensis  is a species of Aloe native to west Uganda.\n\n\n== References =="
+  }
+}

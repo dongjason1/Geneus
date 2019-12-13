@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_elegans",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The elegant worm snake (Afrotyphlops elegans) is a species of snake in the Typhlopidae family.  It was described by Wilhelm Peters in 1868. The species occurs on the island of Príncipe in São Tomé and Príncipe.",
+    "References": "",
+    "Further reading": "Peters, 1868 : Über eine neue Nagergattung, Chiropodomys penicullatus, sowie über einige neue oder weniger bekannte Amphibien und Fische. Monatsberichte der Königlichen Preussischen Akademie der Wissenschaften zu Berlin"
+  }
+}

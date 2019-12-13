@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Potentilla_fragarioides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Potentilla"
+    },
+    {
+      "Species": "P. fragarioides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Potentilla fragarioides is a member of the family Rosaceae that is native to China, Japan, Korea, Mongolia, and Russia.",
+    "Ethnomedical uses": "The stem is boiled for use as a hemostatic in Traditional Chinese Medicine (TCM).\nD-Catechin has been isolated as the agent of action, being used to stem vaginal bleeding.",
+    "References": "\n Media related to Potentilla fragarioides at Wikimedia Commons"
+  }
+}

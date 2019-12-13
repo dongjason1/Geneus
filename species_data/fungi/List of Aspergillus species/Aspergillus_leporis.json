@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_leporis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. leporis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus leporis is an anamorph species of fungus in the genus Aspergillus. It is from the Flavi section. The species was first described in 1979. It has been isolated from the dung of Lepus townsendii. Aspergillus leporis produces leporin A and leporin B. It has also been reported to produce antibiotic Y, kojic acid, and pseurotin.",
+    "Growth and morphology": "A. leporis has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "States, Jack S.; Christensen, Martha (September 1966). \"Aspergillus leporis, a New Species Related to A. flavus\". Mycologia. 58 (5): 738. doi:10.2307/3756848. JSTOR 3756848.\nPowell, edited by Keith A.; Renwick,, Annabel; Peberdy, John F. (1994). The Genus Aspergillus from taxonomy and genetics to industrial application. New York: Plenum Press. ISBN 978-1-489-90981-7.CS1 maint: extra punctuation (link) CS1 maint: extra text: authors list (link)\nMachida, edited by Masayuki; Gomi, Katsuya (2010). Aspergillus : molecular biology and genomics. Wymondham, Norfolk, UK: Caister Academic. ISBN 978-1-904-45553-0.CS1 maint: extra text: authors list (link)\nAyres, edited by G.F. Pegg & P.G. (1988). Fungal infection of plants : symposium of the British Mycological Society (Repr. ed.). Cambridge: Cambridge University Press. ISBN 978-0-521-32457-1.CS1 maint: extra text: authors list (link)"
+  }
+}

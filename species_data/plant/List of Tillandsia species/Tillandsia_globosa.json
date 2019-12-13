@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_globosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Anoplophytum"
+    },
+    {
+      "Species": "T. globosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia globosa is a species in the genus Tillandsia. This species is native to Brazil and Venezuela.",
+    "References": "BROMELIACEAE DA MATA ATLÂNTICA BRASILEIRA retrieved 22 October 2009\nChecklist of Venezuelan Bromeliaceae with Notes on Species Distribution by State and Levels of Endemism retrieved 3 November 2009"
+  }
+}

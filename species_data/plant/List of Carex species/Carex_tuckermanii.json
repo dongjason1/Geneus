@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_tuckermanii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Carex"
+    },
+    {
+      "Section": "Carex sect. Vesicariae"
+    },
+    {
+      "Species": "C. tuckermanii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex tuckermanii, Tuckerman's sedge, is a species of Carex that is native to North America. It is a perennial.",
+    "Conservation status": "Carex tuckermanii is listed as endangered in Illinois, Maryland, Massachusetts, and New Jersey. It is also listed as a special concern species in Connecticut.\n\n\n== References =="
+  }
+}

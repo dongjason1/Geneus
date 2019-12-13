@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_lojanus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. lojanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops lojanus, or the Lojan lancehead, is a species of venomous pit viper in the family Viperidae. It is endemic to Ecuador.",
+    "Geographic range": "It is found in Ecuador in the provinces of Loja and Zamora-Chinchipe.",
+    "References": "",
+    "Further reading": "Parker, H.W. 1930. Two new reptiles from southern Ecuador. Ann. Mag. Nat. Hist., Series 10, 5: 568-571."
+  }
+}

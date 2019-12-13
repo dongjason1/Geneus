@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_tritici",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Incertae sedis"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. tritici"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta tritici is a fungal plant pathogen that causes Ascochyta leaf spot on barley, wheat and maize.",
+    "See also": "List of Ascochyta species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

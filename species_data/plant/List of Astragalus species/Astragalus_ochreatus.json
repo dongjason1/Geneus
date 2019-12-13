@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Astragalus_ochreatus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Astragalus"
+    },
+    {
+      "Species": "A. ochreatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Astragalus ochreatus is a species of milkvetch in the family Fabaceae.\n\n\n== References =="
+  }
+}

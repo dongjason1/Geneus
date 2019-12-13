@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Great_fruit-eating_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Artibeus"
+    },
+    {
+      "Species": "A. lituratus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The great fruit-eating bat (Artibeus lituratus) is a bat species in the family Phyllostomidae from South and Central America. It is found from Mexico to Brazil and Argentina, as well as in Antigua and Barbuda, Barbados, Grenada, Martinique, Saint Lucia, Saint Vincent and the Grenadines and Trinidad and Tobago.\n\nThey are 10.5 g at birth and grow to 65 g as adults.",
+    "Gallery": "\n\t\t\n\t\t\n\n\n== References =="
+  }
+}

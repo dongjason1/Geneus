@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_conferta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. conferta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas conferta is a species of cycad.\nIt is native to rocky areas of the Northern Territories in Australia, including Kakadu National Park.\n\n\n== References =="
+  }
+}

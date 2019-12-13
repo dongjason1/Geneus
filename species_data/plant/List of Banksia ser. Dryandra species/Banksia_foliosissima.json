@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_foliosissima",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. foliosissima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia foliosissima is a shrub endemic to Western Australia.",
+    "References": "\"Banksia foliosissima\". FloraBase. Western Australian Government Department of Parks and Wildlife.\nBanksia foliosissima on the National Center for Biotechnology Information"
+  }
+}

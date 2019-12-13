@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eumops_delticus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Eumops"
+    },
+    {
+      "Species": "E. delticus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eumops delticus is a species of free-tailed bat found in South America.",
+    "Taxonomy": "Eumops delticus was described as a new species in 1923 by British mammalogist Oldfield Thomas.\nThe holotype had been collected by Wilhelm Ehrhardt (1860–1936), a Guyana-born German animal collector.\nThe type locality was the Brazilian island of Marajó.\nIn 1932, Colin Campbell Sanborn published that E. delticus should be considered a subspecies of the dwarf bonneted bat (E. bonariensis).\nIt was generally regarded as a subspecies until 2008 when Eger et al. published it as its own species again.",
+    "Description": "Based on the holotype, E. delticus individuals have a forearm length of around 47 mm (1.9 in), a head and body length of 68 mm (2.7 in), and a tail length of 41 mm (1.6 in).",
+    "Range and habitat": "E. delticus is found in the following South American countries: Brazil, Colombia, and Peru.",
+    "Conservation": "As of 2018, it is evaluated as a data deficient species by the IUCN.\nIt meets the criteria for this classification because of ongoing uncertainty of its geographic range and ecological requirements.\n\n\n== References =="
+  }
+}

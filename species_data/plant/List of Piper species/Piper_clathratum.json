@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_clathratum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. clathratu"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper clathratum is a species of pepper plant in the family Piperaceae. It is endemic to Ecuador.",
+    "References": "Santiana, J. & Pitman, N. 2004.  IUCN Red List: Piper clathratum, Downloaded on 23 August 2007.\nAll IUCN Red List of Threatened Species"
+  }
+}

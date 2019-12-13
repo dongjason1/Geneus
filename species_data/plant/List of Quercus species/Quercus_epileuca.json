@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_epileuca",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. epileuca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus epileuca is a Mexican species of oaks in the beech family. It grows in the Sierra Madre Occidental in the States of Sonora, Chihuahua, Durango, and Sinaloa.",
+    "References": "\n\n== External links =="
+  }
+}

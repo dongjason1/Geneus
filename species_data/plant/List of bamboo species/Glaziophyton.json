@@ -1,0 +1,45 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Glaziophyton",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Subfamily": "Bambusoideae"
+    },
+    {
+      "Tribe": "Bambuseae"
+    },
+    {
+      "Subtribe": "Arthrostylidiinae"
+    },
+    {
+      "Genus": "GlaziophytonFranch."
+    },
+    {
+      "Species": "G. mirabile"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Glaziophyton is a Brazilian genus of bamboo in the grass family.",
+    "Species": "The only known species is Glaziophyton mirabile, native to the State of Rio de Janeiro in southeastern Brazil.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_milesi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. milesi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus milesi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 17 mm and 27 mm. The shell has a narrow fusiform shape with longitudinally irregular brown spots and punctuated, transverse grooves. The elongate, white, coronate spire is spotted with brown. The body whorl contains about 30 finely punctured or pitted grooves. The aperture is very narrow. The outer lip is arcuate with its superior part slightly sinuated.",
+    "Distribution": "This marine species occurs in the Gulf of Oman and the Persian Gulf.",
+    "References": "Smith, E. A. 1887. Description of a new species of Conus, and a note on a white variety of C. eburneus. Journal of Conchology 5(8):244-245",
+    "External links": "The Conus Biodiversity website\n\"Bathyconus milesi\". Gastropods.com. Retrieved 10 January 2019."
+  }
+}

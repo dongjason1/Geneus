@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_glauca",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. glauca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas glauca is a species of cycad endemic to the Lesser Sunda Islands of Indonesia. It occurs on Timor and Sumba islands.\n\n\n== References =="
+  }
+}

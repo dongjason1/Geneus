@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_caymanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Cubatyphlops"
+    },
+    {
+      "Species": "C. caymanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Cayman worm snake (Cubatyphlops caymanensis) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

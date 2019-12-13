@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pink-browed_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. rodochroa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pink-browed rosefinch (Carpodacus rodochroa) is a species of finch in the Fringillidae family. It ranges across the northern regions of the Indian subcontinent, mainly in the Himalayas, and is migratory.  It is found in Bhutan, Tibet, India, Nepal, and Pakistan. Its natural habitats are boreal forests and subtropical or tropical dry forests.",
+    "Gallery": "\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\n\n== References =="
+  }
+}

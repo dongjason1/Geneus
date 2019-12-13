@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_arenicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. arenicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium arenicola is an anamorph fungus species of the genus of Penicillium which was isolated from pine forest soil in Russia.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ardisia_flavida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Primulaceae"
+    },
+    {
+      "Genus": "Ardisia"
+    },
+    {
+      "Species": "A. flavida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ardisia flavida is a species of plant in the family Primulaceae. It is endemic to Ecuador.\n\n\n== References =="
+  }
+}

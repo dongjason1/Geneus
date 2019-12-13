@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Syzygium_eucalyptoides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Syzygium"
+    },
+    {
+      "Species": "S. eucalyptoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Syzygium eucalyptoides is a tree of the family Myrtaceae native to Western Australia and the Northern Territory.\n\n\n== References =="
+  }
+}

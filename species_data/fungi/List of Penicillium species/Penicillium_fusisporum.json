@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_fusisporum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. fusisporum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium fusisporum is a fungus species in the family Trichocomaceae. Described as new to science in 2014, it was isolated from plant leaves in China. It is closely related to Penicillium thomii var. flavescens.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_gentryi",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. gentryi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus gentryi is a Mexican species of oak in the beech family. It is native to western and northwestern Mexico, from Sonora south to Michoacán and east as far as Guanajuato.",
+    "Description": "Quercus gentryi is a short evergreen tree up to 15 meters tall with a trunk as much as 50 cm in diameter. Leaves are thick and rigid, up to 18 cm long, with wavy edges but no teeth or lobes.",
+    "References": "",
+    "External links": "photo of herbarium specimen at Missouri Botanical Garden, collected in Sinaloa in 1940"
+  }
+}

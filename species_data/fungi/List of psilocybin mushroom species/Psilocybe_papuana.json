@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_papuana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. papuana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe papuana is a species of mushroom in the Strophariaceae family.",
+    "See also": "List of Psilocybin mushrooms\nPsilocybin mushrooms\nPsilocybe",
+    "References": "\n Media related to Psilocybe papuana at Wikimedia Commons"
+  }
+}

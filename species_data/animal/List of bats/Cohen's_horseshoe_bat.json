@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cohen's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. cohenae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cohen's horseshoe bat (Rhinolophus cohenae) is a species of bat belonging to the family Rhinolophidae, endemic to South Africa. It was first described in 2012. The species was named after Lientjie Cohen who collected the type specimen in 2004. It was first thought to be a Hildebrandt's horseshoe bat but has since been distinguished as a separate species by its unique echolocation frequencies.",
+    "Description": "Cohen's horseshoe bat is a large with a forearm length of 66 to 68 mm. It has a wide leaf nose (13.5 to 16.3 mm) and its lower lip has a single longitudinal groove that extends down to the chin. Its coat colourings are similar to Hildebrandt's horseshoe bat. It emits an ultrasound duty cycle and high frequency constant at about 32.8 ± 0.24 kHz.",
+    "Habitat": "The species has only been observed in three locations in the South African province of Mpumalanga. One location was a savanna close to grassland at 690 m, the other two locations where grasslands between 900 and 1100 m.",
+    "References": "\n Data related to Cohen's horseshoe bat at Wikispecies"
+  }
+}

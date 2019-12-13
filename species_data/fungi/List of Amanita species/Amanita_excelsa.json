@@ -1,0 +1,27 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_excelsa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. excelsa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita excelsa is a species of agaric fungus in the family Amanitaceae. It is found in Asia, Europe, and North America, where it grows in deciduous forests.",
+    "References": "\n\n== External links =="
+  }
+}

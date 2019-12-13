@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Kobayashi's_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. koyabashii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Kobayashi's bat (Eptesicus kobayashii) is a species of bat. An adult Kobayashi's bat has a body length of 6.0–6.3 cm, a tail length of 4.6–4.8 cm, and a wing length of 4.5–4.7 cm.  The species is found only on the Korean Peninsula; it has been suggested that it may be a local form of Eptesicus bottae, Botta's serotine.",
+    "References": "\nWon, Byeong-o (원병오) (2004). 한국의 포유동물 (Hangugui poyudongmul, Mammals of Korea). Seoul: Dongbang Media. ISBN 978-89-8457-310-9."
+  }
+}

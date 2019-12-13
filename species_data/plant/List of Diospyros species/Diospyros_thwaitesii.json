@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Diospyros_thwaitesii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Ebenaceae"
+    },
+    {
+      "Genus": "Diospyros"
+    },
+    {
+      "Species": "D. thwaitesii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Diospyros thwaitesii, is a tree in the ebony family, endemic to Sri Lanka.",
+    "External resources": "http://plants.jstor.org/specimen/k000792434?history=true"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Elephas_ekorensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Proboscidea"
+    },
+    {
+      "Family": "Elephantidae"
+    },
+    {
+      "Genus": "Elephas"
+    },
+    {
+      "Species": "E. ekorensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Elephas ekorensis is an extinct species of large herbivorous mammals belonging to the family Elephantidae. Fossils have been found in East Africa dating as far back as the Early Pliocene age, between 5.3 and 3.6 million years ago.  It is the earliest recognisable species in the genus Elephas. There are two lineages, a dead-end, Afro-Eurasian lineage and an Asian lineage that evolved into modern Asian elephants. It was an ancestor of Elephas recki and Elephas iolensis.\n\n\n== References =="
+  }
+}

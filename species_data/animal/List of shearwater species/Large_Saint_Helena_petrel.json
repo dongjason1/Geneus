@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large_Saint_Helena_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pseudobulweria"
+    },
+    {
+      "Species": "P. rupinarum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Saint Helena petrel (Pseudobulweria rupinarum), also known as the Saint Helena gadfly petrel or large Saint Helena petrel, was a species of seabird in the family Procellariidae.  It was endemic to the island of Saint Helena in the South Atlantic Ocean.  It most likely became extinct after overpredation by people.",
+    "External links": "BirdLife species factsheet\nPterodroma rupinarum"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ornithogalum_arabicum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Scilloideae"
+    },
+    {
+      "Tribe": "Ornithogaleae"
+    },
+    {
+      "Genus": "Ornithogalum"
+    },
+    {
+      "Species": "O. arabicum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ornithogalum arabicum is a species of star of Bethlehem native to northern Africa and southern Europe. Common names include Arab's eye, lesser cape-lily, and Arabian starflower.\n\n\n== References =="
+  }
+}

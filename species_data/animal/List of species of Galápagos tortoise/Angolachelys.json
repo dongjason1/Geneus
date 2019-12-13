@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Angolachelys",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Family": "†Sandownidae"
+    },
+    {
+      "Genus": "†AngolachelysMateus et al., 2009"
+    },
+    {
+      "Species": "†A. mbaxi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Angolachelys is an extinct genus of African eucryptodiran turtle which existed in Angola during the Turonian stage of the Late Cretaceous. The type species is Angolachelys mbaxi. The type MGUAN-PA includes skull, jaw, and postcranial fragments found in the Tadi Beds of the Itombe Formation.",
+    "Phylogeny": " \nCladogram after Mateus et al. (2009).\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_italicum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. italicum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium italicum is a plant pathogen. It is a common post harvest disease commonly associated with citrus fruits.",
+    "Management": "Inoculation of healthy fruit can be diminished and controlled by careful picking, handling, and packaging of the citrus so that the rinds are not damaged. Without of injury inflicted on the fruit, the conidia are unable to gain access, and thus unable to germinate into infectious pathogens.",
+    "References": "",
+    "External links": "USDA ARS Fungal Database"
+  }
+}

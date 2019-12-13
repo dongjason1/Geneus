@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_arborea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. arborea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia arborea, commonly known as Yilgarn dryandra, is a plant endemic to Western Australia, notable as it is the only dryandra to grow to tree-like proportions. It is found inland north of Southern Cross.\nAn assessment of the potential impact of climate change on this species found that its range is likely to contract by between 50% and 80% by 2080, depending on the severity of the change.",
+    "References": "\n\"Banksia arborea\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hairy_little_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Rhinophylla"
+    },
+    {
+      "Species": "R. alethina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The hairy little fruit bat (Rhinophylla alethina) is a species of bat in the family Phyllostomidae found in Colombia and Ecuador.\n\n\n== References =="
+  }
+}

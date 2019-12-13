@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_funebris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Tillandsia subg. Diaphoranthema"
+    },
+    {
+      "Species": "T. funebris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia funebris is a species in the genus Tillandsia. This species is native to Bolivia.",
+    "Cultivars": "Tillandsia 'Miss Mini'",
+    "References": "\nChecklist of Bolivian Bromeliaceae Retrieved 21 October 2009\nBSI Cultivar Registry Retrieved 11 October 2009"
+  }
+}

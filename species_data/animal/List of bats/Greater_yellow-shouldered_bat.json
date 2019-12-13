@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. magna"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater yellow-shouldered bat (Sturnira magna) is a species of bat in the family Phyllostomidae. It is found in Bolivia, Colombia, Ecuador, and Peru.\n\n\n== References =="
+  }
+}

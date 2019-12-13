@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_bicornuta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. bicornuta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera bicornuta is a species of orchid.",
+    "References": "\n\n== External links =="
+  }
+}

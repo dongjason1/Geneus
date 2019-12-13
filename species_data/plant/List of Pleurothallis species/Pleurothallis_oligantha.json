@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_oligantha",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. oligantha"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera oligantha is a species of orchid."
+  }
+}

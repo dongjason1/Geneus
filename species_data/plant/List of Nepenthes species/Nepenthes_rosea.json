@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_rosea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. rosea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes rosea is a tropical pitcher plant known only from Krabi Province, Peninsular Thailand, where it grows at 450–520 m above sea level. It is unusual in that it sometimes produces a rosette along the peduncle.",
+    "References": "\n\n== External links =="
+  }
+}

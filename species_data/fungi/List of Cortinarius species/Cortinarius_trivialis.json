@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_trivialis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. trivialis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius trivialis is a species of fungus in the genus Cortinarius.\n\n\n== References =="
+  }
+}

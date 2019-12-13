@@ -1,0 +1,44 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_specifica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. specifica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex specifica is a species of sedge known by the common name narrowfruit sedge.",
+    "Distribution": "This sedge is native to montane California, such as the Sierra Nevada and Klamath Mountains, and in far northwestern Nevada. Carex specifica grows in dry areas in mountain forests and meadows.",
+    "Description": "Carex specifica produces dense clumps of stems up to about 85 centimeters in maximum height. The inflorescence is a dense green to gold cluster of flower spikes up to 5 centimeters long. The fruit is enclosed in a very narrow, pointed green to straw colored perigynium.",
+    "External links": "Jepson Manual Treatment - Carex specifica\nFlora of North America\nCarex specifica - Photo gallery"
+  }
+}

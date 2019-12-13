@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-headed_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. lessonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-headed petrel (Pterodroma lessonii), also known as the white-headed fulmar is a species of seabird in the petrel family, or Procellariidae.  Its length is about 400 mm.White-headed petrels breed alone or in colonies in burrows dug among tussocks and herbfields on subantarctic islands.",
+    "Diet": "They appear to feed pelagically on cephalopods and crustaceans.",
+    "Description": "The white-headed petrel distinct with a pale white head, and prominent dark eye patch. It has long narrow wings and long pointed tail. Upper surface is pale grey which is contrasting with darker grey on the upper wings and the rump. The underside is mostly white. The bill is stout black with a large sharp hook. Gren glands are prominent. The legs are pinkish to whitish with black patches on the toes.",
+    "Voice": "The calls are mainly higher pitched shrill whistles ti-ti-ti or wik-wik-wik and lower pitched moans ooo-er and or-wik sounds.",
+    "References": "Marchant and Higgins. (1990). Handbook of Australian, New Zealand and Antarctic Birds. Vol.1. Oxford University Press: Melbourne.",
+    "External links": "BirdLife Species Factsheet"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hairy_big-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Micronycteris"
+    },
+    {
+      "Species": "M. hirsuta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The hairy big-eared bat (Micronycteris hirsuta) is a bat species from South and Central America.\n\n\n== References =="
+  }
+}

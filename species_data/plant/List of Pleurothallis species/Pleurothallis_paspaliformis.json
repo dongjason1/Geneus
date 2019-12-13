@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_paspaliformis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. spilantha"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera spilantha is a species of orchid."
+  }
+}

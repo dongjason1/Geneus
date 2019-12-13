@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_lineatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Ramphotyphlops"
+    },
+    {
+      "Species": "R. lineatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ramphotyphlops lineatus, also known as the striped blind snake, striped worm snake, or lined blind snake, is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

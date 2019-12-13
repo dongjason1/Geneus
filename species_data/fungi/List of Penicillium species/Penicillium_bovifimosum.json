@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_bovifimosum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. bovifimosum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium bovifimosum is a fungus species of the genus of Penicillium which was isolated from dry cow manure in Wyoming in the United States.",
+    "Further reading": "Tuthill, Dorothy E.; Frisvad, Jens C. (2002). \"Eupenicillium bovifimosum, a new species from dry cow manure in Wyoming\". Mycologia. 94 (2): 240–6. doi:10.1080/15572536.2003.11833229. PMID 21156493.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

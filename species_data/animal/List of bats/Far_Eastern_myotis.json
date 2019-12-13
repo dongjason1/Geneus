@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Far_Eastern_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. bombinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Far Eastern myotis or bombinus bat, (Myotis bombinus), is a species of mouse-eared bat found in East Asia.  It is widespread but uncommon across the Korean Peninsula, and spends the winter hibernating in caves.",
+    "References": "\nWon, Changman; Kimberly G. Smith (1999). \"History and current status of mammals of the Korean Peninsula\". Mammal Review. 29 (1): 3–33. doi:10.1046/j.1365-2907.1999.00034.x."
+  }
+}

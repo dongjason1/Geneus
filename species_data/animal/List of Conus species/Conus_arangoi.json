@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_arangoi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. arangoi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus arangoi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Distribution": "This species occurs in the Caribbean Sea and the Gulf of Mexico.",
+    "Description": "The maximum recorded shell length is 45.5 mm.",
+    "Habitat": "Minimum recorded depth is 10 m. Maximum recorded depth is 30 m.",
+    "References": "Sarasúa, H. 1977. Dos nuevas formas Cubanas del género Conus (Mollusca: Neogastropoda). Poeyana 165: 1-5\nTucker J.K. & Tenorio M.J. (2009) Systematic classification of Recent and fossil conoidean gastropods. Hackenheim: Conchbooks. 296 pp.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\n\"Purpuriconus arangoi\". Gastropods.com. Retrieved 10 January 2019."
+  }
+}

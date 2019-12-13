@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_onikii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. onikii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus onikii is a species of fungus in the genus Aspergillus.",
+    "References": "",
+    "Further reading": "Visagie, C.M.; Varga, J.; Houbraken, J.; Meijer, M.; Kocsubé, S.; Yilmaz, N.; Fotedar, R.; Seifert, K.A.; Frisvad, J.C.; Samson, R.A. (June 2014). \"Ochratoxin production and taxonomy of the yellow aspergilli (Aspergillus section Circumdati)\". Studies in Mycology. 78: 1–61. doi:10.1016/j.simyco.2014.07.001. PMC 4255584. PMID 25492980.\nShurtleff, William; Aoyagi, Akiko (2012). History of Soy Sauce (160 CE To 2012). Soyinfo Center. ISBN 9781928914440.\nBertho, Alfred; Fodor, Andor (1934). Ergebnisse der Enzymforschung (in German). Akademische Verlagsgesellschaft M.B.H."
+  }
+}

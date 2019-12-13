@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_zonatus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. zonatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus zonatus is a species of fungus in the genus Aspergillus which has been isolated from forest soil in Costa Rica. Aspergillus zonatus produces azonalenin and aszonapyrone A",
+    "References": "",
+    "Further reading": "Machida, edited by Masayuki; Gomi, Katsuya (2010). Aspergillus : molecular biology and genomics. Wymondham, Norfolk, UK: Caister Academic. ISBN 978-1-904-45553-0.CS1 maint: extra text: authors list (link)\nAbbas, edited by Hamed K. (2005). Aflatoxin and food safety. Boca Raton: CRC Taylor & Francis. ISBN 978-1-420-02817-1.CS1 maint: extra text: authors list (link)\nPelletier, edited by S. William; Georgia, the Department of Chemistry University of (1999). Alkaloids chemical and biological perspectives. Amsterdam: Pergamon. ISBN 978-0-080-52702-4.CS1 maint: extra text: authors list (link)\n\"Home - Aspergillus zonatus v1.0\". Genome.jgi.doe.gov."
+  }
+}

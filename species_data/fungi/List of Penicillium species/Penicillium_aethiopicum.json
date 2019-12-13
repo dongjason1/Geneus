@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_aethiopicum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. aethiopicum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium aethiopicum is a fungus species of the genus of Penicillium. Penicillium aethiopicum produces viridicatumtoxin and griseofulvin, two structurally interesting polyketides.",
+    "Further reading": "Polyphasic Taxonomy of subgenus penicillium J.C. Frisvad & R. A. Samson",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

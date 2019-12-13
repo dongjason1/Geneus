@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Little_black_serotine",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. andinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The little black serotine (Eptesicus andinus) is a species of insectivorous vesper bat. It is found in  Colombia, Ecuador, Peru, Venezuela, Bolivia and Brazil at elevations from 100 to 3300 m.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_variabile",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. variabile"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium variabile is an anamorph species of fungus in the genus Penicillium which has been isolated from permafrost deposits. Penicillium variabile produces rugulovasine A and rugulovasine B This species occurs on wheat, flour, maize, rice, and barley, and it is also very common in indoor environments.",
+    "References": "\n\n== Further reading =="
+  }
+}

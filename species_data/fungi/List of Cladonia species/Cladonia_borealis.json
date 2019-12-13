@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cladonia_borealis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Lecanoromycetes"
+    },
+    {
+      "Order": "Lecanorales"
+    },
+    {
+      "Family": "Cladoniaceae"
+    },
+    {
+      "Genus": "Cladonia"
+    },
+    {
+      "Species": "C. borealis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cladonia borealis, commonly known as the boreal cup lichen, is a species of lichen in the genus Cladonia.",
+    "See also": "List of Cladonia species",
+    "References": "",
+    "External links": "[1]\nNorth American Lichen Checklist\nUSDA Plants Database\nList of British Lichens & Lichenicolous Fungi\nLIAS\nMycoBank\nIndex Fungorum\nCatalogue of Life\nEncyclopedia of Life"
+  }
+}

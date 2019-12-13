@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_edentata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. edentata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas edentata is a species of cycad with a widespread distribution across Southeast Asia. It originally referred only to a single population of Cycas from Calusa Island in Cagayancillo, Philippines.\n\n\n== References =="
+  }
+}

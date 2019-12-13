@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_odorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. odorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma odorum is a mushroom of the agaric genus Tricholoma. It was formally described in 1898 by American mycologist Charles Horton Peck.",
+    "See also": "List of North American Tricholoma",
+    "References": "",
+    "External links": "Tricholoma odorum  in Index Fungorum"
+  }
+}

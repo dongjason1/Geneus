@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Handley's_tailless_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Anoura"
+    },
+    {
+      "Species": "A. cultrata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Handley's tailless bat (Anoura cultrata) is a species of bat in the family Phyllostomidae. It is found in Bolivia, Colombia, Costa Rica, Ecuador, Panama, Peru, and Venezuela.\n\n\n== References =="
+  }
+}

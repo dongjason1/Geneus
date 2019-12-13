@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_eduardii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. eduardii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus eduardii is a species of oak tree. Q. eduardii is found in Sierra Fría, Aguascalientes, Mexico, between 2200 and 2600 m above sea level.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_nivea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. nivea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea nivea is a shrub of the genus Grevillea native to a small area in the Great Southern region of Western Australia.",
+    "See also": "List of Grevillea species\n\n\n== References =="
+  }
+}

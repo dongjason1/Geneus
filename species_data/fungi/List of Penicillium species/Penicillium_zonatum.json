@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_zonatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. zonatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium zonatum is an anamorph species of fungus in the genus Penicillium which was isolated from soil. Penicillium zonatum produces xanthomegin, brefeldin A and janthitrem B",
+    "Further reading": "Rudd, L. E.; Perry, J. J.; Houk, V. S.; Williams, R. W.; Claxton, L. D. (1996). \"Changes in mutagenicity during crude oil degradation by fungi\". Biodegradation. 7 (4): 335–43. doi:10.1007/bf00115747. PMID 8987891.\nRobert A. Samson, John I. Pitt (2013). Modern Concepts in Penicillium and Aspergillus Classification. Springer Science & Business Media. ISBN 1-4899-3579-7.\n\n\n== References =="
+  }
+}

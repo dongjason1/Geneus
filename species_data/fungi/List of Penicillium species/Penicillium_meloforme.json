@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_meloforme",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. meloforme"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium meloforme is an anamorph species of the genus Penicillium.",
+    "Further reading": "Robert A. Samson, John I. Pitt (2013). Modern Concepts in Penicillium and Aspergillus Classification. Springer Science & Business Media. ISBN 1489935797.\n\n\n== References =="
+  }
+}

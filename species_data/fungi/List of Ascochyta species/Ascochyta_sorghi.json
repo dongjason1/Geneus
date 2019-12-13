@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_sorghi",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Incertae sedis"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. sorghi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta sorghi is a fungal plant pathogen. It causes Ascochyta leaf spot (also known as rough leaf spot) on barley that can also be caused by the related fungi Ascochyta hordei, Ascochyta graminea and Ascochyta tritici. It is considered a minor disease of barley.",
+    "Hosts and Symptoms": "Ascochyta sorghi infects grain crops such as sorghum (Sorghum bicolor), Johnson grass (Sorghum halepense), Sudan grass (Sorghum sudanense), and barley (Hordeum vulgare). It can also infect wild sorghum species.Symptoms of rough leaf spot can appear on leaf blades, leaf sheaths, peduncles, stalks, and glumes of susceptible species. On sorghum, symptoms are usually noted on leaf blades beginning as small red lesions. Lesions expand over time, becoming broadly-elliptical up to one inch in length. Spots usually develop a tan interior bordered by a dark red to purple color, but can remain a uniform dark color. The presence of black pycnidia exposed on the surface of the lesions give the leaf a rough, sandpapery feeling, hence the name “rough leaf spot.” Rough leaf spot can eventually lead to leaf senescence.",
+    "Management": "Ascochyta sorghi is controlled through host plant resistance, cultural practices, and chemical application when necessary. Varieties of sorghum are not generally susceptible to rough leaf spot, although exceptions do exist. Cultural practices include crop rotation, deep plowing, and avoiding field operations when leaf surfaces are wet. As Ascochyta sorghi survives in plant debris and pycnidia in the soil, crop rotation and deep plowing allow for the avoidance of potential inoculum sources. Other sanitation, such as using clean seed and removing alternate hosts, such as wild sorghum species, can reduce disease incidence. Spores are spread from water splash, and can also be transmitted through contact with field equipment, especially when leaves are wet, so delaying field operations until plants are dry can help prevent spread of the pathogen. If necessary, the application of fungicides can help limit disease severity.",
+    "Importance": "Ascochyta sorghi is found in all sorghum growing areas. Throughout most areas of the Americas, Asia, Africa, and Europe, Ascochyta sorghi causes little crop loss and is considered to have a very low overall impact on sorghum production. The lack of economic importance of rough leaf spot is thought to be due to the prevalence of resistant varieties. However, there are a few areas where it may be more prevalent. Some states in India, such as Madhya Pradesh, have seen severe outbreaks of A. sorghi, where it has the potential to become epidemic. Weimer et al. (1937) reported that A. sorghi had the capacity to become damaging in Georgia. Historically, rough spot has been responsible for crop losses between 3 and 10% in French Equatorial Africa.",
+    "See also": "List of Ascochyta species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

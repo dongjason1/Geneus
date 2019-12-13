@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/African_giant_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Tadarida"
+    },
+    {
+      "Species": "T. ventralis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The African giant free-tailed bat (Tadarida ventralis), or African free-tailed bat is a species of bat in the family Molossidae. It is found in Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Malawi, Mozambique, South Sudan, Tanzania, Zambia, Zimbabwe, and possibly South Africa. Its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+    "Taxonomy and etymology": "It was described as a new species in 1861 by German ornithologist Theodor von Heuglin.\nVon Heuglin placed it in the now-defunct genus Nyctinomus and subgenus Dysopes, with a scientific name of Nyctinomus (Dysopes) ventralis.\nVon Heuglin wrote that it has a wide ventral stripe, likely inspiring its species name \"ventralis.\"",
+    "Description": "Its total body length ranges from 137–152 mm (5.4–6.0 in).\nIts forearm is 61–65 mm (2.4–2.6 in) long; its tail is 53–63 mm (2.1–2.5 in) long; its ears are 20–24 mm (0.79–0.94 in) long.\nIts fur is umber or fulvous-brown in color, with the ventral fur paler than the dorsal side.\nThe ventral side has a distinct white stripe across the middle.",
+    "Range and habitat": "Its range includes several countries in Eastern and Southern Africa, such as The Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Malawi, Mozambique, South Sudan, Tanzania, Zambia, and Zimbabwe.",
+    "Conservation": "It has been called \"the rarest of the African molossids.\"\nThe IUCN currently assesses it as data deficient, meaning that not enough information is available to make an accurate assessment of its conservation needs and priority.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_lombardii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. lombardii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus lombardii is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell attains 29.5 mm. It is similar to Conus kaesleri and Conus spurius",
+    "Distribution": "This marine species of cone snail is known only in the fossil state in the Neogene of the Dominican Republic.",
+    "References": "Hendricks J.R. (2015). Glowing seashells: diversity of fossilized coloration patterns on coral reef-associated cone snail (Gastropoda: Conidae) shells from the Neogene of the Dominican Republic. PLoS ONE. 10(4): e0120924",
+    "External links": "World Register of Marine Species"
+  }
+}

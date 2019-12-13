@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_longicaudus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Myriopholis"
+    },
+    {
+      "Species": "M. longicauda"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The long-tailed threadsnake (Myriopholis longicauda) is a species of snake in the family Leptotyphlopidae. It is endemic to Africa.",
+    "Geographic range": "It is found in eastern Botswana, Kenya, Mozambique, southern Somalia, northeastern South Africa, Tanzania, Zambia, and Zimbabwe.",
+    "References": "",
+    "Further reading": "Peters, W. 1854. Diagnosen neuer Batrachier, welche zusammen mit der früher (24. Juli und 17. August) gegebenen Übersicht der Schlangen und Eidechsen mitgetheilt werden. Bericht über die zur Bekanntmachung geeigneten Verhandlung der Königlich Preussischen Akademie der Wissenschaften zu Berlin, Volume 1854, pp. 614–628. (Stenosoma longicaudum, p. 621.)"
+  }
+}

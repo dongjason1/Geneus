@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_svalbardense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. svalbardense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium svalbardense is a species of fungus in the genus Penicillium which was isolated from arctic glacial ice.",
+    "Further reading": "Sonjak, S; Ursic, V; Frisvad, J. C.; Gunde-Cimerman, N (2007). \"Penicillium svalbardense, a new species from Arctic glacial ice\". Antonie van Leeuwenhoek. 92 (1): 43–51. doi:10.1007/s10482-006-9133-3. PMID 17252316.\n\n\n== References =="
+  }
+}

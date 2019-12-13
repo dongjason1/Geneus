@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_formosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. formosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea formosa, also known as the Mount Brockman grevillea, is a shrub which is endemic to the Northern Territory in Australia.\n\n\n== References =="
+  }
+}

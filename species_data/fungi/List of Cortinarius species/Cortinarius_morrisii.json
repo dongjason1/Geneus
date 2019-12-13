@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_morrisii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. morrisii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius morrisii is a species of fungus in the family Cortinariaceae native to North America. It was described by Peck in 1905.",
+    "References": "",
+    "External links": "Cortinarius morrisii  in Index Fungorum"
+  }
+}

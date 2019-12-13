@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_lupus_mogollonensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. lupus"
+    },
+    {
+      "Subspecies": "C. l. mogollonensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mogollon mountain wolf (Canis lupus mogollonensis) is an extinct subspecies of gray wolf whose range once included southern and western Texas and northeastern Mexico. It is darker than its more northern cousins, and has a highly arched frontal bone.",
+    "Taxonomy": "This wolf is recognized as a subspecies of Canis lupus in the taxonomic authority Mammal Species of the World (2005).Because of its overlapping range with the Mexican wolf, along with the Texas wolf, it was proposed by biologists Bogan and Mehlhop for the Mogollon mountain wolf and the Texas wolf to be considered subspecies as the Mexican wolf. This was because the Mogollon mountain wolf was seen as merely a possible middle subspecies between the Mexican wolf and the Southern Rocky Mountains wolf, thus making it unnecessary to distinguish taxonomically. This was accepted by the US Fish and Wildlife Service in 1982 and a \"zone of subspecies intergradation\" was recognized soon thereafter, extending from the southern Rocky Mountains to the northern tip of the Mexican wolf's range.The NCBI/Genbank has an entry for Canis lupus mogollonensis and a separate entry for Canis lupus baileyi.",
+    "References": "",
+    "External links": "Barry Lopez (2004). Of Wolves and Men. Simon and Schuster. pp. 13–. ISBN 978-0-7432-4936-2."
+  }
+}

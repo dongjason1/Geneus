@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_mongolica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Quercus"
+    },
+    {
+      "Species": "Q. mongolica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus mongolica, commonly known as Mongolian oak, is a species of oak native to Japan, southern Kuriles, Sakhalin, Manchuria, central and northern China, Korea, eastern Mongolia, and eastern Siberia. The species can grow to be 30 m tall.\n\nThe flavono-ellagitannins mongolicin A and B can be found in Quercus mongolica var. grosseserrata.",
+    "References": "",
+    "External links": "line drawing,  Flora of China Illustrations vol. 4, fig. 365, 1-3"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hygrocybe_prieta",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hygrophoraceae"
+    },
+    {
+      "Genus": "Hygrocybe"
+    },
+    {
+      "Species": "H. prieta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hygrocybe prieta is a mushroom of the waxcap genus Hygrocybe. Described as new to science in 1990, it is found in Puerto Rico, where it grows on clay banks under boulders and elevated tree roots.",
+    "See also": "List of Hygrocybe species",
+    "References": "",
+    "External links": "Hygrocybe prieta  in Index Fungorum"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_excelsum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. excelsum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium excelsum is a species of fungus of the genus Penicillium.  The fungus was first detected on Brazil nuts (from Bertholletia excelsa in 2016, closely following on the heels of Aspergillus bertholletius also found in Brazil nuts, described in 2012.    P. glabrum and P. citrinum  were also isolated from the Brazil-nut tree.\n\n\n== References =="
+  }
+}

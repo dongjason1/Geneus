@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miconia_tomentosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Melastomataceae"
+    },
+    {
+      "Genus": "Miconia"
+    },
+    {
+      "Species": "M. tomentosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miconia tomentosa is a species of shrub or treelet in the family Melastomataceae. It is native to South America.\n\n\n== References =="
+  }
+}

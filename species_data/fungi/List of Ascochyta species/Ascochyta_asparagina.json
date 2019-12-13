@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_asparagina",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Incertae sedis"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. asparagina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta asparagina is a fungal plant pathogen.  It causes stem blight (also known as Ascochyta blight) of asparagus, causing loss or death of branches.",
+    "See also": "List of Ascochyta species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database",
+    "References": "Westcott's Plant Disease Handbook, by Cynthia Westcott, Ralph Kenneth Horst"
+  }
+}

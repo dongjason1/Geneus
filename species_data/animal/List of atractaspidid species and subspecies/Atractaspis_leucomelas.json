@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atractaspis_leucomelas",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Atractaspis"
+    },
+    {
+      "Species": "A. leucomelas"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Atractaspis leucomelas, or the Ogaden burrowing asp, is a species of venomous snake in the Atractaspididae family.",
+    "Etymology": "The specific epithet, leucomelas, is derived from New Latin leuco (\"white\") and Greek μέλας (melas,\"black\"), and refers to this snake's \"white and black\" coloration.",
+    "Geographic range": "It is endemic to Africa. The type locality is \"Ogaden, Somaliland\".",
+    "Description": "Dorsally black, with a white vertebral line, occupying one row plus two half rows of dorsal scales. Head white, with a black blotch covering the nasals and the upper head shields; neck entirely black. Ventrals and subcaudals, and four adjacent dorsal scale rows on each side, white.\nSnout very short. Portion of rostral visible from above nearly as long as its distance from the frontal. Suture between the internasals half as long as the suture between the prefrontals. Frontal one and two fifths as long as broad, much longer than its distance from the end of the snout.\nDorsal scales in 23 rows. Ventrals 243; anal entire; subcaudals 27, nearly all entire.\nThe holotype specimen, a female, is 57.5 cm (22 5⁄8 in) in total length, with a tail 4 cm (1 1⁄2 in) long.",
+    "References": "\nBoulenger, G.A. 1895. II. Rettili e batraci. in G. Doria & R. Gestro. Esplorazione del Giuba e dei suoi affluenti compiuta dal cap. V. Bottego durante gli anni 1892-93 sotto gli auspicii della Società Geografica Italiana - Risultati zoologici. Annali Mus. Civ. Stor. Nat. di Genova (2) 15:7-18. (Even though title is in Italian, section written by Boulenger is in English.)"
+  }
+}

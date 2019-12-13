@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_adametzioides",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. adametzioides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium adametzioides is an anamorph fungus species of the genus of Penicillium, which was isolated from decayed Grapes in Cheongsoo in Korea.",
+    "Further reading": "R. a. Samson; J. I. Pitt; Samson A. Samson (31 October 2000). Integration of Modern Taxonomic Methods for Penicillium and Aspergillus Classification. Crc Pr Inc. ISBN 9058231593.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

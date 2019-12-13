@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_acaciae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. acaciae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium acaciae is an anamorph fungus species of the genus Fusarium.\n\n\n== References =="
+  }
+}

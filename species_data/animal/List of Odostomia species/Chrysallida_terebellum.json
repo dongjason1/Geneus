@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chrysallida_terebellum",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Parthenina"
+    },
+    {
+      "Species": "P. terebellum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Parthenina terebellum is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This marine species occurs in the following locations:\nEuropean waters (ERMS scope)\nGreek Exclusive Economic Zone\nPortuguese Exclusive Economic Zone\nSpanish Exclusive Economic Zone\nUnited Kingdom Exclusive Economic Zone\nThe Canaries",
+    "References": "Giannuzzi-Savelli R., Pusateri F., Micali, P., Nofroni, I., Bartolini S. (2014). Atlante delle conchiglie marine del Mediterraneo, vol. 5 (Heterobranchia). Edizioni Danaus, Palermo, pp. 1– 111 with 41 unnumbered plates (figs. 1-363), appendix pp. 1–91 page(s): 66, appendix p. 21",
+    "External links": "To CLEMAM\nTo Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

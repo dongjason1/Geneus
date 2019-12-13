@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_lucaya",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. lucaya"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus lucaya is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell grows to a length of 28 mm.",
+    "Distribution": "This marine species occurs off the Bahamas.",
+    "References": "Tucker J.K. & Tenorio M.J. (2013) Illustrated catalog of the living cone shells. 517 pp. Wellington, Florida: MdM Publishing.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea\n\"Poremskiconus abrolhosensis\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

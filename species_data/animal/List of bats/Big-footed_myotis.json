@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Big-footed_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. macrodactylus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The eastern long-fingered bat, or big-footed myotis (Myotis macrodactylus) is a species of vesper bat.  An adult big-footed myotis has a body length of 4.1-4.8 cm, a tail of 3.1-4.9 cm, and a wing length of 3.7-4.2 cm. It nests in groups, and favors caves, tunnels and abandoned mines.  It can be found in Korea, Japan from the Amami Islands in the south to Hokkaido in the north, as well as in eastern Siberia and Sakhalin in Russia.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_tube-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Murina"
+    },
+    {
+      "Species": "M. leucogaster"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater tube-nosed bat (Murina leucogaster) is a species of bat.  An adult greater tube-nosed bat has a body length of 4.2-5.7 cm, a tail length of 3.6-4.1 cm, and a wing length of 3.7-4.4 cm.  The species is found in India, Mongolia, China, and Korea.",
+    "See also": "List of placental mammals\nList of mammals of Korea",
+    "References": "\nWon, Byeong-o (원병오) (2004). 한국의 포유동물 (Hangugui poyudongmul, Mammals of Korea). Seoul: Dongbang Media. ISBN 89-8457-310-8."
+  }
+}

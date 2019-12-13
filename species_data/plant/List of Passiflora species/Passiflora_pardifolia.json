@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Passiflora_pardifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Passifloraceae"
+    },
+    {
+      "Genus": "Passiflora"
+    },
+    {
+      "Species": "P. pardifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Passiflora pardifolia is a small Passiflora with very distinct leaf markings. The leaf markings of P. pardifolia look very similar to the dumbcane. The fruits of P. pardifolia looks similar to the blueberry."
+  }
+}

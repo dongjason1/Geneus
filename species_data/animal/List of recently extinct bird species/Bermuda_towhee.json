@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bermuda_towhee",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Passerellidae"
+    },
+    {
+      "Genus": "Pipilo"
+    },
+    {
+      "Species": "P. naufragus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bermuda towhee (Pipilo naufragus) is an extinct passerine of the towhee genus Pipilo that was confined to Bermuda. It was a large member of the genus and closely related to the eastern towhee. The scientific description was in 2012, based on Pleistocene and Holocene remains from Quaternary cave deposits. 38 bones from at least five individuals are known.\n\nAn old travel report by William Strachey who was shipwrecked on Bermuda from 1609 to 1610 might refer to that species. He wrote in 1625: Sparrowes fat and plumpe like a Bunting, bigger then ours.",
+    "References": "\nOlson, Storrs L.; Wingate, David B. (2012). \"A new species of towhee (Aves: Emberizidae: Pipilo) from Quaternary deposits on Bermuda\". Proceedings of the Biological Society of Washington 125 (1): 85–96.\nOlson, Storrs L.; Hearty, Paul J. (2009). \"A Sustained +21 m Sea-Level Highstand during MIS 11 (400 Ka): Direct Fossil and Sedimentary Evidence from Bermuda\". Quaternary Science Reviews, 28(3-4): 271-285"
+  }
+}

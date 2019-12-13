@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Huahine_swamphen",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "Porphyrio"
+    },
+    {
+      "Species": "P. mcnabi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Huahine swamphen (Porphyrio mcnabi) was a species of bird in the family Rallidae. It was a small swamphen endemic to Huahine in the Society Islands of French Polynesia.  It is known only from subfossil remains found at the Fa'ahia archaeological site on the island.  Fa'ahia is an early Polynesian occupation site with radiocarbon dates ranging from 700 CE to 1200 CE.  The swamphen is only one of a suite of birds found at the site which became extinct either locally or globally following human occupation of the island.",
+    "Etymology": "The species was named after Brian K. McNab to recognise his research on the evolution and ecology of flightless birds, especially rails, on oceanic islands.",
+    "References": "\nKirchman, Jeremy J.; & Steadman, David W. (2 April 2006). New Species of Rails (Aves: Rallidae) From an Archaeological Site on Huahine, Society Islands. Pacific Science 60: 281.[1]"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guzmania_morreniana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Guzmania"
+    },
+    {
+      "Species": "G. morreniana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Guzmania morreniana is a plant species in the genus Guzmania. This species is native to Bolivia and Ecuador.",
+    "References": "Checklist of Bolivian Bromeliaceae Retrieved 21 October 2009\nCatalogue of Vascular Plants of Ecuador Retrieved 12 October 2009"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lenis_woolly_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Kerivoula"
+    },
+    {
+      "Species": "K. lenis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lenis woolly bat (Kerivoula lenis) is a species of bat in the family Vespertilionidae. It is found in India and Malaysia.",
+    "Taxonomy and etymology": "It was described as a new species in 1916 by British zoologist Oldfield Thomas.\nIts species name \"lenis\" is Latin for \"soft.\"",
+    "Range and habitat": "It is found in South and Southeast Asia in India, Malaysia, and Indonesia.\n\n\n== References =="
+  }
+}

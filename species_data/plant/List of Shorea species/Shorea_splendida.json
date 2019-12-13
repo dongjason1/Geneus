@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shorea_splendida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Dipterocarpaceae"
+    },
+    {
+      "Genus": "Shorea"
+    },
+    {
+      "Species": "S. splendida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Shorea splendida is a species of plant in the Dipterocarpaceae family. It is a tree endemic to Borneo.  It is threatened by habitat loss.",
+    "Sources": "\nAshton, P. 1998.  Shorea splendida.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Little_tube-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Murina"
+    },
+    {
+      "Species": "M. aurata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The little tube-nosed bat (Murina aurata) is a species of bat.  An adult little tube-nosed bat has a body length of 4.0-4.6 cm, a tail length of 2.8-3.6 cm, and a wing length of 3.0-3.3 cm.  The species is found across South and East Asia, from the Indian subcontinent to the Korean Peninsula.",
+    "References": "",
+    "External links": "IUCN\nZipcode Zoo"
+  }
+}

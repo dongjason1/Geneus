@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_haytensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. haytensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus haytensis is a fossil species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell varies between 21 mm and 36 mm.",
+    "Distribution": "This marine species is only known in the fossil state and was found in the Neogene of the Dominican Republic.",
+    "References": "Hendricks J.R. (2015). Glowing seashells: diversity of fossilized coloration patterns on coral reef-associated cone snail (Gastropoda: Conidae) shells from the Neogene of the Dominican Republic. PLoS ONE. 10(4): e0120924",
+    "External links": "World Register of Marine Species"
+  }
+}

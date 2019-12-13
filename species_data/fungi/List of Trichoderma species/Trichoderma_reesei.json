@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_reesei",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. reesei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma reesei is a mesophilic and filamentous fungus. It is an anamorph of the fungus Hypocrea jecorina.\nT. reesei can secrete large amounts of cellulolytic enzymes (cellulases and hemicellulases). Microbial cellulases have industrial application in the conversion of cellulose, a major component of plant biomass, into glucose.T. reesei isolate QM6a was originally isolated from the Solomon Islands during World War II because of its degradation of canvas and garments of the US army.  All strains currently used in biotechnology and basic research were derived from this isolate.Recent advances in the biochemistry of cellulase enzymology, the mechanism of cellulose hydrolysis (cellulolysis), strain improvement, molecular cloning and process engineering are bringing T. reesei cellulases closer to being a commercially viable route to cellulose hydrolysis. Several industrially useful strains have been developed and characterised, e.g. Rut-C30, RL-P37 and MCG-80. The genome was released in 2008. T. reesei has a mating type-dependent characterised sexual cycle.",
+    "Sexual development": "T. reesei QM6a has a MAT1-2 mating type locus.  The opposite mating type, MAT1-1, was recently found, proving that T. reesei is a heterothallic species.  After being regarded as asexual since its discovery more than 50 years ago, sexual reproduction can now be induced in T. reesei QM6a leading to formation of fertilized stromata and mature ascospores.",
+    "Use in industry": "T. reesei is an important commercial and industrial micro-organism due to its cellulase production ability. Many strains of T. reesei have been developed since its discovery, with heavy emphasis on increasing cellulase production. These improvement programs originally consisted of classical (ionising-radiation-based and chemical-based) mutagenesis, which led to strains capable of producing 20 times as much cellulase as QM6a.The ultimate aim in the creation of hypercellulolytic strains was to obtain a carbon catabolite derepressed strain. This derepression would allow the T. reesei strain to produce cellulases under any set of growth conditions, even in the presence of glucose.  However, with the advent of modern genetic engineering tools such as targeted deletion, targeted knockout, and more, a new generation of strains dubbed \"hyperproducers\" has emerged. Some of the highest performing industrial strains produce up to 100 grams of cellulases per litre, more than 3 times as much as the RUT-C30 strain (which itself produces twice as much as the parent strain NG14 from which it was derived).T. reesei is used in the creation of stonewashed jeans. The cellulase produced by the fungus partially degrades the cotton material in places, making it soft and causing the jeans to look as if they had been washed using stones.",
+    "See also": "Cellobiohydrolase (CBH)\nCellulosic ethanol\nEndoglucanase (EG)",
+    "References": "",
+    "External links": "Risk Assessment Summary, CEPA 1999. Trichoderma reesei 1391A\nRisk Assessment Summary, CEPA 1999. Trichoderma reesei P59G\nRisk Assessment Summary, CEPA 1999. Trichoderma reesei P210A\nRisk Assessment Summary, CEPA 1999. Trichoderma reesei P345A\nhttps://web.archive.org/web/20061006145854/http://www.eere.energy.gov/cleancities/progs/afdc/vwbs2.cgi?200\nTrichoderma spp.\nfrom genencor DNA sequence and Trichoderma reesei EST Database and Mitochondrial Genome.\nNidetzky B, Steiner W, Claeyssens M (November 1994). \"Cellulose hydrolysis by the cellulases from Trichoderma reesei: adsorptions of two cellobiohydrolases, two endocellulases and their core proteins on filter paper and their relation to hydrolysis\". Biochem. J. 303 (Pt 3): 817–23. doi:10.1042/bj3030817. PMC 1137620. PMID 7980450.\nMiettinen-Oinonen A, Suominen P (August 2002). \"Enhanced production of Trichoderma reesei endoglucanases and use of the new cellulase preparations in producing the stonewashed effect on denim fabric\". Appl. Environ. Microbiol. 68 (8): 3956–64. doi:10.1128/AEM.68.8.3956-3964.2002. PMC 124001. PMID 12147496.\nCBH I from Trichoderma sp..\nCBH I from Trichoderma sp..\nMedve J, Ståhlberg J, Tjerneld F (November 1994). \"Adsorption and synergism of cellobiohydrolase I and II of Trichoderma reesei during hydrolysis of microcrystalline cellulose\". Biotechnol. Bioeng. 44 (9): 1064–73. doi:10.1002/bit.260440907. PMID 18623023. This article incorporates public domain material from websites or documents of the United States Department of Energy."
+  }
+}

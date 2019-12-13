@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_prolifica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. prolifica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula prolifica is a species of edible mushroom found in Madagascar. It is found under Eucalyptus robusta plantations there and has only become abundant in the past seventy years or so.",
+    "See also": "List of Russula species\n\n\n== References =="
+  }
+}

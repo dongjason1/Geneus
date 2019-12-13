@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lactarius_salmoneus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Lactarius"
+    },
+    {
+      "Species": "L. salmoneus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lactarius salmoneus is an edible species of fungus belonging to the genus Lactarius, and classified under the family Russulaceae. It is native to North America. L. salmoneus is not to be confused with Lactarius salmonicolor, a species native to Europe.",
+    "Description": "The mushroom has a white cap, with vividly orange lamellas that can be decurrent or adnate. The cap is slightly depressed in the center, and becomes reddish when bruised. The stipe is white and velvety but has orange flesh inside. It grows usually in waterlogged soil.\n\n\n== References =="
+  }
+}

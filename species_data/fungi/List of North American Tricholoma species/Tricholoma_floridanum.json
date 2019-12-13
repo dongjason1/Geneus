@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_floridanum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. floridanum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma floridanum is a mushroom of the agaric genus Tricholoma. It was first formally described by William Alphonso Murrill in 1945.",
+    "See also": "List of North American Tricholoma",
+    "References": "",
+    "External links": "Tricholoma floridanum  in Index Fungorum"
+  }
+}

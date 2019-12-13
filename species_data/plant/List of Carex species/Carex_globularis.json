@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_globularis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Species": "C. globularis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex globularis is a perennial species of sedge in the family Cyperaceae native to damp forests and wetlands of Asia and Eastern Europe."
+  }
+}

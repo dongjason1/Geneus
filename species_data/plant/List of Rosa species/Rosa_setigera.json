@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rosa_setigera",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Rosa"
+    },
+    {
+      "Species": "R. setigera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rosa setigera, commonly known as the climbing rose, is a shrub in the rose family native to central and eastern North America.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Albizia_obbiadensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Albizia"
+    },
+    {
+      "Species": "A. obbiadensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Albizia obbiadensis is a species of legume in the family Fabaceae.\nIt is found only in Somalia.",
+    "References": "Thulin, M. (1998). \"Albizia obbiadensis\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T34515A9872624. doi:10.2305/IUCN.UK.1998.RLTS.T34515A9872624.en. Retrieved 18 December 2017."
+  }
+}

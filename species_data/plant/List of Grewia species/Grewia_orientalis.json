@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grewia_orientalis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Malvaceae"
+    },
+    {
+      "Genus": "Grewia"
+    },
+    {
+      "Species": "G. orientalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grewia orientalis is a species of flowering plant in India and Sri Lanka.",
+    "References": "",
+    "External links": "Linnean-online.org\nUniprot.org\nIndiabiodiversity.org"
+  }
+}

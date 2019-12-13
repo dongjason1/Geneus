@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_saronae",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. saronae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum saronae is a species of orchid in the genus Bulbophyllum.",
+    "References": "The Bulbophyllum-Checklist\nThe Internet Orchid Species Photo Encyclopedia"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_skinneri",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. skinneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus skinneri is a species of plant in the Fagaceae family. It is found in El Salvador, Guatemala, Honduras, and Mexico. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

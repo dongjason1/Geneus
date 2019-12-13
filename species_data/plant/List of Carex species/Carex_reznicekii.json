@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_reznicekii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Carex"
+    },
+    {
+      "Section": "Carex sect. Acrocystis"
+    },
+    {
+      "Species": "C. reznicekii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex reznicekii, known as Reznicek's sedge, is a species of Carex native to North America. It is a perennial.",
+    "References": "It is listed as endangered within Connecticut by state authorities.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Impressed_tortoise",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Testudinoidea"
+    },
+    {
+      "Family": "Testudinidae"
+    },
+    {
+      "Genus": "Manouria"
+    },
+    {
+      "Species": "M. impressa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The impressed tortoise (Manouria impressa), occurs in mountainous forest areas in Southeast Asia in Burma, southern China, Thailand, Laos, Vietnam, Cambodia, Malaysia and Northeast India. The species has a golden brown shell and skin. Adults are much smaller than their relatives the Asian forest tortoise (Manouria emys), with a maximum size of 35 cm (14 in) carapace length.\nThe impressed tortoise lives at high elevations, up to 2,000 m (6,600 ft). Its behavior is little known; diet in the wild may consist largely of mushrooms, although bamboo shoots are also eaten. The species is known for being difficult to keep alive in captivity; although its status in the wild is uncertain, it is eaten widely by local people and little captive breeding has occurred.",
+    "See also": "Biology portal",
+    "References": "",
+    "Further reading": "Günther A (1882). \"Description of a new Species of Tortoise (Geoemyda impressa) from Siam\". Proc. Zool. Soc. London 1882: 343-346.",
+    "External links": "Fritz U, Havaš P (2007). Checklist of Chelonians of the World.  Website.\nEspenshade, William H.; Buskirk, James. Manouria impressa (Günther 1882): A Summary of Known & Anecdotal Information. [1]. California Turtle & Tortoise Club."
+  }
+}

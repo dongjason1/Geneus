@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_petraea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. petraea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas petraea is a species of cycad endemic to Thailand.\nIt is known only from a single line of limestone mountains flanking the Phu Kra Dueng massif to the east, in Phu Kradueng National Park, Loei Province, Thailand.\n\n\n== References =="
+  }
+}

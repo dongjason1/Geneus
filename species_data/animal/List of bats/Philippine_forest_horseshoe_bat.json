@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Philippine_forest_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. inops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Philippine forest horseshoe bat (Rhinolophus inops) is a species of bat in the family Rhinolophidae. It is endemic to the Philippines.\n\n\n== References =="
+  }
+}

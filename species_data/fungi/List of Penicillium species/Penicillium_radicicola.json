@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_radicicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. radicicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium radicicola is a species of fungus in the genus Penicillium which produces Roquefortine C and occurs on onions.\n\n\n== References =="
+  }
+}

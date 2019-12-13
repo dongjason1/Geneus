@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Insular_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. insularum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The insular myotis (Myotis insularum) is one of over 100 of species of vesper bat in the genus Myotis. It is found in possibly American Samoa and possibly Samoa.\n\n\n== References =="
+  }
+}

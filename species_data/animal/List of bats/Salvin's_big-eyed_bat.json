@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvin's_big-eyed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Chiroderma"
+    },
+    {
+      "Species": "C. salvini"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvin's big-eyed bat (Chiroderma salvini) is a species of bat in the family Phyllostomidae. It is found in Bolivia, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Panama, Peru, and Venezuela.\n\n\n== References =="
+  }
+}

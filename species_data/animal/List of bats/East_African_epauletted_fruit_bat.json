@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/East_African_epauletted_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Epomophorus"
+    },
+    {
+      "Species": "E. minimus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The East African epauletted fruit bat (Epomophorus minimus) is a species of megabat in the family Pteropodidae. It is found in Ethiopia, Kenya, Somalia, Tanzania, and Uganda. Its natural habitats are dry savanna and rocky areas. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

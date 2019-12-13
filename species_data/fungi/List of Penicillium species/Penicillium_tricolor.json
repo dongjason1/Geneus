@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_tricolor",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. tricolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium tricolor is a species of fungus in the genus Penicillium which was isolated from wheat in Canada. Penicillium tricolor produces xanthomegnin, viomellein, vioxanthin, terrestric acid, rugulosuvine, verrucofortine, puberuline, asteltoxin",
+    "Further reading": "Qu, Yang; Lian, Bin (2013). \"Bioleaching of rare earth and radioactive elements from red mud using Penicillium tricolor RM-10\". Bioresource Technology. 136: 16–23. doi:10.1016/j.biortech.2013.03.070. PMID 23548400.\nMills, J T; Frisvad, J C; Seifert, K A; Abramson, D (1995). \"Identification of Nephrotoxic Penicillium Species from Cereal Grains\". Mycotoxin Research. 11 (1): 25–35. doi:10.1007/BF03192059. PMID 23606033.\n\n\n== References =="
+  }
+}

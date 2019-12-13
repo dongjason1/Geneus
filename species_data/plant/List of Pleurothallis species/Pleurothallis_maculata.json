@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_maculata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. recurva"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera recurva is a species of orchid."
+  }
+}

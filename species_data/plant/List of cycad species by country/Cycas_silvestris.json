@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_silvestris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. silvestris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas silvestris is a species of cycad.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_subarcticum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. subarcticum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium subarcticum is a species of fungus in the genus Penicillium.",
+    "Further reading": "Peterson, Stephen W.; Sigler, Lynne (2002). \"Four new Penicillium species having Thysanophora-like melanized conidiophores\". Mycological Research. 106 (9): 1109. doi:10.1017/S0953756202006433.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phylloderma",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "PhyllodermaPeters, 1865"
+    },
+    {
+      "Species": "P. stenops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pale-faced bat (Phylloderma stenops) is a bat species from South and Central America.\n\n\n== References =="
+  }
+}

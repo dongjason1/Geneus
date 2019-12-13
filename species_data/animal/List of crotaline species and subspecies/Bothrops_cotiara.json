@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_cotiara",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. cotiara"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops cotiara is a species of venomous snake in the  family Viperidae. It is endemic to Brazil and Argentina.",
+    "Etymology": "The specific name, cotiara, is taken from one of its common names.",
+    "Common names": "Boicoatiara, boicotiara, boiquatiara, coatiara, jararaca-de-barriga-preta, jararaca-preta, and quatiara.",
+    "Geographic range": "It is found in Argentina in Misiones Province; and in Brazil in the states of Paraná, Rio Grande do Sul, Santa Catarina, and São Paulo.The type locality is \"Núcleo Colonial Cruz Machado, [município de] Marechal Mallet, Estado do Paraná, Brasil\".",
+    "References": "",
+    "Further reading": "Gomes, J.F. 1913. Uma nova cobra venenosa do Brasil. Annaes Paulistas de Medicina e Cirurgia 1: 65-67. (Lachesis cotiara)"
+  }
+}

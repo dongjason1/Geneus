@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_deflectus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. deflectus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus deflectus is a species of fungus in the genus Aspergillus. It produces a group of antimicrobial chemical compounds known as deflectins. Aspergillus deflectus is in rare cases pathogenic. It is from the Usti section.",
+    "Growth and morphology": "A. deflectus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Gupta, Vijai Kumar (2016). New and Future Developments in Microbial Biotechnology and Bioengineering: Aspergillus System Properties and Applications. Elsevier. ISBN 9780444635136.\nRahman, Atta-ur- (2005). Studies in Natural Products Chemistry: Indices. Elsevier. ISBN 9780080481203.\nJang, SS; Dorr, TE; Biberstein, EL; Wong, A (April 1986). \"Aspergillus deflectus infection in four dogs\". Journal of Medical and Veterinary Mycology : Bi-monthly Publication of the International Society for Human and Animal Mycology. 24 (2): 95–104. PMID 3723291."
+  }
+}

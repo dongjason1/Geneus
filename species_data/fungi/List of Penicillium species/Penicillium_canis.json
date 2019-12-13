@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_canis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. canis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium canis is a fungus species of the genus of Penicillium which was isolated from a dog which suffered from osteomyelitis.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

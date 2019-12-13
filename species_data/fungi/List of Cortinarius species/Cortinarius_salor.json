@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_salor",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Myxacium"
+    },
+    {
+      "Species": "C. salor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius salor is a basidiomycete fungus of the genus Cortinarius native to Europe and Asia, spreading as far east as Japan and New Guinea.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius salor  in Index Fungorum"
+  }
+}

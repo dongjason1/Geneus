@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Contraconus_tryoni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Contraconus"
+    },
+    {
+      "Species": "†C. tryoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Contraconus tryoni is an extinct species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.",
+    "References": "\nHeilprin, Angelo. Explorations on the West Coast of Florida and in the okeechobee wilderness: with special reference to the geology and zoology of the Floridian Peninsula. Vol. 1. Wagner Free Institute of Science of Philadelphia, 1887."
+  }
+}

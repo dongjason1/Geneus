@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brazilian_brown_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. brasiliensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Brazilian brown bat (Eptesicus brasiliensis), is a bat species from South and Central America.\n\n\n== References =="
+  }
+}

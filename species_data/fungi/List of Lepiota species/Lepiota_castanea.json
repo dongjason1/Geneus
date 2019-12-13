@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lepiota_castanea",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Agaricaceae"
+    },
+    {
+      "Genus": "Lepiota"
+    },
+    {
+      "Species": "L. castanea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lepiota castanea, commonly known as the chestnut dapperling, is a dangerously poisonous, uncommon, gilled mushroom of the genus Lepiota in the order Agaricales. It is known to contain amatoxins and consuming this fungus can be a potentially lethal proposition. It was described by French mycologist Lucien Quélet in 1881.\nIt has white gills and spores. They typically have rings on the stems, which in larger fungi are detachable and glide up and down the stem.\nIt can be found in coniferous and deciduous woodlands, mostly singly or in small groups.",
+    "Description": "The cap is broadly bell shaped to flat, dark red-brown; soon splitting and scaly, up to 3 cm in diameter.\nThe spores and flesh are white, with a mild taste. The stem is typically chestnut brown.",
+    "Toxicity": "Like several other species of the genus Lepiota, it contains amatoxins which can result in severe liver toxicity.",
+    "See also": "List of deadly fungi\nList of Lepiota species",
+    "References": "E. Garnweidner. Mushrooms and Toadstools of Britain and Europe. Collins. 1994."
+  }
+}

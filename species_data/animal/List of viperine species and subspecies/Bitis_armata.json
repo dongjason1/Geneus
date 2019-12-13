@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bitis_armata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bitis"
+    },
+    {
+      "Species": "B. armata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The southern adder (Bitis armata) is a species of venomous snake in the  family Viperidae. It is endemic to South Africa.\n\n\n== References =="
+  }
+}

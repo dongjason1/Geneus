@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_clavigerum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. clavigerum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium clavigerum is a fungus species of the genus of Penicillium which produces fumigaclavine A and fumigaclavine B",
+    "See also": "List of Penicillium species",
+    "References": "",
+    "Further reading": "Carlile, M. J.; Dickens, J. S. W.; Schipper, M. A. A. (1962). \"The development of coremia\". Transactions of the British Mycological Society. 45 (4): 462. doi:10.1016/S0007-1536(62)80004-7.\nStierle, A. A.; Stierle, D. B.; Mitman, G. G.; Snyder, S; Antczak, C; Djaballah, H (2014). \"Phomopsolides and related compounds from the alga-associated fungus, Penicillium clavigerum\". Natural Product Communications. 9 (1): 87–90. PMID 24660471."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chestnut-winged_chachalaca",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Cracidae"
+    },
+    {
+      "Genus": "Ortalis"
+    },
+    {
+      "Species": "O. garrula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The chestnut-winged chachalaca (Ortalis garrula) is a species of bird in the family Cracidae. It is found only in Colombia. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and heavily degraded former forest.\n\n\n== References =="
+  }
+}

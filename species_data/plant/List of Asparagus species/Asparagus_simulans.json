@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Asparagus_simulans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Asparagoideae"
+    },
+    {
+      "Genus": "Asparagus"
+    },
+    {
+      "Species": "A. simulans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Asparagus simulans is a species of Asparagus native to Madagascar. Asparagus simulans was described by English botanist John Gilbert Baker in 1875.",
+    "Synonyms": "Asparagus madagascariensis Baker\nAsparagus rusciformis Brongn. ex H.Perrier\nAsparagus ternatus Brongn. ex H.Perrier",
+    "References": "Baker, J. Linn. Soc., Bot. 14: 609 (1875)\nThe Plant List entry\ne-Monocot entry"
+  }
+}

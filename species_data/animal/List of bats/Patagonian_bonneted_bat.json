@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Patagonian_bonneted_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Eumops"
+    },
+    {
+      "Species": "E. patagonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Patagonian bonneted bat (Eumops patagonicus), also called the Patagonian dwarf bonneted bat, is a species of free-tailed bat found in Argentina, Bolivia and Paraguay.",
+    "Taxonomy and etymology": "It was described as a new species in 1924 by British zoologist Oldfield Thomas.\nThomas had obtained the holotype from Argentinean-Italian scientist Roberto Dabbene, who worked in Buenos Aires at the time.\nIts species name \"patagonicus\" means \"belonging to Patagonia.\"\nThe Patagonian bonneted bat was widely considered a subspecies of the dwarf bonneted bat (Eumops bonariensis) from approximately 1932 until the 1990s.\nBased on Gregorin et al.'s 2016 classification, the Patagonian bonneted bat is a member of the bonariensis species group of the genus Eumops.\nOther members include the dwarf bonneted bat, E. delticus, and E. nanus.",
+    "Description": "It is a small member of its genus, with a forearm length of 44 mm (1.7 in).\nIts head and body is 54 mm (2.1 in); its tail is 31 mm (1.2 in) long; its ears are 14.5 mm (0.57 in) long.",
+    "Range and habitat": "Its range includes several countries in southern South America, including Argentina, Bolivia, and Paraguay.",
+    "Conservation": "It is currently evaluated as least concern by the IUCN—its lowest conservation priority.\nIt meets the criteria for this assessment because it has a large range, its population size is likely large, and it is not thought to be in rapid population decline.\n\n\n== References =="
+  }
+}

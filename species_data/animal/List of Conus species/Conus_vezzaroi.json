@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_vezzaroi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. vezzaroi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus vezzaroi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The length of the shell varies between 40 mm and 70 mm.",
+    "Distribution": "This marine species of cone snail occurs off the Philippines.",
+    "References": "\nCossignani T. (2016). Pionoconus vezzaroi (Gastropoda: Prosobranchia: Conidae) nuova specie dalle Filippine. Malacologia Mostra Mondiale. 93: 28"
+  }
+}

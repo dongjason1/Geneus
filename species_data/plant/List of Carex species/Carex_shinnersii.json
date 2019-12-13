@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_shinnersii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. shinnersii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex shinnersii is a species of sedge described in 2001. It is native to North America, found in Arkansas, Kansas, Oklahoma, and Texas.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Violet-eared_waxbill",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Uraeginthus"
+    },
+    {
+      "Species": "U. granatinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The violet-eared waxbill or common grenadier (Uraeginthus granatinus) is a common species of estrildid finch found in drier land of Southern Africa. It has an estimated global extent of occurrence of 2,300,000 km².\nThe phylogeny has been obtained by Antonio Arnaiz-Villena et al.",
+    "Habitat": "It is found in subtropical/ tropical (lowland) dry shrubland and savanna habitats in Angola, Botswana, Mozambique, Namibia, South Africa, Zambia and Zimbabwe. The status of the species is evaluated as Least Concern.",
+    "References": "BirdLife Species Factsheet",
+    "External links": "Violet-eared waxbill - Species text in The Atlas of Southern African Birds."
+  }
+}

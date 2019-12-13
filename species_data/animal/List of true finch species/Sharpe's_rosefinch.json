@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sharpe's_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. verreauxii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sharpe's rosefinch (Carpodacus verreauxii), is a species of finch in the family Fringillidae.  It is found in central China and far northern Myanmar. Its natural habitat is subtropical or tropical high-altitude shrubland. It was formerly considered to be a subspecies of the spot-winged rosefinch.\nThe common name commemorates  the British zoologist Richard Bowdler Sharpe.",
+    "References": "\nRasmussen, P.C. 2005. Revised species limits and field identification of Asian rosefinches. BirdingAsia number 3: 18-27.\nRasmussen, P.C., and J.C. Anderton. 2005. Birds of South Asia. The Ripley guide. Volume 2: attributes and status. Smithsonian Institution and Lynx Edicions, Washington D.C. and Barcelona"
+  }
+}

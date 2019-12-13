@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_quasimagus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. quasimagus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus quasimagus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail^occurs off the Philippines.",
+    "References": "\nBozzetti L. (2016). Pionoconus quasimagus (Gastropoda: Prosobranchia: Conidae) nuove specie dalle Filippine meridionali. Malacologia Mostra Mondiale. 92: 13-14."
+  }
+}

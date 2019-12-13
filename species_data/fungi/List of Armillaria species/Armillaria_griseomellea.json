@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_griseomellea",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Basidiomycetes"
+    },
+    {
+      "Subclass": "Agaricomycetidae"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. griseomellea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria griseomellea is a species of mushroom in the Physalacriaceae family. This species is found in South America.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

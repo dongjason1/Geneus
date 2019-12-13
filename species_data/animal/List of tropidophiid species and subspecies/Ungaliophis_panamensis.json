@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ungaliophis_panamensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Tropidophiidae"
+    },
+    {
+      "Genus": "Ungaliophis"
+    },
+    {
+      "Species": "U. panamensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ungaliophis panamensis, or the Panamanian dwarf boa, is a species of snake in the family Tropidophiidae. It is native to Nicaragua, Costa Rica, Panama, and Colombia.\n\n\n== References =="
+  }
+}

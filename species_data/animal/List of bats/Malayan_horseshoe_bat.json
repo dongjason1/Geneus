@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malayan_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. malayanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malayan horseshoe bat (Rhinolophus malayanus) is a species of bat in the family Rhinolophidae. It is found in Cambodia, Laos, Malaysia, Myanmar, Thailand, and Vietnam.\n\n\n== References =="
+  }
+}

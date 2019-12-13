@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_flavisclerotiatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. flavisclerotiatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium flavisclerotiatum is a species of the genus of Penicillium which was isolated from soil of the Stellenbosch mountain in Fynbos in South Africa.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

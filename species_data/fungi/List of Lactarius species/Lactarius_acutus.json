@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lactarius_acutus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Lactarius"
+    },
+    {
+      "Species": "L. acutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lactarius acutus is a member of the large milk-cap genus Lactarius in the order Russulales. Found in Guinea, the species was described in 1955 by French botanist Roger Heim.",
+    "See also": "List of Lactarius species",
+    "References": "",
+    "External links": "Lactarius acutus  in Index Fungorum"
+  }
+}

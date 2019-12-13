@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Encyclia_conchichila",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Encyclia"
+    },
+    {
+      "Species": "E. flava"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Encyclia flava is a species of orchid found in South America.\nThe diploid chromosome number of E. flava has been determined as 2n = 40.",
+    "Footnotes and external links": "\n\"Encyclia flava\" at the Encyclopedia of Life"
+  }
+}

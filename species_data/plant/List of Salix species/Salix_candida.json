@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_candida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. candida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix candida, also known as sageleaf willow, is a shrub in the Salicaceae family found in northern United States and Canada. It is 0.5 to 3.5 m tall.",
+    "References": "",
+    "External links": "Salix candida"
+  }
+}

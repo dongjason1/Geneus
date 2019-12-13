@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Melck's_house_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Neoromicia"
+    },
+    {
+      "Species": "N. melckorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Melck's house bat (Neoromicia melckorum) is a species of vesper bat.\nIt is found in Democratic Republic of the Congo, Kenya, Malawi, Mozambique, South Africa, Tanzania, Zambia, Zimbabwe and Madagascar.\nIts natural habitats are dry savanna and moist savanna.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_teaguei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. teaguei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "For the Australian species called northern blind snake, see Anilios diversus\n\nThe northern blind snake (Epictia teaguei) is a species of snake in the family Leptotyphlopidae. The species is endemic to South America.",
+    "Etymology": "The specific name, teaguei, is in honor of Gerard Warden Teague (1885–1974), a herpetologist and ichthyologist who was born in England and worked in South America.",
+    "Geographic range": "E. teaguei is found in northern Peru.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Epictia teaguei, new combination).\nOrejas-Miranda BR (1964). \"Dos nuevos Leptotyphlopidae de Sur America \". Comunicaciones Zoológicas del Museo de Historia Natural de Montevideo 8 (103): 1-7. (Leptotyphlops teaguei, new species). (in Spanish)."
+  }
+}

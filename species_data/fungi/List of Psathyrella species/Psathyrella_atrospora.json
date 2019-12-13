@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psathyrella_atrospora",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Psathyrellaceae"
+    },
+    {
+      "Genus": "Psathyrella"
+    },
+    {
+      "Species": "P. atrospora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psathyrella atrospora is a species of mushroom in the family Psathyrellaceae. Found in North America, it was described as new to science in 1972 by mycologist Alexander H. Smith.",
+    "References": "",
+    "External links": "Psathyrella atrospora  in Index Fungorum"
+  }
+}

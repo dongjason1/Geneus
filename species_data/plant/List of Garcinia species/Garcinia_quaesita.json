@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Garcinia_quaesita",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Clusiaceae"
+    },
+    {
+      "Genus": "Garcinia"
+    },
+    {
+      "Species": "G. quaesita"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Garcinia quaesita is a species of flowering plant in the family Clusiaceae. It is found only in Sri Lanka.",
+    "Common names": "English: red mango, Indian tamarind, brindleberry\nSinhala: kana goraka, honda goraka\nTamil: korakkaipuli",
+    "Etymology": "The generic name is after L. Garcin (1683–1751)\n\n\n== References =="
+  }
+}

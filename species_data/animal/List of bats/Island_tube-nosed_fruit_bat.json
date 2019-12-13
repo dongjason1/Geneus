@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Island_tube-nosed_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Nyctimene"
+    },
+    {
+      "Species": "N. major"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The island tube-nosed fruit bat (Nyctimene major) is a species of bat in the family Pteropodidae. It is found in Papua New Guinea and the Solomon islands.\n\n\n== References =="
+  }
+}

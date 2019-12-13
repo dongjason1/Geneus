@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Japanese_robin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Muscicapidae"
+    },
+    {
+      "Genus": "Larvivora"
+    },
+    {
+      "Species": "L. akahige"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Japanese robin (Larvivora akahige, formerly Erithacus akahige) or komadori is a small passerine bird in the family Muscicapidae.\nThe name \"Japanese robin\" is also sometimes used for the red-billed leiothrix (Leiothrix lutea). The specific name akahige is, somewhat confusingly, the common name of its relative Larvivora komadori in Japanese.The Japanese robin, together with the Ryukyu robin and the European robin, was previously placed in the genus Erithacus . A 2006 molecular phylogenetic study found that the two east Asian species were more similar to the Siberian blue robin, at the time in Luscinia, than to the European robin. In 2010 a large study confirmed this result and also found that Luscinia was non-monophyletic. The genus Larvivora was therefore resurrected to accommodate a clade containing the Japanese robin, the Ryukyu robin, the Siberian blue robin and several other species that had previously been placed in Luscinia.",
+    "References": "",
+    "External links": "Recordings of the robin's song"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yemen_linnet",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Linaria"
+    },
+    {
+      "Species": "L. yemenensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Yemen linnet (Linaria yemenensis) is a species of finch in the Fringillidae family. It is found in Saudi Arabia and Yemen. Its natural habitat is subtropical or tropical dry shrubland.\nThe Yemen linnet was formerly placed in the genus Carduelis but was moved to the genus Linaria based on a phylogenetic analysis of mitochondrial and nuclear DNA sequences.\n\n\n== References =="
+  }
+}

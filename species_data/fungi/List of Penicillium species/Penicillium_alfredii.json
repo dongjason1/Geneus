@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_alfredii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. alfredii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium alfredii is a fungus species of the genus of Penicillium which is named after Alfred P. Sloan.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

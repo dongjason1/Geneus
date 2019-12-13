@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Xenocalamus_michelli",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Xenocalamus"
+    },
+    {
+      "Species": "X. michelli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Xenocalamus michelli, or Michell's quill-snouted snake, is a species of venomous rear-fanged snake in the family Lamprophiidae. The species is endemic to Africa.",
+    "Etymology": "The specific name, michelli, is in honor of a Captain Michell who collected the holotype.",
+    "Geographic range": "X. michelli is found in Katanga Province in southern Democratic Republic of the Congo.",
+    "Reproduction": "X. michelli is oviparous.",
+    "References": "",
+    "Further reading": "Müller L (1911). \"Zwei neue Schlangen aus dem Katangadistrikt, Kongostaat \". Zoologischer Anzeiger 38: 357-360. (Xenocalamaus michelli, new species, pp. 359-360). (in German)."
+  }
+}

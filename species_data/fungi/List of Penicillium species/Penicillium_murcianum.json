@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_murcianum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. murcianum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium murcianum is an anamorph species of the genus Penicillium.",
+    "Further reading": "Ramírez, C.; Martínez, A. T. (1981). \"Seven new species of Penicillium and a new variety of Penicillium novae-caledoniae Smith\". Mycopathologia. 74: 35. doi:10.1007/BF00441440.\nRobert Samson (2013). Advances in Penicillium and Aspergillus Systematics. Springer Science & Business Media. ISBN 147571856X.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Macquarie_rail",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "Gallirallus"
+    },
+    {
+      "Species": "G. philippensis"
+    },
+    {
+      "Subspecies": "G. p. macquariensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Macquarie rail (Gallirallus philippensis macquariensis), also known as the Macquarie Island rail, is an extinct subspecies of the buff-banded rail endemic to Macquarie Island, a subantarctic island that is part of the state of Tasmania, Australia. The holotype is in the collection of the Museum of New Zealand Te Papa Tongarewa.",
+    "Distribution and habitat": "The rail was confined to Macquarie Island, where it occupied tussock grassland.",
+    "Extinction": "The probable cause of extinction was predation by feral cats and wekas, exacerbated by habitat destruction caused by rabbits.  Although the rail had coexisted with the cats for over 70 years, the introduction of rabbits enabled an increase in the cat population, leading to increased predation on rails in winter with the rabbits at seasonally low numbers.",
+    "References": "",
+    "External links": " Data related to Gallirallus philippensis macquariensis at Wikispecies"
+  }
+}

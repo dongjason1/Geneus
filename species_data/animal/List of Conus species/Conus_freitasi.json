@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_freitasi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. freitasi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus freitasi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The length of the shell varies between 10.8 mm and 15.9 mm.",
+    "Distribution": "This marine species of cone snail occurs off the Cape Verdes.",
+    "References": "",
+    "External links": "Tenorio M.J., Afonso C.M.L., Rolán E., Pires S., Vasconcelos P., Abalde S. & Zardoya R. (2017). DNA sequences disclose a new species of Africonus cone snail from São Vicente (Gastropoda: Conidae). Zoologia Caboverdiana. 6(2): 32-41"
+  }
+}

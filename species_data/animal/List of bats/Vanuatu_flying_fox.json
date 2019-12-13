@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vanuatu_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. anetianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Vanuatu flying fox or white flying fox (Pteropus anetianus) is a species of flying fox in the family Pteropodidae. It is endemic to Vanuatu.  It is most closely related to the Samoa flying fox.\n\n\n== References =="
+  }
+}

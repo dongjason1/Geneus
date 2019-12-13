@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gould's_emerald",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Apodiformes"
+    },
+    {
+      "Family": "Trochilidae"
+    },
+    {
+      "Genus": "Chlorostilbon"
+    },
+    {
+      "Species": "C. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Gould's emerald (Chlorostilbon elegans) is an extinct species of hummingbird in the family Trochilidae. It was described based on a single specimen taken in 1860; it is of unknown origin, but Jamaica or the Bahamas are likely sources. Except for the type specimen, there are no records, and it is presumed extinct. While there is no information about the exact cause of extinction, the likely reasons include the loss of habitat or required food plants, and predation by introduced mammals.\n\n\n== References =="
+  }
+}

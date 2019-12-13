@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fouquieria_formosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Fouquieriaceae"
+    },
+    {
+      "Genus": "Fouquieria"
+    },
+    {
+      "Species": "F. formosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fouquieria formosa is a species of Fouquieria in the ocotillo family, native to central and southern Mexico (Chiapas, Oaxaca, Guerrero, Puebla, Morelos, Michoacán, México State, Distrito Federal, Jalisco).",
+    "Description": "Fouquieria formosa is a large shrub or small tree growing to 10 m in height and has spines and red-orange flowers. The flowers are pollinated by hummingbirds.",
+    "References": "\nPhoto of herbarium specimen at Field Museum in Chicago, collected in Morelos in 1969"
+  }
+}

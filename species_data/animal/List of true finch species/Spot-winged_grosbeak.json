@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Spot-winged_grosbeak",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Mycerobas"
+    },
+    {
+      "Species": "M. melanozanthos"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The spot-winged grosbeak (Mycerobas melanozanthos) is a species of finch in the family Fringillidae, found in middle to higher elevations.  It is found in the Indian subcontinent and parts of Southeast Asia.  Its range includes Bhutan, India, Laos, Myanmar, Nepal, Pakistan, Thailand, Tibet and Vietnam. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical moist montane forests.",
+    "Phylogeny": "Eophona genus goes together with Mycerobas genus. Both genera form a single phylogenetic group.\n\n\n== References =="
+  }
+}

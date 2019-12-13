@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pond_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. dasycneme"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pond bat (Myotis dasycneme) is a species of vesper bat. It is found in Eurasia from France to Russia and Kazakhstan.",
+    "Physical characteristics": "The bat is medium-sized, with a noticeably short tragus for a species in the genus Myotis. Fur is thick and black-brown at the base, with brownish or yellowish-grey fur on the dorsal side and white-grey or yellow-grey fur on the ventral side.",
+    "Status": "The species is endangered. A large decline in numbers has occurred in the west of its range, especially in the Netherlands, where many nursery sites have been lost. On a global scale the species is only near threatened, but detailed data from the eastern population is needed to draw reliable conclusions.",
+    "Habitat": "In the summer this species nests in lowland regions with areas of water, meadows and woods, with winter roosts also occurring in the foothills of mountains. The record for the altitude of a M. dasycneme  roost is 1000 meters above sea level, with winter roosts not normally occurring more than 300 meters above sea level. Summer roosts are mostly in roof spaces or church towers, with individuals sometimes found nesting in hollow trees.",
+    "Reproduction": "Females reach sexual maturity in the second year. The mating season is from the end of August, with nursery roosts then becoming occupied the following may with 40-400 females, although rarely any males. The maximum recorded age is 19 years.\nMost summer nursery roosts are in human buildings, typically in areas such as attics and church steeples. Occasionally, pond bats also roost in trees and nest boxes.",
+    "Hunting": "Pond bats hunt over calm or still water, such as canals, rivers and lakes, where they feed on insects emerging from the water. Prey is often taken directly from the water's surface.",
+    "Echolocation": "Echolocation is done with FM singles between 60 and 24 kHz, with a 5-8 millisecond duration. The call sequence occurs every 115 milliseconds on average, with approximately 8-10 signals per second. Signal range is between 5 and 21 meters. \n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Blue-banded_kingfisher",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Coraciiformes"
+    },
+    {
+      "Family": "Alcedinidae"
+    },
+    {
+      "Subfamily": "Alcedininae"
+    },
+    {
+      "Genus": "Alcedo"
+    },
+    {
+      "Species": "A. euryzona"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The blue-banded kingfisher (Alcedo euryzona), is a species of kingfisher in the subfamily Alcedininae. Its natural habitats are subtropical or tropical moist lowland forest, subtropical or tropical mangrove forest, and rivers.",
+    "Taxonomy": "The first formal description of the blue-banded kingfisher was by the Dutch zoologist Coenraad Jacob Temminck in 1830. In his initial publication the binomial name was incorrectly printed as Alcedo cryzona but this was later corrected to Alcedo euryzona. The specific epithet euryzona is from the classical Greek eurus meaning \"broad\" and zōnē meaning \"band\" or \"belt\".Two subspecies are recognised:\nA. e. peninsulae Laubmann, 1941 – south Myanmar, Malay Peninsula, Sumatra,  southwestern Thailand and Borneo\nA. e. euryzona Temminck, 1830 – JavaIn a world list of non-passerine species published in 2014, del Hoyo and colleagues promoted A. e. peninsulae to species status with the vernacular name \"Malay blue-banded kingfisher\".",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

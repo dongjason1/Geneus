@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dwarf_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. woodfordi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The dwarf flying fox, least flying fox, or least fruit bat (Pteropus woodfordi) is a species of flying fox in the family Pteropodidae. It is endemic to the Solomon Islands.  It is threatened by deforestation, which is believed to damage roosting sites in old growth forests.\n\n\n== References =="
+  }
+}

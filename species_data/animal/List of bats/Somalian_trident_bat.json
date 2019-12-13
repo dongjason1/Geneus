@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Somalian_trident_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Asellia"
+    },
+    {
+      "Species": "A. italosomalica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Somalian trident bat (Asellia italosomalica) is a species of bat found in the Horn of Africa.",
+    "Taxonomy": "The Somalian trident bat was described as a new subspecies of the trident bat (A. tridens) by Oscar de Beaux in 1931.\nDe Beaux gave it the trinomen A. tridens italosomalica.\nIt was maintained as a subspecies until 2011, when Benda et al. published that this population had a genetic distance of more than 12% from other members of its genus.\nThey stated that this difference was enough to justify elevating it from a subspecies to a species.",
+    "Biology and ecology": "It is a nocturnal species, roosting in sheltered places during the day such as caves.\nIt is colonial, with these cave roosts consisting of up to 1,000 individuals.",
+    "Range and habitat": "The Somalian trident bat is found in the Horn of Africa in Somalia, as well as the Yemeni island of Socotra.\nIt inhabits arid areas such as savanna, shrubland, grassland, and desert.",
+    "Conservation": "As of 2017, it is evaluated as a data deficient species by the IUCN.\nIt meets the criteria for this designation because it was only recently recognized as a full species, and as such, information is lacking regarding its ecology and distribution.\n\n\n== References =="
+  }
+}

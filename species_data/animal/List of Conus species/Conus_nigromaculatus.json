@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_nigromaculatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. nigromaculatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus nigromaculatus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 20 mm and 46 mm.",
+    "Distribution": "This marine species  occurs in the Red Sea (Dahlak Archipelago) and off Eritrea .",
+    "References": "Tucker J.K. & Tenorio M.J. (2009) Systematic classification of Recent and fossil conoidean gastropods. Hackenheim: Conchbooks. 296 pp\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Asprella nigromaculata\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

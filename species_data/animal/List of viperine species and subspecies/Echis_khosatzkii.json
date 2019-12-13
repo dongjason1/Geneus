@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Echis_khosatzkii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Echis"
+    },
+    {
+      "Species": "E. khosatzkii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Echis khosatzkii is a species of venomous viper.",
+    "Geographic range": "The snake is found in Oman and eastern Yemen.\n\n\n== References =="
+  }
+}

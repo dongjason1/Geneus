@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Emarginachelys",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Clade": "Americhelydia"
+    },
+    {
+      "Genus": "†EmarginachelysWhetstone, 1978"
+    },
+    {
+      "Species": "†E. cretacea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Emarginachelys cretacea is a turtle belonging to the group Cryptodira, known from well preserved fossils from the Maastrichtian stage of the Late Cretaceous of Montana. Its exact phylogenetic position within Cryptodira is uncertain; different authors considered it to be either the earliest described chelydrid or a fossil relative of kinosternoids.\n\n\n== References =="
+  }
+}

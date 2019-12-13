@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_rubi",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. rubi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella rubi is a fungal plant pathogen.",
+    "See also": "List of Mycosphaerella species",
+    "References": "",
+    "External links": "USDA ARS Fungal Database"
+  }
+}

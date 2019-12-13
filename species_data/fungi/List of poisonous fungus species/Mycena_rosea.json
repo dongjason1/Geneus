@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_rosea",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. rosea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena rosea, commonly known as the rosy bonnet, is a species of mushroom in the Mycenaceae family. First named Agaricus roseus in 1803 by Danish botanist  Heinrich Christian Friedrich Schumacher, it was given its present name in 1912 by Gramberg.",
+    "Description": "The cap initially has a convex shape before flattening; its diameter may reach up to 6 cm (2.4 in).",
+    "Description-Similar species": "Mycena sororius is a closely related species that has been reliably distinguished from M. rosea by the electrophoretic migration of isozymes, as well as having larger spores—7.5–8.5 to 10 by 4.8–5.5 µm, compared to 6.5–9 by 4.5–5 µm for M. rosea.",
+    "Bioactive compounds": "The fruit bodies of Mycena rosea contain two red alkaloid pigments that are unique to this species. Named mycenarubin A, and mycenarubin B, these chemicals are related to the so-called damirones that are found in marine sponges.",
+    "See also": "List of bioluminescent fungi\n\n\n== References =="
+  }
+}

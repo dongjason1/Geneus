@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_chalybeum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. chalybeum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium chalybeum is a fungus species of the genus of Penicillium which was isolated from dried fish in Sri Lanka.",
+    "Further reading": "John I. Pitt, Ailsa D. Hocking (2009). Fungi and Food Spoilage (3 ed.). Springer Science & Business Media. ISBN 0387922075.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

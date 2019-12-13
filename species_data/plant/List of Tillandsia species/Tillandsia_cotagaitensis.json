@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_cotagaitensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Tillandsia subg. Diaphoranthema"
+    },
+    {
+      "Species": "T. cotagaitensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia cotagaitensis is a species in the genus Tillandsia. This species is endemic to Bolivia.",
+    "References": "\nChecklist of Bolivian Bromeliaceae Retrieved 21 October 2009"
+  }
+}

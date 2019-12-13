@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_steinhausi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. steinhausi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Steinhaus's worm snake (Afrotyphlops steinhausi) is a species of snake in the family Typhlopidae. The species is endemic to Central Africa.",
+    "Etymology": "The specific name, steinhausi, is in honor of Carl Otto Steinhaus (1870–1919) of the Naturhistorisches Museum zu Hamburg.",
+    "Geographic range": "It is found in Cameroon, Central African Republic, Democratic Republic of the Congo, Nigeria, and Republic of the Congo.",
+    "References": "",
+    "Further reading": "Broadley DG, Wallach V (2009). \"A review of the eastern and southern African blind-snakes (Serpentes: Typhlopidae), excluding Letheobia Cope, with the description of two new genera and a new species\". Zootaxa 2255: 1-100. (Afrotyphlops steinhausi, new combination, p. 34).\nWerner F (1909). \"Über neue oder seltene Reptilien des Naturhistorischen Museums in Hamburg. I. Schlangen \". Jahrbuch der Hamburgischen Wissenschaftlichen Anstalten 26 (Supplement 2): 205-247. (Typhlops steinhausi, new species, pp. 209–210). (in German)."
+  }
+}

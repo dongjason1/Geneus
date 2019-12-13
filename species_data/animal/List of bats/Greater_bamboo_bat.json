@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_bamboo_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Tylonycteris"
+    },
+    {
+      "Species": "T. robustula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater bamboo bat (Tylonycteris robustula) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore and Thailand.\nIt has two subspecies:\n\nTylonycteris robustula malayana\nTylonycteris robustula robustula",
+    "References": "\nChina's Tiny Bats By Libiao Zhang in Volume 6, Number 9 - September 2008 issue of \"Bat Conservation Times\"."
+  }
+}

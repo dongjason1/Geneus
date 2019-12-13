@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Liotyphlops_anops",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Anomalepididae"
+    },
+    {
+      "Genus": "Liotyphlops"
+    },
+    {
+      "Species": "L. anops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Liotyphlops anops is a species of snake in the family Anomalepididae. It is endemic to Colombia.\n\n\n== References =="
+  }
+}

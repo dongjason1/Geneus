@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_adoxoides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. adoxoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia adoxoides is a perennial plant that is native to Guangxi province in China, found growing in hillside fields at 200 m (660 ft) elevation. S. adoxoides grows on red stems to a height of 11 cm (4.3 in), with mostly basal leaves. Inflorescences are 2-flowered widely spaced verticillasters in racemes, with a 9 mm (0.35 in) white corolla.\n\n\n== Notes =="
+  }
+}

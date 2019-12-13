@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_ducphuongi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. ducphuongi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus ducphuongi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "",
+    "Distribution": "This species occurs off Vietnam",
+    "References": "\nThach N.N. (2017). New shells of Southeast Asia. Sea shells & Land snails. 48HrBooks Company. 128 pp.  page(s): 27, figs 274-280\n\n\n== External links =="
+  }
+}

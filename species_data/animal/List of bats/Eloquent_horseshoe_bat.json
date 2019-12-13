@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eloquent_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. eloquens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The eloquent horseshoe bat (Rhinolophus eloquens) is a species of bat in the family Rhinolophidae. It is found in Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Tanzania, and Uganda. Its natural habitats are subtropical or tropical moist lowland forests, dry savanna, moist savanna, and caves. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pandanus_ceylanicus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Pandanales"
+    },
+    {
+      "Family": "Pandanaceae"
+    },
+    {
+      "Genus": "Pandanus"
+    },
+    {
+      "Species": "P. ceylanicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pandanus ceylanicus is a monocot species of plant in the family Pandanaceae. It is endemic to Sri Lanka. It is a prostrate shrub.",
+    "Sources": "http://www.theplantlist.org/tpl/record/kew-285792",
+    "References": "http://mpnet.ior-rcstt.com/node/3358\nhttp://e-monocot.org/taxon/urn:kew.org:wcs:taxon:285792\nhttp://plants.jstor.org/specimen/br0000006941772?history=true&"
+  }
+}

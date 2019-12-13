@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_catoglypta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. catoglypta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia catoglypta is a shrub endemic to Western Australia.",
+    "References": "\"Banksia catoglypta\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

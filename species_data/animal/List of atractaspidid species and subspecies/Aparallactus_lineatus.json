@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aparallactus_lineatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Aparallactus"
+    },
+    {
+      "Species": "A. lineatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aparallactus lineatus, or the lined centipede-eater, is a species of venomous rear-fanged snake in the family Atractaspididae.",
+    "Geographic range": "It is endemic to western Africa. More specifically, it is found in Cameroon, Ghana, Guinea, and Liberia.",
+    "Description": "Dorsally it is olive, with three dark longitudinal lines, to which the specific name, lineatus, refers. Ventrally it is closely speckled with dark gray on the ventral and subcaudal scales.\nTotal length 44 cm (17 1⁄4 in); tail 57 mm (2 1⁄4 in).\nDorsal scales smooth, without pits, in 15 rows. Ventrals 168; anal plate entire; subcaudals 41, entire.\nPortion of rostral visible from above ⅓ as long as its distance from the frontal. A single prefrontal (very unusual), which forms a suture with the preocular. Frontal 1½ as long as broad, as long as its distance from the end of the snout, shorter than the parietals. Nasal entire, in contact with the preocular. One post ocular. A single temporal (most other species of Aparallactus have temporals 1+1). Seven upper labials, third and fourth entering the eye, fifth and sixth in contact with the parietal. First lower labial in contact with its fellow behind the mental. Two pairs of subequal chin shields, the anterior in contact with three lower labials.",
+    "References": "\nPeters, W. 1870. Eine Mitteilung über neue Amphibien (...Uriechis...) des Königlich-zoologischen Museums. Monatsber. Akad. Wiss. Berlin. p. 643, plate i, figure 3."
+  }
+}

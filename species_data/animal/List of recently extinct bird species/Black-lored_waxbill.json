@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-lored_waxbill",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Estrilda"
+    },
+    {
+      "Species": "E. nigriloris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-lored waxbill (Estrilda nigriloris) is a species of estrildid finch found around the Lualaba River and Lake Upemba in the southern part of The Democratic Republic of the Congo. It has an estimated global extent of occurrence of less than 2,600 km2.",
+    "Habitat": "It is usually found in grassy plains with tall grasses and bushes, in small flocks. Most of the black-lored waxbill population is probably within the Upemba National Park but it is unclear to what extent its habitat is protected by the authority.",
+    "References": "",
+    "External links": "BirdLife International species factsheet"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_atrovenetum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. atrovenetum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium atrovenetum is a fungus species of the genus of Penicillium.",
+    "Further reading": "H. Raistrick, A. Stössl: Studies in the biochemistry of micro-organisms. 104. Metabolites of Penicillium atrovenetum G. Smith: β-nitropropionic acid, a major metabolite*[1]",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

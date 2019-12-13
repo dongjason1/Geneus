@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Clapperton's_francolin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "Pternistis"
+    },
+    {
+      "Species": "P. clappertoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Clapperton's francolin (Pternistis clappertoni) is a species of bird in the family Phasianidae.\nIt is found in Cameroon, Central African Republic, Chad, Eritrea, Ethiopia, Mali, Mauritania, Niger, Nigeria, Sudan, and Uganda.\n\n\n== References =="
+  }
+}

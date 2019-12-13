@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Vipera"
+    },
+    {
+      "Species": "V. renardi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Vipera renardi is a species of viper in the family Viperidae. This species is found in Ukraine, Russia, Kazakhstan, Kirgiziya, Uzbekistan, Tadzikistan, Mongolia, and China. It is venomous.\n\n\n== References =="
+  }
+}

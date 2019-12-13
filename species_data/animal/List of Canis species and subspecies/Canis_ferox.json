@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_ferox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. ferox"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Canis ferox (Latin: canis: dog, ferox: fierce; hence fierce dog) is a species of canid which was endemic to North America and lived during the Late Miocene and Early Pliocene, existing for approximately 5 million years. The first fossil was found in Rancho Viejo, central Mexico.\n\n\n== References =="
+  }
+}

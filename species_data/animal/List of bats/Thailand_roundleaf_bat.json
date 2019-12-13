@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Thailand_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. halophyllus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Thailand roundleaf bat (Hipposideros halophyllus) is a species of bat in the family Hipposideridae. It is endemic to Thailand.",
+    "Distribution": "Hipposideros halophyllus is found in:\nKhao Samor Khon, Lopburi Province (1,000-1,400 individuals)\nPha Daeng Cave, Chiang Mai Province (fewer than 200 individuals)\nKhao Singto, Sa Kaeo Province (fewer than 200 individuals)\nTon Chan Cave, Saraburi Province\nKhao Yoi Cave, Phetchaburi Province\n\n\n== References =="
+  }
+}

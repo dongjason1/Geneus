@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. camerunensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater roundleaf bat (Hipposideros camerunensis) is a species of bat in the family Hipposideridae found in Cameroon, the Democratic Republic of the Congo, and Kenya.\n\n\n== References =="
+  }
+}

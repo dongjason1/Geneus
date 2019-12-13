@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dobson's_epauletted_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Epomops"
+    },
+    {
+      "Species": "E. dobsonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dobson's epauletted fruit bat, or Dobson's fruit bat (Epomops dobsonii) is a species of megabat in the family Pteropodidae. It is found in Angola, Democratic Republic of the Congo, Malawi, Mozambique, Rwanda, Tanzania, and Zambia. Its natural habitat is dry savanna.\n\n\n== References =="
+  }
+}

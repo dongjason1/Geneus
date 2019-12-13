@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_quercifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. quercifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea quercifolia, commonly known as the oak-leaf grevillea, is a shrub native to the southwest of Western Australia.\n\n\n== References =="
+  }
+}

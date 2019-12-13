@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Parnell's_mustached_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Mormoopidae"
+    },
+    {
+      "Genus": "Pteronotus"
+    },
+    {
+      "Species": "P. parnellii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Parnell's mustached bat (Pteronotus parnellii) is an insectivorous bat native to North, Central and South America. This bat species ranges from southern Sonora, Mexico, south to Brazil. It has a wider historical range; fossil specimens have been collected on the island of New Providence in the Bahamas.",
+    "History": "The bat was named for the British zoologist Richard Parnell.",
+    "Biology": "This is a large bat with a forearm length of about 60 millimeters. The ears are short and pointed, and lack noseleafs. The lips are wrinkled up and modified into a funnel shape.\nThis bat is most common in moist habitat types, and it can be found in some dry deciduous forests. It is mostly nocturnal, roosting in caves and mines during the day and emerging shortly after sunset for 5 to 7 hours of activity.Parnell's mustached bat is an insectivore, taking a variety of insects such as beetles, moths, flies, and dragonflies. While many insectivorous bats prefer river habitats for the availability of aquatic insects, this bat generally hunts in non-river habitats due to the availability of more nutritious food items. This comes a greater energy cost, as non-river habitats typically have more foliage, which requires increased maneuverability.Females gather in warm caves with other species, including the Cuban flower bat (Phyllonycteris poeyi), during the breeding season. They give birth around July and nurse pups until around October. The pups only leave the safety of their birth cave to forage and hunt when their forearm length reaches adult size. In all species, the calls of newborn pups vary from those of mature bats. Typically the frequency of their calls increases with age.",
+    "Biology-Echolocation": "The echolocation behavior of this species has been documented. Parnell's mustached bat produces calls that consist of a long constant frequency (CF). These calls are mixed with brief frequency modulations (FM), and are harmonic, consisting of a second, more intense constant frequency of about 61 kHz. The bat uses the long CF portion to evaluate relative motion, and the terminal downward FM to determine target distance. In addition to this sonar, the species has several other modes of communication. It is the only bat in the family Mormoopidae to have evolved Doppler-sensitive sonar due to the long CF call component.",
+    "References": "",
+    "Further reading": "Buden, Donald W. (1986). \"Distribution of Mammals of the Bahamas\". Florida Field Naturalist. 14 (3): 53–84."
+  }
+}

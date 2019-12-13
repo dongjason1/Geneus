@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ceratozamia_zoquorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Ceratozamia"
+    },
+    {
+      "Species": "C. zoquorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ceratozamia zoquorum is a species of cycad in the family Zamiaceae endemic to northwestern Chiapas, Mexico.",
+    "References": "Whitelock, Loran M. 2002. The Cycads. Portland: Timber Press. ISBN 0-88192-522-5",
+    "External links": "*  Data related to Ceratozamia zoquorum at Wikispecies"
+  }
+}

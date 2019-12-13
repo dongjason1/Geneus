@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_viridiflava",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. viridiflava"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria viridiflava is a species of agaric fungus in the family Physalacriaceae. This species is found in South America.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

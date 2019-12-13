@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_hortonii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. hortonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus hortonii is a fungus of the genus Boletus native to the United States. First described as variety corrugis of Boletus subglabripes by Charles Horton Peck in 1897, it was given its current name in 1971 by mycologists Alexander H. Smith and Harry Delbert Thiers.",
+    "See also": "List of Boletus species\nList of North American boletes",
+    "References": "",
+    "External links": "Boletus hortonii  in Index Fungorum"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Melanella_conoidea",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Caenogastropoda"
+    },
+    {
+      "Superfamily": "Eulimoidea"
+    },
+    {
+      "Family": "Eulimidae"
+    },
+    {
+      "Genus": "Melanella"
+    },
+    {
+      "Species": "M. conoidea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Melanella conoidea is a species of sea snail, a marine gastropod mollusk in the family Eulimidae. The species is one of many species known to exist within the genus, Melanella.",
+    "Distribution": "This species occurs in the following locations:\nCaribbean Sea\nColombia\nCosta Rica\nCuba\nGulf of Mexico\nLesser Antilles\nMexico\nPuerto Rico\nVenezuela",
+    "Description": "The maximum recorded shell length is 12.7 mm.",
+    "Habitat": "Minimum recorded depth is 0 m. Maximum recorded depth is 538 m.",
+    "References": "\n\n== External links =="
+  }
+}

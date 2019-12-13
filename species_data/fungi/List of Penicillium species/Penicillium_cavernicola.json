@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_cavernicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. cavernicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium cavernicola is a psychrotolerant fungus species of the genus of Penicillium which is found in cool caves.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

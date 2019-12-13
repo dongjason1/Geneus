@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_obtusum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. obtusum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum obtusum is a species of orchid in the genus Bulbophyllum. The color of its flowers vary from all white to all yellow and are found in forests at elevations of 700 to 2200 ft.",
+    "References": "\nThe Bulbophyllum-Checklist\nThe Internet Orchid Species Photo Encyclopedia"
+  }
+}

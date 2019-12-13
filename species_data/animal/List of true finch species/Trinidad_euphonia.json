@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trinidad_euphonia",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Euphoniinae"
+    },
+    {
+      "Genus": "Euphonia"
+    },
+    {
+      "Species": "E. trinitatis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Trinidad euphonia (Euphonia trinitatis) is a species of bird in the family Fringillidae.\nIt is found in northern Colombia, Trinidad and Tobago, and Venezuela.\nIts natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and heavily degraded former forest.\n\n\n== References =="
+  }
+}

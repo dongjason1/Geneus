@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-headed_siskin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Spinus"
+    },
+    {
+      "Species": "S. notatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-headed siskin (Spinus notatus), also known in Belize as the Jonny Bee, is a species of finch in the Fringillidae family.\nIt is found in Belize, El Salvador, Guatemala, Honduras, Mexico, and Nicaragua.\nIts natural habitats are subtropical or tropical moist montane forests and heavily degraded former forest.",
+    "Systematics": "This species is considered the extant \"father\" of the South American siskin radiation.",
+    "Evolution": "This bird is one of the extant parental species of one of the Spinus/Carduelis North American radiation which extended to South America after closing of the Isthmus of Panama . The species S. atratus, S. crassirostris, S. spinescens, S. yarrelli, S. magellanicus, S. olivaceus, S. xanthogastrus, and S. barbatus are believed to have resulted from this radiation.",
+    "References": "\n\n== Further reading =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_columbi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. columbi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The  San Salvador blind snake (Epictia columbi) is a species of snake in the family Leptotyphlopidae.",
+    "Etymology": "The specific name, columbi, is in honor of Christopher Columbus.",
+    "Geographic range": "It is endemic to San Salvador Island in The Bahamas.",
+    "References": "",
+    "Further reading": "Klauber LM (1939). \"Three New Worm Snakes of the Genus Leptotyphlops\". Trans. San Diego Soc. Nat. Hist. 9 (14): 59-65. (Leptotyphlops columbi, new species, pp. 62–64 + Figures 3a & 3b on p. 65)."
+  }
+}

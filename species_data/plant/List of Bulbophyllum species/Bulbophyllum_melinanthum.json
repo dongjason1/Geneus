@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_melinanthum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. melinanthum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum melinanthum is a species of orchid in the genus Bulbophyllum. Also known as the millet-like bulbophyllum, it can be found in the forests of New Guinea.",
+    "References": "\nThe Bulbophyllum-Checklist\nThe Internet Orchid Species Photo Encyclopedia"
+  }
+}

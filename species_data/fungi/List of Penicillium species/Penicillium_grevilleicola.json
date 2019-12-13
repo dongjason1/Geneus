@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_grevilleicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. grevilleicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium grevilleicola is a species of the genus of Penicillium which was isolated from Grevillea ilicifolia.\n\n\n== References =="
+  }
+}

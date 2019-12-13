@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Szechwan_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. altarium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Szechwan myotis (Myotis altarium) is a species of vesper bat. It is found in China and Thailand.\n\n\n== References =="
+  }
+}

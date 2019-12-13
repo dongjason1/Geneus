@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_sanguineus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. sanguineus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus sanguineus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans. Commonly, they are known as cone snails.",
+    "Description": "The size of the shell varies between 38 mm and 78 mm. The spire is concavely elevated, not coronated. The body whorl is smooth, slightly striate below. It is irregularly marbled with chestnut and white, with equidistant chestnut revolving lines bearing white, granularly elevated spots.",
+    "Distribution": "This marine species occurs off the Lesser Antilles and from the Bahamas to Venezuela",
+    "Interactions with Humans": "Cone snails are typically not aggressive, so when humans are stung by them it's usually due to handling the snails. Cone snails have a small dagger like tooth that injects their prey with a \"rapid acting venom\". Mild stings feel similar to a bee sting with a burning or stinging sensation. Other symptoms include \"fainting..., itching, loss of coordination, heart failure, difficulty speaking, difficulty breathing, and double vision. Some stings can cause more severe symptoms such as cyanosis, numbness in the limbs, paralysis, coma or even death. Symptoms may appear just a few minutes after a sting or possibly days after.",
+    "References": "Kiener L.C. 1844-1850. Spécies général et iconographie des coquilles vivantes. Vol. 2. Famille des Enroulées. Genre Cone (Conus, Lam.), pp. 1-379, pl. 1-111 [pp. 1-48 (1846); 49-160 (1847); 161-192 (1848); 193-240 (1849); 241-[379](assumed to be 1850); plates 4,6 (1844); 2-3, 5, 7-32, 34-36, 38, 40-50 (1845); 33, 37, 39, 51-52, 54-56, 57-68, 74-77 (1846); 1, 69-73, 78-103 (1847); 104-106 (1848); 107 (1849); 108-111 (1850)]. Paris, Rousseau & J.B. Baillière\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea"
+  }
+}

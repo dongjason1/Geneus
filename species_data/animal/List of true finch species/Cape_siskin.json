@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cape_siskin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. totta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Cape siskin (Crithagra totta), is a small passerine bird in the finch family. It is an endemic resident breeder in the southern  Cape Province of South Africa.\nThis locally common but shy and unobtrusive siskin is found in the southwestern and southern Cape’s rocky slopes, coastal cliffs and fynbos-covered mountains. It also occurs in towns and the suburbs of Cape Town.",
+    "Taxonomy and systematics": "The Cape siskin was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the Cape siskin were moved to the resurrected genus Crithagra.",
+    "Description": "The Cape siskin averages 13 cm in length. The flight feathers and tail have white spots on the tips which are diagnostic for both sexes, and especially visible in flight. The adult male has a light brown back, wing coverts, rump and upper tail and yellow underparts. The head, nape and sides of neck are yellowish grey and olive. Fine dark brown streaks are most prominent on the head and the sides of the throat.\nThe female is similar but duller; she lacks grey on the head and has more streaking on the face and breast. The juvenile plumage is much like the female’s but duller and with darker or browner underparts.\nThere is no range overlap with the slightly larger Drakensberg siskin, which lacks the white spots on the flight feathers and tail and has less uniform upperparts.\nThe Cape siskin’s call is a voyp-veeyr, often given in flight. and the song is a weak, pleasant warble similar to the  yellow-fronted canary.",
+    "Behaviour": "",
+    "Behaviour-Breeding": "One reason for the taxonomic uncertainty with this species is that, if it is a true siskin, it is the only one which breeds in cavities. A shallow cup nest is constructed in cracks or holes in rocks, on ledges or amongst vegetation, especially ferns. Natural hollows in trees are rarely used. There is a recent record of a nest in an artificial structure, the old lighthouse at Cape Point.\nThe nest is constructed by the female with fine plant material, lined with plant down and animal hair. The clutch is three or four, occasionally five, eggs, incubated by the female. She is fed by the male on the nest by regurgitation.",
+    "Behaviour-Feeding": "The Cape siskin is seen in pairs or small flock, moving unobtrusively through bushes and scrub as it forages for seeds, buds and insects.",
+    "References": "Ian Sinclair, Phil Hockey and Warwick Tarboton, SASOL Birds of Southern Africa (Struik 2002) ISBN 1-86872-721-1\nClement, Harris and Davis, Finches and Sparrows by ISBN 0-7136-8017-2\nWestern Cape Nature Conservation Board & Avian Demography Unit (pdf)\nSiskins of the World",
+    "External links": "Cape siskin - Species text in The Atlas of Southern African Birds."
+  }
+}

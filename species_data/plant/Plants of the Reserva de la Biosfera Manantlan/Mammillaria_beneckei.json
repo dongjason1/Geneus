@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mammillaria_beneckei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Cactaceae"
+    },
+    {
+      "Subfamily": "Cactoideae"
+    },
+    {
+      "Genus": "Mammillaria"
+    },
+    {
+      "Species": "M. beneckei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mammillaria beneckei is a species of cacti in the subtribe Cactinae. It is native to Mexico.",
+    "References": "",
+    "External links": "Mammillaria beneckei at Tropicos"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-faced_pitta",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Pittidae"
+    },
+    {
+      "Genus": "Pitta"
+    },
+    {
+      "Species": "P. anerythra"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-faced pitta (Pitta anerythra) is a species of bird in the Pittidae family.  It is found on Buka Island in Papua New Guinea, and the Solomon Islands.  Its natural habitat is subtropical or tropical moist lowland forests.  It is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

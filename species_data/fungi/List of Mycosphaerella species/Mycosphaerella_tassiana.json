@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_tassiana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Davidiellaceae"
+    },
+    {
+      "Genus": "Davidiella"
+    },
+    {
+      "Species": "D. tassiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Davidiella tassiana is a fungal plant pathogen infecting several hosts, including Iris barnumiae subsp. demawendica in Iran.",
+    "Infected plants..": "See:\n\nList of date palm diseases\nList of hemp diseases\nList of maize diseases\nList of pear diseases\nList of rye diseases",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

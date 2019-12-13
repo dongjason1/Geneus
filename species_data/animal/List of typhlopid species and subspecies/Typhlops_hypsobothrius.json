@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_hypsobothrius",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Argyrophis"
+    },
+    {
+      "Species": "A. hypsobothrius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sumatra worm snake (Argyrophis hypsobothrius) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

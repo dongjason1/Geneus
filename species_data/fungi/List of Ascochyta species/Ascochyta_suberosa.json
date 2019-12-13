@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_suberosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Xylariomycetidae"
+    },
+    {
+      "Order": "Xylariales"
+    },
+    {
+      "Family": "Hyponectriaceae"
+    },
+    {
+      "Genus": "Microdochium"
+    },
+    {
+      "Species": "M. panattonianum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Microdochium panattonianum is a fungal plant pathogen.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

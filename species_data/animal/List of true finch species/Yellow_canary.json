@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yellow_canary",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. flaviventris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The yellow canary  (Crithagra flaviventris) is a small passerine bird in the finch family. It is a resident breeder in much of the western and central regions of southern Africa and has been introduced to Ascension and St Helena islands.",
+    "Taxonomy": "The yellow canary was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the yellow canary were moved to the resurrected genus Crithagra.For an overview of finch phylogeny (including canaries) see the entry on finches.",
+    "Description": "The yellow canary is typically 13 cm in length. The adult male colour ranges from almost uniform yellow in the northwest of its range to streaked, olive backed birds in the southeast. The underparts, rump and tail sides are yellow. The female has grey-brown upperparts, black wings with yellow flight feathers, and a pale supercilium. The underparts are white with brown streaking. The juvenile resembles the female, but has heavier streaking.\nThis species is easily distinguished from the yellow-fronted canary by its lack of black facial markings, and its bill is less heavy than that of other similar African Crithagra species.\nThe brimstone canary, with overlapping range, is a known confusion species.",
+    "Distribution and habitat": "Its habitat is karoo and coastal or mountain valley scrub. It builds a compact cup nest in a scrub.\nThe yellow canary is a common and gregarious seedeater. Its call is chissick or cheree, and the song is a warbled zee-zeree-chereeo.",
+    "References": "Ian Sinclair, Phil Hockey and Warwick Tarboton, SASOL Birds of Southern Africa (Struik 2002) ISBN 1-86872-721-1\nClement, Harris and Davis, Finches and Sparrows by ISBN 0-7136-8017-2",
+    "External links": "Yellow canary- Species text in The Atlas of Southern African Birds."
+  }
+}

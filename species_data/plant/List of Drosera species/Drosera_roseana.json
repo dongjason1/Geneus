@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_roseana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Bryastrum"
+    },
+    {
+      "Section": "Drosera sect. Lamprolepis"
+    },
+    {
+      "Species": "D. roseana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera roseana is a species of pygmy sundew from Western Australia."
+  }
+}

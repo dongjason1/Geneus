@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_parvulum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. parvulum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium parvulum is a monoverticillate species of fungus in the genus Penicillium which was isolated from soil of a peanut field in Georgia.\n\n\n== References =="
+  }
+}

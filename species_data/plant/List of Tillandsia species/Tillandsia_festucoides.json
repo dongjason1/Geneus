@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_festucoides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Species": "T. festucoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia festucoides, commonly known as the fescue airplant, is a species of bromeliad that is native to the Greater Antilles, Mexico, the Cayman Islands, and Central America.",
+    "Cultivars": "Tillandsia 'Festubail' (T. festucoides × T. baileyi)",
+    "References": "\nAn Annotated Checklist of the Bromeliaceae of Costa Rica retrieved 3 November 2009\nChecklist of Mexican Bromeliaceae with Notes on Species Distribution and Levels of Endemism retrieved 3 November 2009"
+  }
+}

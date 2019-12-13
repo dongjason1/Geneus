@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_melanocephala",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. melanocephala"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia melanocephala is a plant pathogen, it is the causal agent of sugarcane rust. This pathogen affects multiple species of sugarcane, including Saccharum spontaneum or wild sugarcane, Saccharum robustum, and the most commonly cultivated species Saccharum officinarum. Puccinia melanocephala can also infect other member of the family Poaceae, including some species of bamboo such as Bambusa vulgaris. The first symptoms of sugarcane rust are elongate, yellow-colored leaf spots, roughly 1mm to 4mm in length. The leaf spots gradually become bigger and turn a reddish-brown color. The uredia develop underneath the epidermis where the leaf spots are present. When the uredia become big enough, they break through the epidermis to form the characteristic rust pustules from which uredospores are borne. These pustules can coalesce, resulting in large areas of dead tissue.",
+    "Disease cycle": "Sugarcane rust is an autoecious rust, meaning it completes its entire life cycle on the same species of host plant. As mentioned above, uredospores are produced from the pustules that break through the epidermis on the underside of the leaves. Uredospores are the only infectious spores of Puccinia melanocephala. The uredospores disperse from the pustules via wind or rain onto the leaves of a new host sugarcane plant. The uredospores then germinate on the sugarcane leaves, develop appresoria, and infect the new host plant via penetration of the plant's stomata. This cycle can be repeated throughout the year because sugarcane is grown almost exclusively in areas where the climate is conducive to growth of Puccinia melanocephala throughout the year. Puccinia melanocephala infection is non-systemic.",
+    "Environment": "Puccinia melanocephala develops optimally at temperatures between 16 and 25 degrees Celsius (60.8 to 77 degrees Fahrenheit). However, germination of the infectious uredospores occurs at optimal levels between 21 and 26 degrees Celsius (69.8 to 78.8 degrees Fahrenheit). Germinated uredospores require at least 8 hours of leaf moisture for the germ tube to penetrate the stomata and infect the plant.",
+    "Importance": "Sugarcane is a large, edible grass crop native to southeast Asia and many pacific island nations. Throughout history, sugar derived from sugarcane was a luxury due to its rarity, especially in parts of Europe such as England. Today, sugarcane is cultivated in countries with tropical climates all over the world and provides about 80% of the world's sugar supply; the top five sugarcane producing nations are Brazil, India, China, Thailand, and Pakistan. Sugar is now used in a variety of different products, everything from cosmetic sugar scrubs to a countless number of food products. Because of the sheer ubiquity of cane sugar, and also because most of the world's sugarcane is produced in nations with \"developing economies\", the economic and cultural importance of studying diseases such as sugarcane common rust is exceedingly apparent.\nIt was used as a biological weapon by the US in Cuba during the 1970s.",
+    "See also": "List of Puccinia species",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

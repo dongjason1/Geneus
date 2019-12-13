@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allium_chloranthum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Allioideae"
+    },
+    {
+      "Genus": "Allium"
+    },
+    {
+      "Species": "A. chloranthum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allium chloranthum is a species of onion native to Lebanon and southern Turkey.\n\n\n== References =="
+  }
+}

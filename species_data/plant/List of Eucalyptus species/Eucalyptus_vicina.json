@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_vicina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. vicina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus vicina is a tree native to western New South Wales.\n\n\n== References =="
+  }
+}

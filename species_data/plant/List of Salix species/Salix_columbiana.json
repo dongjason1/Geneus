@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_columbiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. columbiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix columbiana, the Columbia River willow, is a species of willow known only from the US states of Washington and Oregon. It grows on dunes, floodplains and riverbanks, many of these locales being located near the Columbia River.Salix columbiana is a shrub sometimes as tall as 6.5 m. It is similar to S. exigua but with longer stipes 0.2-0.7 mm long.\n\n\n== References =="
+  }
+}

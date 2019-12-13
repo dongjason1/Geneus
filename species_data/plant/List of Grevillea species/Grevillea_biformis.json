@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_biformis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. biformis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea biformis is a shrub which is endemic to Western Australia.\n\n\n== References =="
+  }
+}

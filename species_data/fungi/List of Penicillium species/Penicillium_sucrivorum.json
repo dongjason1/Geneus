@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_sucrivorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. sucrivorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium sucrivorum is a species of fungus in the genus Penicillium. Described as new to science in 2014, it was discovered during a fungal survey of the fynbos biome in the Western Cape of South Africa. Closely related species include P. aurantiacobrunneum, P. cairnsense, P. miczynksii, P. neomiczynskii, and P. quebecense, all of which group phylogenetically in the same clade as P. sucrivorum.\n\n\n== References =="
+  }
+}

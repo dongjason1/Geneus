@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_charlesii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. charlesii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium charlesii is a fungus species of the genus of Penicillium which produces galactocarolose and Citreoviridin.",
+    "Further reading": "",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

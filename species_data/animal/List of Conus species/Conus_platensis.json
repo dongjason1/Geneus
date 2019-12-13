@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_platensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. platensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus platensis is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.",
+    "Description": "The size of the shell attains 23 mm.",
+    "Distribution": "This species was found as a fossil off Platense de Punta Carreta, Montevideo, Uruguay",
+    "References": "Frenguelli, J., 1946. Especies del Género Conus. Notas del Museo. Paleontología, Paleont.. 11 (88 ): 231 -250",
+    "External links": "The Conus Biodiversity website\nMalacolog: Conus platensis"
+  }
+}

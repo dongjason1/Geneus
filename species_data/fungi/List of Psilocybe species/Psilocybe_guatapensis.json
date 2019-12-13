@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_guatapensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. guatapensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe guatapensis is a species of mushroom in the Strophariaceae family.  It is very small and is known only from Colombia.",
+    "See also": "List of Psilocybin mushrooms\nPsilocybin mushrooms\nPsilocybe",
+    "References": "",
+    "External links": "Psilocybe guatapensis original species description"
+  }
+}

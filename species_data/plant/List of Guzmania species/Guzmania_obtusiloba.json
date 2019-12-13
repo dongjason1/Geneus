@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guzmania_obtusiloba",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Guzmania"
+    },
+    {
+      "Species": "G. obtusiloba"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Guzmania obtusiloba is a plant species in the genus Guzmania. This species is native to Costa Rica, Panama, and Colombia.",
+    "References": "\nAn Annotated Checklist of the Bromeliaceae of Costa Rica retrieved 3 November 2009"
+  }
+}

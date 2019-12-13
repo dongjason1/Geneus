@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Betula_szechuanica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Betulaceae"
+    },
+    {
+      "Genus": "Betula"
+    },
+    {
+      "Subgenus": "Betula subg. Betula"
+    },
+    {
+      "Species": "B. szechuanica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Betula szechuanica, the Sichuan birch or Szechuan birch, is a birch species native to Sichuan, China, conical in shape, growing to 20 meters in height, with white bark, yellow-green male catkins or green female catkins, and dark, blue-green leaves.",
+    "Synonyms": "Betula platyphylla var. szechuanica\nBetula mandshurica var. szechuanica\nBetula japonica var. szechuanica",
+    "References": "GBIF entry\nAlison Hoblyn and Marie O'Hara, Green Flowers: Unexpected Beauty for the Garden, Container Or Vase, page 40, Timber Press, 2009. ISBN 9780881929195."
+  }
+}

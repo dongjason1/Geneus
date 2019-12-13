@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_venetum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. venetum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium venetum is a species of fungus in the genus Penicillium which produces roquefortine C and roquefortine D.\n\n\n== References =="
+  }
+}

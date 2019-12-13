@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_niger",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. niger"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus niger is a fungus and one of the most common species of the genus Aspergillus.\nIt causes a disease called \"black mold\" on certain fruits and vegetables such as grapes, apricots, onions, and peanuts, and is a common contaminant of food. It is ubiquitous in soil and is commonly reported from indoor environments, where its black colonies can be confused with those of Stachybotrys (species of which have also been called \"black mold\").Some strains of A. niger have been reported to produce potent mycotoxins called ochratoxins; other sources disagree, claiming this report is based upon misidentification of the fungal species. Recent evidence suggests some true A. niger strains do produce ochratoxin A. It also produces the isoflavone orobol.",
+    "Taxonomy": "Aspergillus niger is included in Aspergillus subgenus Circumdati, section Nigri. The section Nigri includes 15 related black-spored species that may be confused with A. niger, including A. tubingensis, A. foetidus, A. carbonarius, and A. awamori. A number of morphologically similar species were in 2004 described by Samson et al.In 2007 the strain of ATCC 16404 Aspergillus niger was reclassified as Aspergillus brasiliensis (refer to publication by Varga et al.). This has required an update to the U.S. Pharmacopoeia and the European Pharmacopoeia which commonly use this strain throughout the pharmaceutical industry.",
+    "Pathogenicity": "",
+    "Pathogenicity-Plant disease": "Aspergillus niger causes black mold of onions and ornamental plants. Infection of onion seedlings by A. niger can become systemic, manifesting only when conditions are conducive. A. niger causes a common postharvest disease of onions, in which the black conidia can be observed between the scales of the bulb. The fungus also causes disease in peanuts and in grapes.",
+    "Pathogenicity-Human and animal disease": "Aspergillus niger is less likely to cause human disease than some other Aspergillus species. In extremely rare instances, humans may become ill, but this is due to a serious lung disease, aspergillosis, that can occur. Aspergillosis is, in particular, frequent among horticultural workers who inhale peat dust, which can be rich in Aspergillus spores. The fungus has also been found in the mummies of ancient Egyptian tombs and can be inhaled when they are disturbed.Aspergillus niger is one of the most common causes of otomycosis (fungal ear infections), which can cause pain, temporary hearing loss, and, only in severe cases, damage to the ear canal and tympanic membrane.",
+    "Cultivation": "A. niger has been cultivated both on Czapek medium plates and malt extract agar oxoid (MEAOX) plates.",
+    "Industrial uses": "Aspergillus niger is cultured for the industrial production of many substances. Various strains of A. niger are used in the industrial preparation of citric acid (E330) and gluconic acid (E574), and have been assessed as acceptable for daily intake by the World Health Organization. A. niger fermentation is \"generally recognized as safe\" (GRAS) by the United States Food and Drug Administration under the Federal Food, Drug, and Cosmetic Act.Many useful enzymes are produced using industrial fermentation of A. niger. For example, A. niger glucoamylase (P69328) is used in the production of high-fructose corn syrup, and pectinases (GH28) are used in cider and wine clarification. Alpha-galactosidase (GH27), an enzyme that breaks down certain complex sugars, is a component of Beano and other products that decrease flatulence. Another use for A. niger within the biotechnology industry is in the production of magnetic isotope-containing variants of biological macromolecules for NMR analysis. Aspergillus niger is also cultured for the extraction of the enzyme, glucose oxidase (P13006), used in the design of glucose biosensors, due to its high affinity for β-D-glucose.Aspergillus niger growing from gold-mining solution contained cyano-metal complexes, such as gold, silver, copper, iron, and zinc. The fungus also plays a role in the solubilization of heavy-metal sulfides. Alkali-treated A. niger binds to silver to 10% of dry weight. Silver biosorption occurs by stoichiometric exchange with Ca(II) and Mg(II) of the sorbent.",
+    "Genetics": "",
+    "Genetics-Genome": "The A. niger ATCC 1015 genome was sequenced by the Joint Genome Institute in a collaboration with other institutions.The genomes of two A. niger strains have been fully sequenced.",
+    "See also": "Contamination control",
+    "References": "",
+    "External links": "Aspergillosis information, Centers for Disease Control and Prevention, US Department of Health and Human Services\nA. niger ATCC 1015 genome\nAspergillus website (Manchester University, UK)"
+  }
+}

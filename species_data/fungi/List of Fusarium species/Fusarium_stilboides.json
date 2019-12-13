@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_stilboides",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Gibberella"
+    },
+    {
+      "Species": "G. stilboides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gibberella stilboides is a nectriacine fungus. It is a plant pathogen, and causes collar rot in coffee seedings.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_mcdowelli",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. mcdowelli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "McDowell’s blind snake (Gerrhopilus mcdowelli ) is a species of snake in the family Gerrhopilidae.",
+    "Etymology": "The specific name, mcdowelli, is in honor of American herpetologist Samuel Booker McDowell (born 1928).",
+    "Geographic range": "G. mcdowelli is endemic to Papua New Guinea.",
+    "Reproduction": "G. mcdowelli is oviparous.",
+    "References": "",
+    "Further reading": "Vidal, Nicolas; Marin, Julie; Morini, Marina; Donnellan, Steve; Branch, William R.; Thomas, Richard; Vences, Miguel; Wynn, Addison; Cruaud, Corinne; Hedges, S. Blair (2010). \"Blindsnake evolutionary tree reveals long history on Gondwana\". Biology Letters 6: 558-561. (Gerrhopilus mcdowelli, new combination).\nWallach V (1996). \"Two New Blind Snakes of the Typhlops ater Group from Papua New Guinea\". Russian J. Herp. 3 (2): 107-118. (Typhlops mcdowelli, new species)."
+  }
+}

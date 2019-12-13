@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_kuehnii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Basidiomycetes"
+    },
+    {
+      "Subclass": "Agaricomycetidae"
+    },
+    {
+      "Order": "Atheliales"
+    },
+    {
+      "Family": "Atheliaceae"
+    },
+    {
+      "Genus": "Athelia"
+    },
+    {
+      "Species": "A. arachnoidea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Athelia arachnoidea is a corticioid fungus in the family Atheliaceae. The species forms thin, white, cobwebby basidiocarps (fruit bodies) and typically occurs saprotrophically on leaf litter and fallen wood. It can, however, also be a facultative parasite of lichens and can additionally be a plant pathogen (typically found in its asexual Fibularhizoctonia carotae state), causing \"crater rot\" of stored carrots.\n\n\n== References =="
+  }
+}

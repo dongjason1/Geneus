@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_ovalisporum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. ovalisporum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma ovalisporum is a species of fungus. It has ovoidal conidia and a fast rate of growth at 30 °C. It has been considered for its biocontrol potential against Moniliophthora roreri.\n\n\n== References =="
+  }
+}

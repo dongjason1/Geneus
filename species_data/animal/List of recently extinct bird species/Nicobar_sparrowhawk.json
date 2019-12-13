@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nicobar_sparrowhawk",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Accipitriformes"
+    },
+    {
+      "Family": "Accipitridae"
+    },
+    {
+      "Genus": "Accipiter"
+    },
+    {
+      "Species": "A. butleri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Nicobar sparrowhawk (Accipiter butleri) is a species of bird of prey in the family Accipitridae. It is endemic to the Nicobar Islands of India. There are two subspecies, the nominate race which is found on Car Nicobar in the north of the archipelago, and A. b. obsoletus, from Katchal and Camorta in the central part of the Nicobars. A museum specimen originally attributed to this species from the island of Great Nicobar was later found to be a misidentified Besra.Its natural habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

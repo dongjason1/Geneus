@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_lupus_mackenzii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. lupus"
+    },
+    {
+      "Subspecies": "C. l. mackenzii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mackenzie River wolf (Canis lupus mackenzii) is a subspecies of gray wolf which is found in the Canadian Northwest Territories. Not much has been published on Canis lupus mackenzii but one of the most comprehensive studies was done in 1954 by W.A. Fuller, Wolf Control Operations, Southern Mackenzie District, Canada Wildlife Service Report. This wolf is recognized as a subspecies of Canis lupus in the taxonomic authority Mammal Species of the World (2005).",
+    "References": "",
+    "External links": "Mackenzie Wolves"
+  }
+}

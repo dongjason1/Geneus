@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pholiota_limonella",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Pholiota"
+    },
+    {
+      "Species": "P. limonella"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pholiota limonella is a mushroom of the genus Pholiota.  It is saprobic, growing on coniferous tree stumps and logs.",
+    "See also": "List of Pholiota species",
+    "External links": " Media related to Pholiota limonella at Wikimedia Commons\nPholiota limonella  in Index Fungorum\nKuo M (2007). \"Pholiota limonella\". MushroomExpert.com."
+  }
+}

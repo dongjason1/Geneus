@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_austroviridis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. austroviridis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita austroviridis, commonly known as the Australian verdigris lepidella, is a species of agaric fungus in the family Amanitaceae native to Australia.",
+    "References": "",
+    "External links": "Amanita austroviridis  in Index Fungorum"
+  }
+}

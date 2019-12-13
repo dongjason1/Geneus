@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Watts's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. wattsi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Watt's pipistrelle (Pipistrellus wattsi) is a species of vesper bat. It is found only in Papua New Guinea.\n\n\n== References =="
+  }
+}

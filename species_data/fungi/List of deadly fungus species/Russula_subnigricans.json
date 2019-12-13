@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_subnigricans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Homobasidiomycetae"
+    },
+    {
+      "Subclass": "Hymenomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. subnigricans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula subnigricans, known as Nisekurohatsu (Japanese), is a basidiomycete mushroom of the genus Russula found in China, Japan, and Taiwan.",
+    "Description": "The flesh turns pale red when cut, but doesn't turn black unlike Russula nigricans.\nThe species was named by Japanese mycologist Tsuguo Hongo in 1955.\nThe name was formerly applied to the North American fungus Russula eccentrica in California. It has been reclassified as Russula cantharellicola, where it grows in association with coast live oak (Quercus agrifolia) trees in California oak woodland habitats.",
+    "Description-Toxicity": "Russula subnigricans is a poisonous mushroom, and has been responsible for mushroom poisoning in Taiwan and Japan. The effect is a serious one, rhabdomyolysis.\nThe toxins responsible are the very unusual cycloprop-2-ene carboxylic acid (a toxic molecule consisting of only four carbon atoms) and Russuphelin A (a heavily chlorinated polyphenolic).",
+    "See also": "List of deadly fungi\nList of Russula species",
+    "References": "",
+    "External links": "Cornell University Mycology Blog:  \"A deadly Russula\"\n Data related to Russula subnigricans at Wikispecies"
+  }
+}

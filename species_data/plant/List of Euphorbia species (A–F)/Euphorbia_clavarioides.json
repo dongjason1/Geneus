@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Euphorbia_clavarioides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Euphorbiaceae"
+    },
+    {
+      "Genus": "Euphorbia"
+    },
+    {
+      "Species": "E. clavarioides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Euphorbia clavarioides is a herbaceous plant species endemic to Botswana, Lesotho, and South Africa, which may grow to 18 cm in diameter, with a height of 30 cm. Flowers are yellow.",
+    "Synonyms": "Euphorbia basutica Marloth\nEuphorbia clavarioides var. clavarioides\nEuphorbia clavarioides var. truncata A.C.White, R.A.Dyer & B.Sloane\nEuphorbia truncata N.E.Br. [Illegitimate]",
+    "References": "Cent. Euphorb. 25 1860.\nThe Plant List\nBirhmann's Caudiciforms"
+  }
+}

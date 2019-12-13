@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_biancae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. biancae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus biancae, common name Bianca's cone, is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The length of the shell attains 40 mm.",
+    "Distribution": "This marine species is found off Southern Madagascar.",
+    "References": "Bozzetti L. (2010) Conus biancae (Gastropoda: Prosobranchia: Conidae) a new species from Southern Madagascar. Malacologia Mostra Mondiale 66: 15-16",
+    "External links": "The Conus Biodiversity website\n\"Cylinder biancae\". Gastropods.com. Retrieved 15 January 2019.\nHolotype at MNHN, Paris"
+  }
+}

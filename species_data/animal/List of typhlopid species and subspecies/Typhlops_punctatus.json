@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_punctatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. punctatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The spotted blind snake (Afrotyphlops punctatus) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

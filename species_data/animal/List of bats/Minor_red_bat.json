@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Minor_red_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. minor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The minor red bat (Lasiurus minor) is a species of bat from the family Vespertilioninae. It is found in the Bahamas, Dominican Republic, Haiti, and Puerto Rico, though there are only six known individuals in the latter. Hurricanes, habitat destruction, and human population growth are several factors leading to a decreasing population trend, and the minor red bat is listed as vulnerable by the IUCN Red List due to ongoing population reduction and a small geographic range. The minor red bat is a solitary, insectivorous species that forages in open areas and rests among the leaves of a tree. It is a swift flier, though it is not highly maneuverable. The minor red bat is possibly conspecific with the Seminole bat, Eastern red bat, and Desert red bat.",
+    "See also": "Desert red bat\nEastern red bat\nSeminole bat\n\n\n== References =="
+  }
+}

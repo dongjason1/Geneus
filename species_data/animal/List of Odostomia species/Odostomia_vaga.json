@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_vaga",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. vaga"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia vaga is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "References": "",
+    "External links": "To World Register of Marine Species"
+  }
+}

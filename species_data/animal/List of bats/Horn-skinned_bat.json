@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Horn-skinned_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. floweri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The horn-skinned bat (Eptesicus floweri) is a species of vesper bat. It can be found in Mali and Sudan. It is found in subtropical or tropical dry shrubland, subtropical or tropical dry lowland grassland, and hot deserts.\n\n\n== Sources =="
+  }
+}

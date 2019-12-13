@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Viola_reichenbachiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Violaceae"
+    },
+    {
+      "Genus": "Viola"
+    },
+    {
+      "Species": "V. reichenbachiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Viola reichenbachiana, the early dog-violet, or pale wood violet is a flowering plant in the violet family Violaceae.\nThis species hybridises with Viola riviniana, the common dog-violet, to produce Viola × bavarica Schrank 1789.",
+    "References": "\nPartridge, James (2007) Viola × bavarica: the punctual Dog-violet BSBI News 106:8-9 (illustrated with colour photographs on inside back cover of this edition)"
+  }
+}

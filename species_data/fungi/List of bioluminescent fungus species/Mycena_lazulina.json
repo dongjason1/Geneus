@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_lazulina",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. lazulina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena lazulina is a bioluminescent species of mushroom in the family Mycenaceae. It was first described in 2016 from southwestern Japan.",
+    "See also": "List of bioluminescent fungi",
+    "References": "",
+    "External links": "\nMycena lazulina  in Index Fungorum"
+  }
+}

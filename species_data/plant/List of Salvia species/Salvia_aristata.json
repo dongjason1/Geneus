@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_aristata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. aristata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia aristata is a perennial, root stout, woody plant found in Iran and Turkey.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_medullata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. medullata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula medullata is a species of mushroom in the genus Russula. It was officially described by French mycologist Henri Romagnesi in 1997.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula medullata  in Index Fungorum"
+  }
+}

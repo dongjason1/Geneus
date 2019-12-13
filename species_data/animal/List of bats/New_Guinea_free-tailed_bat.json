@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Guinea_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Austronomus"
+    },
+    {
+      "Species": "A. kuboriensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The New Guinea free-tailed bat (Austronomus kuboriensis), sometimes designated the New Guinea mastiff bat, is an extant species of free-tailed bat that inhabits the Chimbu highlands of Papua New Guinea. Although Koopman describes A. kuboriensis as a subspecies of the nearby A. australis (1982, 1994), the reference catalogue Mammal Species of the World suggests that recent analysis establishes these as distinct species.",
+    "References": "",
+    "See also": "List of mammals of Papua New Guinea"
+  }
+}

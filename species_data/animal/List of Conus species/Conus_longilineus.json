@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_longilineus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. longilineus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus longilineus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The shell attains a length of 20 mm.",
+    "Distribution": "This marine species occurs in the Atlantic Ocean off the Cape Verdes in the following locations in the southern part of the island of Sal:\nParda\nSanta Maria\nSerra Negra",
+    "References": "Rolán E., 2005. Malacological Fauna From The Cape Verde Archipelago. Part 1, Polyplacophora and Gastropoda.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To Biodiversity Heritage Library (1 publication)\nTo GenBank\nTo World Register of Marine Species\n\"Africonus grahami longilineus\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

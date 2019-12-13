@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_nutans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. nutans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum nutans is a species of orchid."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_sublateritium",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. sublateritium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium sublateritium is an anamorph species of fungus in the genus Penicillium.",
+    "Further reading": "Tōkyō Daigaku. Rigakubu (1968). Journal of the Faculty of Science, University of Tokyo: Botany, volume 10-11. The University.\n\n\n== References =="
+  }
+}

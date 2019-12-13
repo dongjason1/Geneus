@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pink-rumped_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. waltoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pink-rumped rosefinch (Carpodacus waltoni) is a species of finch in the Fringillidae family.\nIt is found in central China and eastern Tibet. Its natural habitat is temperate grassland.\n\n\n== References =="
+  }
+}

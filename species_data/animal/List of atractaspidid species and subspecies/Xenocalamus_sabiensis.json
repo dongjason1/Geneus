@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Xenocalamus_sabiensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Xenocalamus"
+    },
+    {
+      "Species": "X. sabiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Xenocalamus sabiensis, or the Sabi quill-snouted snake, is a species of venomous rear-fanged snake in the family Atractaspididae. It is endemic to Africa.",
+    "Geographic range": "It is found in Mozambique, Republic of South Africa, and Zimbabwe.",
+    "References": "\nBroadley, D.G. 1971. A revision of the African snake genera Amblyodipsas and Xenocalamus. Occasional Papers of the National Museums of Rhodesia. Volume 4, No. 33B, pp. 629–697."
+  }
+}

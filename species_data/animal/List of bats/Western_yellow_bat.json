@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Western_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. xanthinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The western yellow bat (Lasiurus xanthinus) is a species of vesper bat. It is found in Mexico and the southwestern United States.  This species roosts in trees such as Populus fremontii, Platanus wrightii, and Quercus arizonica.  If available, the western yellow bat will use the dead fronds that encircle palm trees as a roosting site.",
+    "Taxonomy and etymology": "It was described as a new subspecies of bat in 1897 by British zoologist Oldfield Thomas.\nHe listed it as a subspecies of the southern yellow bat, with a trinomen of Dasypterus ega xanthinus.\nIn 2015, Baird et al. argued that this species and other yellow bats should be in the genus Dasypterus, though others have since argued that Dasypterus should remain a subgenus of Lasiurus.\nIn 1988, Baker et al. argued that it should be considered a full species based on its genetics.\nIts species name \"xanthinus\" is from Ancient Greek xanthos, meaning \"pertaining to yellow.\"",
+    "Description": "The western yellow bat is a small species, though it is larger than the southern yellow bat. Its fur is bright yellow. Individuals weigh approximately 16 g (0.56 oz). Its forearm length is 42–47 mm (1.7–1.9 in). Its dental formula is 1.1.2.33.1.2.3 for a total of 32 teeth.",
+    "Range and habitat": "Its range includes the Southwestern United States of Arizona, California, and New Mexico, in addition to parts of Mexico.\nIt is found in West and Central Mexico, as well as Baja California.",
+    "Conservation": "As of 2017, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this category because it has a wide geographic range; its population is presumably large; its range includes protected areas; and it is unlikely to be experiencing rapid population decline.\n\n\n== References =="
+  }
+}

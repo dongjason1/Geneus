@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bennu_heron",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Pelecaniformes"
+    },
+    {
+      "Family": "Ardeidae"
+    },
+    {
+      "Genus": "Ardea"
+    },
+    {
+      "Species": "A. bennuides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bennu heron (Ardea bennuides) is a large extinct heron from the United Arab Emirates. Its remains have been dated to the Umm al-Nar period (2500 – 2000 BCE). It is thought to have been the inspiration for the Bennu in Egyptian mythology, hence the specific name.\n\n\n== References =="
+  }
+}

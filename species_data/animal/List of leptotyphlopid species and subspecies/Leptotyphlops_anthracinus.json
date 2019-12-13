@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_anthracinus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Trilepida"
+    },
+    {
+      "Species": "T. anthracina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bailey's blind snake (Trilepida anthracina) is a species of snakes in the family Leptotyphlopidae. The species is endemic to northwestern South America.",
+    "Geographic range": "T. anthracina is found in Colombia and Ecuador.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Tricheilostoma anthracinum, new combination).\nBailey JR (1946). \"Leptotyphlops anthracinus, a new blind snake from eastern Ecuador\". Occ. Pap. Mus. Zool., Univ. Michigan (492): 1-5. (Leptotyphlops anthracinus, new species).\nHedges SB (2011). \"The type species of the threadsnake genus Tricheilostoma Jan revisited (Squamata, Leptotyphlopidae)\". Zootaxa 3027: 63-64. (Trilepida anthracina, new combination, p. 63)."
+  }
+}

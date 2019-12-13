@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_septemstriatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Siagonodon"
+    },
+    {
+      "Species": "S. septemstriatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The seven-striped blind snake (Siagonodon septemstriatus) is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Arabian_trident_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Asellia"
+    },
+    {
+      "Species": "A. arabica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Arabian trident bat (Asellia arabica) is a species of Old World leaf-nosed bat found in the Middle East.",
+    "Taxonomy and etymology": "The Arabian trident bat was described as a new species in 2011.\nIt was distinguished as a result of a taxonomic split in the trident bat, A. tridens.\nThe holotype had been collected in 2005 in the Al Mahrah Governorate of Yemen.\nIts species name \"arabica\" is derived from the Arabian Peninsula where it is found.",
+    "Description": "Its forearm length is approximately 46.5 mm (1.83 in).\nThe fur of its back is beige or a pale, brownish-gray.\nThe fur may have a yellowish or faint rusty tint.\nIts belly fur is paler than its back fur.\nIts flight membranes are also a pale, brownish-gray.",
+    "Range and habitat": "It is found in the Middle East, with documented occurrence in southwestern Oman and southeastern Yemen.",
+    "Conservation": "As of 2017, it is evaluated as a data deficient species by the IUCN.\nIt meets the criteria for this classification because it was only discovered relatively recently, and thus little is known about its biology and ecology.\nAdditionally, there is no estimate of its population size.\n\n\n== References =="
+  }
+}

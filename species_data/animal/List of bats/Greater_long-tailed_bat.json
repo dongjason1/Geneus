@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_long-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Choeroniscus"
+    },
+    {
+      "Species": "C. periosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater long-tailed bat (Choeroniscus periosus) is a species of bat in the family Phyllostomidae. It is found in Colombia and Ecuador. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_tacomae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. tacomae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus tacomae is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 15 mm and 30 mm.",
+    "Distribution and habitat": "This marine species is only known to occur at the coast of Senegal, off the island of Gorée, approx 2 km offshore from Dakar. It has been found on rocky coastlines at depths of 0–7 m, and also in sandy pockets at 35–40 m.",
+    "References": "",
+    "Further reading": "Boyer, F.; Pelorce, J (2009). \"Description d'un nouveau Conus (Gastropoda: Conidae) du Sénégal dans le groupe Conus mediterraneus\". Novapex. 10 (1): 25–32.\nPuillandre, N.; Duda, T.F.; Meyer, C.; Olivera, B.M.; Bouchet, P. (2015). \"One, four or 100 genera? A new classification of the cone snails\". Journal of Molluscan Studies. 81 (1): 1–23. doi:10.1093/mollus/eyu055. PMC 4541476. PMID 26300576.",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Lautoconus tacomae\". Gastropods.com. Retrieved 16 January 2019.\nHolotype in MNHN, Paris"
+  }
+}

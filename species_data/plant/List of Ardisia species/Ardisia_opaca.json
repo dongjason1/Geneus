@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ardisia_opaca",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Primulaceae"
+    },
+    {
+      "Genus": "Ardisia"
+    },
+    {
+      "Species": "A. opaca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ardisia opaca is a species of plant in the family Primulaceae. It is found in Colombia, Costa Rica, and Panama. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

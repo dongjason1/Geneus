@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_glaber",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. viscosissimus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio viscosissimus is a species of flowering plant in the genus Senecio and family Asteraceae.",
+    "References": "",
+    "External links": " Media related to Senecio viscosissimus at Wikimedia Commons"
+  }
+}

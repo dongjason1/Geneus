@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_wandae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. wandae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus wandae is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 20 mm and 33 mm. It is the morphotype of Africonus borgesi var. ervatao  Tenorio, M.J., C.M.L. Afonso, R.L. Cunha & E.M. Rolán, 2014.",
+    "Distribution": "This marine species occurs in the Atlantic Ocean off Boa Vista Island, Cape Verde.",
+    "References": "Cossignani (2014), Malacologia Mostra Mondiale 82: 22-23\nPuillandre, N.; Duda, T.F.; Meyer, C.; Olivera, B.M.; Bouchet, P. (2015). \"One, four or 100 genera? A new classification of the cone snails\". Journal of Molluscan Studies. 81: 1–23. doi:10.1093/mollus/eyu055. PMC 4541476.",
+    "External links": "Illustrated Catalog of the Living Cone Shells: Conus wandae"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_shaskyi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. shaskyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus shaskyi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell attains 35 mm.",
+    "Distribution": "This marine species occurs of the Cocos (Keeling) Islands.",
+    "References": "Tenorio, M.J., J.K. Tucker & H. Chaney, 2012, Conilithidae & Conidae : The Cones of the Eastern Pacific, A Conchological Iconography\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "World Register of Marine Species\n\"Poremskiconus abrolhosensis\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

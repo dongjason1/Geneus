@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_tasmanica",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. tasmanica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia tasmanica, common name the Tasmania pyramid-shell,  is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The length of the shell measures 2 mm.",
+    "Distribution": "This endemic species occurs in the littoral zone and offshore  off Tasmania, the Bass Strait, New South Wales and Victoria.",
+    "References": "\nOBIS : Odostomia tasmanica\nCF Laseron, The Family Pyramidellidae (Mollusca) from Northern Australia, Australian Journal of Marine and Freshwater Research 10(2) 177 - 268\n\n\n== External links =="
+  }
+}

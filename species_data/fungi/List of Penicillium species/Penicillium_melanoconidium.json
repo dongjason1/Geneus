@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_melanoconidium",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. melanoconidium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium megasporum is a species in the genus Penicillium which produces xanthomegin, verrucosidin, roquefortine C and penitrem A. Penicillium megasporum occurs in grain",
+    "Further reading": "J. P. Felix D'Mello (1997). Handbook of Plant and Fungal Toxicants. CRC Press. ISBN 0849385512.\n\n\n== References =="
+  }
+}

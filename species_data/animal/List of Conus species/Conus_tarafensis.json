@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_tarafensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. tarafensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus tarafensis is a species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.\n\n\n== References =="
+  }
+}

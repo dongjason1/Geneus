@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tropidophis_maculatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Tropidophiidae"
+    },
+    {
+      "Genus": "Tropidophis"
+    },
+    {
+      "Species": "T. maculatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tropidophis maculatus, or the Spotted red dwarf boa, is a species of snake in the family Tropidophiidae. It is endemic to Cuba.\n\n\n== References =="
+  }
+}

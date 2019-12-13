@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-capped_siskin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Spinus"
+    },
+    {
+      "Species": "S. atriceps"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-capped siskin (Spinus atriceps) is a species of finch in the Fringillidae family. It is found in Guatemala and Mexico. Its natural habitats are subtropical or tropical moist montane forests and heavily degraded former forest.",
+    "Phylogeny": "It has been obtained by Antonio Arnaiz-Villena et al.",
+    "Identification": "Spinus atriceps has been defined as a gray wash with a black cap finch. However, other green morphs have been also identified with Spinus atriceps, but they apparently are Spinus/Carduelis pinus green morphs.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lavender_waxbill",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Estrilda"
+    },
+    {
+      "Species": "E. caerulescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lavender waxbill (Estrilda caerulescens) is a common species of estrildid finch native to Central Africa and successfully introduced on Hawai'i. It has an estimated global extent of occurrence of 620,000 km2.",
+    "Habitat": "It is found in subtropical/tropical (lowland) dry shrubland habitats in Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sudan, Togo and the United States (Hawaii island only). The IUCN has classified the species as being of least concern.",
+    "Origin": "Origin and phylogeny has been obtained by Antonio Arnaiz-Villena et al. Estrildinae may have originated in India and dispersed thereafter (towards Africa and Pacific Ocean habitats).",
+    "References": "",
+    "External links": "BirdLife International species factsheet"
+  }
+}

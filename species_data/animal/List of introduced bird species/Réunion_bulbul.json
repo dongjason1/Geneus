@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Réunion_bulbul",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Pycnonotidae"
+    },
+    {
+      "Genus": "Hypsipetes"
+    },
+    {
+      "Species": "H. borbonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Réunion bulbul (Hypsipetes borbonicus) is a species of the bulbul family of passerine birds. It is endemic to Réunion.",
+    "Taxonomy and systematics": "The Réunion bulbul was originally described in the genus Turdus. Formerly, some authorities also considered the Mauritius bulbul to be a subspecies of the Réunion bulbul. Alternate names for the Réunion bulbul include the Bourbon thrush, olivaceous bulbul, Réunion black bulbul and Réunion merle.",
+    "Description": "The appearance of the Réunion bulbul is similar to that of the Mauritius bulbul but is slightly smaller with a length of 22 cm. It is ashy gray with a blackish crest and the iris is conspicuously white. The bill and feet have an orange hue.",
+    "Behaviour and ecology": "",
+    "Behaviour and ecology-Breeding": "The female lays two eggs in a cup-shaped nest during the southern summer.",
+    "Behaviour and ecology-Food and feeding": "The Réunion bulbul is primarily frugivorous. In February and March, it moves from areas of higher elevations, where it inhabits humid secondary forests, to lower valleys to feed on ripe guavas. Nectar, insects and small lizards enrich its range of food.",
+    "Behaviour and ecology-Threats": "Although assessed as a species Near Threatened by the IUCN, the Réunion bulbul is no longer a common bird, mainly due to poaching and competition from the introduced red-whiskered bulbul. In the earlier days of the settlement of Réunion it was hunted for food on a large scale, and was considered as tasty as the ortolan bunting (Emberiza hortulana). As late as the 1970s it was hunted excessively. It is also kept as pet.",
+    "References": "\nGregory, Steven M. (2000): Nomenclature of the Hypsipetes Bulbuls (Pycnonotidae). Forktail 16: 164-166. PDF fulltext\nStaub, France (1976), Birds of the Mascarenes and Saint Brandon, Labama House, Port Louis, Mauritius."
+  }
+}

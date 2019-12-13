@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Astragalus_siculus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Astragalus"
+    },
+    {
+      "Species": "A. siculus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Astragalus siculus, known as the Sicilian milkvetch, is a plant endemic to Sicily.\n\n\n== References =="
+  }
+}

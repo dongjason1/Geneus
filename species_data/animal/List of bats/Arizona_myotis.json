@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Arizona_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. occultus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Arizona myotis (Myotis occultus) is a vesper bat species inhabiting much of the southwestern United States and central Mexico as far south as the Distrito Federal.",
+    "Taxonomy and etymology": "It was described as a new species in 1909 by American zoologist Ned Hollister.\nThe holotype was collected near Needles, California in 1905.\nIts species name \"occultus\" is Latin for \"hidden or concealed.\"",
+    "Description": "It is a small species with a total length of 96 mm (3.8 in)— of the total length, 40 mm (1.6 in) consists of its tail.\nIts fur is glossy brown with a cinnamon tint.\nThe ventral fur and its face are paler brown.",
+    "Range and habitat": "Its range includes parts of the Southwestern United States and the Mexican state of Chihuahua.\nIt is found in a range of elevations from near sea level to 2,806 m (9,206 ft) above sea level.",
+    "Conservation": "As of 2018, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this classification because it has a wide geographic range, its range includes protected areas, and it is not likely experiencing rapid population decline.\n\n\n== References =="
+  }
+}

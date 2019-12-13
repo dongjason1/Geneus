@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_californicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. californicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus californicus is a species of fungus in the genus Aspergillus. It is from the Cavernicolus section. The species was first described in 2011. It has been isolated from the shrub Adenostoma fasciculatum in California, United States.",
+    "Growth and morphology": "A. californicus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below. \n\n\t\t\n\n\n== References =="
+  }
+}

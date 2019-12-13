@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_hivanus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. hivanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus hivanus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell attains 16 mm.",
+    "Distribution": "This species occurs in the Pacific Ocean off the Marquesas Islands.",
+    "References": "Moolenbeek R.G., Zandbergen A. & Bouchet P. (2008) Conus (Gastropoda, Conidae) from the Marquesas Archipelago: description of a new endemic offshore fauna. Vita Malacologica 6: 19-34 page(s): 30",
+    "External links": "The Conus Biodiversity website\n\"Gladioconus hivanus\". Gastropods.com. Retrieved 16 January 2019.\nHolotype in the MNHN, Paris"
+  }
+}

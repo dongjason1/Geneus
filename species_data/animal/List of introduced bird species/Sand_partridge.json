@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sand_partridge",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "Ammoperdix"
+    },
+    {
+      "Species": "A. heyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The sand partridge (Ammoperdix heyi) is a gamebird in the pheasant family Phasianidae of the order Galliformes, gallinaceous birds.\nThis partridge has its main native range from Egypt and Israel east to south Arabia. It is closely related and similar to its counterpart in southeast Turkey and east to Pakistan, the see-see partridge, Ammoperdix griseogularis.\nThis 22–25 cm bird is a resident breeder in dry, open and often hilly country. It nests in a scantily lined ground scrape laying 5-7 eggs. The sand partridge takes a wide variety of seeds and some insect food.",
+    "Description": "The sand partridge is a rotund bird, mainly sandy-brown with wavy white and brown flank stripes.  The male has a grey head with a white stripe in front of the eye and a white cheek patch. The neck sides are plain, and not speckled with white. The head pattern is the best distinction from see-see partridge.\nThe female is a very washed-out version of the male, and is more difficult to distinguish from its relative due to the weak head pattern.\nWhen disturbed, sand partridge prefers to run rather than fly, but if necessary it flies a short distance on rounded wings. The song is a slurred kwa-kwa-kwa.",
+    "References": "\nPheasants, Partridges and Grouse by Madge and McGowan, ISBN 0-7136-3966-0"
+  }
+}

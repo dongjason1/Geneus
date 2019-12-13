@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_herrerae",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. herrerae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga herrerae is a species of legume in the family Fabaceae.\nIt is found only in Costa Rica.",
+    "References": "World Conservation Monitoring Centre (1998). \"Inga herrerae\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38305A10109440. doi:10.2305/IUCN.UK.1998.RLTS.T38305A10109440.en. Retrieved 16 December 2017."
+  }
+}

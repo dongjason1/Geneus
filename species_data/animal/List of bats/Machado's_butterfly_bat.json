@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Machado's_butterfly_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Glauconycteris"
+    },
+    {
+      "Species": "G. machadoi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Machado's butterfly bat (Glauconycteris machadoi) is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Angola.\nIts natural habitat is subtropical or tropical moist lowland forests.\n\n\n== Sources =="
+  }
+}

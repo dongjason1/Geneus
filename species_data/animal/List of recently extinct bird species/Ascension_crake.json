@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascension_crake",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "†MundiaBourne, Ashmole, & Simmons, 2003"
+    },
+    {
+      "Species": "†M. elpenor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ascension crake (Mundia elpenor) is an extinct flightless bird that previously lived on Ascension Island in the South Atlantic Ocean. It was declared extinct by Groombridge in 1994; BirdLife International confirmed this in 2000 and 2004. It is a member of the family Rallidae.\nThe bird was endemic to Ascension Island. Numerous subfossil bones of the bird have been found; Peter Mundy made a sketch of it in 1656. It most likely lived in the near-desert areas of the island and primarily ate sooty tern (Sterna fuscata) eggs. It is probable that it became extinct after rats were introduced to the island in the 18th century, but it may have survived until the introduction of feral cats in 1815.\nThe bird was regarded by Storrs Olson as a relative of Atlantisia rogersi, but recent analysis (Bourne et al., 2003) has shown that the differences between the two are greater than previously appreciated. The new genus Mundia (named after the discoverer Peter Mundy) was created in 2003.",
+    "References": "\nBirdLife Species Factsheet\ndel Hoyo, J., Elliott, A., & Sargatal, J., eds. Handbook of Birds of the World Vol. 3: 140, 175. Lynx Edicions, Barcelona. ISBN 84-87334-20-2.\nBourne, W. R. P., Ashmole, N. P. & Simmons K. E. L.: A new subfossil night heron and a new genus for the extinct rail from Ascension Island, central tropical Atlantic Ocean in Ardea;  91, Heft 1, 2003: pp. 45–51 PDF fulltext"
+  }
+}

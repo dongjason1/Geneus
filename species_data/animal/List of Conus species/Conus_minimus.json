@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_minimus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. minimus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus minimus is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.\nConus minimus Hwass in Bruguière, 1792 is a nomen dubium and is invalid as a junior homonym of Conus minimus Linnaeus, 1758, which, in turn, is a nomenclaturally invalid name, placed on the Official Index of Invalid and Rejected Specific Names in Zoology (ICZN Opinion n°753))).",
+    "Description": "The size of the shell attains 10 mm.",
+    "Distribution": "This marine species occurs in the Atlantic Ocean off Sal Island, Cape Verde.",
+    "References": "Cossignani T. & Fiadeiro R. (2015). Due nuovi coni da Capo Verde. Malacologia Mostra Mondiale. 87: 3-5 page(s): 3",
+    "External links": "To World Register of Marine Species"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/King_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. rex"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The king horseshoe bat (Rhinolophus rex) is a species of bat in the family Rhinolophidae. It is endemic to the east coast of China.\n\n\n== References =="
+  }
+}

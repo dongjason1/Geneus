@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_tenera",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. tenera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus tenera is a mallee that is native to Western Australia.",
+    "See also": "\nList of Eucalyptus species\n\n\n== References =="
+  }
+}

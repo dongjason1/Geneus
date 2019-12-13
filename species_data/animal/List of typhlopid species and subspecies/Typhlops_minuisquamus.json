@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_minuisquamus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Amerotyphlops"
+    },
+    {
+      "Species": "A. minuisquamus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Basin worm snake (Amerotyphlops minuisquamus) is a species of snake in the Typhlopidae family. It has been reported in Colombia, Peru, Venezuela and Guyana.\n\n\n== References =="
+  }
+}

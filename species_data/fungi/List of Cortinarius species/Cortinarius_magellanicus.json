@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_magellanicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. magellanicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius magellanicus is a species of agaric fungus in the family Cortinariaceae. It was described as new to science by mycologist Carlos Luigi Spegazzini in 1887. It has been found in South America and New Zealand, although collections made from the latter location appears to be genetically distinct from South American material.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius magellanicus  in Index Fungorum"
+  }
+}

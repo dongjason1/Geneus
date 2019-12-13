@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bidentate_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. bidens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The bidentate yellow-shouldered bat (Sturnira bidens) is a species of bat in the family Phyllostomidae. It is found in Colombia, Ecuador, Peru, and Venezuela.",
+    "Taxonomy and etymology": "It was described as a new species in 1915 by British zoologist Oldfield Thomas.\nThe holotype had been collected by Walter Goodfellow in April 1914 in Baeza, Ecuador.\nThomas described a new, now-defunct genus, Corvira, giving the species the binomial of Corvira bidens.\nThe species name \"bidens\" is Latin for \"two teeth;\" of the bidentate yellow bat, Thomas wrote, \"lower incisors only two.\"",
+    "Description": "It has a forearm length of 39.3–43.3 mm (1.55–1.70 in).\nIt has a long and narrow snout and an overall narrow skull.\nIt has a dental formula of 2.1.2.31.1.2.3 for a total of 30 teeth.",
+    "Range and habitat": "Its range includes Peru, Ecuador, Colombia, and Venezuela.\nIt is found in association with the Andes Mountains at elevations of 1,700–3,000 m (5,600–9,800 ft).",
+    "Conservation": "As of 2018, it is evaluated as a least-concern species by the IUCN, which is its lowest conservation priority.\nIt has a wide geographic range; its population is presumably large; and it is unlikely to be experiencing rapid population decline.\nIts population is not severely fragmented, and its population trend is projected as stable.\n\n\n== References =="
+  }
+}

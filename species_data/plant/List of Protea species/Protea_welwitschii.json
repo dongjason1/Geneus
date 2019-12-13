@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Protea_welwitschii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Protea"
+    },
+    {
+      "Species": "P. welwitschii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Protea welwitschii, the cluster-head sugarbush, is a multistemmed shrub or small gnarled tree occurring in grassland and bushveld. Leaves are bluish green and hairy at the base when mature. Flowers usually in clusters of 3 or 4. Fruit is a densely hairy nut.\nThe species is widely distributed in Africa south of the Sahara.",
+    "References": "\nvan Wyk, B. and van Wyk, P. 1997. Field Guide to trees of South Africa. Struik, Cape Town\nPooley, E. 2005. A Field Guide to Wild Flowers of Kwazulu-Natal and the Eastern Region. National Floral Publications Trust, Durban"
+  }
+}

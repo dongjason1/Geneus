@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_lapidosum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. lapidosum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium lapidosum is an anamorph species of the genus of Penicillium which produces patulin.",
+    "Further reading": "Kozakiewicz, Z (1992). \"IMI descriptions of fungi and bacteria no. 1105. Penicillium glabrum\". Mycopathologia. 117 (3): 173–4. doi:10.1007/BF00442779. PMID 1640981.\n\n\n== References =="
+  }
+}

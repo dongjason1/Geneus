@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aparallactus_moeruensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Aparallactus"
+    },
+    {
+      "Species": "A. moeruensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aparallactus moeruensis, or the Zaire centipede-eater, is a species of venomous rear-fanged snake in the Atractaspididae family. It is found in the southern Democratic Republic of the Congo, which was formerly known as Zaire.",
+    "References": "\nde Witte, G.F. and R.F. Laurent. 1943. Contribution à la systématique des Boiginae du Congo Belge (Rept.) [and errata slip]. Rev. Zool. Bot. Afr. 37:157-189."
+  }
+}

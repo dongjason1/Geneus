@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Little_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. lilium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The little yellow-shouldered bat, Sturnira lilium, is a bat species from South and Central America.  This species is a frugivore and an effective seed disperser. It roosts alone in tree cavities, on branches, vines, and under palm leaves, usually keeping to the same roosts day to day. There is evidence to suggest hypothermia is a  thermoregulatory strategy to help adjust metabolic levels. In terms of mating, ambient temperature has been noted as a greater influence as compared to food availability. Its wing shape can also be affected by pregnancy in order to make flight more efficient.",
+    "Gallery": "\n\t\t\n\t\t\n\n\n== References =="
+  }
+}

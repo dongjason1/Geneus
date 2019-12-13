@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_devorsinei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. devorsinei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus devorsinei is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The length of the shell varies between 29 mm and 37 mm.",
+    "Distribution": "This marine species of cone snail is endemic to Australia and occurs off Queensland",
+    "References": "Petuch E., Berschauer D. & Poremski A. (2015). Additions to the cone shell faunas of Australia and Aruba (Conidae, Conilithidae). The Festivus. 47(4): 219-228. page(s): 220, figs 1A-C",
+    "External links": "\"Tesselliconus devorsinei\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

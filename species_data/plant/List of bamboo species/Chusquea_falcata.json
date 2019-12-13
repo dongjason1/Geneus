@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chusquea_falcata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Chusquea"
+    },
+    {
+      "Species": "C. falcata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Chusquea falcata is a species of grass in the family Poaceae. This bamboo is endemic to Ecuador.\n\n\n== References =="
+  }
+}

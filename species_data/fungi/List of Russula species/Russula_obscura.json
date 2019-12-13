@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_obscura",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. obscura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula obscura is a species of fungus in the genus Russula.",
+    "External links": "Russula obscura  in Index Fungorum"
+  }
+}

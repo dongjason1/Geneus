@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_papuana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. papuana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas papuana is a species of cycad endemic to Papua New Guinea. It is found in Western Province, including the floodplains of the Fly River and near Daru to the west, and also extending to the Bensbach River.\n\n\n== References =="
+  }
+}

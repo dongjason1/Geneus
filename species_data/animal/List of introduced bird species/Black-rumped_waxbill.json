@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-rumped_waxbill",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Estrilda"
+    },
+    {
+      "Species": "E. troglodytes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-rumped waxbill (Estrilda troglodytes) is a common species of estrildid finch found in Southern Africa. It has an estimated global extent of occurrence of 2,000,000 km².\nIt is found in Benin, Burkina Faso, Cameroon, Central African Republic, Chad, The Democratic Republic of the Congo, Côte d'Ivoire, Eritrea, Ethiopia, France (introduced by Guadeloupe), Gambia, Ghana, Guadeloupe, Guinea, Kenya, Liberia, Mali, Mauritania, Niger, Nigeria, Portugal (introduced), Puerto Rico, Senegal, Sudan, Togo, Uganda, United States (introduced in Puerto Rico) and Virgin Islands (possibly extirpated). And recently witnessed (on 20 September 2019) by a bird watcher Santhana Srinivasan on Kingdom of Bahrain. The status of the species is evaluated as Least Concern.",
+    "Origin": "Origin and phylogeny has been obtained by Antonio Arnaiz-Villena et al.. Estrildinae may have originated in India and dispersed thereafter (towards Africa and Pacific Ocean habitats).",
+    "References": "\nBirdLife Species Factsheet"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_sugillatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. sugillatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus sugillatus is a species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.",
+    "Distribution": "This species occurs in Mascarene Basin.\n\n\n== References =="
+  }
+}

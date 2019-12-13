@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Blasius's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. blasii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Blasius's horseshoe bat (Rhinolophus blasii) is a species of insectivorous bat in the family Rhinolophidae found throughout large parts of the Mediterranean, Middle East and Northern Africa.",
+    "Description": "R. blasii is a medium-sized horsehoe bat, with a length of between 46.5 and 56 mm (1.83 and 2.20 in), and a weight of between 12 and 15 g (0.42 and 0.53 oz). The fur is fluffy, with the base of hairs almost white. Dorsal side hair is grey brown, sometimes with a lilac tinge, while the hair on the ventral side is almost white.",
+    "Distribution": "South-Eastern Europe, Crete, Cyprus, Asia Minor along the Caucasus to Pakistan, in the Near and Middle East and the Arabian Peninsulа. Also North Africa, savannah landscapes south of Sahara to South Africa.",
+    "Habitat": "Blasius's horseshoe bat lives in warm limestone-based areas with fairly open covers of shrubs and trees. Summer and winter roosts are in caves, with the bats hanging freely and not in contact with other bats.",
+    "Echolocation": "The constant frequency signal is 93–98 kHz, with a short drop in frequency at the end of each signal, which normally lasts 40-50 milliseconds.",
+    "References": "\nSchober, Wilfried; Eckard Grimmberger (1989).  Dr. Robert E. Stebbings (ed.). A Guide to Bats of Britain and Europe (1st ed.). UK: Hamlyn Publishing Group. ISBN 978-0-600-56424-9."
+  }
+}

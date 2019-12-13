@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lachesis_stenophrys",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Lachesis"
+    },
+    {
+      "Species": "L. stenophrys"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Common names: Central American bushmaster.Lachesis stenophrys is a venomous pit viper species endemic to Central America. The specific name, stenophrys, is derived from the Greek words stenos, meaning \"narrow\", and ophrys, meaning \"brow\" or \"eyebrow\". No subspecies are currently recognized.",
+    "Description": "Adults commonly grow to more than 200 cm (6 feet 6¾ inches) and may exceed 330 cm (10 feet 10 inches) in total length. Ditmars (1910) reported a specimen from Costa Rica that was 11 feet 4 inches (349 cm). Many accounts exist of much larger specimens, but these are poorly documented. Solórzano (2004) cites historical records that put the maximum length at 360 cm (11 feet 9¾ inches).\nIt has a broadly rounded head and a snout that is not elevated. Typically, the species has a pronounced middorsal ridge that is most distinct on the last quarter of the body.The color pattern is darker than that of L. muta.",
+    "Geographic range": "Found in Central America in the Atlantic lowlands of southern Nicaragua, Costa Rica and Panama, as well as the Pacific lowlands of central and eastern Panama. The type locality given is \"Sipurio\" (Limón Province, Costa Rica).",
+    "Habitat": "Occurs in tropical rainforest and lower montane wet forest where annual precipitation averages 2,000-4,000 mm, which is heavy to extremely heavy rainfall. In the drier areas of Nicaragua, it can be found in gallery forests as well as forests that are seasonally dry, but then never far from sources of water. This species is hardly ever encountered outside of old growth forest.",
+    "Taxonomy": "Campbell and Lamar (2004) also recognize Lachesis acrochorda (García, 1896), which McDiarmid et al. (1999) treat as a synonym of L. stenophrys. The Reptile Database follows the former position.",
+    "See also": "List of crotaline species and subspecies\nCrotalinae by common name\nCrotalinae by taxonomic synonyms\nSnakebite",
+    "References": "",
+    "Further reading": "Cope, E.D. 1876. On the Batrachia and Reptilia of Costa Rica. With Notes on the Herpetology and Ichthyology of Nicaragua and Peru. Journ. Acad. Nat. Sci. Philadelphia [\"1875\"] Series 2, 8: 93-183. (\"Lachesis stenophrys, Cope, sp. nov.\", p. 152.)\n\n\n== External links =="
+  }
+}

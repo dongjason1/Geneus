@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Euphorbia_baioensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Euphorbiaceae"
+    },
+    {
+      "Genus": "Euphorbia"
+    },
+    {
+      "Species": "E. baioensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Euphorbia baioensis is a species of flowering plant in the family Euphorbiaceae.\nThis spiny succulent plant is originally from Kenya.  It is found in tropical deserts and flourishes in hot dry conditions.",
+    "References": "\nS.Carter, Hooker's Icon. Pl. 39: t. 3870 (1982)."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guatemalan_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. cobanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Guatemalan myotis (Myotis cobanensis) is a species of vesper bat. It is found only in Guatemala.\n\n\n== References =="
+  }
+}

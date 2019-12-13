@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_proliferatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. proliferatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium proliferatum is a fungal plant pathogen infecting asparagus.",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

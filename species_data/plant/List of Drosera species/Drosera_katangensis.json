@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_katangensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Species": "D. katangensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera katangensis is a plant species endemic to Haut-Katanga, Democratic Republic of Congo. D. katangensis is a perennial helophyte, growing in grassy swamps. It is known from a single collection in 1912, and has not been identified since. It is threatened by logging, mining concessions, agriculture, and has been assessed as CR by the IUCN under criteria B2ab(iii).\n\n\n== References =="
+  }
+}

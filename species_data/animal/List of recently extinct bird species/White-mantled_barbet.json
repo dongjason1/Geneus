@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-mantled_barbet",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Piciformes"
+    },
+    {
+      "Family": "Capitonidae"
+    },
+    {
+      "Genus": "Capito"
+    },
+    {
+      "Species": "C. hypoleucus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-mantled barbet (Capito hypoleucus) is a species of bird in the family Capitonidae.\nIt is endemic to Colombia.\nIts natural habitats are subtropical or tropical moist montane forests, pastureland, and plantations. It is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

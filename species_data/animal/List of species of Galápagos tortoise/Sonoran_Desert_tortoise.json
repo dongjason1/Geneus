@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sonoran_Desert_tortoise",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Testudinoidea"
+    },
+    {
+      "Family": "Testudinidae"
+    },
+    {
+      "Genus": "Gopherus"
+    },
+    {
+      "Species": "G. morafkai"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sonoran Desert tortoise (Gopherus morafkai), or Morafka's desert tortoise, is a species of tortoise native to the Sonoran Desert.",
+    "Taxon history": "In 2011, on the basis of DNA, geographic, and behavioral differences between desert tortoises east and west of the Colorado River, it was decided that two species of desert tortoises exist: Agassiz's desert tortoise (Gopherus agassizii) and Morafka's desert tortoise (Gopherus morafkai). G. morafkai occurs east of the Colorado River in Arizona, as well as in the states of Sonora and Sinaloa, Mexico.\nThe new species name is in honor of the late Professor David Joseph Morafka of California State University, Dominguez Hills, in recognition of his many contributions to the study and conservation of Gopherus.\n\n\n== References =="
+  }
+}

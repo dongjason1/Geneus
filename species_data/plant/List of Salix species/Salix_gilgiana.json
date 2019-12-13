@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_gilgiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. gilgiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix gilgiana is a species of willow native to Japan and Korea. It is a deciduous shrub or small tree, reaching a height of 3–6 m."
+  }
+}

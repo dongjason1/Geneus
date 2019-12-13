@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Passiflora_yucatanensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Passifloraceae"
+    },
+    {
+      "Genus": "Passiflora"
+    },
+    {
+      "Species": "P. yucatanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Passiflora yucatanensis is a rare species of passionflower, known only from the Mexican island of Cozumel, which has recently been introduced to horticulture."
+  }
+}

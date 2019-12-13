@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peperomia_thomeana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Peperomia"
+    },
+    {
+      "Species": "P. thomeana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peperomia thomeana is a species of plant in the family Piperaceae. It is found in Cameroon, Equatorial Guinea, and São Tomé and Príncipe. Its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss.",
+    "References": "\nCheek, M. & Cable, S. 2000.  Peperomia thomeana.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Plumbeous_euphonia",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Euphoniinae"
+    },
+    {
+      "Genus": "Euphonia"
+    },
+    {
+      "Species": "E. plumbea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The plumbeous euphonia (Euphonia plumbea) is a species of bird in the family Fringillidae.\nIt is found in northern Brazil, Colombia, French Guiana, Guyana, Peru, Suriname, and Venezuela.\nIts natural habitats are subtropical or tropical moist lowland forest and heavily degraded former forest.",
+    "References": "\nTemplate:DEFFAULTSORT:euphonia, plumbeus"
+  }
+}

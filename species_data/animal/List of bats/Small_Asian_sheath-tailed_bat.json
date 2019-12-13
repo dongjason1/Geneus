@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Small_Asian_sheath-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Emballonura"
+    },
+    {
+      "Species": "E. alecto"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The small Asian sheath-tailed bat (Emballonura alecto) is a species of sac-winged bat in the family Emballonuridae.\nIt is found in Borneo (Brunei, Indonesia, Malaysia), Sulawesi, and the Philippines.\n\n\n== References =="
+  }
+}

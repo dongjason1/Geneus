@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_futura",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. futura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix futura is a species of willow native to central Japan. It is a deciduous large shrub, reaching a height of 2 m."
+  }
+}

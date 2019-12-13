@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_malcolmi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Indotyphlops"
+    },
+    {
+      "Species": "I. malcolmi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Malcolm's worm snake (Indotyphlops malcolmi) is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, malcolmi, is in honor of British herpetologist Malcolm Arthur Smith.",
+    "Geographic range": "It is endemic to Sri Lanka.",
+    "References": "",
+    "Further reading": "Hedges SB, Marion AB, Lipp KM, Marin J, Vidal N. 2014. \"A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61. (Indotyphlops malcolmi, new combination).\nTaylor EH. 1947. \"Comments on Ceylonese Snakes of the Genus Typhlops with Descriptions of New Species\". Univ. Kansas Sci. Bull. 31 (13): 283-298. (Typhlops malcolmi, new species, pp. 291–292)."
+  }
+}

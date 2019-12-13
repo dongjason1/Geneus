@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_aliwalensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. aliwalensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus aliwalensis is a species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.\n\n\n== References =="
+  }
+}

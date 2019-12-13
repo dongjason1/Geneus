@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Big_red_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Aeorestes"
+    },
+    {
+      "Species": "A. egregius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The big red bat (Aeorestes egregius), is a species of vesper bat from South and Central America.",
+    "Taxonomy": "It was described as a new species in 1870 by German naturalist Wilhelm Peters.\nPeters placed it in the now-defunct genus Atalpha, with a binomial of Atalpha egregia.\nThe holotype was collected in the Brazilian state of Santa Catarina by Hermann Burmeister.",
+    "Description": "It has black flight membranes and its fur is a consistent shade of red over its entire body.\nTwo individuals captured in Honduras had forearm lengths of 50–51 mm (2.0–2.0 in) and body weights of 16–17 g (0.56–0.60 oz).\nIts ear length is approximately 18 mm (0.71 in).\nIts wingspan is approximately 390.3 mm (15.37 in).",
+    "Range and habitat": "The big red bat is found in Central and South America.\nIts range includes Panama, Brazil, French Guiana, and Suriname.\nIn 1998, the species was documented in Honduras for the first time.\nThis marked a 1,200 km (750 mi) extension of the species' range from the previously known northern limit.",
+    "Conservation": "This species is infrequently encountered.\nThe capture of two individuals in Honduras in 1998 marked the fifth and sixth individuals ever documented.\nDue to the lack of information on its ecology, geographic extent, population size, and threats it faces, the IUCN lists this species as data deficient as of 2016.",
+    "References": "",
+    "External links": "Image of a specimen collected in Suriname"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Silky_short-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Carollia"
+    },
+    {
+      "Species": "C. brevicauda"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The silky short-tailed bat (Carollia brevicauda) is a bat species from South and Central America. It is found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Panama, Peru, Suriname, Mexico and Venezuela.",
+    "Diet": "Its diet consists of primarily fruits, but opportunistically will glean leaves for insects, supplemented by nectar in the dry season. It is one of the most important seed dispersers for pipers and small fruits in the area which is resides. \n\n\n== References =="
+  }
+}

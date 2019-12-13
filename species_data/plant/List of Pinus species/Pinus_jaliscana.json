@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pinus_jaliscana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Pinophyta"
+    },
+    {
+      "Class": "Pinopsida"
+    },
+    {
+      "Order": "Pinales"
+    },
+    {
+      "Family": "Pinaceae"
+    },
+    {
+      "Genus": "Pinus"
+    },
+    {
+      "Subgenus": "P. subg. Pinus"
+    },
+    {
+      "Section": "P. sect. Trifoliae"
+    },
+    {
+      "Subsection": "P. subsect. Australes"
+    },
+    {
+      "Species": "P. jaliscana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pinus jaliscana, the Jalisco pine, is a species of conifer in the family Pinaceae.\nIt is endemic to southwestern Mexico. It is native to the Pacific slopes of the Sierra Madre del Sur within western Jalisco state.\nIt is threatened by habitat loss.",
+    "References": "",
+    "Sources": "2006 IUCN Red List: Pinus jaliscana,  Conifer Specialist Group 1998 . accessed 30 May 2016.\nIUCN Red List of all Threatened Species"
+  }
+}

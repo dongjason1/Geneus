@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_pratensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. pratensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus pratensis is a species of mushroom in the Cortinariaceae family.",
+    "See also": "List of Gymnopilus species",
+    "External links": "Gymnopilus pratensis at Index Fungorum"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_aneura_var._major",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. aneura"
+    },
+    {
+      "Variety": "A. a. var. major"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia aneura var. major is a perennial tree native to Australia.\n\n\n== References =="
+  }
+}

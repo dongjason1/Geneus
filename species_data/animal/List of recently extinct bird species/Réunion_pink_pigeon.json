@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Réunion_pink_pigeon",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Nesoenas"
+    },
+    {
+      "Species": "†N. duboisi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Réunion pink pigeon (Nesoenas duboisi, but see below) is an extinct species of pigeon that formerly lived on the Mascarene island of Réunion. It is known from the description of a rusty-red pigeon given by Dubois in 1674 and a single subfossil humerus that agrees with that of the pink pigeon of Mauritius in generic characteristics, except being slightly longer. Also, Dubois' reference to the bill being red at the base and the eyes being surrounded by a red ring suggest that this species was closely allied to the Mauritus taxon. Dubois' description was as follows:\n\nwild pigeons, everywhere full with them, some with slaty-coloured feathering [Alectroenas?], the others russet-red [N. duboisi]. They are a little larger than the European pigeons, and have larger bills, red at the end close to the head, the eyes ringed with the colour of fire, like pheasants. There is a season when they are so fat that one can no longer see their cloaca [croupion]. They are very good tasting. Wood-pigeons and turtle-doves, as one sees in Europe and as good.\nIts genus Nesoenas was often synonymized with Columba in the past, but more recently it has been synonymized with Streptopelia. As the pink pigeon and the Malagasy turtle dove cannot be firmly placed in either of these two genera but apparently represent a distinct lineage that diverged early, probably from the ancestor of Streptopelia, it seems (at least for the time being) to be best to separate them again in Nesoenas. This restores the genus of the Réunion pink pigeon to the one it was originally described under.There seem to have been one to three other species of columbid on Réunion (not counting the invalidated \"Réunion solitaire\"). Willem Ysbrandtszoon Bontekoe mentioned ramiers (doves) with blue wings in 1619 as being abundant; apparently a species of Alectroenas. Dubois, on the other hand, referred to no less than four kinds of pigeons: ramiers, tourterelles (turtle doves) and two kinds of pigeon, one rusty red - the present species -, the other slate grey. Either the ramiers or the tourterelles of Dubois could refer to a local population of the Madagascar turtle dove, possibly an extinct subspecies, which is known from one subfossil humerus and one ulna. The slate-grey bird or the ramiers, respectively, seem to be the birds described by Bontekoe. What the remaining form - the tourterelles or the slate-grey pigeons, respectively - might have been is completely unresolvable at this time, although the possibility of it being a relative of the Rodrigues pigeon cannot be entirely discounted.",
+    "Extinction": "Since the Réunion pink pigeon was only mentioned explicitly by Dubois, little can be said about its extinction. The last reports of native pigeons were by Père Bernardin in 1687 and by Guillaume Houssaye in 1689, although the Alectroenas may have existed for a somewhat longer time. Jean Feuilley in 1705 mentioned that all native pigeons were extinct; it seems likely that introduced rats and cats, combined with excessive hunting, were the causes of the birds' extinction.",
+    "References": "",
+    "Further reading": "Rothschild, Walter (1907): [Nesoenas duboisi]. In: Extinct Birds: 166."
+  }
+}

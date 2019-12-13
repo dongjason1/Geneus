@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nyctiellus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Natalidae"
+    },
+    {
+      "Genus": "NyctiellusGervais, 1855"
+    },
+    {
+      "Species": "N. lepidus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gervais's funnel-eared bat (Nyctiellus lepidus) is a species of bat in the family Natalidae. It is monotypic within the genus Nyctiellus. It is found in Bahamas and Cuba.\n\n\n== Sources =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinophis_punctatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Uropeltidae"
+    },
+    {
+      "Genus": "Rhinophis"
+    },
+    {
+      "Species": "R. punctatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinophis punctatus, or Müller's earth snake, is a species of snake in the Uropeltidae family. It is endemic to the island of Sri Lanka.",
+    "Description": "Yellowish dorsally and ventrally, each scale with a blackspot. However, the scales of the rows adjoining the vertebral row lack spots.\nAdults may attain a total length of 39 cm (15 1⁄4 in).\nScalation very similar to Rhinophis oxyrhynchus. Differs in having a more slender body (diameter 47 to 49 times in total length) and a higher number of ventrals (236-246).",
+    "References": "",
+    "Further reading": "Müller, J.P. 1832. Beiträge zur Anatomie und Naturgeschichte der Amphibien. Zeitschrift für Physiologie. Band 4. pp. 190–275, Plates XVIII-XXII. (Rhinophis punctata [sic], p. 248, Plate XXI, Figures 1-3)."
+  }
+}

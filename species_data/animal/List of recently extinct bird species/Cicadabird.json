@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cicadabird",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Campephagidae"
+    },
+    {
+      "Genus": "Edolisoma"
+    },
+    {
+      "Species": "E. tenuirostre"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The common cicadabird (Edolisoma tenuirostre), also known as the slender-billed cicadabird, is a species of bird in the Campephagidae family.  It is found in Australia, Indonesia, New Guinea, and the Solomon Islands. Its natural habitats are temperate forests and subtropical or tropical moist lowland forests. The species is placed in the reinstated genus Edolisoma by most authors. The common cicadabird was described as a \"great speciator\" by Mayr & Diamond (2001) and Pedersen et al. (2018) described how this species rapidly colonized and diversified across the Indo-Pacific island region and Australia in the Pleistocene.",
+    "Subspecies": "Numerous subspecies have been described:\nE. t. amboiense\nE. t. aruense\nE. t. edithae\nE. t. emancipatum\nE. t. grayi\nE. t. heinrothi\nE. t. kalaotuae\nE. t. matthiae\nE. t. melvillense\nE. t. meyerii\nE. t. muellerii\nE. t. nehrkorni\nE. t. nisorium\nE. t. numforanum\nE. t. obiense\nE. t. pelingi\nE. t. pererratum\nE. t. rooki\nE. t. rostratum\nE. t. tagulanum\nE. t. tenuirostre\nE. t. timoriense",
+    "References": "",
+    "External links": "ABID Images\nOn the HBW Internet Bird Collection\nSpecies factsheet - BirdLife International"
+  }
+}

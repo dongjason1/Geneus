@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_rugosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. rugosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus rugosa, commonly known as the Kingscote mallee is a mallee that is native to the southern coast of South Australia and Western Australia.",
+    "See also": "\nList of Eucalyptus species\n\n\n== References =="
+  }
+}

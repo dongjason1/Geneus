@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large-eared_sheath-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Emballonura"
+    },
+    {
+      "Species": "E. dianae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large-eared sheath-tailed bat (Emballonura dianae) is a species of sac-winged bat in the family Emballonuridae.\nIt is found in Papua New Guinea and Solomon Islands.\nIt is threatened by habitat loss.\n\n\n== References =="
+  }
+}

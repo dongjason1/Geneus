@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_granti",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Antillotyphlops"
+    },
+    {
+      "Species": "A. granti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grant's worm snake (Antillotyphlops granti) is a species of snake in the family Typhlopidae. The species is endemic to Puerto Rico.",
+    "Etymology": "The specific name, granti, is in honor of American herpetologist Chapman Grant.",
+    "Geographic range": "It is found in southwestern Puerto Rico, including Caja de Muertos, an island 8 miles (13 km) offshore from Ponce.",
+    "References": "",
+    "Further reading": "Ruthven AG, Gaige HT (1935). \"Observations on Typhlops from Puerto Rico and some of the adjacent islands\". Occ. Pap. Mus. Zool. Univ. Michigan 307: 1-12. (Typhlops granti, new species, pp. 2-4, Figure 1)."
+  }
+}

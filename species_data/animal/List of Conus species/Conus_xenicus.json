@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_xenicus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. xenicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus xenicus is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "(Original description) The shell is broad above, the diameter about two-thirds of the length; The spire is low, its outline strongly concave, rising to an acute apex. The periphery is carinate, the slopes below it nearly straight. The early whorls have a smooth keel, projecting above the suture; but the last five are flat, with very weak traces of spiral striae, and are separated by a plain, narrowly impressed suture. The last whorl has coarse, well separated spiral cords on the anterior end, but under suitably oblique light very faint spirals lay be seen throughout. The faint growth striae retract rather strongly near the shoulder. The aperture is very narrow. The size of the shell varies between 27 mm and 29 mm.",
+    "Distribution": "This marine species was found as a fossil of the Oligocene of the Dominican Republic.",
+    "References": "Pilsbry, H. A., and Johnson, 1917. Oligocene Fossils from the Neighborhood of Cartegena, Columbia, with Notes on Some Haitian Species. Proceedings of the Academy of Natural Sciences of Philadelphia, 69 p. 307",
+    "External links": "To World Register of Marine Species\nConus Biodiversity website: Conus xenicus"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Antillean_siskin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Spinus"
+    },
+    {
+      "Species": "S. dominicensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Antillean siskin (Spinus dominicensis) is a species of finch in the family Fringillidae. It is found in Haiti and the Dominican Republic. Its natural habitats are subtropical or tropical moist montane forests and heavily degraded former forest.",
+    "Evolution": "This seems to be the most ancient extant species of the North American Spinus/Carduelis evolutive radiation, whose parental species is the European siskin, Carduelis/Spinus spinus.\n\n\n== References =="
+  }
+}

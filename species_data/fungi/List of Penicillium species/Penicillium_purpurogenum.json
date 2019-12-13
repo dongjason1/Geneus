@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_purpurogenum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. purpurogenum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium purpurogenum is a plant pathogen infecting strawberries.",
+    "See also": "List of strawberry diseases",
+    "References": "",
+    "External links": "USDA ARS Fungal Database"
+  }
+}

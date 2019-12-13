@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Curacao_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. nesopolus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Curacao myotis (Myotis nesopolus) is a species of vesper bat (family Vespertilionidae).\nIt is found in Bonaire (Netherlands), Colombia, Curaçao and Venezuela.\n\n\n== Sources =="
+  }
+}

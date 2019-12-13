@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Angraecum_borbonicum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Angraecum"
+    },
+    {
+      "Species": "A. borbonicum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Angraecum borbonicum is a species of orchid found in Réunion.",
+    "References": "\n\n== External links =="
+  }
+}

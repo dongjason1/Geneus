@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peale's_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Nyctinomops"
+    },
+    {
+      "Species": "N. aurispinosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peale's free-tailed bat (Nyctinomops aurispinosus) is a bat species from South and Central America.\n\n\n== References =="
+  }
+}

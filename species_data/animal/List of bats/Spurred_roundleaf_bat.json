@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Spurred_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. calcaratus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The spurred roundleaf bat (Hipposideros calcaratus) is a species of bat in the family Hipposideridae. It is found in Papua New Guinea and the Solomon Islands.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_rupestris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. rupestris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus rupestris is a tree that is native to the Kimberley region of Western Australia.",
+    "See also": "\nList of Eucalyptus species\n\n\n== References =="
+  }
+}

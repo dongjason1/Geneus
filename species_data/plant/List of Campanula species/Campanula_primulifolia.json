@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Campanula_primulifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Campanulaceae"
+    },
+    {
+      "Genus": "Campanula"
+    },
+    {
+      "Species": "C. primulifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Campanula primulifolia is a plant species of the genus Campanula. It is native to Portugal and Spain."
+  }
+}

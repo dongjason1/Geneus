@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_xanthocinctus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. xanthocinctus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus xanthocinctus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Taxonomy": "Conus xanthocinctus Petuch, 1986, was incorrectly listed as a synonym of Conus lemniscatus with the author noted as \"Petuch, 1980\", and it is recognized as a valid species, and an alternative representation in the genus Lamniconus.",
+    "References": "Tucker J.K. & Tenorio M.J. (2013) Illustrated catalog of the living cone shells. 517 pp. Wellington, Florida: MdM Publishing.\nPuillandre, N.; Duda, T.F.; Meyer, C.; Olivera, B.M.; Bouchet, P. (2015). \"One, four or 100 genera? A new classification of the cone snails\". Journal of Molluscan Studies. 81: 1–23. doi:10.1093/mollus/eyu055. PMC 4541476.",
+    "External links": "To World Register of Marine Species\nSee Image at http://biology.burke.washington.edu/conus/recordview/record.php?ID=3140ll&tabs=51000111&frms=1&res=gallst&pglimit=X\nCone Shells - Knights of the Sea"
+  }
+}

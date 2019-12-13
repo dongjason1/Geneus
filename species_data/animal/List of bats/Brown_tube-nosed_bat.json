@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brown_tube-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Murina"
+    },
+    {
+      "Species": "M. suilla"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The brown tube-nosed bat (Murina suilla) is a species of vesper bat in the family Vespertilionidae.\nIt can be found in the following countries: Brunei Darussalam, Indonesia, Malaysia, and the Philippines.\n\n\n== References =="
+  }
+}

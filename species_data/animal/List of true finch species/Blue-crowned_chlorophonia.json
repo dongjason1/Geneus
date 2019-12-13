@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Blue-crowned_chlorophonia",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Euphoniinae"
+    },
+    {
+      "Genus": "Chlorophonia"
+    },
+    {
+      "Species": "C. occipitalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The blue-crowned chlorophonia (Chlorophonia occipitalis) is a species of bird in the Fringillidae family.\nIt is found in El Salvador, Guatemala, Honduras, Mexico, and Nicaragua.\nIts natural habitat is subtropical or tropical moist montane forests.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_oryzae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. oryzae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus oryzae, also known as kōji (Japanese: ニホンコウジカビ, Hepburn: nihon kōji kabi), is a filamentous fungus (a mold) used in Japan to ferment soybeans for making soy sauce and fermented bean paste (including miso), and also to saccharify rice, other grains, and potatoes in the making of alcoholic beverages such as sake and shōchū.  The domestication of Aspergillus, a supercategory of A. oryzae occurred at least 2000 years ago. A. oryzae is also used for the production of rice vinegars. Barley koji (麦麹) or rice koji (米麹) are made by fermenting the grains with A. oryzae hyphae.Eiji Ichishima of Tohoku University called the kōji fungus a \"national fungus\" (kokkin) in the journal of the Brewing Society of Japan, because of its importance not only for making the koji for sake brewing, but also for making the koji for miso, soy sauce, and a range of other traditional Japanese foods. His proposal was approved at the society's annual meeting in 2006. It is different from the Rhizopus strains used in Huangjiu.\n\"Red kōji-kin\" is a different fungus, Monascus purpureus.In the medical industry Aspergillus oryzae is used to produce lactase enzyme.",
+    "History of Aspergillus": "Aspergillus, a supercategory of A. oryzae was first mentioned in the Zhouli (Rites of the Zhou dynasty) in China in 300 BCE. Its development is a milestone in Chinese food technology, for it provides the conceptual framework for three major fermented soy foods: soy sauce, jiang / miso, and douchi, not to mention grain-based wines (including Japanese sake) and li (the Chinese forerunner of Japanese amazake).",
+    "Properties desirable in sake brewing and testing": "The following properties of A. oryzae strains are important in rice saccharification for sake brewing:\nGrowth: rapid mycelial growth on and into the rice kernels\nEnzymes: strong secretion of amylases (α-amylase and glucoamylase); some carboxypeptidase; low tyrosinase\nAesthetics: pleasant fragrance; accumulation of flavoring compounds\nColor: low production of deferriferrichrome (a siderophore), flavins, and other colored substances",
+    "Varieties used for shōchū making": "Three varieties of kōji mold are used for making shōchū, each with distinct characteristics.\nWhite was discovered at the beginning of the Taishō period when natural mutation and separation of some black kōji to white was observed. This effect was researched and white kōji was successfully grown independently. White kōji is easy to cultivate and its enzymes promote rapid saccharization; as a result, it is used to produce most shōchū today. It gives rise to a drink with a refreshing, mild, sweet taste.\nBlack is mainly used in Okinawa to produce awamori. It produces plenty of citric acid which helps to prevent the souring of the moromi. Of all three kōji, it most effectively extracts the taste and character of the base ingredients, giving its shōchū a rich aroma with a slightly sweet, mellow taste. Its spores disperse easily, covering production facilities and workers' clothes in a layer of black. Such issues led to it falling out of favour, but due to the development of new kuro-kōji (NK-kōji) in the mid-1980s, interest in black kōji resurged amongst honkaku shōchū makers because of the depth and quality of the taste it produced.  Several popular brands now explicitly state they use black kōji on their labels.\nYellow is used to produce sake, and at one time all honkaku shōchū. However, yellow kōji is extremely sensitive to temperature; its moromi can easily sour during fermentation. This makes it difficult to use in warmer regions such as Kyūshū, and gradually black and white kōji became more common.  Its strength is that it gives rise to a rich, fruity, refreshing taste, so despite the difficulties and great skill required, it is still used by some manufacturers. It is popular amongst young people whom previously had no interest in typically strong potato shōchū, playing a role in its recent revival.",
+    "Genome": "Initially kept secret, the A. oryzae genome was released by a consortium of Japanese biotechnology companies in late 2005. The eight chromosomes together comprise 37 million base pairs and 12 thousand predicted genes. The genome of A. oryzae is thus one-third larger than that of two related Aspergillus species, the genetics model organism A. nidulans and the potentially dangerous A. fumigatus.  Many of the extra genes present in A. oryzae are predicted to be involved in secondary metabolism. The sequenced strain isolated in 1950 is called RIB40 or ATCC 42149; its morphology, growth, and enzyme production are typical of strains used for sake brewing.",
+    "Use in biotechnology": "Trans-resveratrol can be efficiently cleaved from its glucoside piceid through the process of fermentation by A. oryzae.",
+    "Gallery": "",
+    "See also": "",
+    "References": "",
+    "External links": "Making Rice Koji from Koji Spores\nSake World's description of koji\nAspergillus oryzae genome from the Database of Genomes Analysed at NITE (DOGAN)"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_menonorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. menonorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium menonorum is a monoverticillate, non-vesiculate species of the genus Penicillium which was isolated from rhizosphere soil in Korea. Penicillium menonorum can promote plant growth and improve soil fertility",
+    "Further reading": "Babu, A. G.; Kim, S. W.; Yadav, D. R.; Hyum, U.; Adhikari, M.; Lee, Y. S. (2015). \"Penicillium menonorum: A Novel Fungus to Promote Growth and Nutrient Management in Cucumber Plants\". Mycobiology. 43: 49. doi:10.5941/MYCO.2015.43.1.49. PMC 4397380.\n\n\n== References =="
+  }
+}

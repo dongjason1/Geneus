@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_humuli",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. humuli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium humuli is an anamorph species of the genus of Penicillium.",
+    "Further reading": "Tadeusz Korzybski; Zuzanna Kowszyk-Gindifer; Wlodzimierz Kurylowicz (2013). Antibiotics: Origin, Nature and Properties, Band 2. Elsevier. ISBN 1483223043.\nKuehn, H. H.; Orr, G. F. (1962). \"Tolerance of certain fungi to actidione and its use in isolation of Gymnoascaceae\". Medical Mycology. 1 (4): 220. doi:10.1080/00362176285190421.\n\n\n== References =="
+  }
+}

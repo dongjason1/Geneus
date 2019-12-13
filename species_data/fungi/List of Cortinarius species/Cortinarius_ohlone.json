@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_ohlone",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. ohlone"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius ohlone is a basidiomycete mushroom of the genus Cortinarius. Found in California, it was described as new to science in 2013 by Dimitar Bojantchev. The specific epithet refers to the Ohlone Native American people of California, who formerly inhabited the oak woods where the type collection was made.",
+    "See also": "List of Cortinarius species\n\n\n== References =="
+  }
+}

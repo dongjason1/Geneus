@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Little_kingfisher",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Coraciiformes"
+    },
+    {
+      "Family": "Alcedinidae"
+    },
+    {
+      "Subfamily": "Alcedininae"
+    },
+    {
+      "Genus": "Ceyx"
+    },
+    {
+      "Species": "C. pusillus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The little kingfisher (Ceyx pusillus) is a species of kingfisher in the subfamily Alcedininae. It is found in open forest, woodland, swamps and mangroves in Australia (northern Queensland and north Northern Territory), Indonesia, Papua New Guinea and the Solomon Islands.",
+    "Taxonomy": "The first formal description of the little kingfisher was by the Dutch zoologist Coenraad Jacob Temminck in 1836 under the current binomial name Ceyx pusilla. The specific epithet pusillus is the Latin for \"tiny\" or \"very small\". There are nine recognised subspecies.",
+    "Description": "The little kingfisher is 11 cm (4.3 in) long with a rich blue back and head and a snowy white breast. It has a heavy bill and has a short tail. This is one of the smallest kingfishers in the world. Only the African dwarf kingfisher is smaller.",
+    "Breeding": "The little kingfisher will make a small burrow on the bank of a river during the mating season (October - March in Australia) and will lay 5-7 glossy white eggs at the end of the burrow.",
+    "References": "\nGraham Pizzey (1980). A Field Guide to the Birds of Australia."
+  }
+}

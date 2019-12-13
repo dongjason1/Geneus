@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_tenella",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. tenella"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus tenella, known by the common name stringybark, is a small tree native to eastern Australia.  It has thick, fibrous stringy bark usually coloured grey over reddish brown.  Samples of this plant were first collected near Capertee, New South Wales by Lawrie Johnson on September 30, 1968. The habitat is relatively higher areas in dry woodland on poor soils, occurring from Rylstone to Nowra.\n\n\n== References =="
+  }
+}

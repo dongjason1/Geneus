@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_lupus_griseoalbus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. lupus"
+    },
+    {
+      "Subspecies": "C. l. griseoalbus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Manitoba wolf (Canis lupus griseoalbus), also known as the grey-white wolf, is an extinct subspecies of gray wolf that roamed in the southern Northwest Territories, northern Alberta,  Saskatchewan, and south-central Manitoba. This wolf is recognized as a subspecies of Canis lupus in the taxonomic authority Mammal Species of the World (2005).",
+    "History": "In the early 19th century, John Richardson first cataloged the Manitoba wolf and gave it its taxonomic name. The species itself was highly prized for its fur and was hunted to extinction in the wild in the early 20th century. However, specimens were kept and bred in captivity and re-introduced in 1995 in the area around Yellowstone National Park.This has led to a public outcry in the area and in Colorado, as the species is far larger than the timber wolf that is natural to the area and over-predation is a high concern.\n\n\n== References =="
+  }
+}

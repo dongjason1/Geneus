@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_montana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. montana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas montana is a species of cycad endemic to Flores, Indonesia. Its type locality is Wae Moto village, Ndara, Nggoang district, Manggarai province, Flores. It is also cultivated in Bajawa town and other nearby villages in Ngada Regency.\n\n\n== References =="
+  }
+}

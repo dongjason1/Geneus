@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Astragalus_hystrix",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Astragalus"
+    },
+    {
+      "Species": "A. hystrix"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Astragalus hystrix is a species of milkvetch in the family Fabaceae.\n\n\n== References =="
+  }
+}

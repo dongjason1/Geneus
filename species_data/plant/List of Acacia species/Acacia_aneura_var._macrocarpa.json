@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_aneura_var._macrocarpa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. aneura"
+    },
+    {
+      "Variety": "A. a. var. macrocarpa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia aneura var. macrocarpa is a perennial shrub native to Australia. Commonly found in the Northwest Region of Australia.\n\n\n== References =="
+  }
+}

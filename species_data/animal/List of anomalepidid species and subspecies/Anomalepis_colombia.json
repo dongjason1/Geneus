@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Anomalepis_colombia",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Anomalepididae"
+    },
+    {
+      "Genus": "Anomalepis"
+    },
+    {
+      "Species": "A. colombia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Anomalepis colombia is a species of snake in the Anomalepididae family. It is endemic to Colombia.\n\n\n== References =="
+  }
+}

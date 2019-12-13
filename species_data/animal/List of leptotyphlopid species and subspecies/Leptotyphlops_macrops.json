@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_macrops",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Leptotyphlops"
+    },
+    {
+      "Species": "L. macrops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The goggle-eyed worm snake (Leptotyphlops macrops) is a species of snakes in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_recondita",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. recondita"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia recondita is a plant pathogen infecting wheat and rye.",
+    "See also": "List of Puccinia species",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

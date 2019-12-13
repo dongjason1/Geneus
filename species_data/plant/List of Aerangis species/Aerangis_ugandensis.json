@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aerangis_ugandensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Aerangis"
+    },
+    {
+      "Species": "A. ugandensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aerangis ugandensis is a species of epiphytic orchid native to Uganda, Kenya, Rwanda, Burundi, and Congo-Kinshasa (Zaire, Democratic Republic of the Congo).\n\n\n== References =="
+  }
+}

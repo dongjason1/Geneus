@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Saint_Helena_shearwater",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Puffinus"
+    },
+    {
+      "Species": "P. pacificoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Saint Helena shearwater (Puffinus pacificoides) is an extinct species of seabird in the petrel family. It is known only from subfossil remains found on the island of Saint Helena in the South Atlantic Ocean. It probably became extinct at the end of the last glacial period, or the early Holocene, as the climate became warmer.",
+    "Etymology": "The specific name of the taxon comes from pacificus plus Greek oides (like or resembling), from its relationship to the living species Puffinus pacificus.",
+    "References": "",
+    "References-Sources": "Lewis, Colin A. (2008). \"The Late Glacial and Holocene avifauna of the island of St Helena, South Atlantic Ocean\" (PDF). Transactions of the Royal Society of South Africa. 63 (2): 128–144. CiteSeerX 10.1.1.623.8656. doi:10.1080/00359190809519217.\nOlson, Storrs L. (1975). \"Paleornithology of St Helena Island, south Atlantic Ocean\" (PDF). Smithsonian Contributions to Paleobiology. 23 (23): 1–49. doi:10.5479/si.00810266.23.1."
+  }
+}

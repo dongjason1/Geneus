@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mongolian_lark",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Alaudidae"
+    },
+    {
+      "Genus": "Melanocorypha"
+    },
+    {
+      "Species": "M. mongolica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mongolian lark (Melanocorypha mongolica) is a species of lark in the family Alaudidae found from southern Russia and Mongolia to central China.",
+    "Taxonomy and systematics": "The black lark was originally placed in the genus Alauda. Alternate names for the black lark include Mongolian sand-lark and Mongolian skylark.\n\n\n== References =="
+  }
+}

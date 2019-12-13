@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fraternal_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. frater"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The fraternal myotis (Myotis frater) is a species of vesper bat.  An adult fraternal myotis has a body length of about 5 cm, a tail of about 4.5 cm, and a wing span of about 3.8 cm.",
+    "Distribution": "The species is found sporadically through Central and East Asia, including China (Fujian, Jiangxi, Sichuan, Anhui, inner Mongolia, and Heilongjiang), Russia (southern Siberia), Korea, and Japan (Honshu and Hokkaido).",
+    "Data deficiency": "The IUCN Red List explains:  \"This species is widespread but has a fragmented distribution. There is relatively little information available on population trends and threats. In Japan this species is listed as Vulnerable and in Russia it is listed as a rare species. The Chinese population could be a distinct species, but more research is required to clarify this. Listed as Data Deficient because of taxonomic uncertainty and lack of data.\"",
+    "References": "Notes\nSourcesWon, Byeong-o (원병오) (2004). 한국의 포유동물 (Hangugui poyudongmul, Mammals of Korea). Seoul: Dongbang Media. ISBN 89-8457-310-8."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atractaspis_reticulata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Atractaspis"
+    },
+    {
+      "Species": "A. reticulata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Atractaspis reticulata, or the reticulate burrowing asp, is a species of snake in the Atractaspididae family. It is endemic to Africa.",
+    "References": "\nSjöstedt, Y. 1896. Atractus reticulata, eine neue Schlange aus Kamerun. Zool. Anz. 19:516-517."
+  }
+}

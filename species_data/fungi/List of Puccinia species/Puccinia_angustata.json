@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_angustata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. angustata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia angustata is a plant pathogen that causes rust on plants in the genus Monarda.\n It was first described scientifically in 1873 by American mycologist Charles Horton Peck, who found it growing on the leaves on the sedges Scirpus sylvaticum and S. eriophorum.",
+    "See also": "List of Puccinia species\n\n\n== References =="
+  }
+}

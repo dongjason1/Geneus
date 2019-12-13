@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_callistos",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Bryastrum"
+    },
+    {
+      "Section": "Drosera sect. Lamprolepis"
+    },
+    {
+      "Species": "D. callistos"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera callistos is a species of pygmy sundew from Western Australia."
+  }
+}

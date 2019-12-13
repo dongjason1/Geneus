@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_pelliculata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. pelliculata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria pelliculata is a species of agaric fungus in the family Physalacriaceae. This species is found in Africa.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

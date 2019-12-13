@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Murphy's_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. ultima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Murphy's petrel (Pterodroma ultima) is a species of seabird and a member of the gadfly petrels. The bird is 15 inches in length, with a 35-inch wingspan and weigh about 13 ounces. It was described by Robert Cushman Murphy in 1949, which is the source of the species' common name.",
+    "Distribution": "Very little is known about this species of petrel. It was not until the 1980s that it was determined that these petrels might be regular visitors far offshore of North America. It occurs in the South Pacific, nesting on rocky islets and cliffs off tropical oceanic islands in the Austral, Tuamotu, and Pitcairn island groups. The bird has been recorded off the coast of the Hawaiian Islands and well off the Pacific Coast of the United States and in the southern Gulf of Alaska. Most reports of Murphy's petrels are over 40 miles offshore and the species reportedly has one of the greatest foraging ranges of any breeding seabird",
+    "References": "\n\"National Geographic\"  Field Guide to the Birds of North America ISBN 0-7922-6877-6\n Seabirds, an Identification Guide by Peter Harrison, (1983) ISBN 0-7470-1410-8\nHandbook of the Birds of the World Vol 1,  Josep del Hoyo editor, ISBN 84-87334-10-5\n\"National Audubon Society\" The Sibley Guide to Birds, by David Allen Sibley, ISBN 0-679-45122-6"
+  }
+}

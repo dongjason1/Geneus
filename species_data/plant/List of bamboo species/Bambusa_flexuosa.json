@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bambusa_flexuosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Bambusa"
+    },
+    {
+      "Species": "B. flexuosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bambusa flexuosa is a species of Bambusa bamboo.",
+    "Synonyms": "Arundarbor flexuosa (Munro) Kuntze\t\nBambusa scabriculma  W.T.Lin",
+    "Distribution": "Bambusa flexuosa is endemic to Guangdong province of China.\n\n\n== References =="
+  }
+}

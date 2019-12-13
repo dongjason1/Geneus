@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_pseudodelica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. pseudodelica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula pseudodelica is a mushroom in the genus Russula.",
+    "See also": "List of Russula species\n\n\n== External links =="
+  }
+}

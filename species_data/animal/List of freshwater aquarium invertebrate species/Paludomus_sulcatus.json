@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Paludomus_sulcatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Caenogastropodaclade Sorbeoconcha"
+    },
+    {
+      "Superfamily": "Cerithioidea"
+    },
+    {
+      "Family": "Paludomidae"
+    },
+    {
+      "Subfamily": "Paludominae"
+    },
+    {
+      "Genus": "Paludomus"
+    },
+    {
+      "Species": "P. sulcatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Paludomus sulcatus is a species of a freshwater snail with an operculum, aquatic gastropod mollusk in the family Paludomidae.",
+    "References": "\n\n== External links =="
+  }
+}

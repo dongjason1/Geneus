@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Podosphaera_pannosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Leotiomycetes"
+    },
+    {
+      "Subclass": "Leotiomycetidae"
+    },
+    {
+      "Order": "Erysiphales"
+    },
+    {
+      "Family": "Erysiphaceae"
+    },
+    {
+      "Genus": "Podosphaera"
+    },
+    {
+      "Species": "P. pannosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Podosphaera pannosa is a plant pathogen. It produces a powdery mildew on members of the rose family.",
+    "Summary": "Rose powdery mildew [also known as 'Weeping Mildred'] is caused by the fungus Podosphaera pannosa, a member of the Ascomycete fungi. It infects a wide variety of roses, but especially those grown in dryer climates as the fungus has the rare characteristic that not only does it not need water to germinate and reproduce, it can be inhibited by it.",
+    "Disease cycle": "The disease cycle of rose powdery mildew starts when the sexual spores, ascospores, of the pathogen survive the winter in a structure composed of hyphae called an ascocarp. The specific ascocarp is a chasmothecium, or cleistothecium, and has a circular shape to it. Under the right conditions the chasmothecium will break open to reveal the asci, which are long tube-like structures containing the ascospores. These ascospores are then released and spread by wind, insects, and rain until they land on a susceptible rose for a host and land, attach, and germinate on the plant. They will also produce condia, the asexual spores of Podosphaera pannosa, which will spread throughout the summer. It is these long chains of white conidia which give the fungus its characteristic “powdery” appearance. Late in the year as the plant is dying cleistothecia will again form when the ascogonium receives the nucleus from the antheridium.",
+    "Environment": "Optimal conditions for rose powdery mildew are 16-27 degrees Celsius, with the optimal temperature for fungal growth at 23 degrees Celsius in a shaded area. They also do not need water to germinate and infect the rose. In fact, if there is too much water present on plant surfaces for a prolonged period of time the fungal growth is inhibited and the spores can actually die. Rose powdery mildew can also grow in any conditions where roses can grow and has been found everywhere from China to the United States.",
+    "Hosts, signs, and symptoms": "A wide variety of rose species are susceptible to powdery mildew. In light of this it is more practical to discuss the rose varieties that are resistant as opposed to those that are susceptible. Two varieties that have been found to show resistance to rose powdery mildew are \"Paul's Pink\" rose variety and the \"Magic\" rose variety. Other research has shown that many chestnut rose (Rosa roxburghii) varieties are also resistant to powdery mildew. Rosa sterilis, Rosa kweichowensis, Rosa laevigata, Rosa lucidissima, and Rosa chinensis have all been shown to be resistant to powdery mildew. R. multiflora var. multiflora and R. multiflora var. cathayensis have all been shown to be susceptible to rose powdery mildew. Symptoms caused by the rose powdery mildew can be a dwarfing of the growth of the plant, or the twisting and deforming of leaves, but more noticeable is a sign of the disease, which is the white condia, the “powder” that appears on the plant surfaces, such as leaves, shoots, flowers, and buds. The fungus may grow on both new and old leaves, but is generally more concentrated on the underside of the leaf",
+    "Management": "Effective management of rose powdery mildew begins by using resistant varieties of rose, but it can also be managed through the use of fungicides, or by planting in sun since rose powdery mildew prefers the shade. In fact, increasing the exposure of rose powdery mildew from 18 to 24 hours of light per day reduced the production of conidia, the asexual spores of the fungus, by as much as 62%. There are a variety of fungicides that have proven to be effective. Examples are myclobutanil, azoxystrobin, triadimefon, and thiophanate-methyl formulations  Chemical fungicides are not always necessary, however, it is possible to use more environmentally-friendly solutions such as a water-vinegar spray, or mixtures of baking soda and insecticidal soaps  Recent studies have also shown that using a planting medium which includes silicon can also reduce the occurrence of powdery mildew by as much as 57%",
+    "Importance": "Powdery mildew affects more the 7600 species of hosts worldwide, including subsistence crops  Although rose powdery mildew will most directly affect the rose connoisseur, it is part of this larger family of powdery mildews, which can affect the crops used for food and survival in many countries, thereby having economic and human impacts beyond that of an unsightly rose bush. Research shows that total yield loss from powdery mildew on cereal crops alone can vary anywhere between 2 and 30% depending on the host and the environmental conditions. Additionally, the wholesale value of roses annually exceeds $100 million in the United States, so the national economic impact from the flower industry cannot be ignored  As explained by an old gardener's adage 'Weeping Mildred! She's no friend of the gardener and certainly no friend of me'.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

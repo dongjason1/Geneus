@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_subtropicalis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. subtropicalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe subtropicalis is a species of mushroom in the Strophariaceae family. The mushroom contains the medicinal compound psilocybin. Found in Mexico, it was described as new to science by mycologist and Psilocybe authority Gastón Guzmán in 1995.",
+    "See also": "List of Psilocybin mushrooms\nPsilocybin mushrooms\nPsilocybe\n\n\n== References =="
+  }
+}

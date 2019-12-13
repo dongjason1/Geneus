@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vanilla_moonii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Vanilloideae"
+    },
+    {
+      "Genus": "Vanilla"
+    },
+    {
+      "Species": "V. moonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Vanilla moonii is an endangered vanilla species found only in Sri Lanka.",
+    "References": "",
+    "External links": "Culturesheet.org"
+  }
+}

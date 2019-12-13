@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Matses'_big-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Micronycteris"
+    },
+    {
+      "Species": "M. matses"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Matses's big-eared bat (Micronycteris matses) is a bat species from South America. It is found in Brazil.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_cistiflora",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. cistiflora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera cistiflora is a species of sundew, known for its unusually large flowers. It is native to southern Africa."
+  }
+}

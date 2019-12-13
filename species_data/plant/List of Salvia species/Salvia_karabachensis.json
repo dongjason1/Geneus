@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_karabachensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. karabachensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia karabachensis is a species of sage, endemic to the Caucasus region. Like several other sage species, it is considered a medicinal plant. The species' specific epithet, karabachensis is derived from the Karabakh region.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_dissimilis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Tricheilostoma"
+    },
+    {
+      "Species": "T. dissimilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sudan blind snake (Tricheilostoma dissimilis) is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

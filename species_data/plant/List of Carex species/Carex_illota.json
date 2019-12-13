@@ -1,0 +1,44 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_illota",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. illota"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex illota is a species of sedge known by the common name sheep sedge. It is native to western North America, where it grows in wet places such as marshes and mountain meadows, from New Mexico and California north to Western Canada.",
+    "Description": "This sedge produces dense clumps of stems up to about 38 centimeters in maximum height. There are a few leaves for each stem, growing up to 18 centimeters long. The nodding inflorescence is a dense dark brown cluster of spikes about a centimeter long.",
+    "References": "",
+    "External links": "Jepson Manual Treatment - Carex illota\nFlora of North America\nCarex illota - Photo gallery"
+  }
+}

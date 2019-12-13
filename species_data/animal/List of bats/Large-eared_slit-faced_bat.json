@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large-eared_slit-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Nycteridae"
+    },
+    {
+      "Genus": "Nycteris"
+    },
+    {
+      "Species": "N. macrotis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large-eared  slit-faced bat, Nycteris macrotis, is a species of slit-faced bat which lives in forests and savannas throughout Africa. Nycteris vinsoni was once considered a synonym of N. macrotis, but it became recognized as a separate species in 2004. Some, however, still consider N. vinsoni to be a subspecies of N. macrotis, and consider N. macrotis a species complex.\nThree subspecies have been noted: N. m. aethiopica, N. m. luteola, and N. m. macrotis.\n\n\n== References =="
+  }
+}

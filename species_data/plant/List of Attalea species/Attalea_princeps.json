@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Attalea_princeps",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Arecales"
+    },
+    {
+      "Family": "Arecaceae"
+    },
+    {
+      "Genus": "Attalea"
+    },
+    {
+      "Species": "A. princeps"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Attalea princeps is a species of palm tree native to the Amazon rainforest of Bolivia, Brazil and Peru.\n\n\n== References =="
+  }
+}

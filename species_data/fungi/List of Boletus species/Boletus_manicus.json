@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_manicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. manicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus manicus is a species of fungus in the Boletaceae family of mushrooms. Found in Papua New Guinea, it was first described by French mycologist Roger Heim in 1963. Reported to be psychoactive, the active principles are thought to be three indolic substances, but their concentration in the mushroom is too low to allow for chemical analysis and identification.",
+    "References": "",
+    "See also": "\nList of Boletus species"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_diannanensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. diannanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas diannanensis is a species of cycad endemic to Yunnan, China.",
+    "Range": "It is found along the Red River valley from Hekou to Shuangbai County in Yunnan Province. It has also been recorded from Manhao, Gejiu City, Yunnan Province. It is also cultivated in the Shenzhen Fairy Lake Botanical Garden, the Forestry Institute of Pingbian County, and the Xishuangbanna Tropical Botanical Garden.\n\n\n== References =="
+  }
+}

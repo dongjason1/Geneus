@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_viticola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. viticola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium viticola is a species of fungus in the genus Penicillium which was isolated from grapes in Yamanashi Prefecture in Japan. Penicillium viticola produces calcium malate",
+    "Further reading": "Khan, I; Nazir, K; Wang, Z. P.; Liu, G. L.; Chi, Z. M. (2014). \"Calcium malate overproduction by Penicillium viticola 152 using the medium containing corn steep liquor\". Applied Microbiology and Biotechnology. 98 (4): 1539–46. doi:10.1007/s00253-013-5326-7. PMID 24232832.\nRivera, K.G.; Seifert, K.A. (2011). \"A taxonomic and phylogenetic revision of the Penicillium sclerotiorum complex\". Studies in Mycology. 70 (1): 139–58. doi:10.3114/sim.2011.70.03. PMC 3233909. PMID 22308047.\n\n\n== References =="
+  }
+}

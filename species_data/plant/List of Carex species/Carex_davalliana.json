@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_davalliana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Species": "C. davalliana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex davalliana, or Davall's sedge, is a species of sedge found in inland wetlands across continental Europe.",
+    "Distribution": "The species became extinct across the British Isles in 1852 and has not reestablished since. It was only ever identified at one site in the British Isles (a calcareous mire near Bath, Somerset). It became extinct when the land was drained for building houses.\n\n\n== References =="
+  }
+}

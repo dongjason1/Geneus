@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_leopardus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. leopardus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras leopardus, the leopard cory, is a catfish very similar to, and often confused with, the three line cory, Corydoras trilineatus. The most obvious differences are that C. leopardus has a longer, more pointed snout than C. trilineatus, and C. leopardus grows larger than C. trilineatus.\n\n\n== References =="
+  }
+}

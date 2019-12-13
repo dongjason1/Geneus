@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_evansii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. evansii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum evansii is a species of orchid in the genus Bulbophyllum.",
+    "References": "\"The Bulbophyllum Checklist\"\n\"The Internet Orchid Species Photo\"\n\"World Checklist Of Selected Plant Families\""
+  }
+}

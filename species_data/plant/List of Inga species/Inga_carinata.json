@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_carinata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. carinata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga carinata is a species of legume in the family Fabaceae.\nIt is found only in Ecuador.\nIts natural habitat is subtropical or tropical moist lowland forests.",
+    "References": "Neill, D. & Pitman, N. (2004). \"Inga carinata\". The IUCN Red List of Threatened Species. IUCN. 2004: e.T45243A10988212. doi:10.2305/IUCN.UK.2004.RLTS.T45243A10988212.en. Retrieved 21 December 2017."
+  }
+}

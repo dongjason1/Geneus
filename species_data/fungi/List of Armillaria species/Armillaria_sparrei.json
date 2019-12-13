@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_sparrei",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. sparrei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria sparrei is a species of mushroom in the Physalacriaceae family.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

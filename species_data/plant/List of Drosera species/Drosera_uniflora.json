@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_uniflora",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. uniflora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera uniflora is a species in the carnivorous plant genus Drosera that is native to southern Chile, Argentina, and the Falkland Islands. It is a tiny sundew with a solitary white flower as its name would suggest. Stalked glands on its leaves, which secrete sticky mucilage at the tips, are used to capture and hold insect prey, from which the plant derives the nutrients it cannot obtain in sufficient quantity from the soil. It was formally described in 1809 by botanist Carl Ludwig Willdenow.",
+    "Phylogeny": "According to Rivadavia et al. (2003), Drosera uniflora and its genetic and morphological New Zealand sister Drosera stenopetala, probably derive from Australia, which, as the home to more than 80 species, is genetically rich in Drosera and could be considered a nexus for the genus. \"The rbcL tree shows that the South American species arose by dispersal from Australia.\" Although Drosera arcturi, which is native to New Zealand and southeastern Australia, is thought to be closely related on the basis of similar morphology, \"on the rbcL tree, Drosera arcturi was not closely related to Drosera stenopetala and Drosera uniflora\".",
+    "Habitat and distribution": "As is common with sundews, D. uniflora lives in nutrient poor soil (soil used in the broadest sense—anything that encourages growth), and relies on insects to supplement its nutritional requirements. But unlike most of the genus, it prefers to have its roots in water, and can be found in bogs, moorlands, or otherwise watery areas which lack in organic nitrogen and phosphorus, nutrients it receives from insects it captures and digests. In Chile it grows in the mountains near the ocean between the altitudes of 500 and 2000 meters; typically on the north facing slopes or level areas as it likes a lot of sun. In addition to the Falkland Islands, it has been found in Tierra del Fuego and the northern edge of the Patagonia Forest. Although Barthlott et al. have stated that it has been found growing on Clarence Island off the coast of Antarctica, it would seem more likely that this was mistaken for Clarence Island, Chile, as Antarctica is only known to support two species of flowering plants, neither of which is D. uniflora.",
+    "Feeding method": "Drosera uniflora captures its prey through an \"adhesive trapping mechanism\" using “mobile tentacles”. Glands at the tips of the tentacles \"secret a sticky mucilage,\" an adaptation shared with the rest of the genus Drosera, that prevents the plant from smothering itself in its own mucilage as it waits. The mucilage that each gland produces forms a droplet that attracts insects.  When an insect lands on the leaf, it sticks to the mucilage drops and the tentacles close in around the insect and suffocate it. The tentacles and sessile glands then release protease and phosphatase along with other digestive enzymes to digest the insect.  The nutrients are then taken in by the tentacles and glands on the surface of the leaf.",
+    "See also": "List of Drosera species\n\n\n== References =="
+  }
+}

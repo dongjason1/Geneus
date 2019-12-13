@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mehely's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. mehelyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mehely's horseshoe bat (Rhinolophus mehelyi) is a species of insectivorous bat in the family Rhinolophidae found in Southern Europe and parts of the Middle East. It is distributed in a narrow band around the Mediterranean Sea from North-Western Africa across Portugal, Spain, the Balearics, southern France, Sardinia, Sicily and the Balkan Peninsula to Asia Minor.",
+    "Description": "The bat is medium-sized for a member of the genus Rhinolophus, with pale lips and grey-brown ears and flight membranes. The fur is relatively thick, with the base of hairs grey-white. Ventral fur is almost white, while dorsal fur is grey-brown; the line between the dorsal and ventral sides is relatively sharp.",
+    "Habitat": "The bat is cave-dwelling, preferring areas of limestone with nearby water. It has been known to roost in caves with other horseshoe bats such as Rhinolophus hipposideros, as well as Myotis myotis and Miniopterus schreibersi. It prefers to roost in warmer cave cavities, such as those found in the Cova de Sa Guitarreta (Mallorca), while hanging free on the cave roof.",
+    "Hunting": "The bat emerges at dusk, hunting low over the ground on warm hillsides and also among bushes and trees, preying on moths and other insects.",
+    "Echolocation": "The constant frequency sound is between 105 and 112 kHz,  with a short drop in frequency at the end of the signal, which normally lasts between 20 and 30 milliseconds. There is some frequency overlap with the lesser horseshoe bat and the Mediterranean horseshoe bat.",
+    "Mating and selection": "A behavioral study conducted by Puechmaille et al. (2014) revealed that the peak frequencies of echolocation calls emitted by male and female Rhinolophus mehelyi accurately reflect their body size and condition. In the experiment, larger males proved to have higher call frequencies that attracted females twice as often as males with lower call frequencies. In contrast, males appeared to choose females at random. This distinction suggests that females choose males based on their call frequency for the indirect benefits of having healthier and fitter offspring. The mating system is therefore comparable to a lek, making female mate choice a selection factor in the evolution of call frequency in males that may counter other selection pressures imposed by their ecological niche.",
+    "References": "\nSchober, Wilfried; Eckard Grimmberger (1989).  Dr. Robert E. Stebbings (ed.). A Guide to Bats of Britain and Europe (1st ed.). UK: Hamlyn Publishing Group. ISBN 0-600-56424-X.\nAgnelli, P., Martinoli, A., Patriarca, E., Russo, D., Scaravelli, D. & Genovesi, P. (2004), Linee guida per il monitoraggio dei Chirotteri: indicazioni metodologiche per lo studio e la conservazione dei pipistrelli in Italia. Quaderni di Conservazione della NaturaMinistero dell'Ambiente e della Tutela del Territorio - Istituto Nazionale per la Fauna Selvatica \"A. Ghigi\", Roma\nGIRC (2004), The Italian bat roost project: a preliminary inventory of sites and conservation perspectives Hystrix, It. J. Mammal. pp. 55–68\nLanza, B. (2012), Fauna d'Italia, Chiroptera Calderini, Bologna\nMucedda, M. (1994), Note su Rhinolophus mehelyi (Chiroptera, Rhinolophidae) della Sardegna. Boll. Gruppo Spel. Sassarese n.15: pp. 43–46\nMucedda, M., Pidinchedda, E., Bertelli, M.L (2009), Status del Rinolofo di Mehely (Rhinolophus mehelyi) (Chiroptera, Rhinolophidae) in Italia. Atti del 2° Convegno Italiano sui Chirotteri, Serra San Quirico (AN) pp. 89–98\nRuffo, S. & Stock, F. (2005), Checklist e distribuzione della fauna italiana Memorie dei Museo Civico di Storia Naturale di Verona - 2. Serie Sezione Scienze della Vita\nRusso D, Almenar D, Aihartza J, Goiti U, Salsamendi E, Garin I. (2005), Habitat selection in sympatric Rhinolophus mehelyi and R. euryale (Mammalia : Chiroptera) Journal of Zoology pp. 327–332"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Kei_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. stalkeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Kei myotis (Myotis stalkeri) is a species of vesper bat. It is found only in Indonesia.\n\n\n== References =="
+  }
+}

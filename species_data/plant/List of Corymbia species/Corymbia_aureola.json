@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corymbia_aureola",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Corymbia"
+    },
+    {
+      "Species": "C. aureola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corymbia aureola is a bloodwood native to eastern Australia.",
+    "See also": "List of Corymbia species\n\n\n== References =="
+  }
+}

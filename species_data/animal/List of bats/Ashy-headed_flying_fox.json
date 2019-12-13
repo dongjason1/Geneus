@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ashy-headed_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. caniceps"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The ashy-headed flying fox or North Moluccan flying fox (Pteropus caniceps) is a species of bat in the family Pteropodidae. It is endemic to Indonesia.",
+    "Taxonomy and etymology": "It was described as a new species in 1870 by British zoologist John Edward Gray.\nThe holotype had been collected on the Bacan Islands by Alfred Russel Wallace.\nIts species name \"caniceps\" means \"gray-headed\" from Latin canus (gray) and -ceps (headed).\nThis species has two subspecies:\n\nP. c. caniceps\nP. c. dobsoni (named for zoologist George Edward Dobson)",
+    "Description": "Its forearm is 139–141 mm (5.5–5.6 in) long.",
+    "Range and habitat": "This species is endemic to Indonesia.\nIt has been found at elevations up to 1,630 m (5,350 ft) above sea level.",
+    "Conservation": "As of 2016, it is assessed as a vulnerable species by the IUCN.\nIt meets the criteria for this assessment because its population decline has been at least 30% from 1992–2016.\nAdditionally, it is experiencing habitat fragmentation, and it is losing habitat due to logging and mining activities.\n\n\n== References =="
+  }
+}

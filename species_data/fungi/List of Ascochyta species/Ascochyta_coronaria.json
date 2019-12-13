@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_coronaria",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Leotiomycetes"
+    },
+    {
+      "Subclass": "Leotiomycetidae"
+    },
+    {
+      "Order": "Helotiales"
+    },
+    {
+      "Family": "Dermateaceae"
+    },
+    {
+      "Genus": "Diplocarpon"
+    },
+    {
+      "Species": "D. mali"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Diplocarpon mali is a plant pathogen that causes Marssonina blotch on apple.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

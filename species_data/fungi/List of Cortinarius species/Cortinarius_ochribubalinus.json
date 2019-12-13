@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_ochribubalinus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Phlegmacium"
+    },
+    {
+      "Species": "C. ochribubalinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius ochribubalinus is a species of fungus in the large mushroom genus Cortinarius (subgenus Phlegmacium). Found in South Finland, where it grows on the ground with deciduous trees, it was described as new to science in 2014. The specific epithet ochribubalinus refers to the ochre colour of the fruitbodies.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius ochribubalinus  in Index Fungorum"
+  }
+}

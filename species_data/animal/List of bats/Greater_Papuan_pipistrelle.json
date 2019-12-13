@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_Papuan_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. collinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Greater Papuan pipistrelle (Pipistrellus collinus) is a species of vesper bat found in Papua New Guinea and Irian Jaya.\n\n\n== References =="
+  }
+}

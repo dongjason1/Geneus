@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_coprobium",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. coprobium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium coprobium is an anamorph fungus species of the genus of Penicillium which produces pyripyropene A, roquefortine C, penicillic acid and patulin.",
+    "Further reading": "Hu, J; Okawa, H; Yamamoto, K; Oyama, K; Mitomi, M; Anzai, H (2011). \"Characterization of two cytochrome P450 monooxygenase genes of the pyripyropene biosynthetic gene cluster from Penicillium coprobium\". The Journal of Antibiotics. 64 (3): 221–7. doi:10.1038/ja.2010.162. PMID 21224862.\nDombrink-Kurtzman, M. A. (2006). \"The sequence of the isoepoxydon dehydrogenase gene of the patulin biosynthetic pathway in Penicillium species\". Antonie van Leeuwenhoek. 91 (2): 179–189. doi:10.1007/s10482-006-9109-3. PMID 17043910.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

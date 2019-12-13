@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tribulus_cistoides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Zygophyllales"
+    },
+    {
+      "Family": "Zygophyllaceae"
+    },
+    {
+      "Genus": "Tribulus"
+    },
+    {
+      "Species": "T. cistoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tribulus cistoides, the Jamaican feverplant or puncture vine, is a species of flowering plant in the Zygophyllaceae family, which is widely distributed in tropical and subtropical regions.\n\n\n== References =="
+  }
+}

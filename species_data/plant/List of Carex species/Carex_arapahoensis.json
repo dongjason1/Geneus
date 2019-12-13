@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_arapahoensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. arapahoensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex arapahoensis, known as Arapaho sedge, is a species of sedge endemic to the western United States. It is found only in Colorado and Utah in alpine and subalpine habitat.\n\n\n== References =="
+  }
+}

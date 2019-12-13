@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dark-rumped_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. edwardsii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The dark-rumped rosefinch (Carpodacus edwardsii) is a species of finch in the family Fringillidae.\nIt is found in Bhutan, China, India, Myanmar, and Nepal. Its natural habitats are boreal forests and subtropical or tropical high-altitude shrubland.\n\n\n== References =="
+  }
+}

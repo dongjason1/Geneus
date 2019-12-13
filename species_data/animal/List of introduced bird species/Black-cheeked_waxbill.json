@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-cheeked_waxbill",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Estrilda"
+    },
+    {
+      "Species": "E. charmosyna"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-cheeked waxbill or red-rumped waxbill (Estrilda charmosyna) is a common species of estrildid finch found in east Africa. It has an estimated global extent of occurrence of 400,000 km².\nIt is found in Ethiopia, Kenya, Somalia, South Sudan and Tanzania. The status of the species is evaluated as Least Concern.",
+    "References": "\nBirdLife Species Factsheet"
+  }
+}

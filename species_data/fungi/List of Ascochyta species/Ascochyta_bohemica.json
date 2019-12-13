@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_bohemica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Didymellaceae"
+    },
+    {
+      "Genus": "Stagonosporopsis"
+    },
+    {
+      "Species": "S. trachelii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Stagonosporopsis trachelii (syn. Ascochyta bohemica) is a fungal plant pathogen that causes Ascochyta leaf spot in Campanula species.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

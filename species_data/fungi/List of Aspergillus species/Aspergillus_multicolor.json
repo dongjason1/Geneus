@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_multicolor",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. multicolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus multicolor is a species of fungus in the genus Aspergillus. It is from the Nidulantes section. The species was first described in 1954. It was isolated from forest soil in Somalia. It has been shown to produce asticolourin A-C, averufin, 5,6-dimethoxydihydrosterigmatocystin, 5,6-dimethoxysterigmatocystin, sterigmatocystin, and versicolourin C.In 2916, the genome of A. multicolor was sequenced as a part of the Aspergillus whole-genome sequencing project - a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 35.25 Mbp.",
+    "Growth and morphology": "Aspergilus multicolor has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

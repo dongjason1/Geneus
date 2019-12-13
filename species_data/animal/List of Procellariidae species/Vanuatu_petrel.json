@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vanuatu_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. occulta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Vanuatu petrel or Falla's petrel (Pterodroma occulta) is a species of gadfly petrel. This little-known seabird was first scientifically described in 2001 based on six specimens taken in 1927 off Merelava, Vanuatu, and a single bird found ashore in 1983 in New South Wales, Australia. The first confirmed breeding locality was only discovered in 2009 on the island of Vanua Lava, Vanuatu, but based on reports by locals it is supposed to also breed on Merelava. The IUCN has not recognized the Vanuatu petrel as a species, but maintain that it as a subspecies of the very similar white-necked petrel, P. cervicalis, with the \"combined\" species considered vulnerable.\nThe alternate name commemorates Robert Falla, a New Zealand ornithologist.",
+    "Description": "This species resembles the white-necked petrel, but is slightly smaller at 40 centimetres (16 in) in length and 300–350 grams (11–12 oz) in weight. It has a black cap, white rear neck, dark grey back, wings and tail, and a darker rump. The underparts are white with dark bases to the primary feathers. Like the white-necked petrel, the upperparts of worn birds become darker.\nIt is very difficult to differentiate the Vanuatu petrel from the white-necked petrel at sea.",
+    "Behaviour": "This is a solitary pelagic species of the open seas of the south-west Pacific. It has an effortless graceful flight with few wing beats, and does not follow ships. It feeds on the wing, picking fish and squid from near the surface.",
+    "References": "Onley and Scofield (2007). Albatrosses, Petrels and Shearwaters of the World. Helm Publishing. ISBN 978-0-7136-4332-9\nVanuatu petrel. VanBirds. Accessed 22 January 2010.\nBirdLife International (2008). \"Pterodroma cervicalis\". IUCN Red List of Threatened Species. Version 2008. International Union for Conservation of Nature. Retrieved 22 January 2010."
+  }
+}

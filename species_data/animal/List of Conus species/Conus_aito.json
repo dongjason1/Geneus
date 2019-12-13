@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_aito",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. aito"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus aito, common name Paladin cone snail, is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.This snail is predatory and venomous and is capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail occurs off French Polynesia.",
+    "References": "Rabiller M. & Richard G. (2014). Conus (Gastropoda, Conidae) from offshore French Polynesia: Description of dredging from TARASOC expedition, with new records and new species. Xenophora Taxonomy. 5: 25-49. page(s): 37, pl. 5, figs 1-4, 7-12",
+    "External links": "To World Register of Marine Species"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eldorado_broad-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Platyrrhinus"
+    },
+    {
+      "Species": "P. aurarius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Eldorado broad-nosed bat (Platyrrhinus aurarius) is a species of bat in the family Phyllostomidae. It is found in Guyana, Suriname, northern Brazil, and southern Venezuela.\n\n\n== Sources =="
+  }
+}

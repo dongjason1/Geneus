@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_miamiensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. miamiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus miamiensis is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.This species is the type taxon of the fossil genus † Tequestaconus Petuch & Drolshagen, 2015",
+    "Description": "The shell attains a length of 32 mm.",
+    "Distribution": "This fossil species is known from the Plio-Pleistocene of Florida.",
+    "References": "E.J. Petuch (1986), The Pliocene Reefs of Miami: Their Geomorphological Significance in the Evolution of the Atlantic Coastal Ridge, Southeastern Florida, U.S.A.; Journal of Coastal Research Vol. 2, No. 4 (Autumn, 1986), pp. 391-408\nHendricks JR. The Genus Conus (Mollusca: Neogastropoda) in the Plio-Pleistocene of the Southeastern United States. Bull Am Paleontol. 2009;375: 1–180",
+    "External links": "World Register of Marine Species\nThe Neogene Atlas of Ancient Life in the Southeastern United States"
+  }
+}

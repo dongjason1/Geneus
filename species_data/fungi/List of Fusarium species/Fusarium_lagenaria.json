@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_lagenaria",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Subphylum": "Pezizomycotina"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Glomerellales"
+    },
+    {
+      "Family": "Glomerellaceae"
+    },
+    {
+      "Genus": "Colletotrichum"
+    },
+    {
+      "Species": "C. orbiculare"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Colletotrichum orbiculare is a plant pathogen of melons and cucumber. It causes the disease Anthracnose that can effect curcubits causing lesions on various parts of the plant. It can effect cucumbers, melon, squash, watermelon and pumpkin, especially when the weather is rainy, humid and warm. It can be transmitted by seed as well as soil and survive between crops. It is also spread by feeding cucumber beetles, splashing water, tools and workers. Efforts to control the fungus include the practice of rotating cucurbits out for a 2 year period, planting cultivars with resistance, burning infected crops and careful control of weeds. Chemical control measures are also available.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

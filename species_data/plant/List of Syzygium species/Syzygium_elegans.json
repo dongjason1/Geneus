@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Syzygium_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Syzygium"
+    },
+    {
+      "Species": "S. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Syzygium elegans is a species of flowering plants that belongs to the myrtle family, Myrtaceae. It is found in New Caledonia.",
+    "References": "",
+    "External links": "Syzygium elegans at the Plant List\nSyzygium elegans at Tropicos\nSyzygium elegans at endemia.nc (French)"
+  }
+}

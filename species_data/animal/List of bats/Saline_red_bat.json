@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Saline_red_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. salinae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The saline red bat (Lasiurus salinae) is a species of bat from the family Vespertilionidae. It was formerly included as a subspecies or a synonym of the eastern red bat and the desert red bat, but is distinct. The species is present in Argentina, and its type locality has been found in the city of Cruz del Eje in the Córdoba Province.",
+    "See also": "Desert red bat\nEastern red bat\n\n\n== References =="
+  }
+}

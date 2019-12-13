@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_virgatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. virgatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium vinaceum is a species of fungus in the genus Penicillium which was isolated from soil of a soybean field in New Caledonia.",
+    "Further reading": "Kwaśna, Hanna; Nirenberg, Helgard I. (2005). \"Delimitation of Penicillium virgatum sp. nov. And P. Daleae on the basis of morphological and molecular characters\". Mycological Research. 109 (9): 974–982. doi:10.1017/S0953756205003515. PMID 16209303.\n\n\n== References =="
+  }
+}

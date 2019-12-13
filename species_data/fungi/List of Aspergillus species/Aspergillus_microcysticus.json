@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_microcysticus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. microcysticus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus microcysticus is a species of fungus in the genus Aspergillus. Aspergillus microcysticus produces aspochalasin A, aspochalasin C, aspochalasin D, and the antibiotic  asposterol.",
+    "Growth and morphology": "A. microcysticus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Machida, edited by Masayuki; Gomi, Katsuya (2010). Aspergillus : molecular biology and genomics. Wymondham, Norfolk, UK: Caister Academic. ISBN 978-1-904-45553-0.CS1 maint: extra text: authors list (link)\nGunstone, senior reporter F.D. (1981). Aliphatic and related natural product chemistry. London: Royal Society of Chemistry. ISBN 978-0-851-86652-9.\nSamson, R.A.; Peterson, S.W.; Frisvad, J.C.; Varga, J. (June 2011). \"New species in Aspergillus section Terrei\". Studies in Mycology. 69 (1): 39–55. doi:10.3114/sim.2011.69.04. PMC 3161753. PMID 21892242."
+  }
+}

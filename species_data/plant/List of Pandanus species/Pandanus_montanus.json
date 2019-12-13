@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pandanus_montanus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Pandanales"
+    },
+    {
+      "Family": "Pandanaceae"
+    },
+    {
+      "Genus": "Pandanus"
+    },
+    {
+      "Species": "P. montanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pandanus montanus (\"Baquois redresse\") is a species of monocots in the genus Pandanus, endemic to Réunion in wet forest and swamp at an elevation of 400–1700 meters.",
+    "Description": "It is a small, slender tree of 3–5 m in height. Its fruit-head is initially held up erectly, but droops down and becomes dark red when ripe. Each fruit head is packed with red, dome-shaped drupes.",
+    "Synonyms": "Pandanus borbonicus Huynh\nPandanus erigens Thouars\nPandanus gaudichaudii Martelli\nSussea conoidea Gaudich.\nSussea microcarpa Gaudich.",
+    "References": "Cirad (Centre de coopération internationale en recherche agronomique pour le développement) entry"
+  }
+}

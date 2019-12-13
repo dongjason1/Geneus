@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Anjouan_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. anjouanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Anjouan myotis (Myotis anjouanensis) is a species of vesper bat. It is found only in Comoros.",
+    "Taxonomy and etymology": "It was described as a new species in 1960 by French zoologist Jean Dorst.\nDorst described the species based on specimens that had been collected by Léon Humblot in 1886.\nIt has variably been considered a subspecies of the Malagasy mouse-eared bat.\nHowever, in 1995 and 2005, it was published as a full species.\nThe species name \"anjouanensis\" means \"belonging to Anjouan\"—the island where the holotype was collected.",
+    "Range and habitat": "It is found only on Anjouan island of the Comoros.\nThe individual observed in 2006 was captured flying through a tunnel surrounded by \"heavily disturbed forest\" and agricultural plots.",
+    "Conservation": "As of 2008, it is evaluated as a data deficient species by the IUCN.\nIt is a rarely-observed species.\nA single individual was captured in 2006, representing perhaps the first documentation of this species in over 120 years.\n\n\n== References =="
+  }
+}

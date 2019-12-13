@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pygmy_round-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lophostoma"
+    },
+    {
+      "Species": "L. brasiliense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pygmy round-eared bat (Lophostoma brasiliense) is a bat species from South and Central America.",
+    "Description": "Its ears are large with rounded tips.\nIts upper lip has several small warts.\nThe fur is dark brown or black in color.\nIts forearm is 33–36 mm (1.3–1.4 in) long.\nIndividuals weigh 9–11 g (0.32–0.39 oz).\nIts dental formula is 2.1.2.31.1.3.3 for a total of 32 teeth.",
+    "Biology and ecology": "It is insectivorous, though it may also consume fruit.\nIt is nocturnal, roosting in sheltered places during the day such as hollow trees or within termite mounds.",
+    "Range and habitat": "It is found in several countries in Central and South America, including: Belize, Bolivia, Brazil, Colombia, Costa Rica, Ecuador, French Guiana, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Panama, Peru, Suriname, Trinidad and Tobago, and Venezuela.\nIt is documented at elevations below 500 m (1,600 ft) above sea level.",
+    "Conservation": "As of 2016, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this classification because it has a wide geographic range; it is relatively common; it tolerates a variety of habitats; its range includes protected areas; and it is unlikely to be experiencing rapid population decline.\n\n\n== References =="
+  }
+}

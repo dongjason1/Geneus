@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_veddae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Indotyphlops"
+    },
+    {
+      "Species": "I. veddae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Vedda worm snake (Indotyphlops veddae) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

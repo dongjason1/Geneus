@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Croton_guatemalensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Euphorbiaceae"
+    },
+    {
+      "Genus": "Croton"
+    },
+    {
+      "Species": "C. guatemalensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Croton guatemalensis, known as copalchi, is a plant species of the genus Croton.\nIt is found in Guatemala, in Central America.",
+    "References": "\n\n== External links =="
+  }
+}

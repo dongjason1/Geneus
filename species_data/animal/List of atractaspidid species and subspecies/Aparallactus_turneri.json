@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aparallactus_turneri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Aparallactus"
+    },
+    {
+      "Species": "A. turneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aparallactus turneri, or the Malindi centipede-eater, is a species of venomous rear-fanged snake in the family Atractaspididae.",
+    "Etymology": "The specific name, turneri, is in honor of British taxidermist H.J. Allen Turner (1876–1953), who lived in Kenya.",
+    "Geographic range": "A. turneri is found in coastal Kenya.",
+    "References": "",
+    "External links": "Loveridge A (1935). \"Scientific results of an expedition to rain forest regions in Eastern Africa. I. New reptiles and amphibians from East Africa\". Bull. Mus. Comp. Zool. Harvard 79: 1-19. (Aparallactus turneri, new species, pp. 9–10). (full text of original description, https://archive.org/stream/bulletinofmuseum79harv/bulletinofmuseum79harv_djvu.txt)."
+  }
+}

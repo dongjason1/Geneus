@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_volcanica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. volcanica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus volcanica is a tree native to northern New South Wales.\n\n\n== References =="
+  }
+}

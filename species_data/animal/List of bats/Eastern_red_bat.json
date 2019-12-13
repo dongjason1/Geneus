@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eastern_red_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. borealis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The eastern red bat (Lasiurus borealis) is a species of microbat in the family Vespertilionidae. Eastern red bats are widespread across eastern North America, with additional records in Bermuda.",
+    "Taxonomy and etymology": "It was described in 1776 by German zoologist Philipp Ludwig Statius Müller.\nHe initially placed it in the genus Vespertilio, with the name Vespertilio borealis.\nIt was not placed into its current genus Lasiurus until the creation of the genus in 1831 by John Edward Gray.\nIts species name \"borealis\" is Latin in origin, meaning \"northern.\"\nOf the species in its genus, the eastern red bat is most closely related to other red bats, with which they form a monophyly.\nIts closest relatives are the Pfeiffer's red bat (Lasiurus pfeifferi), Seminole bat (L. seminolus), cinnamon red bat (L. varius), desert red bat (L. blossevillii), saline red bat (L. salinae), and the greater red bat (L. atratus).",
+    "Description": "The eastern red bat has distinctive fur, with its back brick red or rusty red and frosted with white.\nIndividual hairs on its back are approximately 5.8 mm (0.23 in), while hairs on its uropatagium are 2.6 mm (0.10 in) long.\nFur on its ventral surface is usually lighter in color, while the shoulders may appear white.\nFemales are usually lighter in color than the males.\nIts entire body is densely furred, including its uropatagium.\nIt is a medium-sized member of its genus, weighing 7–13 g (0.25–0.46 oz) and measuring 109 mm (4.3 in) from head to tail.\nIts ears are short and rounded, with triangular tragi.\nIts wings are long and pointed.\nIts tail is long, at 52.7 mm (2.07 in) long.\nIts forearm is approximately 40.6 mm (1.60 in) long.\nIts dental formula is 1.1.2.33.1.2.3, for a total of 32 teeth.",
+    "Biology": "The aspect ratio and wing loading of eastern red bat wings indicates that they fly relatively quickly and are moderately manoeuvrable.\nEastern red bats are insectivorous, preying heavily on moths, with other insect taxa also consumed.\nThey consume known pests, including gypsy moths, tent caterpillar moths, Cydia moths, Acrobasis moths, cutworm moths, and coneworm moths.",
+    "Range and habitat": "The eastern red bat is widely distributed in eastern North America and Bermuda.\nIt generally occurs east of the Continental Divide, including southern Canada and northeastern Mexico.\nIn the winter, it occurs in the southeastern United States and northeastern Mexico, with greatest concentrations in coastal areas.\nIn the spring and summer, it can be found in the Great Lakes region and the Great Plains region.\nUnlike the closely related hoary bat, males and females have the same geographic range throughout the year.\nFormerly, some authors included the western United States, Central America, and the northern part of South America in its range, but these populations have since been reassigned to the desert red bat, Lasiurus blossevillii.",
+    "Conservation": "The eastern red bat is evaluated as least concern by the IUCN, the lowest-priority conservation category.\nIt meets the criteria for this designation because it has a wide geographic range, large population size, it occurs in protected areas, it tolerates some habitat disturbance, and its population size is unlikely to be declining rapidly.\nEastern red bats and other migratory tree bats are vulnerable to death by wind turbines via barotrauma.\nThe eastern red bat has the second-greatest mortality from wind turbines, with hoary bats most affected.\nWhile it has been documented carrying the spores of Pseudogymnoascus destructans, the fungus that causes white-nose syndrome, no individuals have been observed with clinical symptoms of the disease.",
+    "See also": "Bats of Canada\nBats of the United States\n\n\n== References =="
+  }
+}

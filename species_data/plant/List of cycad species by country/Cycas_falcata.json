@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_falcata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. falcata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas falcata is a little-known species of cycad endemic to Indonesia. It is found in Southeast Sulawesi and Kabaena Island.\n\n\n== References =="
+  }
+}

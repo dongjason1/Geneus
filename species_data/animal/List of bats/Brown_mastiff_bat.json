@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brown_mastiff_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Promops"
+    },
+    {
+      "Species": "P. nasutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The brown mastiff bat (Promops nasutus), is a South American bat species, found in Venezuela, Trinidad, Guyana, Surinam, Brazil, Ecuador, Peru, Bolivia, Paraguay, and northern Argentina.\n\n\n== References =="
+  }
+}

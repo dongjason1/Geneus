@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_ghost_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Diclidurus"
+    },
+    {
+      "Species": "D. ingens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater ghost bat (Diclidurus ingens) is a bat species found in northwestern Brazil, southeastern Colombia, Guyana, Peru, and Venezuela.\n\n\n== References =="
+  }
+}

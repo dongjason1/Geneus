@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_alvareziae",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Allardtia"
+    },
+    {
+      "Species": "T. alvareziae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia alvareziae is a species in the genus Tillandsia. This species is endemic to Mexico.",
+    "References": "Checklist of Mexican Bromeliaceae with Notes on Species Distribution and Levels of Endemism retrieved 3 November 2009"
+  }
+}

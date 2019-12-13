@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Himalayan_whiskered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. siligorensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Himalayan whiskered bat (Myotis siligorensis) is a species of vesper bat. It is found in Bangladesh, Bhutan, Cambodia, China, India, Indonesia, Laos, Malaysia, Nepal, and Vietnam.\n\n\n== References =="
+  }
+}

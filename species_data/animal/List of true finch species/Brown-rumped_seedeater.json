@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brown-rumped_seedeater",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. tristriatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The brown-rumped seedeater (Crithagra tristriatus) is a species of finch in the Fringillidae family.\nIt is found in the highlands of Ethiopia, Eritrea and Somalia.\nIt is widespread in towns, villages gardens, plantations and upland heath.The brown-rumped seedeater was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the brown-rumped seedeater were moved to the resurrected genus Crithagra.",
+    "Description": "Length 13 cm. This is a drab uniform grey-brown canary with a small white supercilium. It has a plain (not streaked or spotted) breast with white under the chin. The uniformity of its drabness means its eponymous 'brown rump' is often not apparent.",
+    "References": "\nSinclair, Ian & Ryan, Peter (2003) Birds of Africa south of the Sahara, Struik, Cape Town."
+  }
+}

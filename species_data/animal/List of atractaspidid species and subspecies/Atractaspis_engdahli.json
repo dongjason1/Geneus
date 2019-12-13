@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atractaspis_engdahli",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Atractaspis"
+    },
+    {
+      "Species": "A. engdahli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Atractaspis engdahli, or Engdahl's burrowing asp, is a species of venomous snake in the family Atractaspididae. The species is endemic to Africa.",
+    "Etymology": "The specific name, engdahli, is in honor of Swedish missionary Theodor Engdahl, who collected the holotype.",
+    "Geographic range": "A. engdahli is found in northeastern Kenya and in Somalia.",
+    "References": "",
+    "Further reading": "Lönnberg E, Andersson LG (1913). \"On a collection of reptiles from Kismayu\". Arkiv för Zoologi, Uppsala 8: 1-6."
+  }
+}

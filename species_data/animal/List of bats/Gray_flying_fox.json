@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gray_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. griseus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The gray flying fox (Pteropus griseus) is a species of flying fox in the family Pteropodidae. It is found in Indonesia, but not in the Philippines, despite occasional reference to such. Very little is known about this species.  It probably roosts individually or in small groups.  It was listed on appendix II of CITES, and is classified as \"Data Deficient\" by the IUCN. This species has been decimated by hunting for bushmeat in Indonesia.",
+    "Taxonomy": "The species was first described in 1810 by Étienne Geoffroy Saint-Hilaire, using a specimen obtained on Timor during a French scientific expedition. Geoffroy's assignment of the species to the genus Pteropus has remained current.",
+    "Ecology": "Specimens of Pteropus griseus have been found to be infested with Cyclopodia horsfieldi, a species of Nycteribiidae fly.\n\n\n== References =="
+  }
+}

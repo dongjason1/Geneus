@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_hereroensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. hereroensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe hereroensis is an African Aloe native to Angola, Namibia and South Africa.",
+    "References": "",
+    "External links": "\nDressler, S.; Schmidt, M. & Zizka, G. (2014). \"Aloe hereroensis\". African plants – a Photo Guide. Frankfurt/Main: Forschungsinstitut Senckenberg."
+  }
+}

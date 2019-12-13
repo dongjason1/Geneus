@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_riuminiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. riuminiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas riuminiana (Arayat Pitogo) is a species of cycad endemic to Luzon, Philippines.",
+    "Distribution": "There are five subpopulations of Cycas riuminiana.\nPampanga province, near Mount Arayat\nBataan province, near Morong and Bagac\nBatangas province, near Lobo\nIsabela province, near Mount Dipalayag\nAurora province, near Baler\n\n\n== References =="
+  }
+}

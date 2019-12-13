@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_leucostictus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. leucosticta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Liberia worm snake (Letheobia leucosticta) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

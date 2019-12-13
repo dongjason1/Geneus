@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Javan_thick-thumbed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Glischropus"
+    },
+    {
+      "Species": "G. javanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Javan thick-thumbed bat (Glischropus javanus) is a species of vesper bat. It can be found in Indonesia.\n\n\n== References =="
+  }
+}

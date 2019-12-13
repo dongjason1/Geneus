@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_helvetica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. helvetica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix helvetica, the Swiss willow, is a scrubby willow species found in the Alps (from 1700 to 2700 m) and the Tatras portion of the western Carpathians (from 1600 to 2000 m). It has gained the Royal Horticultural Society's Award of Garden Merit.\n\n\n== References =="
+  }
+}

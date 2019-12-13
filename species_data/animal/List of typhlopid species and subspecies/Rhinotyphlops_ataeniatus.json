@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_ataeniatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Rhinotyphlops"
+    },
+    {
+      "Species": "R. ataeniatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinotyphlops ataeniatus is a species of snake in the family Typhlopidae. The species is endemic to the Horn of Africa.",
+    "Geographic range": "R. ataeniatus is found in eastern Ethiopia, northeastern Kenya, and Somalia.",
+    "References": "",
+    "Further reading": "Boulenger GA (1912). \"Missione per la Frontiera Italo-Etiopica sotto il commando del Capitano Carlo Citerni - Risultati zoologici - list of the Reptiles and Batrachians\". Annali del Museo Civico di Storia Naturale di Genova, Third Series, 5: 329–332. (Typhlops unitaeniatus var. ataeniatus, new variation, p. 331). (in English)."
+  }
+}

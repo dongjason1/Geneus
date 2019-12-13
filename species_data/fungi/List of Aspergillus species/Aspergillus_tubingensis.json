@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_tubingensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. tubingensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus tubingensis is a darkly pigmented species of fungus in the genus Aspergillus section Nigri. It is often confused with Aspergillus niger due to their similar morphology and habitat. A. tubingensis is often involved in food spoilage of fruits and wheat, and industrial fermentation. This species is a rare agent of opportunistic infection.",
+    "Background": "Aspergillus tubingensis was first discovered by Raoul Mosseray in 1934. The conidia are heavily roughened, 3-5 µm in diameter. Whitish to pink sclerotia ranging from 0.5-0.8 mm in diameter are often produced. A. tubingensis exists exclusively as an asexual fungus but is understood to be phylogenetically closely related to the other so-called black Aspergilli and sexual states in the genus Petromyces. The production of Ochratoxin A (OTA) was previously thought to be a variable character dependent on strain; however, the production of OTA is thought to be a consistent feature with prior reports of variation arising from the inclusion of misidentified strains (e.g., A. niger) or inconsistencies in test conditions such as incubation time, temperature, and growth medium. Other extrolites produced by this fungus include: asperazine, pyranoigrin A, pyrophen, funalenone, and kotanins.\nWhen cultured on creatine sucrose agar (CREA) culture medium, A. tubingensis demonstrates good acid production (strong yellow colour change) and a moderate growth rate.A. tubingensis and A. niger have similar morphology and are difficult to distinguish without resorting to more advanced methods. One rapid test that is useful in distinguishing the two taxa, the Ehrlich reaction, queries the presence of indole. In this test, A. tubingensis is negative in contrast to A. niger which produces a positive result. Sequences of protein coding genes such as Calmodulin and β-tubulin also reliable differentiate the two taxa. The production of asperazine by A. tubingensis also separates this species from other morphologically similar Aspergilli.",
+    "Habitat and ecology": "Aspergillus tubingensis exhibits high resistance to ultraviolet light and can grow in elevated temperatures between 30–37 °C (86–99 °F), with optimal growth between 21–36 °C (70–97 °F). In the temperature range of 15–20 °C (59–68 °F), this species is able to produce the mycotoxin, ochratoxin A (OTA). The fungus is tolerant of low pH and has a preference for environments of relatively low water activity. \nOriginally recognized from Chiang Mai, Thailand and China, A. tubingensis is found worldwide in warm climate regions. It is often seen in indoor environments of Croatia and Turkey, with some appearances in the Netherlands, Hungary, Thailand, and Algeria. This species is commonly isolated from soil and plant debris as well as agricultural crops such as grapes, cocoa, coffee, and cereal, and as an agent of rot on apples, grapes, and cereals.",
+    "Commercial uses": "Because of the paucity of mycotoxin production by A. tubingensis, it has been explored for use in biotechnology and industrial applications. A. tubingensis is generally recognized as safe (GRAS) by the American food and drug administration (FDA). This species is notable for the production enzymes such amylase, lipase, glucose oxidase, phytase, xylanase, acid phosphatase and xylosidase production. Amylase produced by A. tubingensis has potential use in the manufacture of bioethanol from distilled waste water and molasses residues. The fungus is also able to produce commercially scalable organic acids including citric acid, ascorbic acid, and wood preservatives. It is also capable of degrading polyurethane.In commercial baking, the use of glucose oxidase enzyme (GOD) enhances texture, size, and loaf form. A. tubingensis is part of the microbial consortium involved in the fermentation of Chinese pu'er tea, converting tea polyphenols into bioactive theobromins.In crop production, soil amendation with A. tubingensis has been shown to enhance corn yield through its ability to dissolve phosphates into soil and reduce alkalinity in bauxite residues. The tolerance of A. tubingensis to conditions of high pH enhance its survival in these applications. A. tubingensis has been suggested as a biocontrol agent for the protection of tomato plants against the pathogenic fungus, Fusarium solani. Deleterious effects of this fungus on crop plants are also known. For example, A. tubingensis has been documented in grape vineyards, alongside other black Aspergilli including A. carbonarius and A. niger. In grape production, these Aspergilli have been implicated as important contributors to OTA in grape must.In 2018, they were investigated for their ability to decompose plastic such as polyurethane in weeks rather than decades.",
+    "Opportunistic disease": "Fungal keratitis (corneal infection) can be caused by members of the black Aspergilli including A. tubingensis. Aspergillus tubingensis has also been implicated in the infection of maxillary bone following a tooth extraction.\n\n\n== References =="
+  }
+}

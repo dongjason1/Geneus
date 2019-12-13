@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inocybe_haemacta",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Inocybaceae"
+    },
+    {
+      "Genus": "Inocybe"
+    },
+    {
+      "Species": "I. haemacta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inocybe haemacta is a species of fungus in the genus Inocybe. It is found in Europe.",
+    "Biochemistry": "Inocybe haemacta contains the compounds psilocybin and psilocin.",
+    "See also": "\nList of Inocybe species\nList of Psilocybin mushrooms\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_rimosum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "Fusarium merismoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium merismoides is a fungal plant pathogen.",
+    "See also": "List of maize diseases\nList of Platanus diseases",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

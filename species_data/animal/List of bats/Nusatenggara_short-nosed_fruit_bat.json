@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nusatenggara_short-nosed_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Cynopterus"
+    },
+    {
+      "Species": "C. nusatenggara"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Nusatenggara short-nosed fruit bat (Cynopterus nusatenggara) is a species of megabat within the family Pteropodidae found in Indonesia. It has three subspecies:\n\nC. n. nusatenggara\nC. n. sinagai\nC. n. wetarensis",
+    "References": "\nD.E. Wilson & D.M. Reeder, 2005: Mammal Species of the World: A Taxonomic and Geographic Reference. Third Edition. The Johns Hopkins University Press, Baltimore"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Purple-winged_ground_dove",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Claravis"
+    },
+    {
+      "Species": "C. geoffroyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The purple-winged ground dove (Claravis geoffroyi) is a critically endangered species of dove, native to the Atlantic forest, mainly near bamboo, in south-eastern Brazil, far eastern Paraguay, and northern-eastern Argentina (Misiones only). It is threatened by habitat loss and possibly the wild bird trade. There are few recent sightings and the total population is estimated to number 50 to 249 individuals.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lonchocarpus_trifolius",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Lonchocarpus"
+    },
+    {
+      "Species": "L. trifolius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lonchocarpus trifolius is a species of legume in the family Fabaceae.\nIt is found only in Honduras.",
+    "Sources": "Nelson, C. (1998). \"Lonchocarpus trifolius\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T30704A9571811. doi:10.2305/IUCN.UK.1998.RLTS.T30704A9571811.en. Retrieved 19 December 2017."
+  }
+}

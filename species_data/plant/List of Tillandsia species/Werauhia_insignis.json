@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Werauhia_insignis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Werauhia"
+    },
+    {
+      "Species": "W. insignis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Werauhia insignis is an epiphyte in montane cloud forests in Central America."
+  }
+}

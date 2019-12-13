@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_wilsoni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Myriopholis"
+    },
+    {
+      "Species": "M. wilsoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Wilson's blind snake (Myriopholis wilsoni) is a species of snake in the family Leptotyphlopidae.",
+    "Etymology": "The specific name, wilsoni, is in honor of American mammalogist Don Ellis Wilson.",
+    "Geographic range": "M. wilsoni is endemic to Socotra.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Myriopholis wilsoni, new combination).\nHahn DE (1978). \"A Brief Review of the Genus Leptotyphlops (Reptilia, Serpentes, Leptotyphlopidae) of Asia, with Description of a New Species\". J. Herpetology 12 (4): 477-489. (Leptotyphlops wilsoni, new species)."
+  }
+}

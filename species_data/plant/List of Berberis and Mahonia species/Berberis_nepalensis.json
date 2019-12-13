@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Berberis_nepalensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Ranunculales"
+    },
+    {
+      "Family": "Berberidaceae"
+    },
+    {
+      "Genus": "Berberis"
+    },
+    {
+      "Species": "B. nepalensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Berberis nepalensis is a shrub in the Berberidaceae described as a species in 1825.\n\n\n== References =="
+  }
+}

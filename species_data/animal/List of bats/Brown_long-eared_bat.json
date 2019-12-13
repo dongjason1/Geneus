@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brown_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Plecotus"
+    },
+    {
+      "Species": "P. auritus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The brown long-eared bat or common long-eared bat (Plecotus auritus) is a small Eurasian insectivorous bat. It has distinctive ears, long and with a distinctive fold. It is extremely similar to the much rarer grey long-eared bat which was only validated as a distinct species in the 1960s.\nAn adult brown long-eared bat has a body length of 4.5-4.8 cm, a tail of 4.1-4.6 cm, and a forearm length of 4-4.2 cm.  The ears are 3.3-3.9 cm in length, and readily distinguish the long-eared bats from most other bat species.\nThey are relatively slow flyers compared to other bat species.",
+    "Habitat": "It is found throughout Europe, with the exception of Greece, southern Italy and southern Spain. It is found to the east up to the Urals and Caucasus.  The UK distribution can be found on the National Biodiversity Network website and can be seen here.\nBrown long eared bats regularly utilise buildings roosting in undisturbed roof spaces either singly, in crevices and timber, or in clusters around chimneys and ridge ends. This species also roosts in treeholes, bat boxes and caves which are important as winter hibernation sites. The roosts in trees may be close to the ground.  Emergence from roost sites usually only occurs in the dark, around an hour after sunset.It hunts above woodland, often by day, and mostly for moths, gleaning insects from leaves and bark. Prey is probably detected by sight and sound using the large eyes and ears, not by echolocation. A study by Eklöf and Jones (2003) demonstrated the ability of the brown long-eared bat to visually detect prey. Under experimental conditions, brown long-eared bats showed a preference for situations where sonar and visual cues were available. However, visual cues were more important than sonar cues and the bats were unable to detect prey items using only sonar cues. Brown long-eared bats have relatively large eyes and ears and it is likely that visual information and passive listening allow this species to detect prey in cluttered environments.",
+    "Echolocation": "Echolocation is used to find prey.  The frequencies used by this bat species for echolocation lie between 27–56 kHz, have most energy at 35 kHz and have an average duration of 2.5 ms. However, unlike most bats, the long-eared can hunt by hearing alone. Their hearing is sensitive enough to hear a moth in flight. This hunting strategy evolved because prey items, namely certain moth species evolved the ability to hear the echolocation and take evading action. T",
+    "Gallery": "",
+    "References": "SourcesWoodland Management For Bats Guide\nChiroptera Specialist Group (1996). \"Plecotus auritus\". IUCN Red List of Threatened Species. Version 2006. International Union for Conservation of Nature. Retrieved 12 May 2006.\nStevens, Martin (2005): The role of eyespots as anti-predator mechanisms, principally demonstrated in the Lepidoptera. Biol. Rev. 80(4): 573–588. doi:10.1017/S1464793105006810 (HTML abstract)",
+    "External links": "ARKive Photographs"
+  }
+}

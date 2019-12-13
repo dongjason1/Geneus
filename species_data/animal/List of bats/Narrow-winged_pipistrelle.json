@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Narrow-winged_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. stenopterus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The narrow-winged pipistrelle (Pipistrellus stenopterus) is a species of vesper bat. It can be found in Brunei Darussalam, Indonesia, and Malaysia.\n\n\n== References =="
+  }
+}

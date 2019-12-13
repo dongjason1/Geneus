@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhododendron_canescens",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Ericaceae"
+    },
+    {
+      "Genus": "Rhododendron"
+    },
+    {
+      "Species": "R. canescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhododendron canescens, the piedmont azalea or mountain azalea, is a pink-blooming azalea native to the Eastern United States.\n\n\n== References =="
+  }
+}

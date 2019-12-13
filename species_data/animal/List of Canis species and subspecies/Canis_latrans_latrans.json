@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_latrans_latrans",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. latrans"
+    },
+    {
+      "Subspecies": "C. l. latrans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Plains coyote (Canis latrans latrans), also known as the brush wolf, is a subspecies of coyote native to the Canadian Prairies of southeastern Alberta,\nsouthern Saskatchewan, and the extreme southwestern corner of Manitoba. Its population in the United States occurs in South Dakota, Montana, Wyoming, Colorado (east of the Rocky Mountains), the northeastern corner of New Mexico; North Dakota (except the northeastern quarter); northwestern Oklahoma, and the\nnorthern Texas Panhandle. It is the largest subspecies, with rather pale fur and bearing large molars and carnassials.",
+    "References": "\n\n== External links =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Auristomia_barashi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Auristomia"
+    },
+    {
+      "Species": "A. barashi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Auristomia barashi is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The shell grows to a length of 2 mm.",
+    "Distribution": "This species occurs in the following locations:\nMersin Bay (Turkey)\nEastern Mediterranean",
+    "References": "Giannuzzi-Savelli R., Pusateri F., Micali, P., Nofroni, I., Bartolini S. (2014). Atlante delle conchiglie marine del Mediterraneo, vol. 5 (Heterobranchia). Edizioni Danaus, Palermo, pp. 1– 111 with 41 unnumbered plates (figs. 1-363), appendix pp. 1–91.page(s): 54, appendix p. 13, 60",
+    "External links": "To CLEMAM\nTo Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

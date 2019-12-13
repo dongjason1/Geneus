@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ranunculus_anemoneus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Ranunculales"
+    },
+    {
+      "Family": "Ranunculaceae"
+    },
+    {
+      "Genus": "Ranunculus"
+    },
+    {
+      "Species": "R. anemoneus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ranunculus anemoneus, commonly known as the anemone buttercup, is an endangered species of buttercup found in alpine Australia.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_purpurescens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. purpurescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium purpurescens is a species of fungus in the genus Penicillium which was isolated from soil in Canada. This species is similar to Penicillium glabrum. Penicillium purpurescens produces hadacidin.",
+    "Further reading": "Eric Edmond Creppy; Marcel Castegnaro; Guy Dirheimer (1993). Human Ochratoxicosis and Its Pathologies. John Libbey Eurotext. ISBN 2742000178.\nP. J. Keane; C. A. J. Putter (1992). Cocoa Pest and Disease Management in Southeast Asia and Australasia. Food & Agriculture Org. ISBN 9251030391.\n\n\n== References =="
+  }
+}

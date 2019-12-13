@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miconia_poecilantha",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Melastomataceae"
+    },
+    {
+      "Genus": "Miconia"
+    },
+    {
+      "Species": "M. poecilantha"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miconia poecilantha is a species of plant in the family Melastomataceae. It is endemic to Colombia.\n\n\n== References =="
+  }
+}

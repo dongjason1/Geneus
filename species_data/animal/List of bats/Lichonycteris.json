@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lichonycteris",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "LichonycterisThomas, 1895"
+    },
+    {
+      "Species": "L. obscura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The dark long-tongued bat (Lichonycteris obscura) is a bat species from South and Central America. It is monotypic within the genus Lichonycteris.\n\n\n== References =="
+  }
+}

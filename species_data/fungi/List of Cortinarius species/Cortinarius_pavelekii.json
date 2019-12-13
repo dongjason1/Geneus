@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_pavelekii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. pavelekii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius pavelekii is a species of fungus native to the Pacific Northwest of North America.",
+    "References": "",
+    "External links": "Cortinarius pavelekii  in MycoBank."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_wilsoni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Xerotyphlops"
+    },
+    {
+      "Species": "X. wilsoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Iranian worm snake (Xerotyphlops wilsoni) is a species of snake in the family Typhlopidae. The species is endemic to Iran.",
+    "Etymology": "The specific name, wilsoni, is in honor of Arnold Talbot Wilson, who was a British military officer, diplomat, and amateur naturalist.",
+    "References": "",
+    "Further reading": "Hedges SB, Marion AB, Lipp KM, Marin J, Vidal N (2014). \" A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61. (Xerotyphlops wilsoni, new combination).\nWall F (1908). \"Notes on a collection of Snakes from Persia\". J. Bombay Nat. Hist. Soc. 18: 795-805. (Typhlops wilsoni, new species, p. 796)."
+  }
+}

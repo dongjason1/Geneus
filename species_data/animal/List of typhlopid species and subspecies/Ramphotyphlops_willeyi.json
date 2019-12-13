@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_willeyi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Ramphotyphlops"
+    },
+    {
+      "Species": "R. willeyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Loyalty Islands blind snake (Ramphotyphlops willeyi) is a species of snake in the family Typhlopidae. The species is endemic to Melanesia.",
+    "Etymology": "The specific name, willeyi, is in honor of British-Canadian zoologist Arthur Willey.",
+    "Geographic range": "R. willeyi is found in the Loyalty Islands on Lifou and Maré, and on the island of New Caledonia.",
+    "References": "",
+    "Further reading": "Boulenger GA (1900). \"On a new Blind Snake from Lifu, Loyalty Islands\". pp. 603–604. In: Willey A (1900). Zoological Results Based on Material from New Britain, New Guinea, Loyalty Islands and Elsewhere, Collected During the Years 1895, 1896 and 1897. Part V. pp. 531–830. (Typhlops willeyi, new species)."
+  }
+}

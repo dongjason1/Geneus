@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mount_Popa_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. paterculus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mount Popa pipistrelle (Pipistrellus paterculus) is a species of vesper bat.\nIt is found in China, India, Myanmar, Thailand, and Vietnam.\n\n\n== References =="
+  }
+}

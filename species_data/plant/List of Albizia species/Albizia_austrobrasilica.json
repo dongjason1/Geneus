@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Albizia_austrobrasilica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Albizia"
+    },
+    {
+      "Species": "A. edwallii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Albizia edwallii is a species of legume in the family Fabaceae.\nIt is found in Argentina and Brazil.",
+    "References": "\nWorld Conservation Monitoring Centre (1998). \"Albizia edwarllii\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T36581A10002971. doi:10.2305/IUCN.UK.1998.RLTS.T36581A10002971.en. Retrieved 16 December 2017."
+  }
+}

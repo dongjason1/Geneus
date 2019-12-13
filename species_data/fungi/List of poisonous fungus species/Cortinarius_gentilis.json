@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_gentilis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. gentilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius gentilis is a deadly fungus of the genus Cortinarius, normally found in North America and Europe.",
+    "Toxicity": "In a study in Finland,  dried and homogenized C. gentilis and C. orenallus mushrooms were orally introduced into a rat. Both species caused renal damage only, the changes of which corresponded to tubulo-interstitial nephritis. C. gentilis has been found to be nephrotoxic to rats.",
+    "See also": "\nList of deadly fungi\n\n\n== References =="
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_granulatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. granulatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus granulatus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Distribution": "This species occurs in the Western Atlantic, at depths to 50 metres, and in the Caribbean Sea and in the Gulf of Mexico.",
+    "Description": "The maximum recorded shell length is 64.1 mm. Shell fragments are known that would suggest a maximum size around 77 mm.\nThe shell is regularly grooved throughout the body whorl, with the interstices plane or granular. The spire is striate, often gradate. The color is orange-red, raised portions with very narrow chestnut revolving lines, white clouded, especially in the middle, forming an irregular  band, which is mottled and bordered with chestnut. The interior of the aperture is rosy.",
+    "Habitat": "Minimum recorded depth is 0 m. Maximum recorded depth is 30 m.  At Barbados, the species seems to prefer offshore banking reefs where the water is clean, clear and well oxygenated although in past times it appears to have inhabited much shallower waters close to shore, before environmental degradation.",
+    "Gallery": "",
+    "References": "Linnaeus, C. (1758). Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Editio decima, reformata. Laurentius Salvius: Holmiae. ii, 824 pp\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea"
+  }
+}

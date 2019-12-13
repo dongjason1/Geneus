@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_nigra",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. nigra"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes nigra is a tropical pitcher plant known from a number of mountains across Central Sulawesi, where it grows at elevations of 1500–2700 m above sea level. The specific epithet nigra refers to the dark colouration of the pitchers and stem. The species is closely related to N. hamata and N. tentaculata.",
+    "Natural hybrids": "N. glabrata × N. nigra\nN. nigra × N. tentaculata",
+    "References": "\nLee, C.C. 2012. New Pitcher Plant Discoveries. Jungle Notes, February 2, 2012."
+  }
+}

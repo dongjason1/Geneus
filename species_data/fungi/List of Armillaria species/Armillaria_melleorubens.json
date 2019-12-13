@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_melleorubens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Basidiomycetes"
+    },
+    {
+      "Subclass": "Agaricomycetidae"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. melleorubens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria melleorubens is a species of mushroom in the Physalacriaceae family. This species is found in Central America.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

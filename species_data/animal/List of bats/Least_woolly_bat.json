@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Least_woolly_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Kerivoula"
+    },
+    {
+      "Species": "K. minuta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The least woolly bat (Kerivoula minuta) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Malaysia and Thailand.\n\n\n== References =="
+  }
+}

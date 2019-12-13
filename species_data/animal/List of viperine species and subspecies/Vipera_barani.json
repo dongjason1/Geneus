@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vipera_barani",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Vipera"
+    },
+    {
+      "Species": "V. barani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Common names: Baran's adder, Turkish viper.Vipera barani is a venomous viper species endemic to Turkey. No subspecies are currently recognized.",
+    "Etymology": "The specific name, barani, is in honor of Turkish herpetologist İbrahim Baran.",
+    "Description": "V. barani is a stoutly built species. Adult females are reported to reach a maximum total length (body + tail) of 60 cm (24 in). Adult males are shorter with a maximum total length of 54.5 cm (21.5 in).",
+    "Geographic range": "V. barani is found in northwestern Turkey.\nThe type locality is listed as \"ca. 60 km N Adapazari, Türkei\" (= Adapazari, Turkey).",
+    "Conservation status": "The species V. barani is listed as strictly protected (Appendix II) under the Berne Convention.",
+    "See also": "List of viperine species and subspecies\nViperinae by common name\nViperinae by taxonomic synonyms\nSnakebite",
+    "References": "",
+    "Further reading": "Böhme W, Joger U (1984). \"Eine neue Art des Vipera berus-Komplexes aus der Türkei \". Amphibia-Reptilia 4 [1983] (2-4): 265-271. (Vipera barani, new species). (in German)."
+  }
+}

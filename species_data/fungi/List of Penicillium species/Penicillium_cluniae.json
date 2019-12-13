@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_cluniae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. cluniae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium cluniae is a fungus species of the genus of Penicillium which produces the antinematodal and antiparasitic agents paraherquamide B, paraherquamide C, paraherquamide D, paraherquamide E, paraherquamide F, paraherquamide G, paraherquamide H",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

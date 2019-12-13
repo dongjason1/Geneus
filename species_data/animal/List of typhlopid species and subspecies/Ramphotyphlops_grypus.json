@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_grypus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Anilios"
+    },
+    {
+      "Species": "A. grypus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The long-beaked blind snake (Anilios grypus) is a species of snake in the family Typhlopidae.\n\n\n== References =="
+  }
+}

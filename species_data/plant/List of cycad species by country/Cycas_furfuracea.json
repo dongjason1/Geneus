@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_furfuracea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. furfuracea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas furfuracea is a species of cycad endemic to northeastern Western Australia.",
+    "Range": "In Australia, Cycas furfuracea is found in:\nBold Bluff, Mount Broome\nMount Herbert in the King Leopold Range\nKimbolton area\n\n\n== References =="
+  }
+}

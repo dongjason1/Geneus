@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_appendiculata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. appendiculata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes appendiculata is a tropical pitcher plant known only from the Hose Mountains of central Sarawak, Borneo, where it grows at elevations of 1450–1700 m above sea level. The species is characterised by an enlarged glandular appendage on the lower lid surface, for which it is named.",
+    "References": "\nLee, C.C. 2012. New Pitcher Plant Discoveries. Jungle Notes, February 2, 2012."
+  }
+}

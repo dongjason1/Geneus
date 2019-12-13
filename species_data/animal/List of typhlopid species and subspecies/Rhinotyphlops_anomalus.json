@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_anomalus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. anomalus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Afrotyphlops anomalus, commonly known as the Angolan giant blind snake or the anomalous beaked snake, is a species of snake in the Typhlopidae family. It is endemic to Africa. Its classification was changed from Rhinotyphlops to Megatyphlops when Rhinotyphlops was found to be polyphyletic. In 2014 Megatyphlops was changed to Afrotyphlops.",
+    "Geographic range": "It is found in southeastern Angola.",
+    "References": "",
+    "Further reading": "Bocage, J.V.B. 1873. Reptiles nouveaux de l'intérieur de Mossamedes. Jornal de Sciencias Mathematicas Physicas e Naturaes. Academia Real das Sciencias de Lisboa, Volume 4, Number XV., pp. 247–253.\nBroadley, Donald G.; Wallach, Van (2009). \"A review of the eastern and southern African blind-snakes (Serpentes: Typhlopidae), excluding Letheobia Cope, with the description of two new genera and a new species\" (PDF). Zootaxa (2255): 1–100."
+  }
+}

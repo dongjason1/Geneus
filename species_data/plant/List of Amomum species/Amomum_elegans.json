@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amomum_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Zingiberales"
+    },
+    {
+      "Family": "Zingiberaceae"
+    },
+    {
+      "Genus": "Amomum"
+    },
+    {
+      "Species": "A. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amomum elegans is a species of plants. It is found in the Philippines.",
+    "See also": "List of Amomum species",
+    "References": "",
+    "External links": "Amomum elegans at The Plant List\nAmomum elegans at Tropicos"
+  }
+}

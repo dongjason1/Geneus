@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_ruthae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. ruthae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus ruthae is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" human by means of a small harpoon-like venomous stinger extruded through the shell opening. \nThe threat by snails to humans is limited as the primary habitat of the snails is in deeper waters (20-100m), so contact with humans other than divers is minimized.",
+    "Description": "The size of the shell varies between 40 mm and 54 mm.",
+    "Distribution": "This marine species occurs off the Philippines.",
+    "References": "E. Monnier & L. Limpalaer, 2013, Kioconus ruthae n. sp; Visaya Vol. IV No. 1 p. 11-16\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "World Register of Marine Species\nHolotype in MNHN, Paris"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_alexiae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. alexiae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium alexiae is a fungus species of the genus of Penicillium. Penicillium alexiae is named after Willem-Alexander of the Netherlands.",
+    "Further reading": "Visagie, C. M.; Houbraken, J.; Rodriques, C.; Pereira, C. S.; Dijksterhuis, J.; Seifert, K. A.; Jacobs, K.; Samson, R. A. (2013). \"Five new Penicillium species in section Sclerotiora: A tribute to the Dutch Royal family\". Persoonia. 31: 42–62. doi:10.3767/003158513X667410. PMC 3904052. PMID 24761034.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

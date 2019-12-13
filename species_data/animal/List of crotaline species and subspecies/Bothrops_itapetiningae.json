@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_itapetiningae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. itapetiningae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops itapetiningae, or the São Paulo lancehead, is a species of venomous snake in the  family Viperidae. It is endemic to Brazil.",
+    "Geographic range": "It is found in the Brazilian states of Goiás, Minas Gerais, Mato Grosso, Santa Catarina, and São Paulo. The type locality is Itapetininga, a municipality in the State of São Paulo [Brazil].",
+    "References": "",
+    "Further reading": "Boulenger GA. 1907. Description of a new Pit-Viper from Brazil. Annals and Magazine of Natural History. Seventh Series. 20: 338. (\"Lachesis itapetiningæ\" )"
+  }
+}

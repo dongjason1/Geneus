@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pholiota_squarrosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Pholiota"
+    },
+    {
+      "Species": "P. squarrosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pholiota squarrosa, commonly known as the shaggy scalycap, the shaggy Pholiota, or the scaly Pholiota, is a species of mushroom in the Strophariaceae family. Common in North America and Europe, it is often an opportunistic parasite, and has a wide range of hosts among deciduous trees, although it can also infect conifers. It can also live as a saprobe, deriving nutrients from decomposing wood. The mushroom is typically found growing in clusters at the base of trees and stumps. Both the cap and the stem are covered in small, pointed scales that are pointed downward and backward. The crowded gills are yellowish, then later rust-brown. The mushroom has an odor that, depending on the author, has been described as resembling garlic, lemon, radish, onion, or skunk. It has a strong taste, resembling radishes.  Once thought to be edible, it is now considered and known to be poisonous, especially if consumed in combination with alcohol. The mushroom contains unique chemicals thought to help it infect plants by neutralizing defensive responses employed by them. The very similar P. squarrosoides differs in having a paler cap that is sticky between the scales, and smaller spores.",
+    "Taxonomy": "The species was first described scientifically as Agaricus squarrosus in 1790 by George Christian Edler von Oldenburg Oeder, and later sanctioned under this name by Elias Magnus Fries in his 1821 Systema Mycologicum. It was transferred to the genus Pholiota by the German Paul Kummer. It is the type species of the genus Pholiota.The specific epithet squarrosa is derived from Latin, and means \"scurfy\". The mushroom is commonly known as the \"scaly Pholiota\", the \"shaggy scalycap\", or the \"shaggy Pholiota\".",
+    "Description": "Like other Pholiota mushrooms, P. squarrosa has a scaly cap and stem. The cap ranges from 3 to 12 cm (1.2 to 4.7 in) in diameter, and depending on its age, can range in shape from bell-shaped to rounded to somewhat flattened. The cap color is yellowish-brown to tawny in older specimens. The scales on the cap are yellowish to tawny, and recurved.The stem is 4 to 12 cm (1.6 to 4.7 in) long by 0.5 to 1.5 cm (0.20 to 0.59 in) thick, and roughly equal in width throughout. The partial veil that covers the young gills forms a thick, woolly ring on the upper part of the stem. Above the level of the ring, the stem is bare, while below it is scaly like the cap. The gills are covered by a partial veil when young and have a greenish-brown color; mature gills are rusty brown. They are crowded closely together, attached to the stem (adnate), and usually notched (sinuate).The spore print is cinnamon or rusty brown. The spores are elliptic, smooth-walled, nonamyloid (not absorbing iodine when stained with Melzer's reagent), and measure 6.6–8 by 3.7–4.4 μm. The basidia (spore-bearing cells) are club-shaped, and four-spored, with dimensions of 16–25 by 5–7 μm.",
+    "Description-Edibility": "Fruit bodies have an odour described variously as resembling garlic, radish, lemon, onion, or skunk, and taste like radish. Although some older sources report P. squarrosa as edible, the mushroom has caused several cases of poisoning. The afflicted individuals had consumed alcohol with the mushroom, then experienced vomiting and diarrhoea about ten hours later. The toxic effect may be due to the combination of eating the mushrooms and taking alcohol, although the extended time delay between consumption and symptoms suggests the mechanism of toxicity is different than the antabuse-effect experienced from Coprinopsis atramentaria with alcohol.",
+    "Description-Similar species": "Pholiota squarrosa is similar in appearance to species in the genus Armillaria, but the latter produces white spore prints. Another similar mushroom is Pholiota squarrosoides, which can be distinguished microscopically by its smaller spores, and macroscopically by the stickiness of the cap between the scales. P. squarrosoides also lacks the odor of P. squarrosa, and has flesh that is white, not yellow. Leucopholiota decorosa can also be misidentified with P. squarrosa; it has white, adnexed gills with finely scalloped edges, but it can be distinguished most reliably by its white, nonamyloid spores.",
+    "Ecology, habitat and distribution": "Pholiota squarrosa is thought to be a white rot fungus, which use cellulose as a carbon source, and have the ability to degrade the lignin (present in wood) to carbon dioxide to access the cellulose molecule. The fungus can attack a wide variety of deciduous host trees, including sugar maple, red maple, yellow birch, paper birch, American beech, and white ash. It can also attack conifers, like spruce. The fungus is a secondary parasite, in that it attacks trees that have already been weakened from prior injury or infection by bacteria or other fungi. It also functions as a saprobe, and can obtain nutrients by breaking down organic matter in dead wood.P. squarrosa is found in North America and Europe. The North American distribution extends north to Canada, and south to Mexico, where its appearance is restricted to coniferous forests. In the Netherlands, P. squarrosa is one of many mushrooms that can regularly be found fruiting on ancient timber wharves.The fruit bodies are used as a primary food source by the red squirrel Sciurus vulgaris, and have a higher protein content than the other mushrooms typically consumed by this species. Decaying fruit bodies are also used as a food source by fruit flies belonging to the genus Drosophila.",
+    "Chemistry": "The fruit bodies contain unique chemical compounds that are derived from phenylpropanoids. The compounds, named squarrosidine and pinillidine, inhibit the enzyme xanthine oxidase. Xanthine oxidase catalyzes the crystallization of uric acid in the joints, a main cause of gouty arthritis, and inhibitors of this enzyme are being used clinically to reduce this side effect. The natural function of these compounds may be to quench reactive oxygen species produced by plants as a defensive response to fungal infection.",
+    "See also": "List of Pholiota species\n\n\n== References =="
+  }
+}

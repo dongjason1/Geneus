@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Campanula_alpina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Campanulaceae"
+    },
+    {
+      "Genus": "Campanula"
+    },
+    {
+      "Species": "C. alpina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Campanula alpina is a species of perennial bellflower found in the Eastern Alps, Carpathian Mountains and the Balkans. It comprises two subspecies: subsp. alpina found in the Eastern Alps and Carpathians, and subsp. orbelica found in the Balkans."
+  }
+}

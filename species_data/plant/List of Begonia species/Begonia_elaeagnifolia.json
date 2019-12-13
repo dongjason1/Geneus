@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_elaeagnifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. elaeagnifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia elaeagnifolia is a plant species in the family Begoniaceae, native to Africa from Cameroon to the Congo. Its small flowers are white-tipped pink.",
+    "Synonyms": "Begonia schultzei Engl. ex R.Wilczek\nBegonia wilczekiana N.Hallé",
+    "References": "\nD. Oliver, Fl. trop. Afr. 2:579. 1871\nThe Plant List entry\nKartuz Greenhouses description"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Streptocephalus_sealii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Arthropoda"
+    },
+    {
+      "Subphylum": "Crustacea"
+    },
+    {
+      "Class": "Branchiopoda"
+    },
+    {
+      "Order": "Anostraca"
+    },
+    {
+      "Family": "Streptocephalidae"
+    },
+    {
+      "Genus": "Streptocephalus"
+    },
+    {
+      "Species": "S. sealii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Streptocephalus sealii, the spiny-tail fairy shrimp, is a species of branchiopod in the family Streptocephalidae. It is found in Central America and North America.",
+    "Subspecies": "These two subspecies belong to the species Streptocephalus sealii:\n\nStreptocephalus sealii coloradensis Ryder\nStreptocephalus sealii sealii",
+    "References": "\n\n== Further reading =="
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_slackii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. slackii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera slackii is a subtropical sundew native to the Cape Provinces of South Africa. It forms rosettes that range from to two to four inches in diameter, and produces pink flowers. It is named after Adrian Slack.",
+    "See also": "List of Drosera species",
+    "References": "\nHewitt-Cooper, N. 2012. Drosera slackii Cheek. Carnivorous Plant Newsletter 41(4): 151–153."
+  }
+}

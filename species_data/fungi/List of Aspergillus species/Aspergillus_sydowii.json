@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_sydowii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. sydowii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus sydowii is a pathogenic fungus that causes several diseases in humans. It has been implicated in the death of sea fan corals (Gorgonia spp.) in the Caribbean Sea.",
+    "Taxonomy": "The species was first described in 1913 as Sterigmatocystis sydowii by Georges Bainier and Auguste Theodore Sartory. Charles Thom and Margaret Brooks Church transferred it to Aspergillus in 1926.",
+    "Description": "When grown in pure culture on agar plates, A. sydowii produces blue-green colonies with reddish-brown shades. The conidial heads are effuse (spread out), while the stalks of the conidiophores are hyaline (translucent), smooth, and measure up to 500 μm. Swollen cells (vesicles) are spherical or nearly so, and the conidiogenous cells (cells that produce conidia) are biseriate—having phialides that arise from metulae (sterile cells below the phialides). The conidia are echinulate (spiky), roughly spherical, and measure 2.5–4.0 μm in diameter.",
+    "Habitat and distribution": "Aspergillus sydowii is a saprophytic fungus found in soil that can contaminate food and is occasionally pathogenic to humans. It is the predominant fungus found on wheat Qu, the most widely used source of raw microorganisms and crude enzymes for Chinese rice wine brewing.  Since the 1990s it has been found to be present in sea water in the Caribbean region and has been shown to be the cause of aspergillosis in sea fans. It is not known to reproduce in the marine environment and several hypotheses exist as to its source. The infective agent may have always existed in the ocean but not previously caused the disease or it may have accumulated after run-off of soil from land. The hypothesis that it entered the ocean via dust blown across the Atlantic from Africa seems unlikely to be correct as none of the samples of dust collected from African locations contained A. sydowii though they did contain other species of Aspergillus. A more likely vector seems to be the flamingo tongue snail (Cyphoma gibbosum), a specialist predator on sea fans,  and the fungus has been found in its faeces.",
+    "Pathogenicity": "Aspergillus sydowii has been implicated in the pathogenesis of several human diseases, including aspergillosis, onychomycosis, and keratomycosis.",
+    "Infection of sea fans": "The sea fan Gorgonia ventalina can be infected by Aspergillus sydowii. An epizootic epidemic occurred in the 1990s in the Caribbean resulting in the death or injury of many gorgonians. Large individuals were more affected than small ones and reproduction was reduced in infected specimens. The immune response of the sea fan included increased production of melanin and other secondary metabolites including chitinase and peroxidase, and the aggregation of amoebocytes at the infection site.",
+    "Bioactive compounds": "Several indole alkaloids have recently (2012) been isolated from laboratory-grown cultures of the fungus. The compounds [4-(2-methoxyphenyl)-1-piperazinyl][(1-methyl-1H-indol-3-yl)]-methanone, cyclotryprostatin B, fumiquinazoline D, fumitremorgin B, fumiquinazoline C, fumiquinazoline B, fumiquinazoline A, fumiquinazoline F, fumiquinazoline G are all previously known to science, having been found in other Aspergillus species. Cyclotryprostatin E is a novel compound, known only from this species. Other bioactive compounds known to be unique to this fungus include aspergillusenes A and B, (+)-(7S)-7-O-methylsydonic acid, and hydrogenated xanthone derivatives aspergillusones A and B.The strain A. sydowii F5, originally isolated from Chinese wheat, contains an alpha-galactosidase enzyme; this enzyme, which hydrolyses the terminal alpha-galactosyl moieties from glycolipids and glycoproteins, is used in enzyme replacement therapy to functionally compensate for genetic alpha-galactosidase deficiency.\n\n\n== References =="
+  }
+}

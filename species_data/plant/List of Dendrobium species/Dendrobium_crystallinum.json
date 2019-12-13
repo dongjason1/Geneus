@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_crystallinum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. crystallinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium crystallinum (shiny crystal dendrobium) is a species of orchid. It is native to Southeast Asia, Hainan and Yunnan in China, and Manipur in India.\n\n\n== References =="
+  }
+}

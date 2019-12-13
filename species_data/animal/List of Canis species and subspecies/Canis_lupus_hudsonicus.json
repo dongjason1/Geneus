@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_lupus_hudsonicus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. lupus"
+    },
+    {
+      "Subspecies": "C. l. hudsonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Hudson Bay wolf (Canis lupus hudsonicus) is a subspecies of gray wolf native to northern Keewatin, including the northwestern coast of Hudson Bay in Canada. It was first classed as a distinct subspecies in 1941 by Edward Goldman, who described it as being a white colored, medium-sized subspecies similar to C. l. arctos, but with a flatter skull. This wolf is recognized as a subspecies of Canis lupus in the taxonomic authority Mammal Species of the World (2005).",
+    "References": "\n\n== External links =="
+  }
+}

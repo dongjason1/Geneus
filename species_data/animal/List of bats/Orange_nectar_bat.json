@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Orange_nectar_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lonchophylla"
+    },
+    {
+      "Species": "L. robusta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The orange nectar bat (Lonchophylla robusta) is a species of bat in the family Phyllostomidae. It is found in Colombia, Costa Rica, Ecuador, Nicaragua, Panama, Peru, and Venezuela.\n\nFeeding mechanismOrange nectar bats in Costa Rica  were observed utilising a unique feeding mechanism that has not been seen in any other animal, this mechanism allows it to pull liquid against gravity using a pumping mechanism. The orange nectar bat's tongue contains two grooves filled with tiny muscles that force the nectar up into the bat's mouth. Two forces are at work here, capillary action and muscle force. The orange nectar bat likely developed this method independently of other species due to its unique mouth physiology.",
+    "References": "\nChiroptera Specialist Group 1996.  Lonchophylla robusta.   2006 IUCN Red List of Threatened Species.   Downloaded on 30 July 2007.\nNectar uptake in bats using a pumping-tongue mechanism, Science Advances  25 Sep 2015: Vol. 1, no. 8, e1500525, DOI: 10.1126/sciadv.1500525"
+  }
+}

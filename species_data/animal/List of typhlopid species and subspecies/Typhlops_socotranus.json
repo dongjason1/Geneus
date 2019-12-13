@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_socotranus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Xerotyphlops"
+    },
+    {
+      "Species": "X. socotranus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Socotra worm snake (Xerotyphlops socotranus) is a species of snake in the Typhlopidae family. It is found only on the island of Socotra in Yemen.",
+    "First description": "George Albert Boulenger, 1889 : Descriptions of new Typhlopidæ in the British Museum. Annals and Magazine of Natural History, ser. 6, vol. 4, p. 360-363 (read online).\n\n\n== References =="
+  }
+}

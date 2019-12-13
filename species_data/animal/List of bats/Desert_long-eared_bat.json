@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Desert_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Otonycteris"
+    },
+    {
+      "Species": "O. hemprichii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The desert long-eared bat (Otonycteris hemprichii) is a species of vesper bat found in North Africa and the Middle East.",
+    "Taxonomy": "The systematic position of Otonycteris is unclear, but chromosomal analysis suggests close affinity to Barbastella and Plecotus",
+    "Description": "Head and body length is about 73–81 mm, tail length is about 47–70 mm, and forearm length is 57–67 mm. They weigh 18–20 g (0.63–0.71 oz). The large ears, about 40 mm in length, are directed nearly horizontally and are connected across the forehead by a low band of skin. Five female specimens revealed two pairs of pectoral mammae, a unique condition in mammals. It is not known if both pairs are functional.\nThe coloration above is pale sandy to dark brown; the underparts are usually whitish. The skull and teeth of Otonycteris resemble those of Eptesicus.\nThey even eat blood of other animal when they are dead.",
+    "Ecology and behavior": "This bat occurs normally inhabiting extremely barren and arid regions. Its habitat are xeric, sparsely vegetated and rocky. In the Negev Desert a pair was found roosting in a rocky crevice on a hill. This bat has also been found in buildings.\nOtonycteris hemprichii has a \"slow, floppy flight.\"",
+    "Ecology and behavior-Diet": "Based on an analysis of its body mass, low aspect ratio, and low relative wing loading, the species is predicted to be carnivorous. Observations in Kyrgyzstan indicate that the bat forages close to the ground, using echolocation to detect large flying or surface-dwelling invertebrates, and feeding mostly on arachnids and orthopterans that are seized directly from the ground. A study in Israel found that up to 70% of the bat's dropping contain scorpion fragments, including the highly venomous Palestine yellow scorpion as well as other less venomous species. Laboratory observations indicate that the bats detect the scorpions by the noises they make as they walk. Once caught the bats bite the heads of the scorpion and frequently get stuck in the face by the scorpion's sting. When this occurs, no signs of toxicity have been recorded, suggesting that the bats are immune to the scorpion venom. Despite this, they will contort in pain after sustaining repeated successful strikes from the scorpions.",
+    "Ecology and behavior-Courtship and breeding": "Breeding colonies of 3-15 females have been found, and seven pregnant females, most with two embryos, have been collected in central Asia. Three pregnant females, each with two embryos, were found in a deserted hut in Jordan.",
+    "Distribution and range": "When the desert long-eared bat included the species now recognized as the Turkestani long-eared bat, its range included Morocco, northern Niger, Egypt, the Arabian peninsula, Kazakhstan, Kyrgyzstan, Pakistan, and northwest India.\nHowever, when the recognition of the Turkestani long-eared bat split the genus Otonycteris into two species, the range of the desert long-eared bat was reevaluated.\nIts range is now recognized to include Afghanistan; Algeria; Egypt; India; Iran, Islamic Republic of; Israel; Jordan; Kazakhstan; Libya; Morocco; Niger; Oman; Pakistan; Qatar; Saudi Arabia; Sudan; Syrian Arab Republic; Tajikistan; Tunisia; Turkey; Turkmenistan; United Arab Emirates; and Uzbekistan.",
+    "References": "",
+    "Sources": "Walker's Mammals of the World Sixth Edition pg. 453-454"
+  }
+}

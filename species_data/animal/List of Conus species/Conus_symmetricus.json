@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_symmetricus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. symmetricus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus symmetricus is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell varies between 17 mm and 46 mm.",
+    "Distribution": "This marine species is only known as a fossil from the Neogene of the Dominican Republic.",
+    "References": "Sowerby I GB. Descriptions of new species of fossil shells found by J. S. Heniker, Esq. Q J Geol Soc London. 1850;6: 44–53.\nHendricks J.R. (2015). Glowing seashells: diversity of fossilized coloration patterns on coral reef-associated cone snail (Gastropoda: Conidae) shells from the Neogene of the Dominican Republic. PLoS ONE. 10(4): e0120924",
+    "External links": "To World Register of Marine Species"
+  }
+}

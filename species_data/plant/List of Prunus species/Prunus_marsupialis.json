@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_marsupialis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. marsupialis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus marsupialis is a species of plant in the family Rosaceae. It is found in the Philippines and Taiwan.",
+    "References": "\nWorld Conservation Monitoring Centre (1998). \"Prunus marsupialis\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T33614A9797001. doi:10.2305/IUCN.UK.1998.RLTS.T33614A9797001.en. Retrieved 16 December 2017."
+  }
+}

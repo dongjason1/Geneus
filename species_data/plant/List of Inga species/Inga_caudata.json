@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_caudata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. caudata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga caudata is a species of legume in the family Fabaceae. It is found only in Brazil.",
+    "References": "World Conservation Monitoring Centre (1998). \"Inga caudata\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38315A10110351. doi:10.2305/IUCN.UK.1998.RLTS.T38315A10110351.en. Retrieved 18 December 2017."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guzmania_donnellsmithii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Guzmania"
+    },
+    {
+      "Species": "G. donnellsmithii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Guzmania donnellsmithii is a plant species in the genus Guzmania. This species is native to Costa Rica, Panama, Nicaragua, and Ecuador.",
+    "Cultivars": "Guzmania 'Claudine'\nGuzmania 'Fantasia'\nGuzmania 'Marlebeca'",
+    "References": "\nAn Annotated Checklist of the Bromeliaceae of Costa Rica retrieved 3 November 2009\nCatalogue of Vascular Plants of Ecuador Retrieved 12 October 2009"
+  }
+}

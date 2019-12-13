@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_cepistipes",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. cepistipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria cepistipes is a species of mushroom in the family Physalacriaceae. This is a weakly plant pathogenic species that is typically found growing at the base of deciduous trees that have previously been stressed by another pathogen. The mycelium of the fungus is bioluminescent.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

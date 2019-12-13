@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_lupus_monstrabilis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. lupus"
+    },
+    {
+      "Subspecies": "C. l. monstrabilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Texas wolf († Canis lupus monstrabilis) is an extinct subspecies of gray wolf, distinct from the Texas red wolf (Canis rufus var. \"rufus\"), whose range once included southern and western Texas and northeastern Mexico. It is darker than its more northern cousins, and has a highly arched frontal bone. This wolf is recognized as a subspecies of Canis lupus in the taxonomic authority Mammal Species of the World (2005).\n\n\n== References =="
+  }
+}

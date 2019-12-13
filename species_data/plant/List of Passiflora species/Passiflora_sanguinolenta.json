@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Passiflora_sanguinolenta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Passifloraceae"
+    },
+    {
+      "Genus": "Passiflora"
+    },
+    {
+      "Species": "P. sanguinolenta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Passiflora sanguinolenta, common name blood red passion flower, is a species of passion flower from Ecuador.",
+    "References": "\nSpecies entry on Tropicos.org"
+  }
+}

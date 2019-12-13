@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sphaceloma_rosarum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Myriangiales"
+    },
+    {
+      "Family": "Elsinoaceae"
+    },
+    {
+      "Genus": "Elsinoe"
+    },
+    {
+      "Species": "E. rosarum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Elsinoe rosarum, Anthracnose, is a fungal plant pathogen. It is a condition found on roses, causing leaves to have irregular dark margins and spots. The disease usually appears during wet weather.",
+    "External links": "Brief description of E. rosarum\nIndex Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Solanum_pinetorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Solanum"
+    },
+    {
+      "Species": "S. pinetorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Solanum pinetorum is a species of plant in the family Solanaceae. It is endemic to Brazil.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Solanum pinetorum\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T35475A9934642. doi:10.2305/IUCN.UK.1998.RLTS.T35475A9934642.en. Retrieved 16 December 2017."
+  }
+}

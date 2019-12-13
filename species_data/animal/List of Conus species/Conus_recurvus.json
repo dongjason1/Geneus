@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_recurvus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. recurvus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus recurvus, common name the recurved cone, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.\nThe variety Conus recurvus var. helenae Schwengel, 1955 is a synonym of Conus scalaris Valenciennes, 1832",
+    "Description": "The size of the shell varies between 40 mm and 100 mm.",
+    "Distribution": "This marine species occurs in the Pacific Ocean off Baja California, Mexico to Peru; off the Galapagos Islands.",
+    "References": "Tenorio M.J., Tucker J.K. & Chaney H.W. (2012) The families Conilithidae and Conidae. The cones of the Eastern Pacific. In: G.T. Poppe & K. Groh (eds), A conchological iconography. Hackenheim: Conchbooks.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea\nGastropods.com: Gradiconus regularis var. recurvus"
+  }
+}

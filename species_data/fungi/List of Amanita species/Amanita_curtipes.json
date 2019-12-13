@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_curtipes",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Subclass": "Hymenomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. curtipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita curtipes is a species of Amanita from southern Europe.",
+    "References": "",
+    "External links": " Media related to Amanita curtipes at Wikimedia Commons\n Data related to Amanita curtipes at Wikispecies"
+  }
+}

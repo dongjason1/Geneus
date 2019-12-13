@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_glandicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. glandicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium glandicola is an anamorph species of the genus of Penicillium which produces penitrem A, patulin, 2,4,6-trichloroanisole and roquefortine C\n\n\n== References =="
+  }
+}

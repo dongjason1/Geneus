@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_dalsumi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. dalsumi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia dalsumi is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The shell of this micromollusc grows to a length of 1 mm.",
+    "Distribution": "This species occurs in the following locations:\nCape Verde",
+    "References": "",
+    "External links": "\"Odostomia dalsumi\". Gastropods.com. Retrieved 9 November 2011.\nTo Encyclopedia of Life"
+  }
+}

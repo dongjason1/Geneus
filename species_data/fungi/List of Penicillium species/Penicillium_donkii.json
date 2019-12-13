@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_donkii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. donkii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium donkii is an anamorph species of the genus of Penicillium.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

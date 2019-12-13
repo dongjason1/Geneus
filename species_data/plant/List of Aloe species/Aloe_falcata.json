@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_falcata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. falcata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe falcata is a species of aloe.",
+    "See also": "List of Aloe species",
+    "References": "Linn. Soc., Bot. 18: 181 1880.\nThe Plant List entry"
+  }
+}

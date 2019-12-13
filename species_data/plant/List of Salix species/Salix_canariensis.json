@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_canariensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. canariensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix canariensis is a species of willow native to the islands of Madeira and Canaries.\nIt is a deciduous small tree, reaching a height of 7 m.\nSome sources treat the species as a subspecies of Salix pedicellata, under the name Salix pedicellata subsp. canariensis.",
+    "References": "\nPress, J.R., Short, M.J., 1994. Flora of Madeira. HMSO. London"
+  }
+}

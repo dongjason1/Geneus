@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_funiculosum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. funiculosum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium funiculosum is a plant pathogen infecting pineapples.\nIt is also used as a source of the enzymes xylanase and beta-glucanase which are a non-starch polysaccharide hydrolysing enzymes used in the pig feed Rovabio Excel.",
+    "Hosts and symptoms": "Fruitlet core rot (FCR) is the disease of a pineapple fruit, from the pathogen Penicillium funiculosum that is brown or black in color and rotted in the center. FCR is associated with multiple pathogens, such as Candida guilliermondi in addition to P. funiculosum, however, leathery pocket (LP) and interfruitlet corking (IFC) are only associated with P. funiculosum. FCR, LP and IFC were reported as separate diseases at one time, but are now known to be symptoms of the same disease, referred to as Pineapple Fruit Rot.P. funiculosum infects the flower of pineapple fruits, before the characteristic yellow fruit is formed. When P. funiculosum infects the closed pineapple flowers, early symptoms include necrosis of the anthers, which are the male parts of the flower, and pistil, the female part, and cork formation and sporulation within the ovary of the flower. This destruction of reproductive tissue prevents propagation of healthy fruit and ruins the growing crops. Later symptoms of the disease include a darkening of the septa between the locules. This discoloration can spread throughout the fruit. Extensive corking is what results in leathery pocket. In a healthy plant, fruitlets join together to produce one large fruit. Interfruitlet corking occurs when these fruitlets develop incorrectly and grow together unevenly.",
+    "Environment": "P. funiculosum is found both in the soil and on crop residue. Conidia are the infectious agent and require simple carbohydrates, which they obtain as metabolic products from the pineapple, a temperature between 16-21 °C, and a pH of 3.5 to develop. Additionally, the presence and amount of ascorbic acid present in the soil can influence presentation and progression of Pineapple Fruit Rot. The acidity can propagate the brown coloring that appears on the fruit.Pineapple plants are treated with ethylene to promote flowering, a practice called forcing. The prime time for optimal conditions are up to 5–6 weeks after forcing until 10–15 weeks after forcing for the pathogen to fully infect the fruit. Pineapples are susceptible to pathogen entry in the time after the forcing procedure because the fruitlet forms from various parts of the plant joining together. The stylar canals of each pistil form openings. These openings are likely present for pollen, however, they also provide an ideal passageway for pathogens into the fruit. Once a pineapple plant matures, this threat is lessened because the holes are sealed off with substances produced by the plant.",
+    "Pathogenesis": "P. funiculosum has been identified as the causal agent of IFC, LP, and FCR, and a pathogen that targets pineapple fruits in the early stages of their development. Three strains of the pathogen, P1, P2, and P3, were tested by methods following Koch’s postulates to determine their role in the pathogenesis of these pineapple diseases. P1, a non-pigmented strain, has been identified as the main factor in the development of IFC, LP, and FCR due to its high occurrence of isolation from diseased pineapples. The other strains, both red pigmented are not as closely related to the symptoms of disease, determined by their low frequency of being present in diseased tissue. There are, however, times when P1 is not as pathogenic. In other laboratory studies, P1 was found to mutate to a less virulent form of the pathogen. The mutations also prevented successful production of conidial structures, which also lessens its ability to infect the host. Additionally, when P2 and P3 strains were in the same plant as P1, the level infection was lower, likely due to competition between the strains that reduced the virility of the infectious P1. This discovery suggests the possibility that P2 and P3 could be used as a biological control agent when other methods do not work.A mite associated with pineapples, Steneotarsonemus ananas Tryon also benefits P. funiculosum. Although this mite is not a vector for the pathogen, there is an association between it and pineapple disease in which the mite increases the virulence of P. funiculosum by creating wounds through which P. funiculosum enters the plant. The mite feeds on trichomes, which are hairs on the surface of the pineapple fruit. This allows P. funiculosum to colonize and propagate on the injured area. Mite populations also favor similar environments to P. funiculosum, specifically from forcing to early stages of flower development. This time coincides with the buildup of inoculum.",
+    "See also": "List of pineapple diseases",
+    "References": "Lim, T-K., and K. G. Rohrbach. 1980. Role of Penicillium funiculosum strains in the development of pineapple fruit diseases. Phytopathology 70: 70:663-665.\nMarie, F., et al. “On Farm Approach Of Pineapple Fruitlet Core Rot Disease In Martinique.”Acta Horticulturae, no. 529, 2000, pp. 261–264., doi:10.17660/actahortic.2000.529.31.\nPetty, G.j. “Effect Of Endosulfan On Leathery Pocket Disease In Pineapples, And Evidence For The Association Of The Mite, Steneotarsonemus Ananas (Acarina: Tarsonemidae) With Leathery Pocket.” Acta Horticulturae, no. 275, 1990, pp. 663–670., doi:10.17660/actahortic.1990.275.82.\nPloetz, Randy C. “Diseases of Tropical Fruit Crops.” Diseases of Tropical Fruit Crops, CABI Pub., 2003, pp. 446–447.\nRohrbach, K. G., and D. J. Phillips. “Postharvest Diseases Of Pineapple.” Acta Horticulturae, no. 269, 1990, pp. 503–508., doi:10.17660/actahortic.1990.269.65.\nRohrbach, Kenneth G., and Walter J. Apt. “Nematode and Disease Problems of Pineapple.” Plant Disease, vol. 70, no. 1, 1986, pp. 81–87., doi:10.1094/pd-70-81.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

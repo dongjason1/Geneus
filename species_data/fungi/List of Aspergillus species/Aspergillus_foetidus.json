@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_foetidus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. foetidus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus foetidus is a species of fungus in the genus Aspergillus.\n\n\n== References =="
+  }
+}

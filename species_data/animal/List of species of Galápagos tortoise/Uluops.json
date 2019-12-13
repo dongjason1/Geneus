@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Uluops",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Infraorder": "†Paracryptodira"
+    },
+    {
+      "Genus": "†UluopsCarpenter and Bakker, 1990"
+    },
+    {
+      "Species": "†U. uluops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Uluops is an extinct genus of turtle from the Late Jurassic Morrison Formation. The type species is Uluops uluops.",
+    "See also": "Paleobiota of the Morrison Formation",
+    "References": "\nK. Carpenter and R. T. Bakker. 1990. A new latest Jurassic vertebrate fauna, from the highest levels of the Morrison Formation at Como Bluff, Wyoming, with comments on Morrison biochronology. Part II. A new baenid turtle. Hunteria 2(6):3-4"
+  }
+}

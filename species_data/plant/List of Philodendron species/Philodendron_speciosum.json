@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Philodendron_speciosum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Alismatales"
+    },
+    {
+      "Family": "Araceae"
+    },
+    {
+      "Genus": "Philodendron"
+    },
+    {
+      "Species": "P. speciosum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Philodendron speciosum is a species of plant in the family Araceae, native to Brazil and Bolivia.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_confertum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. confertum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium confertum is an anamorph fungus species of the genus of Penicillium.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

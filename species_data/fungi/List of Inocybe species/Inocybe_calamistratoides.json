@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inocybe_calamistratoides",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Inocybaceae"
+    },
+    {
+      "Genus": "Inocybe"
+    },
+    {
+      "Species": "Inocybe calamistratoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inocybe calamistrata is a species of Inocybaceae fungus found in New Zealand.",
+    "See also": "\nList of Inocybe species\n\n\n== References =="
+  }
+}

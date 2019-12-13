@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_canescens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. canescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium canescens is a anamorph fungus species of the genus of Penicillium which was isolated from soil of the United Kingdom. Penicillium canescens produces the antibiotic canescin.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

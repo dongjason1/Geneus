@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_chamaeleontina",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. risigallina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula risigallina is a species of mushroom. It was previously known as R. chamaeleontina. It is a small yellow russula that is edible and good-tasting, although identifying the species correctly can be difficult.\nThis mushroom can be found in various countries throughout Europe.",
+    "See also": "List of Russula species\n\n\n== References =="
+  }
+}

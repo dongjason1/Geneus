@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shorea_gratissima",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Dipterocarpaceae"
+    },
+    {
+      "Genus": "Shorea"
+    },
+    {
+      "Species": "S. gratissima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Shorea gratissima is a species of plant in the Dipterocarpaceae family. It is a tree found in Sumatra, Peninsular Malaysia, Singapore, Burma and Thailand.",
+    "Sources": "Ashton, P. 1998.  Shorea gratissima.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

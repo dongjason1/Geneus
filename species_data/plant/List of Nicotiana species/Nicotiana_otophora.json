@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nicotiana_otophora",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Nicotiana"
+    },
+    {
+      "Species": "N. otophora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nicotiana otophora is a perennial herbaceous plant. It is a wild species of tobacco native to the Andes Mountains of Bolivia and Argentina.",
+    "Tobacco taxonomy": "Recent genetic evidence suggests the possibility that it is one of the parent species of the common domesticated tobacco (Nicotiana tabacum), which was hybridized along with the species Nicotiana sylvestris, and Nicotiana tomentosiformis.The evidence for its parentage of Nicotiana tabacum is weaker at this time than it is for the other two species Nicotiana sylvestris, and Nicotiana tomentosiformis.",
+    "References": "",
+    "External links": "Yukawa, M; Tsudzuki, T; Sugiura, M (April 2006). \"The chloroplast genome of Nicotiana sylvestris and Nicotiana tomentosiformis: complete sequencing confirms that the Nicotiana sylvestris progenitor is the maternal genome donor of Nicotiana tabacum\". Molecular genetics and genomics. 275 (4): 367–73. doi:10.1007/s00438-005-0092-6. ISSN 1617-4615. PMID 16435119."
+  }
+}

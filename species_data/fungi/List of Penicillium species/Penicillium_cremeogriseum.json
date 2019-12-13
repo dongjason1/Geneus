@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_cremeogriseum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. cremeogriseum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium cremeogriseum is an anamorph species of the genus of Penicillium which produces fulvic acid. Penicillium cremeogriseum was isolated from forest soil in Kiev, Ukraine.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

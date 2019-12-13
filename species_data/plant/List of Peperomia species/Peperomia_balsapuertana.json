@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peperomia_balsapuertana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Peperomia"
+    },
+    {
+      "Species": "P. pernambucensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peperomia pernambucensis is a species of plant in the family Piperaceae.",
+    "Synonyms": "Peperomia aphanoneura C. DC.\nPeperomia atirroana Trel.\nPeperomia balsapuertana Trel.\nPeperomia brevicaulis Trel.\nPeperomia breviscapa Trel.\nPeperomia lechleriana Trel.\nPeperomia longifolia C. DC.\nPeperomia lopezensis Trel.\nPeperomia paniculata Regel\nPeperomia subacaulis Trel.",
+    "References": "\nThe Plant List entry\nJSTOR entry\nGBIF entry"
+  }
+}

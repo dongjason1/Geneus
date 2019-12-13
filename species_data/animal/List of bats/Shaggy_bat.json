@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shaggy_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Centronycteris"
+    },
+    {
+      "Species": "C. maximiliani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The shaggy bat (Centronycteris maximiliani) is a bat species from South America.  It appears to be a slow flier and has a rather regular pattern of foraging in its home range, a feature shared with other emballonurids. It is also aerial insectivore.\n\n\n== References =="
+  }
+}

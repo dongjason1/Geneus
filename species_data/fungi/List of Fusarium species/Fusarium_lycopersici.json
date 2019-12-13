@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_lycopersici",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. oxysporum"
+    },
+    {
+      "Subspecies": "F. o. f.sp. lycopersici"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium oxysporum f.sp. lycopersici is a fungal plant pathogen. It is a big pathogen to the tomato plant. It has a violet to white color on most media but does not produce a pigment on King's B medium.\nIt has been spread to tomato seeds by the hands of contaminated workers. The seeds of infected plants may be infected as well. Contaminated seed is suspected in the movement of the fungus within Brazil. Over long distances, transplants may also carry the fungus. Some outbreaks of tomato diseases were linked with tomato transplants that were grown in reused transplant trays that were contaminated.",
+    "References": "",
+    "External links": "USDA ARS Fungal Database"
+  }
+}

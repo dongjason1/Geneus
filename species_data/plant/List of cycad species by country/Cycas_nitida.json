@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_nitida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. nitida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas nitida is a species of cycad endemic to the northern Philippines. It is found in littoral forests.",
+    "Range": "Cycas nitida has been recorded in the following locations.\nBabuyan Islands: Dalupiri\nLuzon: Quezon, Polillo, Alabat, Rapurapu\n\n\n== References =="
+  }
+}

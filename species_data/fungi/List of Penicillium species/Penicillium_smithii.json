@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_smithii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. smithii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium smithii is a species of fungus in the genus Penicillium which produces citreoviridin and canescin Penicillium smithii occurs in soil in Canada and Europe",
+    "Further reading": "Robert A. Samson, John I. Pitt (1990). Modern Concepts in Penicillium and Aspergillus Classification. Springer Science & Business. ISBN 0306435160.\n\n\n== References =="
+  }
+}

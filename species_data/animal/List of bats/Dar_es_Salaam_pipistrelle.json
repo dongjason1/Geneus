@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dar_es_Salaam_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. permixtus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Dar es Salaam pipistrelle (Pipistrellus permixtus) is a species of vesper bat. It is found only in Tanzania. Its natural habitat is subtropical or tropical dry forests.\n\n\n== Sources =="
+  }
+}

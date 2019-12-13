@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sunda_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Acerodon"
+    },
+    {
+      "Species": "A. mackloti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sunda flying fox or Sunda fruit bat (Acerodon mackloti) is a species of bat in the family Pteropodidae. It is endemic to Indonesia.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-headed_greenfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Chloris"
+    },
+    {
+      "Species": "C. ambigua"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-headed greenfinch (Chloris ambigua) is a small passerine bird in the Fringillidae family.\nIt is found in the Chinese province of Yunnan, northern Laos, eastern Myanmar and adjacent areas of Vietnam, Thailand and Northeast India.\nIts natural habitats are subtropical or tropical dry forests and subtropical or tropical dry shrubland.\nThe black-headed greenfinch is a medium-sized finch with a length of 12.4–14 cm (4.9–5.5 in). It has a dark blackish-olive head, a pale pinkish-brown conical bill and a yellow patch on the wings. The sexes are similar.",
+    "Taxonomy": "The black-headed greenfinch was described by the French zoologist Émile Oustalet in 1896 and given the binomial name Chysomitris ambigua. In the past the black-headed greenfinch was included with the other greenfinches in the genus Carduelis but molecular phylogenetic studies have shown that the greenfinches are not closely related to the other species in the genus Carduelis and they are now placed in the resurrected genus Chloris. The genus had originally been introduced by the French naturalist Georges Cuvier in 1800. The word Chloris is from the Ancient Greek word khlōris for the European greenfinch; the specific epithet ambigua is from the Latin ambiguus for \"doubtful\".Two subspecies are recognised:\nC. a. taylori (Kinnear, 1939) – southeast Tibet\nC. a. ambigua (Oustalet, 1896) – east and northeast Myanmar, south China, Laos and the extreme northeast India",
+    "References": "",
+    "External links": "Xeno-canto: audio recordings of the black-headed greenfinch"
+  }
+}

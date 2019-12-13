@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_buchwaldii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. buchwaldii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium buchwaldii is a fungus species of the genus of Penicillium which produces asperphenamate, citreoisocoumarin, communesin A, communesin B, asperentin and 5'-hydroxy-asperentin",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

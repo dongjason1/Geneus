@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Macrobrachium_faustinum",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Arthropoda"
+    },
+    {
+      "Subphylum": "Crustacea"
+    },
+    {
+      "Class": "Malacostraca"
+    },
+    {
+      "Order": "Decapoda"
+    },
+    {
+      "Infraorder": "Caridea"
+    },
+    {
+      "Family": "Palaemonidae"
+    },
+    {
+      "Genus": "Macrobrachium"
+    },
+    {
+      "Species": "M. faustinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Macrobrachium faustinum is a species of freshwater shrimp that was first described in 1857. M. faustinum is dark brown and found from Florida to the Caribbean and southwards to Venezuela.\n\n\n== References =="
+  }
+}

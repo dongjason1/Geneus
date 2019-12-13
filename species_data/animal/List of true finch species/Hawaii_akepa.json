@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hawaii_akepa",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Loxops"
+    },
+    {
+      "Species": "L. coccineus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Hawaiʻi ʻakepa (Loxops coccineus) is an endangered ʻakepa native to Hawaiʻi in the Hawaiian Islands. All three of the ʻakepa were considered monotypic before being split by the NACC of the AOU in 2015.  The Hawaii ʻakepa was first collected by western science during Captain James Cook's third voyage around the world. Several specimens were collected, as well as feather leis (necklaces resembling strings of flowers) constructed by Hawaiian artisans. The specimens were classified when brought back to England several years later. The Latin name of the bird, Loxops coccineus, means \"crossed\" (Loxops) and \"red\" (coccineus).",
+    "Description": "It is a four-inch (10 cm) long bird of a dusty green color. Males are bright orange. It has a small cross bill just like the other Loxops species. Its call is a slight quivering whistle ending with a long trill.",
+    "Distribution and habitat": "The Hawaiʻi ʻakepa survives only in two or three locations, all on the island of Hawaii: one population in Hakalau Forest National Wildlife Refuge (on the Hamakua Coast of Mauna Kea), one in the upper forest areas of Kau (in the southern part of the island), and one on the northern slope of Hualālai (perhaps extirpated). As of 2000, about 14,000 Hawaiʻi ʻakepa remained.  They were listed as an endangered species in 1975.",
+    "Feeding": "It eats spiders and other invertebrates and drinks the nectar of several flowers including the nectar of the ʻōhiʻa, the naio and the lobelia.",
+    "Breeding": "These birds have a breeding season in spring.  The Hawaii ʻakepa is the only obligate cavity-nester in Hawaii.  There are no cavity-making birds in Hawaii (another honeycreeper, the ʻakiapolaʻau, drills small holes and excavates bark, but does not make holes large enough for ʻakepa nests). Thus, the ʻakepa must find naturally occurring cavities in the trunks and branches.  Such cavities are generally found only in very large, old trees, making the ʻakepa an old-growth obligate.  Large courtship groups have been observed during the breeding season, which is curious because this species makes permanent bonds.  Another anomaly is the fact that for such a small bird, it does not lay many eggs—usually one or two, instead of the three to five of other similarly sized species.",
+    "Breeding-Disease": "Surviving ʻakepa live only in old growth forest above 1,200 metres (3,937 ft) elevation.  This is a sign that avian malaria and avian pox have played a role in killing off populations of ʻakepa at lower elevations.  These introduced diseases are implicated in more than 20 bird extinctions in Hawaii since 1826, when the first mosquito (Anopheles species) was introduced to the islands.  Disease continues to be a threat, and could result in extinction of the ʻakepa if Hawaiian climate continues to warm (or if new bird diseases or mosquito species are allowed to invade the islands).",
+    "Breeding-Old growth deterioration": "Due to their need for tree cavities, ʻakepa rely on old-growth ʻōhiʻa and koa forests for nesting.  Although the largest populations of ʻakepa live within protected lands, large trees appear to be falling faster than they are replaced.  It is unclear how management can deal with this in the medium-term, except by use of artificial nest boxes.  Past experiments with nest boxes (Freed et al., 1987) have shown that birds will occasionally use them, with high nesting success.  There is no ongoing research or use of nest boxes for ʻakepa as of 2010.",
+    "References": "\nCamp, R.J, T.K. Pratt, P.M. Gorresen, J.J. Jeffrey, and B.L. Woodworth. 2009. Passerine Bird Trends at Hakalau Forest National Wildlife Refuge, Hawaii. http://www.uhh.hawaii.edu/hcsu/publications.php\nFreed, L. A., T. M. Telecky, W. A. Tyler and M. A. Kjargaard.  1987.  Nest site variability in the Akepa and other cavity-nesting birds on the island of Hawai'i.  Elepaio: 47(8).\nFreed LA, Medeiros MC, and Bodner GR.  2008.  Explosive increase in ectoparasites in Hawaiian forest birds.  J Parasitol. 94(5):1009-21.\nFreed LA and Cann RL. 2009.  Negative Effects of an Introduced Bird Species on Growth and Survival in a Native Bird Community.  Current Biology.\nFretz, J. S.  2002. Scales of food availability for an endangered insectivore, the Hawaii Akepa. The Auk 119(1)."
+  }
+}

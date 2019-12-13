@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_foveolatus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. foveolatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus foveolatus is a species of fungus in the genus Aspergillus. It is from the Nidulantes section. The species was first described in 1978. It has been isolated from the herbal drug Tribulus terrestris in India. It has been reported to produce asperthecin, dethiosecoemestrin, emestrin, emestrin B, secoemestrin C, secoemestrin D, emericellenes A-E, desferritriacetylfusigen, paxillin, and violaceic acid.\n\n\n== References =="
+  }
+}

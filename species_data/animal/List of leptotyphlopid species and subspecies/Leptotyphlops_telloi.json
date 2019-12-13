@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_telloi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Leptotyphlops"
+    },
+    {
+      "Species": "L. telloi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Leptotyphlops telloi, also known as Tello's threadsnake or Tello's worm snake, is a species of African snake in the family Leptotyphlopidae.",
+    "Etymology": "The specific name, telloi, is in honor of Mozambican herpetologist José Luis Pessoa Lobão Tello.",
+    "Geographic range": "L. telloi is endemic to Mozambique, and adjacent Swaziland.",
+    "Description": "A small species, L. telloi may grow to a maximum snout-vent length (SVL) of only 16.5 cm (6.5 in). It is solid black, except for white patches on the head.",
+    "Habitat": "The preferred habitat of L. telloi is thornveld.",
+    "References": "",
+    "Further reading": "Broadley DG, Watson G (1976). \"A Revision of the Worm Snakes of South-eastern Africa (Serpentes: Leptotyphlopidae)\". Occasional Papers of the National Museums and Monuments of Rhodesia, Series B, Natural Sciences, Bulawayo 8: 465-510. (Leptotyphlops telloi, new species, p. 500)."
+  }
+}

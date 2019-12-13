@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miniopterus_newtoni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. newtoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miniopterus newtoni is a species of bat that is endemic to São Tomé and Príncipe.",
+    "Taxonomy": "Miniopterus newtoni was described as a new species in 1889 by Portuguese zoologist José Vicente Barbosa du Bocage.\nThe holotype had been collected by Portuguese naturalist Francisco Newton.\nIn the third edition of Mammal Species of the World, Simmons et al. considered M. newtoni as a subspecies of the least long-fingered bat, M. minor. \nHowever, in 2007, a mitochondrial DNA analysis rejected the assertion that M. minor and M. newtoni were synonymous.\nJuste et al. published that M. newtoni and M. minor had a genetic distance significant enough to regard each as separate species.",
+    "Description": "It has a forearm length of approximately 39 mm (1.5 in).",
+    "Range and habitat": "M. newtoni is endemic to the nation of São Tomé and Príncipe, where it has only been documented on São Tomé Island.\nIt has been documented in both forested habitat and plantations.",
+    "Conservation": "As of 2019, it is evaluated as a data deficient species by the IUCN.\nIt meets the criteria for this classification due to the lack of information on its extent of occurrence and threats it may be facing.\n\n\n== References =="
+  }
+}

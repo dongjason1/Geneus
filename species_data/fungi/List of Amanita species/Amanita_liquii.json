@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_liquii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Subclass": "Hymenomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. liquii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita liquii, also known as the Dark-faced Ringless Amanita, is a species of agaric found associated with firs and pines in southwestern China up to an altitude of 4000 m. It fruits from July to September.\nThis large and robust agaric (cap diameter up to 14 cm, stem length up to 17 cm) is distinguishable by its very dark, sometimes almost black, overall colour. The scientific name is taken from the Chinese hero Li Kui (sometimes spelled Li Qui), who had a dark face.",
+    "References": "Yang ZL, Weiss M & Oberwinkler F. (2004) New species of Amanita from the eastern Himalaya and adjacent regions"
+  }
+}

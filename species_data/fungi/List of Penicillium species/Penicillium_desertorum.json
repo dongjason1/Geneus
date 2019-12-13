@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_desertorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. desertorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium desertorum is a species of the genus of Penicillium which was isolated from desert soil under the plant Oryzopsis hymenoides in Wyoming in the US.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

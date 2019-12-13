@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_hyalina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. hyalina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex hyalina, the tissue sedge, is a species of sedge that was first described by Francis Boott in 1847.\n\n\n== References =="
+  }
+}

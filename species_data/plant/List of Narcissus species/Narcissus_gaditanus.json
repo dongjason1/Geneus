@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Narcissus_gaditanus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Amaryllidoideae"
+    },
+    {
+      "Genus": "Narcissus"
+    },
+    {
+      "Species": "N. gaditanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Narcissus gaditanus is a species of the genus Narcissus (Daffodils) in the family Amaryllidaceae. It is classified in Section Juncifolii, and is native to the southern Iberian Peninsula.",
+    "Etymology": "The specific epithet, gaditanus, means \"pertaining to Gades\" (now Cadiz).\n\n\n== References =="
+  }
+}

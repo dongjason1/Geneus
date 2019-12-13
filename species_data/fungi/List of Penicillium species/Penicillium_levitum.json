@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_levitum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. levitum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium levitum is an anamorph species of the genus of Penicillium.",
+    "Further reading": "McKeen, W. E.; Mitchell, N.; Jarvie, W.; Smith, R. (1966). \"Electromicroscopy Studies of Conidial Walls of Sphaerotheca Macularis, Penicillium Levitum, and Aspergillus Niger\". Canadian Journal of Microbiology. 12 (2): 427. doi:10.1139/m66-062.\nJohn Weete (2012). Fungal Lipid Biochemistry: Distribution and Metabolism. Springer Science & Business Media. ISBN 1-4684-2829-2.\nDaniel K. Brannan (1997). Cosmetic Microbiology: A Practical Handbook. CRC Press. ISBN 0-8493-3713-5.\nWilfried Paulus (2005). Directory of Microbicides for the Protection of Materials: A Handbook. Springer Science & Business. ISBN 1-4020-2817-2.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Branta_rhuax",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Anseriformes"
+    },
+    {
+      "Family": "Anatidae"
+    },
+    {
+      "Genus": "Branta"
+    },
+    {
+      "Species": "B. rhuax"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Branta rhuax is an extinct goose endemic to the island of Hawai'i. It was initially described as the monotypic genus Geochen, but then reassigned to Branta by Storrs L. Olson in 2013 after reexamination of the subfossil material.",
+    "History": "The bird was described in 1943 by Alexander Wetmore from subfossil remains originally discovered in 1926, in the course of a public works excavation of a water supply tunnel. The bones were found at a depth of 25 m beneath a prehistoric lava flow, on top of an ash bed, near Kaumaikeohu, above Pahala in the Kau District of the Island of Hawai'i.  The bones are friable and warped, having been subjected to intense heat from the lava.  The specific epithet comes from the Greek rhuax (lava stream).  The holotype is a fragmentary right tibiotarsus (USNM V16740) held by the United States National Museum of Natural History in Washington D.C..  It was the first fossil bird to be described from the Hawaiian Islands.",
+    "Taxonomy": "In his 1943 description Wetmore opined that the bird most resembled the Cape Barren goose of southern Australia, and was about the same size.  However, subsequently Olson and James (1991) considered that the available material was too imperfect for determining the affinities so precisely and that the relationships of the bird would remain doubtful until further specimens were obtained.\n\n\n== References =="
+  }
+}

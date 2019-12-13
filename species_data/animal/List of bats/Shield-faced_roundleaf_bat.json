@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shield-faced_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. lylei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The shield-faced roundleaf bat (Hipposideros lylei) is a species of bat in the family Hipposideridae. It is found in China, Laos, Malaysia, Myanmar, Thailand and Vietnam.\n\n\n== References =="
+  }
+}

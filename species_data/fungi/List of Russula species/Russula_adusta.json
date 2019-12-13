@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_adusta",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. adusta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula adusta is a species of mushroom.",
+    "See also": "List of Russula species",
+    "References": "\nRogers Mushrooms – Russula adusta\nSavuhapero, svedkremla (in Finnish)"
+  }
+}

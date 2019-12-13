@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_felis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. felis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus acidus is a heterothallic species of fungus in the genus Aspergillus which can cause aspergillosis in humans, dogs and cats.",
+    "References": "",
+    "Further reading": "\"Aspergillus felis: new fungus found in Australia, causes infections in humans, cats | Aspergillus & Aspergillosis Website\". www.aspergillus.org.uk.\nLynelle R, Johnson (2014). Canine and Feline Respiratory Medicine, An Issue of Veterinary Clinics: Small Animal Practice. Elsevier Health Sciences. ISBN 978-0-323-26421-1.\nMichael, Schaer; Frederic P., Gaschen (2016). Clinical Medicine of the Dog and Cat, Third Edition. CRC Press. ISBN 978-1-482-22606-5.\nRichard G., Harvey; Gert ter, Haar (2016). Ear, Nose and Throat Diseases of the Dog and Cat. CRC Press. ISBN 978-1-315-35575-7."
+  }
+}

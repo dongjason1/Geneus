@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_sarracenicus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. sarracenicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio sarracenicus, the broad-leaved ragwort, is a tall perennial herbaceous flowering plant belonging to the daisy family Asteraceae.",
+    "Description": "\n\n== References =="
+  }
+}

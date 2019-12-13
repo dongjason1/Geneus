@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_sakalava",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. sakalava"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus sakalava is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail occurs off Madagascar",
+    "References": "\nMonnier E. & Tenorio M.J. (2017). New cones from North-West Madagascar (Gastropoda: Conidae) / Nouveaux cones du Nord-Ouest de Madagascar (Gastropoda: Conidae). Xenophora Taxonomy. 17: 32-40."
+  }
+}

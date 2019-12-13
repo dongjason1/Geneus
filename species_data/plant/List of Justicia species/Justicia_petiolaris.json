@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Justicia_petiolaris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Acanthaceae"
+    },
+    {
+      "Genus": "Justicia"
+    },
+    {
+      "Species": "J. petiolaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Justicia petiolaris is a plant species in the family Acanthaceae. It is native to Swaziland and eastern and southern South Africa.",
+    "Subspecies": "\nThere are three subspecies:\nJ. p. subsp. petiolaris\nJ. p. subsp. bowiei (C.B. CI.) Immelman\nJ. p. subsp. incerta (C.B. CI.) Immelman\n\n\n== References =="
+  }
+}

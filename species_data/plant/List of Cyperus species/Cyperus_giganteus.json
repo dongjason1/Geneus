@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cyperus_giganteus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Cyperus"
+    },
+    {
+      "Species": "C. giganteus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cyperus giganteus (also known as piripiri) is a plant in the genus Cyperus. Its native range extends from Jalisco in west-central Mexico as far south as Uruguay, and also grows on some islands in the Caribbean (Cuba, Hispaniola, Puerto Rico, Jamaica, and Trinidad). The species is sparingly naturalized in eastern Texas and southern Louisiana.",
+    "References": "\n\"Cyperus giganteus\". Germplasm Resources Information Network (GRIN). Agricultural Research Service (ARS), United States Department of Agriculture (USDA)."
+  }
+}

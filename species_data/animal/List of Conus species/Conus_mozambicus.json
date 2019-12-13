@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_mozambicus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. mozambicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus mozambicus, common name the Mozambique cone or the elongate cone, is a species of medium-sized sea snail, a predatory marine gastropod mollusc in the family Conidae, the cone snails or cone shells.",
+    "Distribution": "Conus mozambicus cone is known off the southern African coast from Lüderitz Bay to Mossel Bay, subtidally in shallow water. The species is endemic to this region. It is also found off Senegal and Mozambique.",
+    "Description": "Conus mozambicus has a medium-sized shell which may grow to 65mm in total length. It has a sharply pointed spire. The shell colour is dull and mottled with brown, and there may be darker blotches at the shoulder. The spire of the shell is stepped.",
+    "Ecology": "Conus mozambicus feeds on polychaete worms. The egg capsules are vase-shaped and contain 19-23 eggs.",
+    "References": "Petit, R. E. (2009). George Brettingham Sowerby, I, II & III: their conchological publications and molluscan taxa. Zootaxa. 2189: 1–218\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "Cone Shells - Knights of the Sea\n\"Floraconus mozambicus\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

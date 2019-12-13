@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sanborn's_big-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Micronycteris"
+    },
+    {
+      "Species": "M. sanborni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sanborn's big-eared bat (Micronycteris sanborni) is a bat species from South America. It is found in Bolivia and Brazil.\n\n\n== References =="
+  }
+}

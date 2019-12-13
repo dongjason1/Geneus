@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_formosanum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. formosanum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium formosanum is a species of the genus of Penicillium which produces patulin and asteltoxin.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

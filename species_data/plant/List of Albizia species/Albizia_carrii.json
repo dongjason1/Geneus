@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Albizia_carrii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Albizia"
+    },
+    {
+      "Species": "A. carrii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Albizia carrii is a species of legume in the family Fabaceae. It is found only in Papua New Guinea.",
+    "References": "World Conservation Monitoring Centre (1998). \"Albizia carrii\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T37566A10064248. doi:10.2305/IUCN.UK.1998.RLTS.T37566A10064248.en. Retrieved 18 December 2017."
+  }
+}

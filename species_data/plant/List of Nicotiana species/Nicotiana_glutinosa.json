@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nicotiana_glutinosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Nicotiana"
+    },
+    {
+      "Species": "N. glutinosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nicotiana glutinosa is a species of tobacco plant that is economically important in tobacco hybrids. N. glutinosa is native to western South America, including Bolivia, Ecuador, and Peru. It is a model organism for the study of Tobacco mosaic virus resistance in tobacco.\n\n\n== References =="
+  }
+}

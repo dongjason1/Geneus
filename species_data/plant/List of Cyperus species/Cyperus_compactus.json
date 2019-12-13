@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cyperus_compactus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Cyperus"
+    },
+    {
+      "Species": "C. compactus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cyperus compactus is a sedge of the family Cyperaceae that is native to the  Kimberley region of Western Australia.",
+    "See also": "List of Cyperus species\n\n\n== References =="
+  }
+}

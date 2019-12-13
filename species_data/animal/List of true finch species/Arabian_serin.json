@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Arabian_serin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. rothschildi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Arabian serin or olive-rumped serin (Crithagra rothschildi) is a species of finch in the Fringillidae family. It is found in Saudi Arabia and Yemen. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical dry shrubland.\nThe Arabian serin was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the Arabian serin were moved to the resurrected genus Crithagra.",
+    "References": "\nBirdLife International 2004.  Serinus rothschildi.   2008 IUCN Red List of Threatened Species."
+  }
+}

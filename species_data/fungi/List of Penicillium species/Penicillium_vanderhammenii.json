@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_vanderhammenii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. vanderhammenii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium vanderhammenii is a species of fungus in the genus Penicillium which was isolated from the Colombian Amazon forest.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malayan_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. nequam"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malayan roundleaf bat (Hipposideros nequam) is a horseshoe bat found only in Malaysia. It is listed as a data deficient species.",
+    "Taxonomy": "It was described as a new species in 1918 by Danish mammalogist Knud Andersen.\nThe holotype had been collected in 1879 by W. Davison in Klang, Malaysia.\nIt was presented to Andersen by Allan Octavian Hume.\nIt is considered a member of the bicolor species group within Hipposideros based on its morphology.\nThe holotype is the only known specimen of this species.\nAs it was damaged, it is uncertain if the Malayan roundleaf bat is truly a distinct species.\nIts species name \"nequam\" is Latin for \"worthless.\"",
+    "Description": "The forearm length of the holotype was 46 mm (1.8 in).\nIt had a large nose-leaf of 6 mm (0.24 in) in length and 8 mm (0.31 in) in width.\nIts first premolar is small and its nasal septum is very thin.",
+    "Range and habitat": "The Malayan roundleaf bat is only known from the type locality of Klang, Malaysia.",
+    "Conservation": "As of 2016, it is evaluated as a data deficient species by the IUCN.\nIt meets the criteria for this assessment because it is known from only a single specimen; there is no information on its ecological requirements; and its extent of occurrence is unknown.\n\n\n== References =="
+  }
+}

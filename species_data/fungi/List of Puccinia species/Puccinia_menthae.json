@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_menthae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Pucciniomycetes"
+    },
+    {
+      "Order": "Pucciniales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. menthae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia menthae is a fungal plant pathogen that causes rust on mint plants.",
+    "Hosts and Symptoms": "Puccinia menthae feeds on plants in the Lamiaceae family. Commonly there are two groups of mint rust, spearmint rust and peppermint rust. The strain of P. menthae that infects peppermint is not able to infect spearmint plants and the strain that infects spearmint cannot infect peppermint, but both can infect Scotch spearmint. In a study done by Stiles et al., it was found that a P. menthae isolate found on oregano could infect oregano, Greek oregano, and sweet marjoram but could not infect spearmint species. Stiles obtained another rust isolate from spearmint and found it did not infect oregano or related species. This suggests the strains of P. menthae are host specific within the Lamiaceae family of plants. More research is required to determine more information regarding the degree host specificity of P. menthae.\nIn the early stages of the disease, P. menthae creates chlorotic spots on the upper side of the leaves and orange urediospores form blister-like structures on the underside of the leaves. As the season progresses, the spots turn into brown pustules, teliospores, surrounded by a chlorotic halo. Leaves will often drop off the plant. Mature aecial spores develop from spermogonia and cause hypertrophy, twisting, and distortion in young peppermint shoots.",
+    "Disease Cycle": "Puccinia menthae is an autoecious macrocyclic rust. This species of rust has all 4 of the rust spores; teliospores, basidiospores, aeciospores, and urediospores.\nTeliospores: Teliospores are produced from May to December on leaves, stems, or rhizomes of mint host. They are ellipsoidal, with slightly projecting caps, slightly constricted at septum and are 22-30 x 17-24 µm. This is the overwintering structure. They require a period of dormancy before they are able to germinate into basidiospores. This period of dormancy needs to be a minimum of 12 days. The teliospores then produce basidiospores under right environmental conditions.\nBasidiospores: Basidiospores will infect young mint plants in December and January. They create small red blisters on foliar tissue that are 1-3 mm in diameter. The development of spermogonia and aecia requires warmer temperatures ~20°C and greatly inhibited by colder temperatures. Basidiospores produce aeciospores.\nAeciospores: These spores are spheroidal or ellipsoidal, 18-28 µm in diameter. The heaviest production of aeciospores occurs during March and April. The incubation period required to produce urediospores varies around 15 days in greenhouse conditions and in field conditions the incubation period was longer with more variability. Initial spread of aeciospores is limited to a few feet. Aeciospores produce urediospores.\nUrediospores:  Urediospores are ellipsoidal or obovoidal, 22-26 x 18-22 µm. These spores are released starting in April and May and are unable to overwinter in the field.  Moisture heavily influences this stage of the life cycle as high humidity confers an infection of urediospores. Urediospores germinate and form haustoria that penetrates into the leaves. Urediospore sori is produced on the undersides of the host leaves and are protected from solar radiation. Urediospores are capable of germinating over a range of 5- 30°C with the optimal temperature of ~20°C. P. menthae germ-tube penetration has an optimum temperature range of 10-20°C. Urediospores lead to the production of teliospores.",
+    "Importance": "Mint rust has resulted in significant losses in production of the different species of mint including peppermint, spearmint, scotch mint, and Japanese field mint, all over the world. Mint is a significant cultural element to many people’s lives and P. menthae infected spearmint can result a 70% yield loss. Idaho is the 3rd and 4th national producer of peppermint and spearmint respectively and in 1999 harvested 1,933,250 pounds of peppermint oil, and 200,000 pounds of spearmint oil. Mint is known to provide several health benefits. It can help with allergies, common colds, indigestion and gas, irritable bowel syndrome, oral health. In Wisconsin 86% of the peppermint growers and 90% of the spearmint growers reported a problem with mint rust.",
+    "See also": "List of Puccinia species\nList of mint diseases",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

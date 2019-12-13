@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conquered_lorikeet",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Psittaciformes"
+    },
+    {
+      "Family": "Psittaculidae"
+    },
+    {
+      "Genus": "Vini"
+    },
+    {
+      "Species": "V. vidivici"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The conquered lorikeet (Vini vidivici) is a species of parrot that became extinct 700–1300 years ago. It lived in islands of Polynesia. David Steadman and Marie Zarriello wrote its species description in 1987.\nIt was discovered in the oldest archaeological layer of 1000 AD and not recorded after 1200 AD.",
+    "Description": "It was a large species; the only larger species in Vini was V. sinotoi.",
+    "Distribution": "Specimens have been found on Hiva Oa, Nuku Hiva, Ua Huka, and Tahuata (Marquesas Islands); Mangaia (Cook Islands); and Huahine (Society Islands).",
+    "Etymology": "The binominal name is wordplay alluding to \"veni, vidi, vici.\" The authors wrote in the original description:The meaning, \"I came, I saw, I conquered,\" may be projected into the prehistoric situation in the Marquesas and elsewhere in Polynesia, where people came to an island, saw the native parrots, and then conquered them, leaving behind only the bones.\n\nThe generic name in fact does not come from Latin; René Lesson chose Vini as the name for the genus since vini is the Tahitian word for a local bird.\n\n\n== References =="
+  }
+}

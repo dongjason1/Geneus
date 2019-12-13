@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_pholideus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. pholideus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius pholideus is a species of fungus native to Finland, Great Britain, and Norway.",
+    "References": "",
+    "External links": "Cortinarius pholideus  in MycoBank."
+  }
+}

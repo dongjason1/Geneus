@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_heimii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. heimii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe heimii is a species of psilocybin mushroom in the family Strophariaceae. Described as new to science in 1978 by Gastón Guzmán, it is found in the subtropical forests of Mexico. It is named in honor of French mycologist Roger Heim.",
+    "See also": "List of psilocybin mushrooms\nList of Psilocybe species",
+    "References": "",
+    "External links": "Psilocybe heimii  in Index Fungorum"
+  }
+}

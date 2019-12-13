@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Thomas's_fruit-eating_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Dermanura"
+    },
+    {
+      "Species": "D. watsoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Thomas's fruit-eating bat (Dermanura watsoni), sometimes also popularly called Watson's fruit-eating bat, is a species of bat in the family Phyllostomidae. It is found in southern Mexico, Belize, Guatemala, Honduras, Nicaragua, Costa Rica, Panama and Colombia. Its South American range is to the west of the Andes. The species name is in honor of H. J. Watson, a plantation owner in western Panama who used to send specimens to the British Natural History Museum, where Oldfield Thomas would often describe them.",
+    "Taxonomy": "This species was formerly placed in the genus Artibeus, but was reclassified, based on mitochondrial cytochrome b gene sequence data, in 2004. Dermanura, formerly a subgenus of Artibeus, was elevated to a separate genus. The two genera cannot be differentiated by morphology.",
+    "Taxonomy-Population on Isla Escudo de Veraguas": "The population on the small (3.4 km2) island Isla Escudo de Veraguas off the Caribbean coast of Panama was classified as a separate species within the genus (D. incomitata, the solitary fruit-eating bat) in 1994. It had been evaluated as critically endangered by the IUCN, being threatened by habitat loss in addition to the tiny size of its range, as well as a species in danger of imminent extinction by the Alliance for Zero Extinction. It was transferred to D. watsoni in 2009, based on cytochrome b data that showed it nested within watsoni. The IUCN has followed this recommendation. Solari et al. (2009) described it as the subspecies D. w. incomitata. They stated that \"The paraphyly and specific status of watsoni/incomitata is not easily resolved\" and suggested that nuclear DNA sequence comparisons would be useful. The only morphological distinction between the island and mainland populations noted was differences in the cusps of the lower molars, while the DNA sequence divergence of 3.6% is less than typical for sister species in the genus.\n\n\n== References =="
+  }
+}

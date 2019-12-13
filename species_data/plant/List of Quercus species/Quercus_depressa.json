@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_depressa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. depressa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus depressa is a species of red oak endemic to Mexico.\n\n\n== References =="
+  }
+}

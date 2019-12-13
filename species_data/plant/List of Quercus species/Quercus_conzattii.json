@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_conzattii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Quercus"
+    },
+    {
+      "Species": "Q. conzattii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus conzattii is an oak endemic to Mexico.\n\n\n== References =="
+  }
+}

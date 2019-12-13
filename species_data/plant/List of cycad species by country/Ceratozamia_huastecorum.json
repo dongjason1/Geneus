@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ceratozamia_huastecorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Ceratozamia"
+    },
+    {
+      "Species": "C. huastecorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ceratozamia huastecorum is a species of cycad in the family Zamiaceae endemic to a small area of northern Veracruz, Mexico.",
+    "References": "Whitelock, Loran M. 2002. The Cycads. Portland: Timber Press. ISBN 0-88192-522-5",
+    "External links": "*  Data related to Ceratozamia huastecorum at Wikispecies"
+  }
+}

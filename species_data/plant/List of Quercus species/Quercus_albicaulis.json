@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_albicaulis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Cyclobalanopsis"
+    },
+    {
+      "Species": "Q. albicaulis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus albicaulis is a rare Chinese species of trees in the beech family. It has been found only on the Island of Hainan in southern China.\nQuercus albicaulis is a large tree up to 30 m tall with white twigs and leaves as much as 18 cm long.",
+    "References": "",
+    "External links": "line drawing, Flora of China Illustrations vol. 4, fig. 392, 10-12"
+  }
+}

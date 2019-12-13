@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_socialis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Basidiomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. tabescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria socialis is a species of fungus in the Physalacriaceae family. It is a plant pathogen. Originally described by Augustin Pyramus de Candolle in 1815, it was transferred to Armillaria by Victor Fayod in 1889. It is found in Asia, Europe, and North America.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

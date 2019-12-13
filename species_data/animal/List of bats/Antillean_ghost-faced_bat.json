@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Antillean_ghost-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Mormoopidae"
+    },
+    {
+      "Genus": "Mormoops"
+    },
+    {
+      "Species": "M. blainvillei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Antillean ghost-faced bat (Mormoops blainvillei) is a species of bat in the family Mormoopidae. It is found in Cuba, the Dominican Republic, Haiti, Jamaica, and Puerto Rico.",
+    "Description": "These bats range in color from a pale cinnamon to a more reddish color, showing darker pigmentation on the dorsal side as opposed to the ventral. No molting specimens have been observed. Additionally, no geographic variation in color has been studied, observed or documented.\nLike other species in the Mormoops genus, the Antillean ghost-faced bat shows elaborate, intricate facial outgrowths and leaflike appendages. The face features nostrils located on a fleshy pad, and coarse bristles protruding from both lips.",
+    "Fossil Record": "The fossil record for this species is limited and sparse, but the evidence found indicates a wider range which previously extended to all of the Caribbean islands as well as the Bahamas.",
+    "Ecology": "",
+    "Ecology-Habitat": "The Antillean ghost-faced bat has been predominantly observed roosting in deeper, more sheltered caves or abandoned mine shafts, as opposed to caves with multiple entrances. Here, it coexists with other bat species.",
+    "Ecology-Diet": "Analysis of stomach contents has shown that these bats feed exclusively on insects, which they catch utilizing a pouch formed by the large leaflike tail membrane. Target prey, mostly moths, are caught in midair.",
+    "Behavior": "",
+    "Behavior-Activity": "M. blainvilli is a strictly nocturnal species. The onset of activity varies from 22–55 minutes after sunset. This late onset has been associated with the peak activity of Lepidoptera, which is their preferred prey.",
+    "Behavior-Flight and Echolocation": "The flight of this bat is faster and higher than that of other bats in its genus, and a distinct humming sound has been correlated with its flight. They are known to use the same biosonar vocalizations as in other echolocating bats. As the bat searches for a target (typically moths), it produces search signals with an average duration of 1.8 ms, which change from a shallow FM-sweep to a steep one. When approaching its target, M. blainvilli reduces the duration of its vocalizations. In the terminal phase, it produces a higher number of calls which are drastically shorter in duration.",
+    "Behavior-Reproduction": "The mating season begins with copulation spanning from January to February. From March to May, pregnancies occur, and the earliest births occur in June. Weaning is completed from August to September, and in October to December, females are non-responsive to mating.\nEach reproductive female typically bears one child per year, with twins being reported in only two instances.",
+    "Physiology": "",
+    "Physiology-Morphology": "The morphology of M. blainvilli is similar to M. megalophylla, as the main adaptations by Mormoops are to reduce body weight to increase flying ability. These adaptations include decreased muscular structures, some of which are absent altogether as compared to species of Phyllostomidae. These restrictions result in a decreased range of extension. The aspect ratio of the wings of one bat were calculated as 6.23, similar to M. megalophylla. These characteristics are hypothesized to give the bat an advantage in terms of flight endurance, and have been adapted for its insectivorous diet.",
+    "Physiology-Thermoregulation": "The thermoneutral zone for M. blainvilli extends from 31–34 °C, and body temperature is maintained between these two temperatures over a wide range of ambient temperature (15–41 °C). However, as ambient temperature decreases below 28 °C, the maintenance of body temperature in individuals is less stable and has been observed in some to decrease below 25 °C. In these low temperatures, bats respond by elevating their basal metabolic rate.",
+    "References": "\nChiroptera Specialist Group 1996.  Mormoops blainvillii.   2006 IUCN Red List of Threatened Species.   Downloaded on 30 July 2007."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chilorhinophis_carpenteri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Chilorhinophis"
+    },
+    {
+      "Species": "C. carpenteri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Chilorhinophis carpenteri, or the Liwale two-headed snake, is a species of venomous snakes in the family Atractaspididae.",
+    "Geographic range": "C. carpenteri is endemic to Africa and is found in Mozambique and southeastern Tanzania.",
+    "Taxonomy": "C. carpenteri was originally named Parkerophis carpenteri. Some herpetologists, including Battersby, consider C. carpenteri to be a synonym of C. butleri.",
+    "Etymology": "The specific name, carpenteri, honors the type specimen's collector, British physician and entomologist Geoffrey Douglas Hale Carpenter.\n\n\n== References =="
+  }
+}

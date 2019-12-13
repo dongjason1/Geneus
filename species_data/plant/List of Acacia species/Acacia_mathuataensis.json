@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_mathuataensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. mathuataensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia mathuataensis is a species of legume in the family Fabaceae.\nIt is found only in Fiji.",
+    "References": "",
+    "Sources": "World Conservation Monitoring Centre 1998.  Acacia mathuataensis.   2006 IUCN Red List of Threatened Species.   Downloaded on 18 July 2007."
+  }
+}

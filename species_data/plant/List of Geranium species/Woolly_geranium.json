@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Woolly_geranium",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Geraniales"
+    },
+    {
+      "Family": "Geraniaceae"
+    },
+    {
+      "Genus": "Geranium"
+    },
+    {
+      "Species": "G. erianthum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Geranium erianthum, the woolly geranium, is a flowering plant found in China, Japan, Russia, and North America. Within its range, it is often known as \"wild geranium\" or \"cranesbill\", but note that these common names are also used for several other species within the genus Geranium.",
+    "References": "\n\n== External links =="
+  }
+}

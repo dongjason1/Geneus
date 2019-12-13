@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amblyodipsas_rodhaini",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Amblyodipsas"
+    },
+    {
+      "Species": "A. rodhaini"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amblyodipsas rodhaini, commonly known as Rodhain's purple-glossed snake, is a species of venomous rear-fanged snake in the family Lamprophiidae. The species is endemic to the Democratic Republic of the Congo.",
+    "Etymology": "Both the specific name, rodhaini, and the common name, Rodhain's purple-glossed snake, are in honor of Belgian physician and zoologist Jérome Alphonse Hubert Rodhain (1876–1956).",
+    "References": "",
+    "Further reading": "de Witte GF (1930). \"Un serpent do Congo Belge (Rhinocalamus rhodaini sp. n.)\". Rev. Zool. Bot. Afr. 19 (1): 1-3.\nBranch, Bill (2005). A Photographic Guide to Snakes, Other Reptiles and Amphibians of East Africa. Cape Town: Struik. p. 67."
+  }
+}

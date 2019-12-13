@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_pisci",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. pisci"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus pisci is a species of fungus in the genus Aspergillus.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Clitocybe_fragrans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Clitocybe"
+    },
+    {
+      "Species": "C. fragans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Clitocybe fragrans is a poisonous mushroom. It has a \"fragrant\" (fragrans) odor of aniseed and can be confused with the aniseed toadstool. The cap and stem are white.",
+    "References": "",
+    "External links": "Clitocybe fragrans"
+  }
+}

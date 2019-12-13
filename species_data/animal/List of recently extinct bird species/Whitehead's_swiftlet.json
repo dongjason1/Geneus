@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Whitehead's_swiftlet",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Apodiformes"
+    },
+    {
+      "Family": "Apodidae"
+    },
+    {
+      "Genus": "Aerodramus"
+    },
+    {
+      "Species": "A. whiteheadi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Whitehead's swiftlet (Aerodramus whiteheadi) is a species of swift in the family Apodidae. It is endemic to the Philippines. It is named after the British explorer John Whitehead (1860-1899) who collected natural history specimens in Borneo and elsewhere in Southeast Asia.\nIts natural habitat is subtropical or tropical moist montane forests. Its status is insufficiently known.",
+    "References": "BirdLife International 2004.  [1].   2006 IUCN Red List of Threatened Species.   Downloaded on 24 July 2007."
+  }
+}

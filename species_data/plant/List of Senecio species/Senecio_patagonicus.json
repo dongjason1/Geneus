@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_patagonicus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. patagonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio patagonicus is an arid land perennial Senecio native to high elevation steppe ecosystems of Patagonia in Chile.\n\n\n== References =="
+  }
+}

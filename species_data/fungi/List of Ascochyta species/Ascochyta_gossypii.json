@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_gossypii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Phoma"
+    },
+    {
+      "Species": "P. exigua"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phoma exigua (syn. Ascochyta gossypii) is a fungal plant pathogen. It causes wet weather blight in cotton and it can be treated with systemic copper.",
+    "Varieties of Phoma exigua": "Phoma exigua var. exigua\nPhoma exigua var. heteromorpha\nPhoma exigua var. lincola\nPhoma exigua var. solanicola",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

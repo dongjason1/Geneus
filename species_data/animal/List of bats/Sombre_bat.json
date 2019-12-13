@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sombre_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. tatei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The sombre bat (Eptesicus tatei) is a species of vesper bat. It is found only in India. Its natural habitat is subtropical or tropical moist montane forests.\n\n\n== Sources =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Soriano's_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. sorianoi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Soriano's yellow-shouldered bat (Sturnira sorianoi), is an extant species of leaf-nosed bat indigenous to Bolivia and Venezuela, although its precise distribution is uncertain. Following the postulation of the species in 2005, S. sorianoi requires contemporary information relating its distribution, environment, and population, along with formal a comparison with S. erythromos and S. bogotensis. Without sufficient data, the International Union for Conservation of Nature (IUCN) presently considers the taxonomy for S. sorianoi as incomplete.",
+    "References": "",
+    "See also": "List of mammals of Bolivia\nList of mammals of Venezuela"
+  }
+}

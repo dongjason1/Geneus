@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ranunculus_dissectifolius",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Ranunculales"
+    },
+    {
+      "Family": "Ranunculaceae"
+    },
+    {
+      "Genus": "Ranunculus"
+    },
+    {
+      "Species": "R. dissectifolius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ranunculus dissectifolius is a rare species of buttercup found in alpine Australia.\n\n\n== References =="
+  }
+}

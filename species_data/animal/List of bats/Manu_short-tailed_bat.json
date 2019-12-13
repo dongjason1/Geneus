@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Manu_short-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Carollia"
+    },
+    {
+      "Species": "C. manu"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Manu short-tailed bat (Carollia manu) is a bat species found in Peru and Bolivia.",
+    "References": "",
+    "External links": "IABIN Database Entry"
+  }
+}

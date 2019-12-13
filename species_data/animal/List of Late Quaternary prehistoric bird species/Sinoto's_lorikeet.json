@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sinoto's_lorikeet",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Psittaciformes"
+    },
+    {
+      "Family": "Psittaculidae"
+    },
+    {
+      "Genus": "Vini"
+    },
+    {
+      "Species": "V. sinotoi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sinoto's lorikeet (Vini sinotoi) is a species of parrot that became extinct 700–1300 years ago.  It was identified from fossils on the Marquesas Islands.\nThe species epithet commemorates anthropologist Yosihiko H. Sinoto who collected the holotype in 1965.",
+    "References": "David W. Steadman & Marie C. Zarriello, (1987) \"Two new species of parrots (Aves: Psittacidae) from archeological sites in the Marquesas Islands\" Proceedings of the Biological Society of Washington 100: 518-528"
+  }
+}

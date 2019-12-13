@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_rufistylis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. rufistylis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia rufistylis is a shrub endemic to Western Australia.",
+    "References": "\"Banksia rufistylis\". FloraBase. Western Australian Government Department of Parks and Wildlife.",
+    "External links": "\"Dryandra rufistylis\". Flora of Australia Online. Department of the Environment and Heritage, Australian Government."
+  }
+}

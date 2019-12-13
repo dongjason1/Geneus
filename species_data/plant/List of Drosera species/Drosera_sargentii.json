@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_sargentii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Bryastrum"
+    },
+    {
+      "Section": "Drosera sect. Lamprolepis"
+    },
+    {
+      "Species": "D. sargentii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera sargentii is a species of pygmy sundew from Western Australia."
+  }
+}

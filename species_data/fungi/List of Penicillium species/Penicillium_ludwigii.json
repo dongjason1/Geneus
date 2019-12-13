@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_ludwigii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. ludwigii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium ludwigii is an anamorph species of the genus of Penicillium.",
+    "Further reading": "Scott, D. B.; Stolk, A. C. (1967). \"Studies on the genus Eupenicillium Ludwig II. Perfect states of some Penicillia\". Antonie van Leeuwenhoek. 33: 297. doi:10.1007/BF02045575.\n\n\n== References =="
+  }
+}

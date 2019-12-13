@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_chordata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. chordata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia chordata is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "References": "Suter, H. (1908). Result of dredging for Mollusca near Cuvier Island, with descriptions of new species. Transactions of the New Zealand Institute. 40: 344–359\nMaxwell, P.A. (2009). Cenozoic Mollusca. Pp 232-254 in Gordon, D.P. (ed.) New Zealand inventory of biodiversity. Volume one. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia. Canterbury University Press, Christchurch.\nSpencer, H.G., Marshall, B.A. & Willan, R.C. (2009). Checklist of New Zealand living Mollusca. Pp 196-219. in: Gordon, D.P. (ed.) New Zealand inventory of biodiversity. Volume one. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia. Canterbury University Press, Christchurch.",
+    "External links": "To World Register of Marine Species\nSpencer H.G., Willan R.C., Marshall B.A. & Murray T.J. (2011). Checklist of the Recent Mollusca Recorded from the New Zealand Exclusive Economic Zone"
+  }
+}

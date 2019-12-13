@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Solanum_albornozii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Solanum"
+    },
+    {
+      "Species": "S. albornozii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Solanum albornozii is a species of plant in the family Solanaceae. It is endemic to Ecuador.",
+    "Sources": "Montúfar, R. & Pitman, N. (2004). \"Solanum albornozii\". The IUCN Red List of Threatened Species. IUCN. 2004: e.T46321A11048522. doi:10.2305/IUCN.UK.2004.RLTS.T46321A11048522.en. Retrieved 18 December 2017."
+  }
+}

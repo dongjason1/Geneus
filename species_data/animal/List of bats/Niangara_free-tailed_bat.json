@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Niangara_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mops"
+    },
+    {
+      "Species": "M. niangarae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Niangara free-tailed bat (Mops niangarae) is a species of bat in the family Molossidae. It is endemic to Democratic Republic of the Congo.  Its natural habitat is moist savanna.\n\n\n== Sources =="
+  }
+}

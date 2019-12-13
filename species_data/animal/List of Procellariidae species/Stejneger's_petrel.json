@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Stejneger's_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. longirostris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Stejneger's petrel (Pterodroma longirostris) is a species of seabird and a member of the gadfly petrels.  The bird is 26–31 cm in size, with a 53–66 cm wingspan.\nThis species is highly pelagic, rarely approaching land, except to nest and rear young. It occurs in the Pacific Ocean, nesting in the Cerro de Los Inocentes mountain of the Juan Fernández Islands off Chile.  It is a transequatorial migrant, finding its way to subtropical waters off Japan before returning to its nesting sites.  It has been reported well off the west coast of the United States.    \nStejneger's petrel nests in burrows. It prefers slopes and ridges in areas of dense fern forests. The population of this bird is decreasing due to introduced cats on its breeding islands. It is considered a vulnerable species because of its restricted breeding range.\nThe common name commemorates the Norwegian ornithologist Leonhard Hess Stejneger.",
+    "References": "\"National Geographic\"  Field Guide to the Birds of North America ISBN 0-7922-6877-6\n Seabirds, an Identification Guide by Peter Harrison, (1983) ISBN 0-7470-1410-8\nHandbook of the Birds of the World Vol 1,  Josep del Hoyo editor, ISBN 84-87334-10-5",
+    "External links": "BirdLife species factsheet"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Impatiens_obesa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Balsaminaceae"
+    },
+    {
+      "Genus": "Impatiens"
+    },
+    {
+      "Species": "I. obesa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Impatiens obesa is a species of plant in the family Balsaminaceae. It is endemic to China.",
+    "Sources": "China Plant Specialist Group (2004). \"Impatiens obesa\". The IUCN Red List of Threatened Species. IUCN. 2004: e.T46546A11066522. doi:10.2305/IUCN.UK.2004.RLTS.T46546A11066522.en. Retrieved 21 December 2017."
+  }
+}

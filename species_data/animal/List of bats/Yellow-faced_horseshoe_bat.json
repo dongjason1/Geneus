@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yellow-faced_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. virgo"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The yellow-faced horseshoe bat (Rhinolophus virgo) is a species of bat in the family Rhinolophidae. It is endemic to the Philippines.\n\n\n== References =="
+  }
+}

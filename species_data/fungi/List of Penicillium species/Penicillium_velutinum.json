@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_velutinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. velutinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium velutinum is an anamorph species of fungus in the genus Penicillium which produces citrinin. Penicillium velutinum can spoil fruit juices.",
+    "Further reading": "\n\n== References =="
+  }
+}

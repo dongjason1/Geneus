@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Abuta_candicans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Ranunculales"
+    },
+    {
+      "Family": "Menispermaceae"
+    },
+    {
+      "Genus": "Abuta"
+    },
+    {
+      "Species": "A. candicans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Abuta candicans (syn. Abuta limaciifolia  Diels, Abuta pullei Diels, Chondrodendron limaciifolium (Diels) Moldenke, Chondrodendron candicans (Rich.) Sandwith, Curarea candicans (Rich. ex DC.) Barneby, Sciadotenia candicans (Rich.) Diels) is a species in the Menispermaceae family.",
+    "References": "\nAbuta candicans"
+  }
+}

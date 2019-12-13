@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_erumpens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. erumpens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula erumpens is a species of fungus in the family Russulaceae. It is found in Australia, where it occurs in eucalypt forests and woodlands.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula erumpens  in Index Fungorum"
+  }
+}

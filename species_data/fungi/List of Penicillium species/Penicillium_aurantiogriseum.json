@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_aurantiogriseum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. aurantiogriseum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium aurantiogriseum is a plant pathogen infecting asparagus and strawberry.  Chemical compounds isolated from Penicillium aurantiogriseum include anicequol and auranthine.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

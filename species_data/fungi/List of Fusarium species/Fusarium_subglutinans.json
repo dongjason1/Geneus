@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_subglutinans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. subglutinans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium subglutinans is a fungal plant pathogen.",
+    "Taxonomy": "Fusarium subglutinans is the anamorph of Gibberella fujikuroi. \nFusarium strains in the Gibberella fujikuroi species complex cause diseases in a number of economically important plants.  DNA sequencing data reveals the presence of two major groups representing cryptic species in F. subglutinans. These were further divided into groups that appeared to be reproductively isolated in the environment which suggests that they are undergoing separation into distinct taxa. One such divergent group is Fusarium subglutinans f. sp. pini which causes pitch canker of pine trees. It is a synonym of Fusarium circinatum.\nOther members of the complex and their host plants are:\n\nFusarium moniliforme - Maize\nFusarium oxysporum - Pine\nFusarium proliferatum - Rice\nFusarium subglutinans - Maize, Mango\nFusarium subglutinans f. sp. ananas - Pineapple",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

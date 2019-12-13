@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cuban_solitaire",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Turdidae"
+    },
+    {
+      "Genus": "Myadestes"
+    },
+    {
+      "Species": "M. elisabeth"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Cuban solitaire (Myadestes elisabeth), also known as the Cuban nightingale, is a species of bird in the family Turdidae. It is endemic to Cuba.\nIts natural habitat is montane moist forests. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

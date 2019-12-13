@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Réunion_fody",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Ploceidae"
+    },
+    {
+      "Genus": "Foudia"
+    },
+    {
+      "Species": "†F. delloni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Réunion fody (Foudia delloni) is an extinct bird species from the family of weavers. It was endemic to the Mascarene island of Réunion.",
+    "Taxonomy": "This bird was first mentioned in a report by traveller Gabriel Dellon  and a second time in 1674 by Dubois. The species, of which no museum specimen exist was formally described as new species by Anthony Cheke and Julian Pender Hume in the Book Lost Land of the Dodo in 2008.\nA type of fody on Réunion was previously mentioned as Foudia bruante by Philipp Ludwig Statius Müller in the work Planches Enluminées in 1776. But after a hypothesis by Cheke and Hume Foudia bruante might be just a colour morph of the red fody which was introduced to Réunion about 100 years after the discovery of Foudia delloni.",
+    "Description": "The Réunion fody reached roughly the size of a house sparrow. The head, neck, throat and the wing underparts of the breeding male were bright red. Back and tail were brown. The belly was pale. The head of the females and the juvenile males was brown. Neck and wings were red. The throat was pale brown.",
+    "Extinction": "The Réunion fody was once described as abundant and as pest that destroyed entire crops. It was last seen shortly after 1672. The reason for its extinction might be the predation by rats.",
+    "Notes": "",
+    "References": "Anthony Cheke & Julian Hume (2008): Lost Land of the Dodo T. & A.D. Poyser. ISBN 0-7136-6544-0.\nSieur Dubois (1674): Les voyages faits par le Sieur D.B. aux îles Dauphine ou Madagascar et Bourbon. ou Mascareine ès années 1669, 1670, 1671 et 1672. Claude Barbin, Paris. 234 pp.\nGabriel Dellon (1685): Relation d'un voyage des Indes orientales. Claude Barbin, Paris. 284 pp.\nR. E. Moreau: The ploceine weavers of the Indian Ocean islands. Journal of Ornithology. Volume 101, Numbers 1-2 / April 1960. pp. 29–49. Springer Berlin/Heidelberg, ISSN 0021-8375 (about Foudia bruante)."
+  }
+}

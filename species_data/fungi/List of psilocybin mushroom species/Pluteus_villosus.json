@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pluteus_villosus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Pluteaceae"
+    },
+    {
+      "Genus": "Pluteus"
+    },
+    {
+      "Species": "P. villosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pluteus villosus is a medicinal mushroom in the Pluteaceae family.",
+    "Chemistry": "The mushroom contain psilocybin.",
+    "See also": "List of Psilocybin mushrooms\n\n\n== References =="
+  }
+}

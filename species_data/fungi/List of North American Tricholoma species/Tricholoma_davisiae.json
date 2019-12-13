@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_davisiae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. davisiae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma davisiae is a mushroom of the agaric genus Tricholoma. It was first formally described by Charles Horton Peck in 1900.",
+    "See also": "List of North American Tricholoma",
+    "References": "",
+    "External links": "Tricholoma davisiae  in Index Fungorum"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phoenicopterus_copei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Phoenicopteriformes"
+    },
+    {
+      "Family": "Phoenicopteridae"
+    },
+    {
+      "Genus": "Phoenicopterus"
+    },
+    {
+      "Species": "P. copei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phoenicopterus copei is an extinct species of flamingo that inhabited western North America during the Late Pleistocene."
+  }
+}

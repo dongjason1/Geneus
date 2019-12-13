@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bermuda_saw-whet_owl",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Strigiformes"
+    },
+    {
+      "Family": "Strigidae"
+    },
+    {
+      "Genus": "Aegolius"
+    },
+    {
+      "Species": "A. gradyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bermuda saw-whet owl (Aegolius gradyi) was a species of owl that was endemic to Bermuda. It was described from fossil records and explorer accounts of the bird in the 17th century. The cause of its extinction is unknown, but it may have been related to the decline of cedar and palmetto trees, or the arrival of non-native predators and competitors after human colonization. First described by Hume in 2012, it was declared extinct in 2014 (though the extinction event itself was in the 17th century).\n\n\n== References =="
+  }
+}

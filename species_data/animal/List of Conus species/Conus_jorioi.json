@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_jorioi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. jorioi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus jorioi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "Predatory and venomous, these snails are capable of stinging humans. Their shell size attains 53 mm.",
+    "Distribution": "This marine species of cone snail is found in the Atlantic Ocean off Northeastern Brazil.",
+    "References": "",
+    "External links": "To World Register of Marine Species\n\"Dauciconus jorioi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

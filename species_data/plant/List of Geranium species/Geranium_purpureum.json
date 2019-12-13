@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Geranium_purpureum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Geraniales"
+    },
+    {
+      "Family": "Geraniaceae"
+    },
+    {
+      "Genus": "Geranium"
+    },
+    {
+      "Species": "G. purpureum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Geranium purpureum, the little-robin, is a species of plant in the genus Geranium.",
+    "References": "\nEliáš, P. jr. 2011: Geranium purpureum Vill. – new alien species to the Slovak flora. Thaiszia journal of botany, 21: 21-28."
+  }
+}

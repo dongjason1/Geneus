@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Glen's_wattled_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Glauconycteris"
+    },
+    {
+      "Species": "G. gleni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Glen's wattled bat (Glauconycteris gleni) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Cameroon and Uganda.\nIts natural habitat is subtropical or tropical moist lowland forests.\nIt is threatened by habitat loss.\n\n\n== Sources =="
+  }
+}

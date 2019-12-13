@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_taraikensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. taraikensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix taraikensis is a species of willow native to Hokkaidō (Japan) and Sakhalin (Russia). It is a deciduous large shrub, reaching a height of 5 m."
+  }
+}

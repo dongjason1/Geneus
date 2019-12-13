@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_broad-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Platyrrhinus"
+    },
+    {
+      "Species": "P. vittatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater broad-nosed bat (Platyrrhinus vittatus) is a species of bat in the family Phyllostomidae. It is found in Bolivia, Colombia, Costa Rica, Ecuador, Panama, Peru, and Venezuela.\n\n\n== References =="
+  }
+}

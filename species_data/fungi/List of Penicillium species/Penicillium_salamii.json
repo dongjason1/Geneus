@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_salamii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. salamii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium salamii is a species of fungus in the genus Penicillium which occurs on dry-cured meat products.",
+    "Further reading": "Perrone, Giancarlo; Samson, Robert A.; Frisvad, Jens C.; Susca, Antonia; Gunde-Cimerman, Nina; Epifani, Filomena; Houbraken, Jos (2015). \"Penicillium salamii, a new species occurring during seasoning of dry-cured meat\". International Journal of Food Microbiology. 193: 91–8. doi:10.1016/j.ijfoodmicro.2014.10.023. PMID 25462928.\n\n\n== References =="
+  }
+}

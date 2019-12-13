@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_sinaiensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. sinaiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus sinaiensis is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail occurs in the Gulf of Aqaba.",
+    "References": "Petuch E.J. & Berschauer D.P. (2016). A new species of Miliariconus Tucker and Tenorio, 2009 (Conidae: Puncticulinae) from the northern Red Sea. The Festivus. 48(3): 183-187",
+    "External links": "\"Miliariconus sinaiensis\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

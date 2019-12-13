@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_iscoensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. iscoensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio iscoensis or Aetheolaena senecioides is a flowering plant in the aster family. It is found only in subtropical and tropical dry shrubland in Ecuador.\nIt is threatened by habitat loss.\nIt is known from three collections in the central and northern Andes. First recorded by Luis Sodiro, probably at the Hacienda Isco, it is also recorded from the foothills of Volcán Antisana and probably inside the reserve of the Antisana Ecological Reserve, \na privately owned reserve that preserves the native flora and fauna of the Northern Andean páramo.S. icoensis might be a synonym of S. antisanae.",
+    "Distribution": "Neotropic:\n\nWestern South America: Ecuador (Pichincha, Imbabura, Cotopaxi, Cañar)",
+    "References": "",
+    "Further reading": "Engelmann, W. (1901). Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie (29 ed.). Stuttgart [etc.] Schweizerbart [etc.] QK1.B55."
+  }
+}

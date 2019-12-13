@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_gilberti",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. gilberti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus gilberti is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell attains 30 mm.",
+    "Distribution": "This marine species of cone snail occurs off Madagascar",
+    "References": "Bozzetti L. (2012) Two new species of Conidae (Gastropoda: Prosobranchia) from Southern and South-Western Madagascar. Malacologia Mostra Mondiale 74: 4-6. [February 2012]\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "World Register of Marine Species\n\"Rolaniconus gilberti\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

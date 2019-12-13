@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fierce_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. dinops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The fierce roundleaf bat (Hipposideros dinops) is a species of bat in the family Hipposideridae. It is found in Indonesia, Papua New Guinea, and the Solomon Islands.\n\n\n== Sources =="
+  }
+}

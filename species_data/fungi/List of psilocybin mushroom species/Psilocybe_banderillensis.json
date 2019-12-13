@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_banderillensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hymenogastraceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. banderillensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe banderillensis is a species of psilocybin mushroom in the family Hymenogastraceae known from the states of Veracruz and Oaxaca in Mexico. It is in the Psilocybe fagicola complex with Psilocybe fagicola, Psilocybe oaxacana, Psilocybe columbiana, Psilocybe herrerae, Psilocybe keralensis, Psilocybe neoxalapensis, and Psilocybe teofiloi.",
+    "See also": "List of Psilocybe species\nList of psilocybin mushrooms\n\n\n== References =="
+  }
+}

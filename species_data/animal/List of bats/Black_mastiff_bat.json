@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black_mastiff_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Molossus"
+    },
+    {
+      "Species": "M. rufus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black mastiff bat (Molossus rufus) is a bat species. It ranges from the northern region of South America (excluding Chile), most of Central America (excluding Belize) and parts of southern Mexico.",
+    "Taxonomy": "The black mastiff bat was described as a new species in 1805 by French naturalist Étienne Geoffroy Saint-Hilaire. The holotype had been collected in Cayenne, French Guiana.",
+    "Description": "Males have a forearm length ranging from 48.5–54.0 mm (1.91–2.13 in) and females' forearm lengths are 47–53 mm (1.9–2.1 in). The fur of its back is usually shorter than 3.5 mm (0.14 in). Individuals weight 27–31 g (0.95–1.09 oz). It has a dental formula of 1.1.1.31.1.2.3 for a total of 26 teeth.",
+    "Range and habitat": "The black mastiff bat is a widespread species, occurring throughout much of Central and South America. Its range includes the following countries: Argentina, Belize, Bolivia, Brazil, Colombia, Costa Rica, Ecuador, El Salvador, French Guiana, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Trinidad and Tobago, and Uruguay. Its habitat includes forests and shrublands, with human structures used as roosts.",
+    "Conservation": "As of 2015, it is evaluated as a least-concern species by the IUCN. It meets the criteria for this classification because it has a wide geographic range; its population is presumably large; and it is unlikely to be experiencing rapid population decline. The species is known to be impacted by the parasite Hesperoctenes fumarius.\n\n\n== References =="
+  }
+}

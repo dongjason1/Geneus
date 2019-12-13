@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Golden_tanager",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Thraupidae"
+    },
+    {
+      "Genus": "Tangara"
+    },
+    {
+      "Species": "T. arthus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The golden tanager (Tangara arthus) is a species of bird in the family Thraupidae. It is widespread and often common in highland forests of the Andes (from Bolivia and northwards) and Venezuelan Coastal Range in north-western South America.\nIts plumage is overall golden-yellow with black to the back, wings, tail and ear-coverts. Some subspecies are partially/largely brown below.",
+    "References": "\n Media related to Tangara arthus at Wikimedia Commons"
+  }
+}

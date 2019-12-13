@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sody's_yellow_house_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Scotophilus"
+    },
+    {
+      "Species": "S. collinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sody's yellow house bat (Scotophilus collinus) is a species of vesper bat. It is native to Indonesia, Malaysia, and Timor-Leste. This species was described in 1936.\n\n\n== References =="
+  }
+}

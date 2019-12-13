@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_solaris",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. solaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula solaris is a species of fungus in the family Russulaceae. It is found in Europe.",
+    "See also": "\nList of Russula species\n\n\n== References =="
+  }
+}

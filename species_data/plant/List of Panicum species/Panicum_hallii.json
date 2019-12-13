@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Panicum_hallii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Panicum"
+    },
+    {
+      "Species": "P. hallii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Panicum hallii, commonly known as Hall's panicgrass, is a perennial bunch grass in the genus Panicum which is native to the south/southwestern regions of the United States, and into southern Mexico.\n\n\n== References =="
+  }
+}

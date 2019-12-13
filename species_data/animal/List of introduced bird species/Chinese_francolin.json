@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chinese_francolin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "Francolinus"
+    },
+    {
+      "Species": "F. pintadeanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chinese francolin (Francolinus pintadeanus) or Burmeese francolin is a species of game bird in the family Phasianidae.",
+    "Description": "On average, the length of the bird is 30–34 cm (12–13 in) and it weighs 280–400 g (9.9–14.1 oz). Females are slightly smaller than males.",
+    "Distribution and habitat": "This species is found in Cambodia, China, India, Laos, Myanmar, Philippines, Thailand, and Vietnam. Introduced to Mauritius, the Philippines, Madagascar, United States, Chile and Argentina. Its natural habitats are subtropical or tropical dry forest and subtropical or tropical moist lowland forest.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Coccothrinax_saxicola",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Arecales"
+    },
+    {
+      "Family": "Arecaceae"
+    },
+    {
+      "Genus": "Coccothrinax"
+    },
+    {
+      "Species": "C. saxicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Coccothrinax saxicola is a palm which is endemic to eastern Cuba.Henderson and colleagues (1995) considered C. saxicola to be a synonym of Coccothrinax miraguama.\n\n\n== References =="
+  }
+}

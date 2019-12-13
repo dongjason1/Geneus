@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Zealand_owlet-nightjar",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Caprimulgiformes"
+    },
+    {
+      "Family": "Aegothelidae"
+    },
+    {
+      "Genus": "Aegotheles"
+    },
+    {
+      "Species": "A. novazelandiae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The New Zealand owlet-nightjar (Aegotheles novazelandiae)  was a large species of owlet-nightjar (family Aegothelidae) formerly endemic to the islands of New Zealand. Fossil remains (which are common in the pellets of the extinct laughing owl) indicate the species was once widespread across both the North Island and the South Island. Despite a small number of reports of small owls being found in the 19th century that may have been New Zealand owlet-nightjars, the species is thought to have become extinct around 1200 AD.\nThe New Zealand owlet-nightjar was the largest species of owlet-nightjar, weighing an estimated 150–200 g. The species was also either flightless, as suggested by its small wings, or a very poor flier (the species has a strong keel). The diet probably consisted of invertebrates, as well as frogs and lizards.\nThe species rapidly became extinct after the introduction of Pacific rats to New Zealand. Their remains have never been found in association with Māori middens, and are unlikely to have been hunted due to their small size and nocturnal habits.",
+    "References": "\nWorthy, Trevor H., & Holdaway, Richard N. (2002) The Lost World of the Moa, Indiana University Press: Bloomington, ISBN 0-253-34034-9"
+  }
+}

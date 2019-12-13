@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_sichourensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Cyclobalanopsis"
+    },
+    {
+      "Species": "Q. sichourensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus sichourensis is a species of oak found only in Yunnan Province in China.\nQuercus sichourensis is an evergreen trees up to 20 m tall. Leaves are thick and leathery, elliptical or oblong, up to 21 cm long, bright green on the top but whitish on the underside.",
+    "References": "",
+    "External links": "line drawings, Flora of China Illustrations vol. 4, plate 378, figures 6-8 at left"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Spot-winged_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. rodopeplus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The spot-winged rosefinch (Carpodacus rodopeplus), also known as the spotted rosefinch, is a species of finch in the family Fringillidae.  It is found in India and Nepal. The Sharpe's rosefinch was formerly considered conspecific. Its natural habitat is subtropical or tropical high-altitude shrubland.",
+    "References": "\nRasmussen, P.C. 2005. Revised species limits and field identification of Asian rosefinches. BirdingAsia number 3: 18-27.\nRasmussen, P.C., and J.C. Anderton. 2005. Birds of South Asia. The Ripley guide. Volume 2: attributes and status. Smithsonian Institution and Lynx Edicions, Washington D.C. and Barcelona"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Smithers's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. smithersi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Smithers's horseshoe bat (Rhinolophus smithersi) is a species of horseshoe bat found in South Africa and Zimbabwe. It was described as a new species in 2012.",
+    "Taxonomy and etymology": "Smithers's horseshoe bat was described as a new species in 2012.\nIt was described as a result of a taxonomic split in the Hildebrandt's horseshoe bat (R. hildebrandtii).\nThe holotype—an adult female—was collected in October 2000 in the Gokwe region of Zimbabwe.\nIts species name \"smithersi\" was chosen to honor Reay Henry Noble Smithers, former Director of the National Museums of Zimbabwe.",
+    "Description": "This species can be differentiated from sympatric members of its genus by its high echolocation frequencies, small cranium, and wide nose-leaf.\nIts mean echolocation frequency is 40–46 kHz.\nThe forearm length of the holotype is 60.7 mm (2.39 in).\nIts nose-leaf is 10–14 mm (0.39–0.55 in) wide.\nThe sella has long hairs and narrows at its tip.\nThe lancet is relatively long and straight.\nThe fur of its back is grayish-brown, with individual hairs long.\nIts ventral surface is paler than its back.",
+    "Range and habitat": "This species is known from one individual in Zimbabwe and 19 sites in South Africa.\nDuring the day, it roosts in natural or man-made underground cavities.",
+    "Conservation": "It is currently evaluated as near threatened by the IUCN.\nIt meets the criteria for this designation because it has small colony sizes, its occurrence is scattered throughout the landscape, it is limited by roosting site availability, and its population size is thought to be small (perhaps fewer than 1,000 individuals).\nThe population in South Africa occurs in two biosphere reserves, Vhembe Biosphere Reserve and Waterberg Biosphere Reserve.\n\n\n== References =="
+  }
+}

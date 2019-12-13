@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ardops",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "ArdopsMiller, 1906"
+    },
+    {
+      "Species": "A. nichollsi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The tree bat (Ardops nichollsi) is a species of bat in the family Phyllostomidae. It is monotypic within the genus Ardops. It is found in Dominica, Guadeloupe, Martinique, Montserrat, Netherlands Antilles, Saint Lucia, Saba and Saint Vincent and the Grenadines.\n\n\n== References =="
+  }
+}

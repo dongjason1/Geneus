@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corymbia_serendipita",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Corymbia"
+    },
+    {
+      "Species": "C. serendipita"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corymbia serendipita is a member of the genus Corymbia native to Queensland.",
+    "See also": "List of Corymbia species\n\n\n== References =="
+  }
+}

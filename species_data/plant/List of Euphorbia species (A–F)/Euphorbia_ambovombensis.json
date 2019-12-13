@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Euphorbia_ambovombensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Euphorbiaceae"
+    },
+    {
+      "Genus": "Euphorbia"
+    },
+    {
+      "Species": "E. ambovombensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Euphorbia ambovombensis is a species of plant in the family Euphorbiaceae. It is endemic to Madagascar.  Its natural habitats are subtropical or tropical dry forests and subtropical or tropical dry shrubland. It is threatened by habitat loss.",
+    "References": "\nRauh, W. 1987. New and little known euphorbias from Madagascar Cact. Succ. J. (Los Angeles) 59(6): 251–255"
+  }
+}

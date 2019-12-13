@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_dendriticum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. dendriticum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium dendriticum is an anamorph species of the genus of Penicillium which produces Secalonic acid D and Secalonic acid F.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

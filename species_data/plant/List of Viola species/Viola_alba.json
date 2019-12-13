@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Viola_alba",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Violaceae"
+    },
+    {
+      "Genus": "Viola"
+    },
+    {
+      "Species": "V. alba"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Viola alba, commonly known as white violet, is a species of violet in the family Violaceae.",
+    "References": "Berichte der Bayerischen Botanischen Gesellschaft zur Erforschung der heimischen Flora 8:257. 1902"
+  }
+}

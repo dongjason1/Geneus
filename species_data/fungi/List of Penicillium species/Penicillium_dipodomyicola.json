@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_dipodomyicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. dipodomyicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium dipodomyicola is a species of the genus of Penicillium which produces peniphenone A, peniphenone B, peniphenone C, peniphenone D, cyclopiazonic acid and patulin.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

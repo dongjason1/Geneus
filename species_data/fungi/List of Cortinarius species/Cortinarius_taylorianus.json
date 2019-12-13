@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_taylorianus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Myxacium"
+    },
+    {
+      "Species": "C. taylorianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius taylorianus is a basidiomycete fungus of the genus Cortinarius native to New Zealand, where it grows under Nothofagus and produces an imposing purple mushroom. This species is named in honour of Grace Marie Taylor, a New Zealand fungi expert.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius taylorianus  in Index Fungorum"
+  }
+}

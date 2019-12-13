@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tropidophis_battersbyi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Tropidophiidae"
+    },
+    {
+      "Genus": "Tropidophis"
+    },
+    {
+      "Species": "T. battersbyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tropidophis battersbyi, or the Ecuadorian dwarf boa, is a species of snake in the family Tropidophiidae. The species is endemic to Ecuador.",
+    "Etymology": "The specific name, battersbyi, is in honor of British herpetologist James Clarence Battersby (1901–1993).",
+    "References": "",
+    "Further reading": "Laurent RF (1949). \"Note sur quelques reptiles appartenant à la collection de l'Institut royal des Sciences naturelles de Belgique. III. Formes américaines \". Bulletin de l'Institut royal des Sciences naturelles de Belgique 25 (9): 1-20. (Tropidophis battersbyi, new species, p. 6). (in French)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ecuadorian_sac-winged_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Balantiopteryx"
+    },
+    {
+      "Species": "B. infusca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ecuadorian sac-winged bat (Balantiopteryx infusca) is a species of sac-winged bat in the family Emballonuridae.\nIt is found in Colombia and Ecuador. According to the IUCN Red List of Threatened Species, the population trend is decreasing for this species, due to habitat destruction through deforestation. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.",
+    "Taxonomy": "Balantiopteryx infusca is the sister species of Balantiopteryx io.There are no subspecies.",
+    "Appearance": "It is larger than Balantiopteryx io, and smaller than Balantiopteryx plicata.  It lacks the white trim of Balantiopteryx plicata, and is darker in color.",
+    "Habitat/Behavior": "It is found in the mouth of caves, abandoned mines, and cracks in rock. It prefers to live where there is plenty of light.\nThese bats are sociable and live in colonies; they are also insectivorous.",
+    "Notes": "",
+    "References": "Arroyo-Cabrales, Joaquin, and J. Knox Jones, Jr. \"Balantiopteryx io and infusca.\" Mammalian Species 313 (1988): 1-3. <https://web.archive.org/web/20151019024828/http://www.science.smith.edu/msi/pdf/i0076-3519-313-01-0001.pdf>.\nChiroptera Specialist Group 1996.  Balantiopteryx infusca.   2006 IUCN Red List of Threatened Species.   Downloaded on 19 July 2007.\nDávalos, L. Burneo, S. & Lim, B. 2008. \"Balantiopteryx infusca.\" In: IUCN 2012. IUCN Red List of Threatened Species. Version 2012.2. Accessed 21 Nov. 2012. <http://oldredlist.iucnredlist.org/details/2531/0>.\nGardner, Alfred L. Mammals of South America. Chicago: University of Chicago, 2008. Print.\nNowak, Ronald M. Walker's Bats of the World. Baltimore: Johns Hopkins UP, 1994. Print.\nSimmons, N.B. (2005). \"Order Chiroptera\".  In Wilson, D.E.; Reeder, D.M (eds.). Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Johns Hopkins University Press. p. 314. ISBN 978-0-8018-8221-0. OCLC 62265494."
+  }
+}

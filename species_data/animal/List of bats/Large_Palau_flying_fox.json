@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large_Palau_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "†P. pilosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large Palau flying fox (Pteropus pilosus) is an extinct species of medium-sized megabats from the Palau Islands in Micronesia. It had brownish fur with long, silvery hairs on its belly, and a wingspan of about 60 cm. It probably became extinct around 1874, possibly due to overhunting. It is known from two specimens, one of which is in the Natural History Museum in London.",
+    "External source": "Flannery, Tim; Schouten, Peter (2001). A Gap in Nature: Discovering the World's Extinct Animals. Atlantic Monthly Press, New York. ISBN 978-0-87113-797-5.\n\n\n== References =="
+  }
+}

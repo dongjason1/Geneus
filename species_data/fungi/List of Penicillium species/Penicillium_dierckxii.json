@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_dierckxii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. dierckxii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium dierckxii is a species of the genus of Penicillium which produces citreoviridin and citrinin.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

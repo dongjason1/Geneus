@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southeastern_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. austroriparius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The southeastern myotis (Myotis austroriparius) is a small bat found throughout the Gulf Coastal Plain and the Lower Mississippi Alluvial Plain of the southeastern United States.",
+    "Description": "The southeastern myotis weighs 5–8 g. Its diet consists predominantly of insects. All species of the genus Myotis, including the southeastern bat, rest by day and forage at night. They often hunt and feed over water.  The feeding flights usually alternate with periods of rest, during which the bats hang to digest their catch. The southeastern bat has a wingspan of about 9-11 inches. Pelage varies from gray to bright orange-brown, with females generally being more brightly colored than the males.  Southeastern bats are unique among Myotis of the United States in the production of twins; all other Myotis females usually produce one baby.\nThis species is occasionally observed roosting with Rafinesque's big-eared bats.",
+    "Range": "The range of this species includes southern Illinois and Indiana in the north, westward into southeastern Oklahoma, western Tennessee and Arkansas, and northeastern Texas, and eastward to the southern part of North Carolina. Disjunct populations of this species occur in the Ohio River Valley of Kentucky, and the majority of the population lives in the northern half of the peninsula of Florida",
+    "Ecology": "Southeastern myotis are an important food source for barred owls, particularly in the nesting season.\nOne nesting barred owl pair produced 13 pellets that contained bat remains in a month period, containing the skulls of 37 southeastern myotis.\nSoutheastern myotis were less important as a food source outside of the nesting season.",
+    "References": "\nJones, C. and R. W. Manning.  1989.  Myotis austroriparius.  Mammalian Species 332:1–3.\nHarvey, M. J., J. S. Altenbach, and T. L. Best.  1999.  Bats of the United States.  Published by the Arkansas Game and Fish Commission in cooperation with the Asheville Field Office, U.S. Fish and Wildlife Service."
+  }
+}

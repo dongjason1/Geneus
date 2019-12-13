@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Wagner's_mustached_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Mormoopidae"
+    },
+    {
+      "Genus": "Pteronotus"
+    },
+    {
+      "Species": "P. personatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Wagner's mustached bat (Pteronotus personatus) is a bat species from South and Central America. It is one of the few New World bats species known to perform Doppler-shift compensation behavior.",
+    "Description": "Wagner's mustached bat is a relatively small bat, with a head-body length of 6 to 6.7 centimetres (2.4 to 2.6 in) and a tail 1.5 to 1.8 centimetres (0.59 to 0.71 in) long. There are two color phases, with some individuals having blackish-brown fur over the back and head with drab grey underparts, and others being clay-brown to reddish yellow with buff or cinnamon underparts. Individuals of both color phases can be found together in the same cave.The ears are long and pointed, with sharp serrations along the medial edges and a spatulate tragus including a shelf-like fold. The upper lip has a number of heavy bristles and surrounds the nose, with numerous folds and small projections along its edge. The snout is raised upwards, while the remainder of the skull is relatively flattened. The incisor teeth are reduced in size, but have a complex shape with two or three lobes.The wing membranes reach the ankles of the bat, which are also attached to a large uropatagium, with the short tail emerging near the middle of the upper surface. The wings are long and narrow, normally a feature that enables rapid flight. Because of the small size of Wagner's mustached bat, however, it does not fly as quickly as other related species with a similar wing shape; flight speeds between 10 and 19.6 km/h (6.2 and 12.2 mph) have been recorded.Females come into estrus once a year, and give birth to a single young near the beginning of the rainy season in June or July.",
+    "Distribution and habitat": "Wagner's mustached bat is found in tropical Mexico are far north as Sonora and Tamaulipas, and through the central and western parts of Central America. In South America, it is found along the southern coast of the Gulf of Mexico as far east as Suriname, and in a band running from the Pacific coast of Colombia though eastern Ecuador, central Peru, northern Bolivia and across central Brazil from Mato Grosso to the Atlantic coast.The bat inhabits forested environments, ranging from tropical rainforest to dry deciduous forest, at elevations of up to 1,000 metres (3,300 ft). They commonly hunt for insects along rivers, streams, or arroyos, often travelling along local canyons.There are two recognised subspecies:\n\nPteronotus personatus personatus – South America, Panama, Costa Rica, Nicaragua, eastern Honduras\nPteronotus personatus psilotis – western Honduras, El Salvador, Guatemala, Belize, MexicoFossils of Wagner's mustached bat have been found on Tobago, indicating that it may once have had a wider range than it has today. The fossils date from the late Pleistocene.",
+    "Classification": "The two subspecies were formerly considered to be separate species, and it has recently been argued that they should once again be raised to species status. P. p. psilotis is distinguished by being smaller and paler than P. p. personatus. Molecular phylogenetic studies have shown that Wagner's mustached bat does not have a common ancestor with the other members of its supposed subgenus, Chilonycteris, and should instead be assigned its own subgenus; as yet, no formal change to the classification has been made.",
+    "Behavior": "Wagner's Mustached Bat roosts in hot, humid, caves during the day, with colonies that commonly range from 100 to 10,000 individuals, although a few larger colonies are known. They prefer caves that maintain a steady temperature of between 30 and 36 °C (86 and 97 °F), and begins to suffer from hypothermia at ambient temperatures below 20 °C (68 °F). The roosts are commonly shared with numerous other species of bat, and the Wagner's mustached bats may account for only a small minority of the bats in any given cave.The bat echolocates using a rapid series of constant frequency pulses followed by longer frequency modulated sweeps, although contradictory estimates of ultrasonic frequency and range have been reported in different studies. It was one of only a few bat species to use Doppler-shift compensatory behavior. As the bat flies through the air, the frequency of returning echoes changes due to Doppler shifting; Wagner's mustached bat is capable of changing the frequency of its emitted ultrasonic pulses to compensate for this effect. This helps it navigate easily while flying at relatively high speed through dense forest foliage.",
+    "References": "",
+    "External links": "Pteronotus personatus in Laguna de Apoyo Nature Reserve, Nicaragua"
+  }
+}

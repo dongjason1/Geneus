@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Whiskered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. mystacinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The whiskered bat (Myotis mystacinus) and related species, are small European bats with long fur.  Although uncommon, M. mystacinus  is often found around human habitation and around water; it is similar to Brandt's bat Myotis brandtii, from which it was distinguished as a separate species only in 1970.",
+    "Overview": "The analysis of morphological, behavioural, and especially genetic characters have since identified further cryptic species of whiskered bats in the genus Myotis, including Myotis alcathoe (described in 2001 from Europe). Myotis aurascens and Myotis ikonnikovi are other similar species . Myotis hajastanicus was also included in M. mystacinus until recently, but it was differentiated on the base of morphologic comparison.",
+    "Echolocation": "The frequencies used by M. mystacinus for echolocation are 34–102 kHz, have most energy at 53 kHz, and have an average duration of 3.0 ms.",
+    "References": "",
+    "External links": "ARKive Stills, Video"
+  }
+}

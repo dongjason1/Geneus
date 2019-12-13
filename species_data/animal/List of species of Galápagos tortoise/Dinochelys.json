@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dinochelys",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Family": "†Pleurosternidae"
+    },
+    {
+      "Genus": "†DinochelysGaffney, 1979"
+    },
+    {
+      "Species": "†D. whitei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dinochelys (from Greek deinos -terrible- and chelys -turtle) is an extinct genus of paracryptodiran turtle from the Late Jurassic Morrison Formation.",
+    "See also": "\nPaleobiota of the Morrison Formation\n\n\n== References =="
+  }
+}

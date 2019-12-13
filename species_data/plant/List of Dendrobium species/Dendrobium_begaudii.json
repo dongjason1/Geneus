@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_begaudii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. begaudii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium begaudii is a species of orchid native to New Caledonia. It was first described by William Cavestro in 2001 under the name Diplocaulobium begaudii but was subsequently referred to the genus Dendrobium by Schuiteman & Adams.",
+    "References": "",
+    "External links": "World Checklist of Select Plant Families: Dendrobium begaudii (Cavestro) Schuit. & Peter B.Adams, Muelleria 29: 65 (2011).\nInternational Plant Names Index: Diplocaulobium begaudii Cavestro"
+  }
+}

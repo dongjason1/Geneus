@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Encyclia_cyperifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Encyclia"
+    },
+    {
+      "Species": "E. cyperifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Encyclia cyperifolia is a species of orchid found in South America.",
+    "References": "\n\n== External links =="
+  }
+}

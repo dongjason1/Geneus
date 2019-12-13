@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_gonsalensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. gonsalensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus gonsalensis is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell attains 11 mm.",
+    "Distribution": "This marine species occurs in the Atlantic Ocean off Maio Island, Cape Verde.",
+    "References": "Cossignani T. & Fiadeiro R. (2014). Cinque nuovi coni da Capo Verde. Malacologia Mostra Mondiale. 84: 21- 27 page(s): 25",
+    "External links": "World Register of Marine Species"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_caseifulvum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. caseifulvum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium caseifulvum is a fungus species of the genus of Penicillium which occurs on the surface of blue cheese and causes discoloration in form of brown spots.",
+    "Further reading": "Karl Esser; Paul A. Lemke; J. W. Bennett; Heinz D. Osiewacz (2002). Industrial Applications. Springer Science & Business Media. ISBN 3540415831.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

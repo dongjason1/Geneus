@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_nudiflora",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. nudiflora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea nudiflora  is shrub which is endemic to an area on the south coast of Western Australia.\nIt is variable in habit, ranging from prostrate to up to 2 metres in height. Its flowers mainly occur between mid-winter and late spring, but it can flower sporadically throughout the year. The flower colour is predominantly red or occasionally deep pink, with a blotch of yellow or grey.",
+    "References": "Flora of Australia Online Grevillea nudiflora\nFloraBase The West Australian Flora: Grevillea nudiflora"
+  }
+}

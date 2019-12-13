@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_astellatus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. astellatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus astellatus is a species of the genus of Aspergillus. It is from the Nidulantes section. Aspergillus astellatus produces Aflatoxin B1, Aflatoxin B2 and sterigmatocystin.",
+    "Growth and morphology": "A. astellatus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Leslie, John F.; Logrieco, Antonio, eds. (2014). Mycotoxin reduction in grain chaings. Stafford BC, Qld.: Wiley-Blackwell. ISBN 978-0-813-82083-5."
+  }
+}

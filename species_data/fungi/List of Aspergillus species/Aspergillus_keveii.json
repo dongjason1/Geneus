@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_keveii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. keveii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus keveii is a species of fungus in the genus Aspergillus which has been isolated from soil from Las Palmas in Spain. It is from the Usti section. It has been reported to produce drimans, ophiobolins G and H, and nidulol.",
+    "Growth and morphology": "A. keveii has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Houbraken, J.; Due, M.; Varga, J.; Meijer, M.; Frisvad, J.C.; Samson, R.A. (2007). \"Polyphasic taxonomy of Aspergillus section Usti\". Studies in Mycology. 59: 107–128. doi:10.3114/sim.2007.59.12. PMC 2275196. PMID 18490949."
+  }
+}

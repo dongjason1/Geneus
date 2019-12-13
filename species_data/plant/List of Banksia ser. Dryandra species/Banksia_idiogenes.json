@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_idiogenes",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. idiogenes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia idiogenes is a shrub endemic to Western Australia. It was known as Dryandra idiogenes until 2007.",
+    "Taxonomy": "Banksia idiogenes was first discovered by Alex George in 1986, and published by him in 1996 as Dryandra idiogenes, the specific epithet coming from the Greek idiogenes (\"distinctive, peculiar\"), in reference to this species' unusual involucrum, indumentum and the strongly scented red and white flowers. Indeed, George considered the species to be so distinctive that he placed it alone in a new series that he named Dryandra ser. Inusitatae, from the Latin inusitatus (\"rare, unusual\").Since 1998, Austin Mast has been publishing results of ongoing cladistic analyses of DNA sequence data for the subtribe Banksiinae. His analyses have provided compelling evidence of the paraphyly of Banksia with respect to Dryandra; that is, it seems that Dryandra arose from within the ranks of Banksia. Early in 2007, Mast and Kevin Thiele initiated a rearrangement of Banksia by sinking Dryandra into it as B. ser. Dryandra; Dryandra idiogenes thus became Banksia idiogenes. This transfer necessitated the setting aside of George's infrageneric arrangement of Dryandra; thus D. ser. Inusitatae is no longer current. Mast and Thiele have foreshadowed publishing a full arrangement once DNA sampling of Dryandra is complete.",
+    "References": "",
+    "External links": "\"Banksia idiogenes (A.S.George) A.R.Mast & K.R.Thiele\". FloraBase. Western Australian Government Department of Parks and Wildlife. \n\"Dryandra ser. Inusitatae A.S.George\". Flora of Australia Online. Department of the Environment and Heritage, Australian Government.\n\"Dryandra idiogenes A.S.George\". Flora of Australia Online. Department of the Environment and Heritage, Australian Government.\n\"Banksia idiogenes (A.S.George) A.R.Mast & K.R.Thiele\". Australian Plant Name Index (APNI), IBIS database. Centre for Plant Biodiversity Research, Australian Government."
+  }
+}

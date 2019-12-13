@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_poarum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniastraceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. poarum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia poarum,, the coltsfoot gall rust or meadow grass rust, is a plant pathogen. This fungal parasite forms a yellow to orange gall, 1–2 cm in diameter, on the underside of leaves of coltsfoot (Tussilago farfara). It also infects, but does not gall grasses of the family Poaceae. P. poarum is a genetically diverse species that has been reported on at least seventy plant hosts.",
+    "Characteristics": "On Tussilago farfara (coltsfoot), infection by P. poarum results in large, circular, yellow or orange-red spots that protrude from the undersides of the leaves,. The spots often have a purple margin and sometimes a central hole. On the lower leaf surface, 20-30 cup-shaped aecia of the fungus form on each gall. On the upper surface of the leaf, infection results in a yellow circle with no swelling. Spermogonia) may also be present. On T. farfara the rust is necrotrophic, obtaining nutrients from dead cells and tissues of the plant.",
+    "Characteristics-Identification": "Puccinia poarum may be confused with a different rust on T. farfara (coltsfoot), Coleosporium tussilaginis. Coleosporium tussilaginis usually appears later in the season, does not form galls or aecia, but instead forms diffuse uredinia with powdery orange spores on the lower leaf surface; it is less obvious on the upper leaf surface and lacks the purple margin and central hole characteristic of P. poarum.",
+    "Life-cycle": "Puccinia poarum completes its life cycle on two different plant hosts: It forms spermagonia and aecia on Tussilago farfara (coltsfoot), and uredinia and telia on the leaves of a grass in the family Poaceae. Its life cycle is similar to that of Puccinia striiformis. Peter Nielsen was the first to describe the heteroecious life-cycle of this fungus.",
+    "Distribution": "In the United Kingdom this rust is locally common and widely distributed. Northern hemisphere to South America.",
+    "See also": "List of Puccinia species",
+    "References": "Notes\nSourcesHancy, Rex (2000) The Study of Palnt Galls. The Norfolk and Norwich Naturalists' Society.\nRedfern, Margaret & Shirley, Peter (2002). British Plant Galls. Identification of galls on plants & fungi. AIDGAP. Shrewsbury : Field Studies Council. ISBN 1-85153-214-5.\nStubbs, F. B. Edit. (1986) Provisional Keys to British Plant Galls. Pub. Brit Plant Gall Soc. ISBN 0-9511582-0-1",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\nA Photofungi. Puccinia poarum"
+  }
+}

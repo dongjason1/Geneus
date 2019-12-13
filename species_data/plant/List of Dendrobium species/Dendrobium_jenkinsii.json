@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_jenkinsii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. jenkinsii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium jenkinsii, the Jenkins's dendrobium, is a species of orchid. It is native to southern China (Yunnan), the eastern Himalayas (Bhutan, Assam) and northern Indochina (Vietnam, Thailand, Laos, Myanmar).\n\n\n== References =="
+  }
+}

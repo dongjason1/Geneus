@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_saucatsensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. saucatsensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus saucatsensis is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell attains 36 mm.",
+    "Distribution": "This marine species is only known as a fossil from the Miocene found near Bordeaux, France.",
+    "References": "Cossmann (1896). Essais de Paleoconchologie Comparee 2 p. 148 ff\nPeyrot (1931). Conch. Neogen. L'Aquit.6 p. 39ff.,",
+    "External links": "Mayer-Eymar, C., 1891. Diagnoses Specierum Novarum. Naturforschenden Gesellschaft, Zurich. Vierteljahrschrift, 35 (Heft 3/4 ): 290 -301"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Red-billed_francolin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "Pternistis"
+    },
+    {
+      "Species": "P. adspersus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The red-billed spurfowl (Pternistis adspersus), also known as the red-billed francolin, is a species of bird in the family Phasianidae.  It is found in Southern Africa, including Angola, Botswana, Namibia, South Africa, Zambia, and Zimbabwe.\nThe species exhibits sexual dimorphism in size. Males are larger, measuring 38 cm (15 in) in length and weighing 340–635 g (12.0–22.4 oz), whereas females measure 33 cm (13 in) in length and weigh 340–549 g (12.0–19.4 oz). The species has barred underparts (in contrast to the related Natal spurfowl) and a conspicuous yellow eye-ring.",
+    "References": "Gill, F., Wright, M. & Donsker, D. (2009). IOC World Bird Names (version 2.0). Available at http://www.worldbirdnames.org/",
+    "External links": "(Red-billed spurfowl = ) red-billed francolin - Species text in The Atlas of Southern African Birds"
+  }
+}

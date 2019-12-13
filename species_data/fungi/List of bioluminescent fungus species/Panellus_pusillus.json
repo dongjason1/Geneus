@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Panellus_pusillus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Panellus"
+    },
+    {
+      "Species": "P. pusillus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Panellus pusillus is a species of fungus in the family Mycenaceae. A widely distributed species, it has been recorded in Australia, Asia, Europe, North America, and South America.",
+    "References": "",
+    "External links": "Panellus pusillus  in Index Fungorum"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hairy-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. ebenus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The hairy-tailed bat (Lasiurus ebenus), is a bat species originally known only from its type locality, Ilha do Cardoso State Park in Brazil. A second specimen was collected in 2018, in Carlos Botelho State Park, approximately 100 kilometers away. \n\n\n== References =="
+  }
+}

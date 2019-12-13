@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hygrophorus_nemoreus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hygrophoraceae"
+    },
+    {
+      "Genus": "Hygrophorus"
+    },
+    {
+      "Species": "H. nemoreus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hygrophorus nemoreus is an edible species of fungus in the genus Hygrophorus.",
+    "External links": "Hygrophorus nemoreus  in Index Fungorum"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Godman's_long-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Choeroniscus"
+    },
+    {
+      "Species": "C. godmani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Godman's long-tailed bat (Choeroniscus godmani) is a species of bat in the family Phyllostomidae. It is found in Colombia, Costa Rica, El Salvador, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Suriname, and Venezuela.\n\n\n== References =="
+  }
+}

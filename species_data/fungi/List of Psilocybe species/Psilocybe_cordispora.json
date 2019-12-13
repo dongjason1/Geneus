@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_cordispora",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. cordispora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe cordispora is a species of mushroom in the Strophariaceae family.",
+    "See also": "List of Psilocybin mushrooms\nPsilocybin mushrooms\nPsilocybe\n\n\n== References =="
+  }
+}

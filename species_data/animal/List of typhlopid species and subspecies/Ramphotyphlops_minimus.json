@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_minimus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Anilios"
+    },
+    {
+      "Species": "A. minimus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Groote dwarf blind snake (Anilios minimus) is a species of snake in the family Typhlopidae. It is endemic to the Northern Territory, Australia.\n\n\n== References =="
+  }
+}

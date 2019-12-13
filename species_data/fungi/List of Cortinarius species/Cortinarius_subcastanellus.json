@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_subcastanellus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. subcastanellus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius subcastanellus is a species of mushroom native to New Zealand. It was originally described in 1982 as Rozites castanella by mycologists Egon Horak and Grace Marie Taylor.",
+    "References": "",
+    "External links": "Cortinarius subcastanellus  in Index Fungorum"
+  }
+}

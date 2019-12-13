@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Orientornis_linxiaensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Struthioniformes"
+    },
+    {
+      "Family": "Struthionidae"
+    },
+    {
+      "Genus": "Struthio"
+    },
+    {
+      "Species": "S. linxiaensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Struthio linxiaensis is an extinct species of ratite from the Miocene of China.",
+    "Description": "Remains of a pelvis, including a synsacrum, were recovered from mudstone in the Linxia Basin, Guanghe County, Gansu Province, northwest China. Based on the size of these remains, it is believed to have been slightly larger than Struthio camelus. When this bird lived, the area is believed to have been either open grasslands or wetlands.",
+    "Footnotes": "",
+    "References": "Hou, L.; Zhou, Z.; Zhang, F.; Wang, Z. (Aug 2005). \"A Miocene ostrich fossil from Gansu Province, northwest China\". Chinese Science Bulletin. 50 (16): 1808–1810. Bibcode:2005ChSBu..50.1808H. doi:10.1360/982005-575. ISSN 1861-9541."
+  }
+}

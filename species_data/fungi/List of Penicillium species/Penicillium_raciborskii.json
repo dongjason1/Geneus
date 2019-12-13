@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_raciborskii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. raciborskii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium raciborskii is an anamorph species of fungus in the genus Penicillium which was isolated from soil in Poland .\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_vaombe",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. vaombe"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe vaombe is a species of aloe endemic to southern Madagascar. It is a succulent, evergreen plant with an unbranched stem up to 5 meters in height, and 20 cm in diameter.",
+    "References": "Rech. Fl. Mérid. Madagascar 96 1912.\nThe Plant List\nJSTOR\nEncyclopedia of Life\nUseful Tropical Plants"
+  }
+}

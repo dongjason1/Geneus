@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_caucasicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. caucasicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus caucasicus is a species of bolete fungus in the family Boletaceae. It was first described as a variety of Boletus luridus in 1947 by Rolf Singer, then as an independent species by Singer in 1966. The name change in the latter publication was invalid, so Carlo Luciano Alessio published the new combination validly in 1985.",
+    "See also": "List of Boletus species",
+    "References": "",
+    "External links": "Boletus caucasicus  in Index Fungorum"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Talaud_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Acerodon"
+    },
+    {
+      "Species": "A. humilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Talaud flying fox or Talaud fruit bat (Acerodon humilis) is a species of bat in the family Pteropodidae. It is endemic to the islands of Salebabu and Karekaleng in the Talaud Archipelago of Indonesia. Its natural habitat is subtropical or tropical swamps.",
+    "Threats": "[This species is l]isted as Endangered because its extent of occurrence is less than 5,000 km², its range is severely fragmented, and there is ongoing decline in the extent and quality of its habitat, and the number of individuals due to hunting also because of predators bum.\n\nThreats include hunting and habitat loss from logging.\n\n\n== Sources =="
+  }
+}

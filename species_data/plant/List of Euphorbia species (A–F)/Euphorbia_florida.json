@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Euphorbia_florida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Euphorbiaceae"
+    },
+    {
+      "Genus": "Euphorbia"
+    },
+    {
+      "Species": "E. florida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Euphorbia florida, the Chiricahua milk spurge or Chiricahua Mountain sandmat, is an annual plant in the spurge family (Euphorbiaceae) found in the Sonoran Desert of the mountains of southern Arizona and northwestern Mexico.\n\n\n== References =="
+  }
+}

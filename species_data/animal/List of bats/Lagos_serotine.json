@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lagos_serotine",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. platyops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Lagos serotine (Eptesicus platyops) is a species of vesper bat. It is found in Equatorial Guinea, Nigeria, and possibly Senegal.\n\n\n== References =="
+  }
+}

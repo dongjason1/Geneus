@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Anthony's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Hypsugo"
+    },
+    {
+      "Species": "H. anthonyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hypsugo anthonyi, also known as Anthony's pipistrelle, is a species of vesper bat. It is known from a single specimen, collected at Changyinku, Burma, at 7000 ft (2134 m) altitude. Its taxonomic status is doubtful; while currently classified in Hypsugo and previously in Pipistrellus, it may also belong to Nyctalus or Philetor. \nThe IUCN Red List lists the species as \"Data Deficient\" because so little is known about it.\n\n\n== References =="
+  }
+}

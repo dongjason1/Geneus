@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bogota_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. bogotensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bogotá yellow-shouldered bat (Sturnira bogotensis) is a species of bat in the family Phyllostomidae. It is found in Colombia, Ecuador, Peru, and Venezuela at altitudes from 300 m to above 2000 m, particularly in cloud forest. The species is primarily frugivorous; it may also consume nectar and pollen.",
+    "Taxonomy": "The Bogotá yellow-shouldered bat was first described in 1927 by American mammalogist H. Harold Shamel, who named it as a subspecies of the Little yellow-shouldered bat, Sturnira lilium bogotensis. The holotype had been collected in Bogotá, Colombia.Within its genus, it forms a clade (shares a common ancestor) with the following species: the hairy yellow-shouldered bat (S. erythromos), S. hondurensis, S. koopmanhilli, the highland yellow-shouldered bat (S. ludovici), the greater yellow-shouldered bat (S. magna), the Talamancan yellow-shouldered bat (S. mordax), Tschudi's yellow-shouldered bat (S. oporaphilum), S. perla, and Tilda's yellow-shouldered bat (S. tildae).",
+    "Description": "The Bogotá yellow-shouldered bat is considered medium sized for the genus Sturnira. It has a forearm length of 43–45.3 mm (1.69–1.78 in), though some consider that measurement inaccurate and suspect the true average is longer.",
+    "Range and habitat": "The Bogotá yellow-shouldered bat is native to South America where its range includes the following countries: Colombia, Ecuador, Peru, and Venezuela. While it has previously been listed as occurring in Bolivia and Argentina, those records were determined to be incorrect. It is found at relatively high elevation montane areas from 1,200–3,100 m (3,900–10,200 ft) above sea level.",
+    "Conservation": "As of 2018, it is evaluated as a least concern species by the IUCN. It meets the criteria for this classification due to its wide geographic range, presumably large population size, and the fact that it is unlikely to be experiencing rapid population decline. Its population trend is listed as stable.\n\n\n== References =="
+  }
+}

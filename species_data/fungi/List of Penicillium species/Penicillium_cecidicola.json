@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_cecidicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. cecidicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium cecidicola is a fungus species of the genus of Penicillium which produces pentacecilide A, pentacecilide B, pentacecilide C.",
+    "Further reading": "Penicillium cecidicola, a new species on cynipid insect galls on Quercuspacifica in the western United States",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

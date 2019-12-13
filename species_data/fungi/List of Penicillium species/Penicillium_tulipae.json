@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_tulipae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. tulipae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium tulipae is a species of fungus in the genus Penicillium which produces penicillic acid, roquefortine C, roquefortine D, terrestric acid, glandicoline A, glandicoline B, meleagrin, oxaline, penitrem A and epineoxaline.",
+    "Further reading": "Juan-Francisco Martín; Carlos Garcia-Estrada; Susanne Zeilinger (2014). Biosynthesis and Molecular Genetics of Fungal Secondary Metabolites. Springer. ISBN 1-4939-1191-0.\nOvery, David P.; Phipps, Richard K.; Frydenvang, Karla; Larsen, Thomas O. (2006). \"Epi-Neoxaline, a chemotaxonomic marker for Penicillium tulipae\". Biochemical Systematics and Ecology. 34 (4): 345. doi:10.1016/j.bse.2005.10.010.\nSeifert, K. A.; Samson, R. A.; Dewaard, J. R.; Houbraken, J.; Levesque, C. A.; Moncalvo, J.-M.; Louis-Seize, G.; Hebert, P. D. N. (2007). \"Prospects for fungus identification using CO1 DNA barcodes, with Penicillium as a test case\". Proceedings of the National Academy of Sciences. 104 (10): 3901. doi:10.1073/pnas.0611691104. PMC 1805696. PMID 17360450.\n\n\n== References =="
+  }
+}

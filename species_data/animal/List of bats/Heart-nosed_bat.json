@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Heart-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Megadermatidae"
+    },
+    {
+      "Genus": "CardiodermaPeters, 1873"
+    },
+    {
+      "Species": "C. cor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The heart-nosed bat (Cardioderma cor) is a species of bat in the family Megadermatidae. It is monotypic within the genus Cardioderma. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda. Its natural habitats are subtropical or tropical dry forests, subtropical or tropical dry shrubland, caves, and hot deserts.\n\n\n== References =="
+  }
+}

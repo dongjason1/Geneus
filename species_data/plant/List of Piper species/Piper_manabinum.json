@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_manabinum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. manabinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper manabinum is a species of plant in the family Piperaceae. It is endemic to Ecuador.",
+    "References": "Santiana, J. & Pitman, N. 2004.  Piper manabinum.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

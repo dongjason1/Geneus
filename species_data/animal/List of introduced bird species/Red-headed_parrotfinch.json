@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Red-headed_parrotfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Erythrura"
+    },
+    {
+      "Species": "E. cyaneovirens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The red-headed parrotfinch (Erythrura cyaneovirens) is a common species of estrildid finch found in the Samoan Islands. It has an estimated global extent of occurrence of 20,000 to 50,000 km2.\nIt is found in subtropical/tropical lowland moist forest.",
+    "References": "",
+    "External links": "Species factsheet - BirdLife International"
+  }
+}

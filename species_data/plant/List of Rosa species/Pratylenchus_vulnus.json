@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pratylenchus_vulnus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Nematoda"
+    },
+    {
+      "Class": "Secernentea"
+    },
+    {
+      "Subclass": "Diplogasteria"
+    },
+    {
+      "Order": "Tylenchida"
+    },
+    {
+      "Superfamily": "Tylenchoidea"
+    },
+    {
+      "Family": "Pratylenchidae"
+    },
+    {
+      "Subfamily": "Pratylenchinae"
+    },
+    {
+      "Genus": "Pratylenchus"
+    },
+    {
+      "Species": "P. vulnus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pratylenchus vulnus (Walnut meadow nematode, or Walnut root-lesion nematode) is a species of plant pathogenic nematodes infecting Persian walnut.\nIt is also known to infest potatoes, apricots, peaches and nectarines, holiday cacti, grape and citruses.",
+    "References": "",
+    "External links": "Nemaplex, University of California - Pratylenchus vulnus"
+  }
+}

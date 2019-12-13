@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/North_Island_snipe",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Charadriiformes"
+    },
+    {
+      "Family": "Scolopacidae"
+    },
+    {
+      "Genus": "Coenocorypha"
+    },
+    {
+      "Species": "C. barrierensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The North Island snipe (Coenocorypha barrierensis), also known as the little barrier snipe or tutukiwi, is an extinct species of bird in the sandpiper family, Scolopacidae, that was endemic to New Zealand.",
+    "Taxonomy and etymology": "Examination of the taxonomy of Coenocorypha snipe has been hindered by lack of material, erroneous locality data, misidentified specimens and confused nomenclature.  The North Island snipe was described in 1955 by Walter Oliver as a subspecies of the Subantarctic snipe (Coenocorypha aucklandica), but has since been elevated to a full species, with fossil material from the North Island referred to it.  The specific epithet and older common name refer to the type locality.",
+    "Distribution and extinction": "The North Island snipe is extinct.  Its prehistoric distribution comprised the North Island where subfossil remains have been found in several places.  It became extinct on the mainland of North Island following the occupation of New Zealand by Polynesians (the ancestors of the Māori people) and the associated introduction of Pacific rats (Rattus exulans).  It survived on at least one small island, Little Barrier Island in the Hauraki Gulf, until 1870 where the type (and only existing) specimen was taken.  According to Oliver, “About 1870 two snipe were seen on Little Barrier Island by Captain Bennett of the schooner Mary Ann.  One was captured alive but died in captivity, the other escaped.  The captured specimen was presented to the Auckland Museum by Mr T.B. Hill and is the basis of the following account.”",
+    "Description": "Oliver described the North Island snipe as being generally similar to other Coenocorypha snipes.  He added that it differed from the South Island snipe in the “greater area of buffy white on chin and throat, the absence of bars on the lower abdomen, the crescent-shaped markings on the upper abdomen and the less rufous general coloration”.",
+    "References": "",
+    "References-Notes": "",
+    "References-Sources": "Baker, Allan J.; Miskelly, Colin M. & Haddrath, Oliver (2009). \"Species limits and population differentiation in New Zealand snipes (Scolopacidae: Coenocorypha)\". Conservation Genetics. 11 (4): 1363–1374. doi:10.1007/s10592-009-9965-2.\nHiggins, P.J.; Davies, S.J.J.F., eds. (1996). Handbook of Australian, New Zealand and Antarctic Birds. Volume 3:Snipe to Pigeons. Melbourne: Oxford University Press. pp. 54–66. ISBN 0-19-553070-5.\nMiskelly, C.M. (1987). \"The identity of the Hakawai\" (PDF). Notornis. 34 (2): 95–116. Archived from the original (PDF) on 2009-03-25.\nOliver, W.R.B. (1955). New Zealand Birds. Wellington: Reed. p. 275. ISBN 0-589-00851-X.\nWorthy, Trevor H.; Miskelly, Colin M.; & Ching, Bob A. (R.). (2002). \"Taxonomy of North and South Island snipe (Aves: Scolopacidae: Coenocorypha), with analysis of a remarkable collection of snipe bones from Greymouth, New Zealand\". New Zealand Journal of Zoology. 29 (3): 231–244. doi:10.1080/03014223.2002.9518307."
+  }
+}

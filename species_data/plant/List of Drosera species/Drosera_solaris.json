@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_solaris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. solaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera solaris is a species of sundew native to the highlands of Guyana. It is thought to be most closely related to Drosera felix and Drosera kaieteurensis.\n\n\n== References =="
+  }
+}

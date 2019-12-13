@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Marasmius_amazonicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Marasmiaceae"
+    },
+    {
+      "Genus": "Marasmius"
+    },
+    {
+      "Species": "M. amazonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Marasmius amazonicus is a species of agaric fungus in the family Marasmiaceae. Described as new to science in 1904 by mycologist Paul Christoph Hennings, it is found in South America.",
+    "See also": "List of Marasmius species",
+    "References": "",
+    "External links": "Marasmius amazonicus  in Index Fungorum"
+  }
+}

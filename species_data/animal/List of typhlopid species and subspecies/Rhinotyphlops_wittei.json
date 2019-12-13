@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_wittei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. wittei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia wittei, also known as De Witte's gracile blind snake or Witte's beaked snake, is a species of snake in the family Typhlopidae. The species is endemic to Africa.",
+    "Etymology": "The specific name, wittei, is in honor of Belgian herpetologist Gaston-François de Witte.",
+    "References": "",
+    "Further reading": "Roux-Estève, Rolande (1974). \"Révision systématique des Typhlopidae d'Afrique. Reptilia. Serpentes \". Mémoires du Muséum national d'histoire naturelle, Paris, Séries A, 87: 1–313. (Rhinotyphlops wittei, new species, p. 239). (in French)."
+  }
+}

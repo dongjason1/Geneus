@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Kenyan_big-eared_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Tadarida"
+    },
+    {
+      "Species": "T. lobata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Kenyan big-eared free-tailed bat (Tadarida lobata) is a species of bat in the family Molossidae. It is found in Kenya and Zimbabwe. Its natural habitat is dry savanna.\n\n\n== References =="
+  }
+}

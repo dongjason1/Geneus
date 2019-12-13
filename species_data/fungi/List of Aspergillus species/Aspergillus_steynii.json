@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_steynii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. steynii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus steynii is a species of fungus in the genus Aspergillus. It is from the Circumdati section. The species was first described in 2004. It has been shown to produce Ochratoxin A.The genome of A. steynii was sequenced as a part of the Aspergillus whole-genome sequencing project - a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 37.85 Mbp.\n\n\n== References =="
+  }
+}

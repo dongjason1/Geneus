@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_myrtilliphilus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Phlegmacium"
+    },
+    {
+      "Species": "C. myrtilliphilus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius myrtilliphilus is a species of fungus in the large mushroom genus Cortinarius (subgenus Phlegmacium). Known only from Norway and Finland, the fungus was described as new to science in 2014. The specific epithet myrtilliphilus alludes to the association with Vaccinium myrtillus plants.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius myrtilliphilus  in Index Fungorum"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_bracarensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Subphylum": "Saccharomycotina"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. bracarensisLachance et al. 1999"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida bracarensis is an anamorphic yeast species with type strain 153MT (=CBS 10154T =NCYC D3853T =CECT 12000T).",
+    "References": "",
+    "Further reading": "Warren, T. A.; McTaggart, L.; Richardson, S. E.; Zhang, S. X. (2010). \"Candida bracarensis Bloodstream Infection in an Immunocompromised Patient\". Journal of Clinical Microbiology. 48 (12): 4677–4679. doi:10.1128/JCM.01447-10. ISSN 0095-1137. PMC 3008444. PMID 20881164.\nLockhart, S. R.; Messer, S. A.; Gherna, M.; Bishop, J. A.; Merz, W. G.; Pfaller, M. A.; Diekema, D. J. (2009). \"Identification of Candida nivariensis and Candida bracarensis in a Large Global Collection of Candida glabrata Isolates: Comparison to the Literature\". Journal of Clinical Microbiology. 47 (4): 1216–7. doi:10.1128/JCM.02315-08. PMC 2668319. PMID 19193845.\nBishop, J. A.; Chase, N.; Magill, S. S.; Kurtzman, C. P.; Fiandaca, M. J.; Merz, W. G. (2007). \"Candida bracarensis Detected among Isolates of Candida glabrata by Peptide Nucleic Acid Fluorescence In Situ Hybridization: Susceptibility Data and Documentation of Presumed Infection\". Journal of Clinical Microbiology. 46 (2): 443–6. doi:10.1128/JCM.01986-07. PMC 2238114. PMID 18077641.\nCuenca-Estrella, M.; Gomez-Lopez, A.; Isla, G.; Rodriguez, D.; Almirante, B.; Pahissa, A.; Rodriguez-Tudela, J. L. (2011). \"Prevalence of Candida bracarensis and Candida nivariensisin a Spanish collection of yeasts: comparison of results from a reference centre and from a population-based surveillance study of candidemia\". Medical Mycology. 49 (5): 1–5. doi:10.3109/13693786.2010.546373. PMID 21198347.\nEsposto, M. C.; Prigitano, A.; Romeo, O.; Criseo, G.; Trovato, L.; Tullio, V.; Fadda, M. E.; Tortorano, A. M. (2013). \"Looking for Candida nivariensis and C. bracarensis among a large Italian collection of C. glabrataisolates: results of the FIMUA working group\". Mycoses. 56 (3): 394–6. doi:10.1111/myc.12026. PMID 23170902."
+  }
+}

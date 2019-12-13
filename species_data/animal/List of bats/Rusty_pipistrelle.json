@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rusty_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. rusticus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The rusty pipistrelle (Pipistrellus rusticus) is a species of vesper bat. It is found in Angola, Botswana, Burkina Faso, Central African Republic, Chad, Ethiopia, Ghana, Kenya, Malawi, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. Its natural habitats are dry and moist savanna. It is of note as perhaps Africa's smallest bat, at average weight of 3.5 g (0.12 oz).\n\n\n== References =="
+  }
+}

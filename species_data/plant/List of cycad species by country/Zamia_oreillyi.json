@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zamia_oreillyi",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Zamia"
+    },
+    {
+      "Species": "Z. oreillyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Zamia oreillyi is a species of cycad in the family Zamiaceae endemic to Honduras. It occurs in a single location in Atlántida Department, Honduras near Hacienda Agua Caliente, which is about 2 km southwest of Jutiapa.",
+    "References": "Whitelock, Loran M. 2002. The Cycads. Portland: Timber Press. ISBN 0-88192-522-5",
+    "External links": " Data related to Zamia oreillyi at Wikispecies"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_octotriginta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. octotriginta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia octotriginta is a shrub endemic to Western Australia.\nAn assessment of the potential impact of climate change on this species found that it was likely to be driven to extinction by loss of habitat by 2080, even under mild climate change scenarios.",
+    "References": "\"Banksia octotriginta\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

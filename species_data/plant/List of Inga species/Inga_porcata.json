@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_porcata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. porcata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga porcata is a species of legume in the family Fabaceae.\nIt is found only in Peru.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Inga porcata\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38235A10107196. doi:10.2305/IUCN.UK.1998.RLTS.T38235A10107196.en. Retrieved 16 December 2017."
+  }
+}

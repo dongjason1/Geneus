@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_affinis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. affinis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria affinis is a species of agaric fungus in the family Physalacriaceae. This species is found in Central America.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

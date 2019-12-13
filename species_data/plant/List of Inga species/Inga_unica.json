@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_unica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. unica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga unica is a species of legume in the family Fabaceae. It is found only in Brazil.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Inga unica\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38245A10107656. doi:10.2305/IUCN.UK.1998.RLTS.T38245A10107656.en. Retrieved 16 December 2017."
+  }
+}

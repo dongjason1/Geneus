@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Passiflora_cuspidifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Passifloraceae"
+    },
+    {
+      "Genus": "Passiflora"
+    },
+    {
+      "Species": "P. cuspidifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Passiflora cuspidifolia is a species of passion fruit."
+  }
+}

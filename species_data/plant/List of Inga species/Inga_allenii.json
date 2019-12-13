@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_allenii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. allenii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga allenii is a species of legume in the family Fabaceae.\nIt is found in Colombia, Costa Rica, and Panama.\nIt is threatened by habitat loss.",
+    "References": "Mitré, M. (1998). \"Inga allenii\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T32659A9721749. doi:10.2305/IUCN.UK.1998.RLTS.T32659A9721749.en. Retrieved 19 December 2017."
+  }
+}

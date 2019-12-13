@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lophostoma_occidentalis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lophostoma"
+    },
+    {
+      "Species": "L. occidentalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The western round-eared bat (Lophostoma occidentalis) is a bat species found only on the Pacific coast of northwestern Ecuador.",
+    "Taxonomy and etymology": "It was described as a new subspecies of the white-throated round-eared bat in 1978 by Davis and Carter.\nAs the white-throated round-eared bat was in the genus Tonatia at the time, the western round-eared bat had a trinomen of Tonatia silvicola occidentalis.\nIn 2011, it was recognized as a full species.\nIn the same publication, it was established that Lophostoma aequatorialis was a junior synonym of L. occidentalis.\nIts species name \"occidentalis\" is Latin for \"western.\"",
+    "Description": "Its forearm length is 51.2–56.8 mm (2.02–2.24 in).\nIts dorsal fur is long and dark brown, while the fur around its throat is whitish.\nIt has white or pale gray patches of fur behind its ears.",
+    "Range and habitat": "It is found in South America, where its range includes Colombia, Ecuador, and Peru.\nIt has been documented at elevations of 300–979 m (984–3,212 ft).",
+    "Conservation": "As of 2016, it is evaluated as a near-threatened species by the IUCN.\nIt meets the criteria for this classification because its habitat, particularly that in western Ecuador, is being rapidly degraded and destroyed.\nIts population has likely declined by 20-25% in the last three generations due to habitat destruction.",
+    "References": "",
+    "External links": "Image of an adult female from Velazco & Cadenillas 2011"
+  }
+}

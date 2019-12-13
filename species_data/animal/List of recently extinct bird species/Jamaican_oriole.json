@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Jamaican_oriole",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Icteridae"
+    },
+    {
+      "Genus": "Icterus"
+    },
+    {
+      "Species": "I. leucopteryx"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Jamaican Oriole (Icterus leucopteryx) is a species of bird in the family Icteridae. It is found in Jamaica and on the Colombian island of San Andrés. It formerly occurred on Grand Cayman in the Cayman Islands but is now extinct there. The species is more closely related to the orioles of the North American mainland, such as the Baltimore oriole (Icterus galbula), and the orange oriole (Icterus auratus) rather than other Caribbean members of the genus. Its natural habitats are subtropical or tropical moist lowland forests, subtropical or tropical moist montane forests, and heavily degraded former forest.\n\n\n== References =="
+  }
+}

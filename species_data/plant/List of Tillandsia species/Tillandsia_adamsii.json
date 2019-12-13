@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_adamsii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Species": "T. adamsii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia adamsii is a species in the genus Tillandsia. This species is native to Jamaica.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_marxi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Ramphotyphlops"
+    },
+    {
+      "Species": "R. marxi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Marx's worm snake (Ramphotyphlops marxi ) is a species of snake in the family Typhlopidae. The species is endemic to the Philippines.",
+    "Etymology": "The specific name, marxi, is in honor of American herpetologist Hymen Marx.",
+    "Geographic range": "R. marxi is known only from Samar island in the central Philippines.",
+    "Reproduction": "R. marxi is oviparous.",
+    "References": "",
+    "Further reading": "Wallach V (1993). \"A New Species of Blind Snake, Typhlops marxi, from the Philippines (Serpentes: Typhlopidae)\". Raffles Bull. Zool. 41 (2): 263-278."
+  }
+}

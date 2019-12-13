@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rufous_trident_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Triaenops"
+    },
+    {
+      "Species": "T. persicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The rufous trident bat, Persian trident bat, or triple nose-leaf bat (Triaenops persicus) is a species of bat in the genus Triaenops. It occurs in southwestern Pakistan, southern Iran, the United Arab Emirates, Oman, and Yemen. In the last country, it occurs together with the much smaller Triaenops parvus. Populations from Madagascar and mainland Africa have also been assigned to T. persicus, but are referable to the species Triaenops menamena and Triaenops afer, respectively. Madagascar populations have also been referred to as Triaenops rufus, but this name is a synonym of T. persicus.\n\n\n== References =="
+  }
+}

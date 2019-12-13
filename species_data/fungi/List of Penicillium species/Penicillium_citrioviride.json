@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_citrioviride",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. citrioviride"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium citrioviride is a fungus species of the genus of Penicillium which produces neurotoxic citrioviridin.",
+    "Further reading": "Kasulke, U.; Philipp, B.; Polter, E. (1987). \"Zur Wechselwirkung zwischen einer Penicillium-Cellulase und wasserlöslichen Cellulosederivaten\". Acta Biotechnologica. 7 (2): 147. doi:10.1002/abio.370070211.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

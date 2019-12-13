@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_hamosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. prolifera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera prolifera is a species of orchid.\nIt is native to the Atlantic Forest ecoregion in southeastern Brazil.",
+    "References": "\n\n== External links =="
+  }
+}

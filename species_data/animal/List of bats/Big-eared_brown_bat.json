@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Big-eared_brown_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Histiotus"
+    },
+    {
+      "Species": "H. macrotus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The big-eared brown bat (Histiotus macrotus) is a species of vesper bat found in Argentina, Paraguay, and Chile.",
+    "Taxonomy": "It was described as a new species in 1835 by German zoologist Eduard Friedrich Poeppig.\nPoeppig placed it in the genus Nycticeius, with a binomial of N. macrotus.\nBy 1875, it was published under its current name combination, Histiotus macrotus.",
+    "Description": "It has large ears that exceed 33 mm (1.3 in) in length.\nThe fur on its back is dark brown, while its belly fur is whitish.\nThe flight membranes and ears are the darkest parts of its body.",
+    "Range and habitat": "It is found in South America, where its range includes Argentina, Chile, and Paraguay.\nOne study published that the species was found in Peru, though the image of the specimen did not appear to show the big-eared brown bat.\nIt has been documented at a range of elevations from 240–3,600 m (790–11,810 ft) above sea level.",
+    "Conservation": "As of 2016, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this classification because it is adaptable to a variety of habitats; its population is presumably large; and it is unlikely to be experiencing rapid population decline.\n\n\n== References =="
+  }
+}

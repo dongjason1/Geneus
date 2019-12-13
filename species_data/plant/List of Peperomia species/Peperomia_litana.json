@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peperomia_litana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Peperomia"
+    },
+    {
+      "Species": "P. litana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peperomia litana is a species of plant in the family Piperaceae. It is endemic to Ecuador.",
+    "References": "\nSantiana, J. & Pitman, N. 2004.  Peperomia litana.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

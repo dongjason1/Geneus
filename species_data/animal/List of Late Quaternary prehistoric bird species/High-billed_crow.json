@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/High-billed_crow",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Corvidae"
+    },
+    {
+      "Genus": "Corvus"
+    },
+    {
+      "Species": "C. impluviatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The high-billed crow or deep-billed crow (Corvus impluviatus) was a species of large, raven-sized crow that was endemic to the island of Maui in the Hawaiian Islands. It was pushed to extinction due to the arrival of people and pests like rats.",
+    "References": "Olson, Storrs L.; James, Helen F. (1991). \"Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part II\". Passeriformes. Ornithological Monographs. 46: 1–88. hdl:10088/1746.\nMilberg, Per; Tyrberg, Tommy (1993). \"Naïve birds and noble savages. A review of man-caused prehistoric extinctions of island birds\". Ecography. 16 (3): 229–250. doi:10.1111/j.1600-0587.1993.tb00213.x.\nTenBruggencate, Jan (2007-08-07). \"Oahu sinkholes yield extinct birds\". The Honolulu Advertiser."
+  }
+}

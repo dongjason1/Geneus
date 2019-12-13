@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_sudanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. sudanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia sudanensis, also known as the Garamba gracile blind snake or Sudan baked snake, is a species of snake in the Typhlopidae family. It is endemic to Africa.",
+    "References": "",
+    "Further reading": "Schmidt, K.P. et al. 1923. Contributions to the herpetology of the Belgian Congo based on the collection of the American Museum Congo Expedition, 1909-1915: Part II.-Snakes. Bull. Amer. Mus. Nat. Hist. 49(1):1-146. (Typhlops sudanensis, pp. 51–53.)"
+  }
+}

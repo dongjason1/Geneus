@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Big-headed_Amazon_River_turtle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Pleurodira"
+    },
+    {
+      "Family": "Podocnemididae"
+    },
+    {
+      "Genus": "PeltocephalusA.M.C. Duméril & Bibron, 1835 [3]"
+    },
+    {
+      "Species": "P. dumerilianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The big-headed Amazon River turtle (Peltocephalus dumerilianus), also known as the big-headed sideneck, is a species of turtle in the family Podocnemididae. The species is monotypic within the genus Peltocephalus.",
+    "Etymology": "The specific name, dumerilianus, is in honor of French herpetologist André Marie Constant Duméril.",
+    "Geographic range": "P. dumerilianus is found in Brazil (Amazonas, Pará), Colombia, French Guiana, Venezuela, Ecuador, and possibly Peru.",
+    "References": "",
+    "Further reading": "Boulenger GA (1889). Catalogue of the Chelonians, Rhynchocephalians, and Crocodiles in the British Museum (Natural History). New Edition. London: Trustees of the British Museum (Natural History). (Taylor and Francis, printers). x + 311 pp. + Plates I-III. (Podocnemis tracaxa, p. 206).\nSchweigger [AF] (1812). \"Prodromus Monographia Cheloniorum \". Königsberger Archiv für Naturwissenschaft und Mathematik 1: 271-368, 406-458. (Emys dumeriliana, new species, p. 300). (in Latin)."
+  }
+}

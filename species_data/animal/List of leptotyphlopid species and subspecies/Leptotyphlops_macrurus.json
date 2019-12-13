@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_macrurus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Myriopholis"
+    },
+    {
+      "Species": "M. macrura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boulenger's blind snake (Myriopholis macrura) is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cuban_flightless_crane",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Gruidae"
+    },
+    {
+      "Genus": "Grus"
+    },
+    {
+      "Species": "†G. cubensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Cuban flightless crane (Grus cubensis) is a large, extinct species of crane that was endemic to the island of Cuba in the Caribbean.  The remains were found in Pleistocene deposits in Pinar del Rio.  Probably derived from an early invasion of sandhill cranes from North America, it differed from that species by, as well as larger size, having a proportionately broader bill, stockier legs, and with reduced wings and pectoral girdle indicating that it may have been flightless. Currently, the only extant Caribbean crane is the Cuban sandhill crane, Antigone canadensis nesiotes, an endangered subspecies of sandhill crane endemic to the country.\n\n\n== References =="
+  }
+}

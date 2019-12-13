@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nēnē-nui",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Anseriformes"
+    },
+    {
+      "Family": "Anatidae"
+    },
+    {
+      "Genus": "Branta"
+    },
+    {
+      "Species": "†B. hylobadistes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The nēnē-nui (Hawaiian: \"great nēnē\") or woodwalking goose (translation of Branta hylobadistes) is an extinct species of goose that once inhabited Maui and possibly (or closely related species) Kauaʻi, Oʻahu and perhaps Molokaʻi in the  Hawaiian Islands. It is known from a large number of subfossil bones (several thousand bones from many dozens of individuals) found in Holocene cave sediments.",
+    "Evolution": "The nēnē-nui (along with the endangered nēnē and the extinct giant Hawaii goose) evolved from the Canada goose which migrated to the islands near the start of the Holocene period, and adapted to the Pacific's tropical environment. This evolution is evidenced from both genetic similarities and outward appearances. An example of this is that Canada geese have black necks, whereas the surviving nēnē are similar in that they have the sides and front of their necks buff-colored with dark furrows [1]. Scientists have also concluded that the two major reasons for this evolution were the loss of migration as well as the change in habitat, which eventually led to the goose's change in wingspan and change in the depth of their skulls and bills.\nOf course, the appearance of the nēnē-nui in life is unknown, but it can be assumed to have been similar to its extant relative, as the Branta geese share most plumage characteristics. The chief differences to the nēnē were that it was usually about 5% larger, while the bones of the flight apparatus were reduced in length by about the same amount. There was, however, much variation in size of the wing bones and the bird itself; some small specimens had much reduced wings.\nAt the time of its extinction, the nēnē-nui was in an intermediary stage of the evolution towards flightlessness: the extensive material suggests that, in the same population, the entire span of individuals with diminished or marginal flight capacity to flightless individuals with markedly reduced wings had been present. Thus far, the nēnē-nui is the only species in which the process of becoming flightless is documented by actual paleontological evidence, rather than just the end result. It can be conjectured that the reproductive isolation between the nēnē-nui and the nēnē was not entirely complete, allowing for the introgression of nēnē alleles (the surviving species still is a strong flyer, but no longer capable of long-range migration) and sustaining the intermediate state for longer than usual.\nA single skeleton of a similar bird has been found on Kauaʻi, and many more on Oʻahu; the latter seem to be intermediate between the nēnē-nui and the nēnē. As the relationships of these forms have not been determined, they are not formally assigned to B. hylobadistes. No material of this species has been found on Molokaʻi; however, the locations where extinct bird bones have been found on that island are in the arid zone and hence it would be unlikely to expect bones of a waterfowl to turn up in such locations.",
+    "Extinction": "In a manner similar to that which occurred on other Pacific islands during the time (the Holocene period), the nēnē-nui (as well as most of its relatives and the local ducks, such as the Moa-nalo) became extinct soon after human settlement of the Hawaiian Islands.",
+    "References": "James, Helen F. & Olson, Storrs L. (1991): Descriptions of thirty-two new species of birds from the Hawaiian Islands: Part I. Non-passeriformes. AOU Ornithological Monographs 45: 42-47.\nPaxinos, Ellen E. et al. (2002): mtDNA from fossils reveals a radiation of Hawaiian geese recently derived from the Canada goose (Branta canadensis). PNAS 99 (3): 1399-1404 Free HTML/PDF fulltext.",
+    "External links": "National Geographic Article"
+  }
+}

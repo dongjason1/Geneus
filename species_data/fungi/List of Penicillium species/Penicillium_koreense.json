@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_koreense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. koreense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium koreense is a fungus species in the family Trichocomaceae. Described as new to science in 2014, it is found in Korean soils. It is classified in the section Lanata-Divaricata of the subgenus Aspergilloides, which consists largely of soil-inhabiting species. The type strain (KACC 47721) was isolated from a bamboo field in Goryeong County.\n\n\n== References =="
+  }
+}

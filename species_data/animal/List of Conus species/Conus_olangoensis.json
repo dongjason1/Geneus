@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_olangoensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. olangoensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus olangoensis is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.This snail is predatory and venomous and is capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail occurs off the Philippines.",
+    "References": "\nPoppe G.T. & Tagaro S.P. (2017). New Conidae from the central Philippines. Visaya. 4(6): 5-18. page(s): 9, pl. 4"
+  }
+}

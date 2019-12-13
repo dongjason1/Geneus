@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lord_Howe_thrush",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Turdidae"
+    },
+    {
+      "Genus": "Turdus"
+    },
+    {
+      "Species": "T. poliocephalus"
+    },
+    {
+      "Subspecies": "T. p. vinitinctus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Lord Howe thrush (Turdus poliocephalus vinitinctus), also known as vinous-tinted thrush or vinous-tinted blackbird, is an extinct subspecies of the island thrush (Turdus poliocephalus). It was endemic to Lord Howe Island, an Australian island in the Tasman Sea, where it was also called the doctor bird or ouzel by the islanders.\n\n \nIt had a length of 22.9 cm. The head was olive brown. The upperparts were chestnut brown. Wings and tail were dark brown. Throat and chin were dull brown with an olive tinge. The underparts were chestnut-coloured with a lavender tinge.\nIt was quite common in 1906 but its population began to diminish in 1913 due to disturbance by man, cats, dogs, goats and feral pigs. When the SS Makambo was shipwrecked on Lord Howe in June 1918 rats escaped from the vessel and overran the island. With other endemic bird species this ground-nesting bird became extinct within six years.\nMuseum specimens are on display in Leiden (Netherlands), Tring (United Kingdom), Berlin, New York, Washington and Sydney.",
+    "Notes": "",
+    "References": "Greenway, J. C. Extinct and Vanishing Birds of the World, 1967\nDay, D. The Doomsday Book of Animals, 1981\nLuther, D. Die ausgestorbenen Vögel der Welt, 1986",
+    "External links": "The Lord Howe island thrush in the Naturalis Museum, Leiden"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_tabacinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Xylariomycetidae"
+    },
+    {
+      "Order": "Xylariales"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Monographella"
+    },
+    {
+      "Species": "M. cucumerina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Monographella cucumerina is a fungal plant pathogen.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

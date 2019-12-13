@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_paniculata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Species": "C. paniculata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex paniculata, the greater tussock-sedge, is a species of flowering plant in the sedge family, Cyperaceae. It grows 1.5 metres (4 ft 11 in) high and can be found in most of Europe (including Britain), Northwest Asia and North America.",
+    "References": "\n\n== External links =="
+  }
+}

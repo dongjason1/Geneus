@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_caricae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Incertae sedis"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. caricae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta caricae is a fungal plant pathogen that causes dry rot on papaya.",
+    "References": "",
+    "See also": "List of Ascochyta species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

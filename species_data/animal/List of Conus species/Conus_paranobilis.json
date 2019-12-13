@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_paranobilis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. paranobilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus paranobilis is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.It is the type species of the extinct family Herndliconus Petuch & Drolshagen, 2015",
+    "Description": "",
+    "Distribution": "This marine species is only known as a fossil from the Okeechobean Sea (Pliocene, Pleistocene).",
+    "References": "Petuch E.J., Drolshagen M. & Herndl G. (2015). Cone shells of the Okeechobean Sea (Pliocene, Pleistocene). Harxheim: Conchbooks. 179 pp. page(s): 60",
+    "External links": "To World Register of Marine Species"
+  }
+}

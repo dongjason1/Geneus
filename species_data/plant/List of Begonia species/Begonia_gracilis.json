@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_gracilis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. gracilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia gracilis is a plant species in the family Begoniaceae. It is a small herb widespread in the mountains of Mexico, from Chihuahua to Chiapas, often growing in protected locations in shaded areas.\n\n\n== References =="
+  }
+}

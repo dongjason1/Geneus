@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Martinique_trembler",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Mimidae"
+    },
+    {
+      "Genus": "Cinclocerthia"
+    },
+    {
+      "Species": "C. gutturalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The grey trembler (Cinclocerthia gutturalis) is a songbird species in the family Mimidae. It is found only in Martinique and Saint Lucia, the Martinique trembler (C. g. gutturalis) on the former island, the Saint Lucia trembler (C. g. macrorhyncha) – which might be a distinct species – on the latter. \n\n \nIn 1898 a unique skin was discovered in the World Museum Liverpool. This specimen was obtained by Edward Smith-Stanley, 13th Earl of Derby from bird collector Jules Verreaux in 1850 and was on display in the Liverpool Museum since then. It was believed to be an extinct starling from the Mascarenes, described by Henry Ogg Forbes under the name Necropsar leguati and sketched by bird illustrator John Gerrard Keulemans. It was supposed to be a close relative of the Rodrigues starling. A vernacular name for this supposed species was \"white Mascarene starling\".\nHowever, in April 2000 ancient DNA analysis of that skin in the Smithsonian Institution led by Storrs Olson had shown that the Liverpool specimen was nothing more than a misidentified and mislabeled albinistic specimen of C. g. gutturalis.",
+    "Footnotes": "",
+    "References": "Raffaele, Herbert; Wiley, James; Garrido, Orlando; Keith, Allan & Raffaele, Janis (2003) Birds of the West Indies, Christopher Helm, London."
+  }
+}

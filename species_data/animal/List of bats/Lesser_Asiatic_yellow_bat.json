@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_Asiatic_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Scotophilus"
+    },
+    {
+      "Species": "S. kuhlii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser Asiatic yellow bat (Scotophilus kuhlii) is a species of vesper bat. It is found in Bangladesh, India, Indonesia, Malaysia, Pakistan, the Philippines, Sri Lanka, and Taiwan.",
+    "Description": "Head and body length is 7 cm. Forearm is 5 cm.\nScotophilus kuhlii is a uniform beige color above sometimes with a yellow tinge and its underparts very light brown to whitish. Its wing membrane is dark brown and its ears are pinkish brown. The fur of this speciesvery dense and short.",
+    "See also": "Bat adenovirus TJM\n\n\n== References =="
+  }
+}

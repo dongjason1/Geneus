@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Umboi_tube-nosed_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Nyctimene"
+    },
+    {
+      "Species": "N. vizcaccia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Umboi tube-nosed fruit bat (Nyctimene vizcaccia) is a species of megabat in the family Pteropodidae. It is found in Papua New Guinea and the Solomon Islands.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Echis_borkini",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Echis"
+    },
+    {
+      "Species": "E. borkini"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Echis borkini is a species of venomous viper.",
+    "Geographic range": "The snake is found in southwestern Saudi Arabia and western Yemen.\n\n\n== References =="
+  }
+}

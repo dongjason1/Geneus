@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Polemon_fulvicollis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Polemon"
+    },
+    {
+      "Species": "P. fulvicollis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Polemon fulvicollis, or the African snake-eater, is a species of venomous rear-fanged snake in the family Atractaspididae. It is endemic to Africa.",
+    "Geographic range": "It is found in Republic of the Congo, Democratic Republic of the Congo, Gabon and Uganda.",
+    "Subspecies": "Four subspecies are recognized including the nominate race.\n\nPolemon fulvicollis fulvicollis (Mocquard, 1887)\nPolemon fulvicollis gracilis (de Witte & Laurent, 1943)\nPolemon fulvicollis graueri (Sternfeld, 1908)\nPolemon fulvicollis laurenti (de Witte & Laurent, 1943)",
+    "References": "\nMocquard, F. 1887. Sur les Ophidiens rapportés du Congo par la Mission de Brazza. Bulletin de la Société philomatique de Paris (7)11:62-92. (Microsoma fulvicollis, p. 65.)\nde Witte, G.F. & R.F. Laurent. 1943. Contribution à la systématique des Boiginae du Congo Belge (Rept.). Rev. Zool. Bot. Afr. 37:157-189."
+  }
+}

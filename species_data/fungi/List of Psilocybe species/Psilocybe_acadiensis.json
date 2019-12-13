@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_acadiensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. cubensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe acadiensis is a dark-spored agaric mushroom first described by the American mycologist Alexander H. Smith in an article titled \"New and unusual dark-spored agarics from North America\", published in the Journal of the Mitchell Society in December 1946.",
+    "References": "\nSources"
+  }
+}

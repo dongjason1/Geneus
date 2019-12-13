@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Anser_djuktaiensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Anseriformes"
+    },
+    {
+      "Family": "Anatidae"
+    },
+    {
+      "Genus": "Anser"
+    },
+    {
+      "Species": "A. djuktaiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Anser djuktaiensis  is an extinct goose, similar to but larger than the extant greylag goose, the remains of which have been found in the Dyuktai Cave near the Dyuktai River in Yakutia, Russia.  The cave is dated from Upper Pleistocene to possibly Holocene in age.\n\n\n== References =="
+  }
+}

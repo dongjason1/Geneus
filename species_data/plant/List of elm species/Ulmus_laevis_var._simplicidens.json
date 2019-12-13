@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ulmus_laevis_var._simplicidens",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Ulmaceae"
+    },
+    {
+      "Genus": "Ulmus"
+    },
+    {
+      "Species": "U. laevis"
+    },
+    {
+      "Variety": "U. l. var. simplicidens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The European white elm Ulmus laevis var. simplicidens exists at the National Botanic Garden of Latvia in Salaspils; it was obtained from St. Petersburg, Russia, in 1964.",
+    "Description": "The tree was described by Egbert Wolf in 1924. The varietal epithet simplicidens translates as 'simple teeth'.",
+    "Accessions": "",
+    "Accessions-Europe": "National Botanic Garden of Latvia, Salaspils, Latvia. Acc. no. 18137\n\n\n== References =="
+  }
+}

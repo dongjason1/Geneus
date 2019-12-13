@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_capsulatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. capsulatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium capsulatum is an anamorph fungus species of the genus of Penicillium which was isolated from Panama.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

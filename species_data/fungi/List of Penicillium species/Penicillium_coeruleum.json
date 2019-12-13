@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_coeruleum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. coeruleum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium coeruleum is a fungus species of the genus of Penicillium.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

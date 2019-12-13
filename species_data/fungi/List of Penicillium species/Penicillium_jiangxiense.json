@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_jiangxiense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. jiangxiense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium jiangxiense is a species of the genus of Penicillium which was isolated in Jiangxi in China.",
+    "Further reading": "Xiao, J. H.; Fang, N; Liu, Z. L.; Chen, D. X. (2008). \"Investigation on antitumor mechanism of polysaccharide from medicinal fungus Penicillium jiangxiense\". Zhong Yao Cai. 31 (1): 71–6. PMID 18589753.\n\n\n== References =="
+  }
+}

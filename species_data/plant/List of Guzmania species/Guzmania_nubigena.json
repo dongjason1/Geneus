@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guzmania_nubigena",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Guzmania"
+    },
+    {
+      "Species": "G. nubigena"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Guzmania nubigena is a plant species in the genus Guzmania. This species is endemic to Venezuela.",
+    "References": "Checklist of Venezuelan Bromeliaceae with Notes on Species Distribution by State and Levels of Endemism retrieved 3 November 2009"
+  }
+}

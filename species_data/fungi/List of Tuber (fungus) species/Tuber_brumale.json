@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tuber_brumale",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Subdivision": "Pezizomycotina"
+    },
+    {
+      "Class": "Pezizomycetes"
+    },
+    {
+      "Order": "Pezizales"
+    },
+    {
+      "Family": "Tuberaceae"
+    },
+    {
+      "Genus": "Tuber"
+    },
+    {
+      "Species": "T. brumale"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tuber brumale, also known as Muscat truffle or Winter truffle, is a species of truffle native to Southern Europe. It is naturally present in the soils of many truffle orchards.",
+    "See also": "\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Minute_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Cynopterus"
+    },
+    {
+      "Species": "C. minutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The minute fruit bat (Cynopterus minutus) is a species of megabat within the family Pteropodidae. It is found in Sumatra, Java, Borneo and Sulawesi.\n\n\n== References =="
+  }
+}

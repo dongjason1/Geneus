@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_hirtifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. hirtifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus hirtifolia is a rare Mexican species of oak in the beech family. It has been found only in a small region in the northern part of the State of Puebla in east-central Mexico.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Encyclia_incumbens",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Encyclia"
+    },
+    {
+      "Species": "E. incumbens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Encyclia incumbens is a species of orchid."
+  }
+}

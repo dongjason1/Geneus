@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pygmaeconus_molaerivus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Pygmaeconus"
+    },
+    {
+      "Species": "P. molaerivus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pygmaeconus molaerivus is a species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.\n\n\n== References =="
+  }
+}

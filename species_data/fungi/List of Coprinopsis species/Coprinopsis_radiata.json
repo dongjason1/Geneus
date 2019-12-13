@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Coprinopsis_radiata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Psathyrellaceae"
+    },
+    {
+      "Genus": "Coprinopsis"
+    },
+    {
+      "Species": "C. radiata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Coprinopsis radiata (formerly Coprinus radiatus) is a coprophilous fungus that grows on herbivore dung. It is heterothallic.",
+    "Taxonomy": "Coprinopsis radiata was originally published in 1788 as Agaricus radiatus by English naturalist James Bolton. Samuel Frederick Gray transferred it to Coprinus in his 1821 work A Natural Arrangement of British Plants. In 2001, the genus Coprinus was reorganized and this species was moved to the newly created genus Coprinopsis.",
+    "Morphology": "After mating and dikaryotic fruiting, the initial fruit body (young) is narrow egg-shaped and white. The mature fruit body is bluish-grey.",
+    "Research": "Coprinopsis radiata has been used as a model organism to study basidiospore formation.",
+    "Research-Culture conditions": "Coprinopsis radiata is successfully cultured on horse dung at room temperature; under these conditions (with no control of external everyday light) the fungus can form a mushroom (mature fruit body).",
+    "Research-Basidiospore Activation": "Coprinopsis radiata produces basidiospores from its fruit body that, under proper conditions, will germinate. Spores are activated by specific chemicals or temperatures that may act synergistically. Chemically, those resembling heterocyclic, unsaturated rings with or without small side groups, such as furfural, activate spores. Salt also causes slight activation. In the study, only low concentrations of chemicals were needed for activation. In nature, it is postulated that the combination of the following can lead to activation of dormant spores: temperature from the animal, dung heat (active organisms produce heat) and furans found on the dung (basis of compounds like furfural).",
+    "See also": "List of Coprinopsis species",
+    "References": "",
+    "External links": "Coprinopsis radiata  in Index Fungorum\nNBN Gateway"
+  }
+}

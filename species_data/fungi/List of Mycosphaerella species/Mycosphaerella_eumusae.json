@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_eumusae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. eumusae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella eumusae is a fungal plant pathogen.",
+    "See also": "List of Mycosphaerella species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

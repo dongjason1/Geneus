@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Maupiti_monarch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Monarchidae"
+    },
+    {
+      "Genus": "Pomarea"
+    },
+    {
+      "Species": "P. maupitiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Maupiti monarch (Pomarea maupitiensis) was a species of bird in the family Monarchidae. It was endemic to the island of Maupiti in the Society Islands (French Polynesia). The Maupiti monarch became extinct shortly after the type specimen was collected in 1823 by the French Navy officer Jules de Blosseville. At the time of its collection, it was unknown to zoologists.",
+    "Taxonomy and systematics": "The Tahiti monarch was originally described in the genus Muscicapa. The Maupiti monarch was formerly considered conspecific with the Tahiti monarch until the species was split in 2012.",
+    "Notes": "",
+    "References": "Lee, Michael (2018). Navigators & Naturalists: French Exploration of New Zealand and the South Seas (1769–1824). Auckland, New Zealand: David Bateman. ISBN 978-1-86953-965-8."
+  }
+}

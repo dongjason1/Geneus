@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mitromorpha_micaria",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Pygmaeconus"
+    },
+    {
+      "Species": "P. micarius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pygmaeconus micarius is a species of sea snail, a marine gastropod mollusk in the family Conidae.",
+    "Description": "",
+    "Distribution": "",
+    "References": "Filmer R.M. (2001). A Catalogue of Nomenclature and Taxonomy in the Living Conidae 1758 - 1998. Backhuys Publishers, Leiden. 388pp.",
+    "External links": "Puillandre N. & Tenorio M.J. (2017). A question of rank: DNA sequences and radula characters reveal a new genus of cone snails (Gastropoda: Conidae). Journal of Molluscan Studies. 83(2): 200-210"
+  }
+}

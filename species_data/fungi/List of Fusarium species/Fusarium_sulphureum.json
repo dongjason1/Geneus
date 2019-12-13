@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_sulphureum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. sulphureum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium sulphureum is a fungal plant pathogen infecting maize and hemp.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

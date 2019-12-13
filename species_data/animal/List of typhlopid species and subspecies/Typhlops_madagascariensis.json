@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_madagascariensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Madatyphlops"
+    },
+    {
+      "Species": "M. madagascariensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Madagascar worm snake (Madatyphlops madagascariensis) is a species of snakes in the Typhlopidae family.\n\n\n== References =="
+  }
+}

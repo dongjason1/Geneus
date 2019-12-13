@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atractaspis_irregularis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Atractaspis"
+    },
+    {
+      "Species": "A. irregularis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Atractaspis irregularis, or the variable burrowing asp, is a species of venomous snake in the Atractaspididae family.",
+    "Geographic range": "It is endemic to Africa.",
+    "Description": "Atractaspis irregularis is completely dark brown or black.\nSnout very short, rounded. Portion of rostral visible from above measuring ⅔ to ¾ its distance from the frontal. Frontal as long as broad, much longer than its distance from the end of the snout. Dorsal scales in 25 or 27 rows. Ventrals 220-257; anal divided; subcaudals 22-28, divided.\nAdults may attain a total length of 56 cm (22 in), with a tail 3.5 cm (1 3⁄8 in) long.",
+    "References": "\nReinhardt, J.T. 1843. Beskrivelse af nogle nye Slangearter. Dansk. Vidensk. Selsk. Afhandl. Skrift. 10:233-279, pl. iii, figs. 1-3."
+  }
+}

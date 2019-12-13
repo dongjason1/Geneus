@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_tovelli",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Anilios"
+    },
+    {
+      "Species": "A. tovelli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Darwin blind snake (Anilios tovelli )  is a species of snake in the family Typhlopidae. The species is endemic to Australia.",
+    "Etymology": "The specific name, tovelli, is in honor of G. T. R. Tovell who collected the holotype while serving as a gunner in the Australian armed forces during World War II.",
+    "Geographic range": "In Australia, A. tovelli is found in the Northern Territory.",
+    "Reproduction": "A. tovelli is oviparous.",
+    "References": "",
+    "Further reading": "Hedges SB, Marion AB, Lipp KM, Marin J, Vidal N (2014). \"A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61. (Anilios tovelli, new combination).\nLoveridge A (1945). \"A New Blind Snake (Typhlops tovelli ) from Darwin, Australia\". Proc. Biol. Soc. Washington 58: 111-112. (Typhlops tovelli, new species).\nWallach V (2006). \"The nomenclatural status of Australian Ramphotyphlops (Serpentes: Typhlopidae)\". Bull. Maryland Herp. Soc. 42 (1): 8-24. (Austrotyphlops tovelli, new combination)."
+  }
+}

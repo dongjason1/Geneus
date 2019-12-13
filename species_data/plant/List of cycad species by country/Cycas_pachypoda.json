@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_pachypoda",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. pachypoda"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas pachypoda is a species of cycad endemic to Vietnam. It is found in Binh Thuan, Ninh Thuan, and possibly Dong Nai provinces, southern Vietnam.\n\n\n== References =="
+  }
+}

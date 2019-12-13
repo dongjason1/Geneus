@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peters's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Falsistrellus"
+    },
+    {
+      "Species": "F. petersi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Peters's pipistrelle (Falsistrellus petersi) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Indonesia, Malaysia, and the Philippines.\n\n\n== References =="
+  }
+}

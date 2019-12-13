@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zamia_cunaria",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Zamia"
+    },
+    {
+      "Species": "Z. cunaria"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Zamia cunaria is a species of plant in the family Zamiaceae. It is endemic to the Cuna Yale area of Comarca de San Blas Province, Panamá. It is common around Llan Cartis Road and Kuna Llala.",
+    "References": "\nphoto of herbarium specimen at Missouri Botanical Garden, isotype of Zamia cunaria"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_brasilianum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. brasilianum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium brasilianum is a fungus species of the genus of Penicillium. Penicillium brasilianum produces the compounds isoroquefortine C, griseofulvin, ergosterol peroxide, 3β-hydroxy-(22E,24R)-ergosta-5,8,22-trien-7-one, cerevisterol, (22E,24R)-6β-methoxyergosta-7,22-diene-3β,5α-diol.",
+    "Further reading": "",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

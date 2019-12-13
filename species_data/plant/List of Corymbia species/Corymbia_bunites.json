@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corymbia_bunites",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Corymbia"
+    },
+    {
+      "Species": "C. bunites"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corymbia bunites, commonly known as the Blackdown Yellowjacket, is a bloodwood native to the Queensland",
+    "See also": "List of Corymbia species\n\n\n== References =="
+  }
+}

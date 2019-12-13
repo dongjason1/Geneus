@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_cumingii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Ramphotyphlops"
+    },
+    {
+      "Species": "R. cumingii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cuming's blind snake (Ramphotyphlops cumingii) is a species of snake in the family Typhlopidae. The species is endemic to the Philippines.",
+    "Etymology": "The specific name, cumingii, is in honor of English conchologist and botanist Hugh Cuming.",
+    "Geographic range": "In the Philippines, it is found in Bohol, Marinduque, Mindanao, Negros, Panay, and Polillo.",
+    "References": "",
+    "Further reading": "Gray JE (1845). Catalogue of the Specimens of Lizards in the Collection of the British Museum. London: Trustees of the British Museum. (Edward Newman, printer). xxviii + 289 pp. (Onychophis cumingii, new species, p. 133)."
+  }
+}

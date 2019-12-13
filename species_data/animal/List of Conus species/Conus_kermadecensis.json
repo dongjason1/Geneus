@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_kermadecensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. kermadecensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus kermadecensis, common name the Kermadec cone, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 25 mm and 60 mm.",
+    "Distribution": "This marine species is endemic to New Zealand, occurring off the Kermadec Islands.",
+    "References": "Iredale, T. (1912). New generic names and new species of marine Mollusca. Proceedings of the Malacological Society of London. 10(3): 217-228, pl. 9 page(s): 227, pl. 9 figs 15-16\nTucker J.K. & Tenorio M.J. (2013) Illustrated catalog of the living cone shells. 517 pp. Wellington, Florida: MdM Publishing.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Calamiconus lischkeanus kermadecensis\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mangaia_crake",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "Porzana"
+    },
+    {
+      "Species": "P. rua"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mangaia crake (Porzana rua) is an extinct species of flightless bird in the rail family, Rallidae.",
+    "History": "The crake was described in 1986 from subfossil bones of late Holocene age found in caves on the island of Mangaia, in the southern Cook Islands of East Polynesia.  The cause of its extinction is ascribed to a combination of predation and habitat alteration following human settlement of the island and the introduction of exotic mammals.",
+    "See also": "List of birds of the Cook Islands\n\n\n== References =="
+  }
+}

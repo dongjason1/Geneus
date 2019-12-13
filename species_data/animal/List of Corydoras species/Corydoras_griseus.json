@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_griseus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. griseus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras griseus, the gray corydoras, is a small catfish of the corydoras genus. Its natural range is in the Brazilian Amazon region in small tributary streams.",
+    "Aquarium care": "This fish requires slightly alkaline water of about 25 °C (77 °F) with a sandy bottom and lots of hiding places. It needs regular live food feedings, though it will pick up and eat dried food off the bottom.",
+    "References": "\nExotic Tropical Fishes; by H. Axelrod, C. Emmens, W. Burgess, N. Pronek\nfishwise.co.za\nFroese, Rainer and Pauly, Daniel, eds. (2011). \"Corydoras griseus\" in FishBase. December 2011 version."
+  }
+}

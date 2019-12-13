@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_distigmatum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. distigmatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper distigmatum is a species of plant in the family Piperaceae. It is endemic to Panama.",
+    "References": "Mitré, M. 1998.  Piper distigmatum.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

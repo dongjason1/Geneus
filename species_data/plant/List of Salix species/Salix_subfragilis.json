@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salix_subfragilis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Salicaceae"
+    },
+    {
+      "Genus": "Salix"
+    },
+    {
+      "Species": "S. subfragilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salix subfragilis is a species of willow native to Japan, Korea, Russian Far East and northern China. It is a deciduous small tree or shrub, reaching a height of 3–10 m."
+  }
+}

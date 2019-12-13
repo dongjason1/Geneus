@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_sclerotioniger",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. sclerotioniger"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus sclerotioniger is a species of fungus in the genus Aspergillus. It belongs to the group of black Aspergilli which are important industrial workhorses. A. sclerotioniger belongs to the Nigri section. The species was first described in 2004. It has been found in green coffee beans from India. It is a very effective producer of ochratoxin A and ochratoxin B, and produces aurasperone B, pyranonigrin A, corymbiferan lactone-like exometabolites, and some cytochalasins. The genome of A. sclerotioniger was sequenced and published in 2014 as part of the Aspergillus whole-genome sequencing project – a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 36.72 Mbp.",
+    "Growth and morphology": "Aspergillus sclerotioniger has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

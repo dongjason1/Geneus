@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Burton's_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. burtonlimi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Burton's yellow-shouldered bat (Sturnira burtonlimi) is a species of leaf-nosed bat found in Panama and Costa Rica.",
+    "Taxonomy and etymology": "It was described as a new species in 2014.\nThe holotype had been collected in March 1995 by Burton K. Lim, who is the eponym for the species name \"burtonlimi.\"\nOf Lim, Velazco and Patterson wrote that he \"is a tireless fieldworker whose research has contributed much to our understanding of the diversity, relationships, and biogeography of tropical mammals.\"",
+    "Description": "Burton's yellow-shouldered bat is considered medium-sized for its genus, with a forearm length of approximately 44 mm (1.7 in).\nIndividuals weigh approximately 19 g (0.67 oz).\nThe fur on its back is dark brown, with individual hairs banded with four colors.\nThe first band, closest to the body, is pale gray.\nThe second is dark gray, the third is, again, pale gray, and the tip is dark brown.\nThe fur on its belly is also dark brown, though individual hairs are tricolored.\nIt has a dental formula of 2.1.2.32.1.2.3 for a total of 32 teeth.",
+    "Range and habitat": "This species was first documented 2 km (1.2 mi) north of Santa Clara, Panama.\nAn additional specimen was later reported from the Cartago Province of Costa Rica.\nIt has been documented at an elevation range of 1,290–1,500 m (4,230–4,920 ft) above sea level.\nAll specimens were collected from premontane forest near coffee plantations.",
+    "Conservation": "As of 2017, it is evaluated as a data deficient species by the IUCN.\nIt meets the criteria for this classification because there is a lack of available information on this species.\nThe extent of its geographic range and the size of its population are unknown.\n\n\n== References =="
+  }
+}

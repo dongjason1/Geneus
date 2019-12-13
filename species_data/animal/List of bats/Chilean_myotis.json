@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chilean_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. chiloensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chilean myotis (Myotis chiloensis) is a species of vesper bat found in southern South America.",
+    "Description": "The Chilean myotis is a small bat, measuring only 7 to 9 cm (2.8 to 3.5 in) in total length, including the tail, and weighing about 7 g (0.25 oz). The colour of their fur varies with latitude, from pale ochraceous in the north to coffee-brown in the south. They have a wing aspect ratio of 5.8, suggesting that they are slow, but highly manoeuvrable, in flight. The tail is entirely enclosed within the uropatagium.",
+    "Distribution and habitat": "Apart from the southern big-eared brown bat, which lives in the same general locality, the Chilean myotis lives further south than any other bat species in the world. The species lives primarily in Chile, south of about 30°S, but is also found in the westernmost regions of the Argentinian provinces of Neuquén, Río Negro, and Chubut. At the extreme southern end of its range, it is found across Tierra del Fuego, in both the Chilean and Argentinian parts of the island. Over this wide area, it ranges from the semi-arid Chilean Matorral in the north to temperate and evergreen forests in the south.There are no currently recognised subspecies, although the montane and Atacama myotises, which live further north in western South America, and are now considered species in their own right, were formerly considered to be subspecies of M. chiloensis.",
+    "Biology and behaviour": "Chilean myotises roost in holes in trees, rock crevices, caves, and artificial structures such as attic spaces. They emerge at dusk, and feed for about three hours before returning home to roost; unlike most other bats they do not feed again later in the night. Because of their small size and low metabolic rate, the bats often enter a daily period of torpor during which their body temperature falls to just 0.5 °C above ambient.They feed on flies that they capture on the wing, particularly including nematocerans such as crane flies. Their echolocation calls consist of a downward frequency modulated segment followed by a narrowband component at a relatively constant frequency. Search calls sweep down from 89 to 39 kHz, and are emitted at intervals of about 95 milliseconds. Females give birth to a single young at the beginning of summer.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cuban_grassquit",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Thraupidae"
+    },
+    {
+      "Genus": "Tiaris"
+    },
+    {
+      "Species": "T. canorus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Cuban grassquit (Tiaris canorus) is a small bird. It is recognized as a tanager closely related to Darwin's finches. It is found in Bahamas, Cuba, and Turks and Caicos Islands.\nIts natural habitats are subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, subtropical or tropical dry shrubland, and heavily degraded former forest.\n\n\n== References =="
+  }
+}

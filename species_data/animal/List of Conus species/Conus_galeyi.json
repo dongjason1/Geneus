@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_galeyi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. galeyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus galeyi is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.This snail is predatory and venomous and is capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail occurs off Madagascar.",
+    "References": "\nMonnier E., Tenorio M.J., Bouchet P. & Puillandre N. (2018). The cones (Gastropoda) from Madagascar “Deep South”: composition, endemism and new taxa. Xenophora Taxonomy. 19: 25-75. page(s): 49, pl. 13 figs 1-8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zamia_boliviana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Zamia"
+    },
+    {
+      "Species": "Z. boliviana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Zamia boliviana is a species of plant in the family Zamiaceae. It is endemic to Bolivia and Mato Grosso, Brazil.",
+    "Range": "Beni Department: El Porvenir, Trinidad, and Lake Rogoaguado\nCochabamba Department: Campero\nSanta Cruz Department: Huanchaca, San Matias, Porongo, Nuflo de Chavez, Velasco, and San Ignacio\nMato Grosso, Brazil\n\n\n== References =="
+  }
+}

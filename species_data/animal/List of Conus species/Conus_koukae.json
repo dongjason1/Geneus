@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_koukae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. koukae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus koukae is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 35 mm and 47 mm.",
+    "Distribution": "This marine species occurs off Masirah and Muscat, Oman",
+    "References": "Puillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23\nMonnier E., Limpalaër L. & Robin A., 2013. Revision of the Pionoconus achatinus complex. Description of three new species: P. koukae n. sp. from Oman, P. arafurensis n. sp. from Northern Australia and P. rouxi n. sp. from Western Australia. Xenophora Taxonomy 1: 3--40",
+    "External links": "To World Register of Marine Species\n\"Pionoconus koukae\". Gastropods.com. Retrieved 16 January 2019.\nHolotype in MNHN, Paris"
+  }
+}

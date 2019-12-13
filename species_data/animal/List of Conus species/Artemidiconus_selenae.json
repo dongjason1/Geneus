@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Artemidiconus_selenae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conorbidae"
+    },
+    {
+      "Genus": "Artemidiconus"
+    },
+    {
+      "Species": "A. selenae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Artemidiconus selenae is a species of sea snail, a marine gastropod mollusk in the family Conorbidae.These snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The maximum recorded shell length is 19 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean off Northern Brazil.",
+    "Habitat": "Minimum recorded depth is 18 m. Maximum recorded depth is 135 m.",
+    "References": "Filmer R.M. (2001). A Catalogue of Nomenclature and Taxonomy in the Living Conidae 1758 - 1998. Backhuys Publishers, Leiden. 388pp\nTucker J.K. (2009). Recent cone species database. September 4, 2009 Edition\nBouchet P., Kantor Yu.I., Sysoev A. & Puillandre N. (2011) A new operational classification of the Conoidea. Journal of Molluscan Studies 77: 273-308.",
+    "External links": "The Conus Biodiversity website\n\"Artemidiconus selenae\". Gastropods.com. Retrieved 12 August 2011."
+  }
+}

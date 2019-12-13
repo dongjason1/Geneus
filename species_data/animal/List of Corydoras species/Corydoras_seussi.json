@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_seussi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. seussi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras seussi is a South American catfish, family Callichthyidae. It was named after German ichthyologist Dr Werner Seuss. It quite strongly resembles the Corydoras gossei. However, it can be differentiated by its longer snout; nonetheless, it is not a 'true' longnose corydoras in the manner of, for example, Corydoras septentrionalis. The captive spawning of this catfish has not been documented.",
+    "References": "Froese, Rainer and Pauly, Daniel, eds. (2011). \"Corydoras seussi\" in FishBase. December 2011 version."
+  }
+}

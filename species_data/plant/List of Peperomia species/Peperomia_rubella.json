@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peperomia_rubella",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Peperomia"
+    },
+    {
+      "Species": "P. rubella"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peperomia rubella is a plant species in the family Piperaceae, endemic to Jamaica. It is a small plant, with reddish stems and dark green, elliptical, fleshy leaves generally arranged in clusters of four.",
+    "Synonym": "Piper rubellum Haw. (basionym)",
+    "References": "\nGBIF entry\nPeperomia.net entry\nExot. fl. 1: t. 58. 1823"
+  }
+}

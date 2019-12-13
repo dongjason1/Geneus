@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_ortneri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. ortneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus ortneri is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these marine snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Distribution": "This marine species occurs off the Bahamas.",
+    "Description": "The maximum recorded shell length is 25 mm.",
+    "Habitat": "Minimum recorded depth is 6 m. Maximum recorded depth is 7 m.",
+    "References": "Petuch, E. J. 1998a. Molluscan discoveries from the tropical western Atlantic region. Part 5. New species of Conus from the Bahamas, Honduran Banks, San Blas Archipelago, and northeastern South America. La Conchiglia 30(287):25-37, 21 figs.\n* Puillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\n\"Purpuriconus ortneri\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

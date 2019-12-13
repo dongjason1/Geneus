@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_rufa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. rufa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia rufa is a shrub endemic to Western Australia. It was first published by Carl Meissner in 1855, where it was given the name Dryandra ferruginea by Richard Kippist. The following year, Meisner published what was purportedly a distinct species, Dryandra runcinata. In 1870, George Bentham maintained D. runcinata, but demoted D. ferruginea to a variety of Banksia proteoides (King Dryandra). This stood until 1996, when Alex George restored the specific rank of D. ferruginea, and declared D. runcinata its synonym.\nIn 2007, all Dryandra species were transferred to Banksia by Austin Mast and Kevin Thiele. As the name Banksia ferruginea had already been published in reference to the plant now known as Pimelea ferruginea, Mast and Thiele had to choose a new specific epithet; their choice, \"rufa\", is from the Latin rufus (\"reddish\"), in references to the red-brown colour of new growth and the involucral bracts.",
+    "References": "Cavanagh, Tony; Pieroni, Margaret (2006). The Dryandras. Melbourne: Australian Plants Society (SGAP Victoria); Perth: Wildflower Society of Western Australia. ISBN 1-876473-54-1.\nMast, Austin R.; Thiele, Kevin (2007). \"The transfer of Dryandra R.Br. to Banksia L.f. (Proteaceae)\". Australian Systematic Botany. 20: 63–71. doi:10.1071/SB06016.\n\"Dryandra ferruginea Meisn\". FloraBase. Western Australian Government Department of Parks and Wildlife.",
+    "External links": "\"Dryandra ferruginea Benth\". Flora of Australia Online. Department of the Environment and Heritage, Australian Government. \n\"Dryandra ferruginea Meisn\". FloraBase. Western Australian Government Department of Parks and Wildlife. \n\"Banksia rufa A.R.Mast & K.R.Thiele\". Australian Plant Name Index (APNI), IBIS database. Centre for Plant Biodiversity Research, Australian Government."
+  }
+}

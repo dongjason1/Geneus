@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_desertorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. desertorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus desertorum is a species of fungus in the genus Aspergillus which has been isolated from desert soil. It is from the Nidulantes section. Aspergillus desertorum produces desertorin A, desertorin B, desertorin C, paxiline and emindol DA.In 2016, the genome of A. desertorum was sequenced as a part of the Aspergillus whole-genome sequencing project - a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 29.04 Mbp.",
+    "Growth and morphology": "A. desertorum has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Cordell, edited by Geoffrey A. (2003). The alkaloids. Amsterdam: Elservier Academic Press. ISBN 978-0-080-52149-7.CS1 maint: extra text: authors list (link)\nAberdeen, edited by R.H. Thomson, Emeritus Professor of Organic Chemistry, University of (1993). The Chemistry of natural products (Second ed.). Dordrecht: Springer Netherlands. ISBN 978-9-401-12144-6.CS1 maint: extra text: authors list (link)\nMartin, Robert (2011). Aromatic Hydroxyketones: Preparation and Physical Properties (3rd ed.). Dordrecht: Springer Science+Business Media B.V. ISBN 978-1-402-09787-4.\nMarco A., van den Berg; Karunakaran, Maruthachalam (2014). Genetic Transformation Systems in Fungi, Band 2. Springer. ISBN 978-3-319-10503-1.\nKrishnaswamy, N.R. (1999). Chemistry of natural products : a unified approach. Hyderabad, India: Universities Press. ISBN 978-8-173-71093-3.\nRizzacasa, Mark A.; Sargent, Melvyn V. (1 January 1988). \"The synthesis of desertorin C, a bicoumarin from the fungus Emericella desertorum\". Journal of the Chemical Society, Perkin Transactions 1 (8): 2425. doi:10.1039/P19880002425. ISSN 1364-5463.\nSamson, R. A.; Mouchacca, J. (1974). \"Some interesting species of Emericella and Aspergillus from Egyptian desert soil\". Antonie van Leeuwenhoek. 40 (1): 121–131. doi:10.1007/BF00394559."
+  }
+}

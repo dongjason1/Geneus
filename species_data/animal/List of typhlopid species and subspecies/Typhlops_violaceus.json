@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_violaceus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Indotyphlops"
+    },
+    {
+      "Species": "I. violaceus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The violet worm snake (Indotyphlops violaceus) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

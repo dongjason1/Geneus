@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grewia_umbellifera",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Malvaceae"
+    },
+    {
+      "Genus": "Grewia"
+    },
+    {
+      "Species": "G. umbellifera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grewia umbellifera is a small, scandent shrub of the family Malvaceae which is native to India.",
+    "References": "\n\n== External links =="
+  }
+}

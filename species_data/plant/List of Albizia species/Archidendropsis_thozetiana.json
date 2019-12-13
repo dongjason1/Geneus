@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Archidendropsis_thozetiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Subfamily": "Caesalpinioideae[1]"
+    },
+    {
+      "(unranked)": "Mimosoid clade[1]"
+    },
+    {
+      "Genus": "Archidendropsis"
+    },
+    {
+      "Species": "A. thozetiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Archidendropsis thozetiana  is a species tree native to the dry rainforests and gallery forests of Queensland, Australia.",
+    "Sources": "\nhttp://www.anbg.gov.au/abrs/online-resources/flora/stddisplay.xsql?pnid=1685"
+  }
+}

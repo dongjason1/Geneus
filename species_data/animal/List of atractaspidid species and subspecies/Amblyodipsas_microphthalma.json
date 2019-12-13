@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amblyodipsas_microphthalma",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Amblyodipsas"
+    },
+    {
+      "Species": "A. micropthalma"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amblyodipsas micropthalma, or the eastern purple-glossed snake, is a species of venomous rear-fanged snake in the Atractaspididae family.",
+    "Geographic range": "It is found in Mozambique and the Republic of South Africa.",
+    "Description": "Dorsally dark brown. Ventrally white, including chin and tail, with a dark brown stripe down the middle of the belly. The white of the outer edges of the ventrals extends onto the adjacent first two rows of dorsal scales on each side of the body.\nRostral broader than long, portion visible from above ⅔ its distance from the frontal. Frontal large, nearly twice as long as broad, acutely pointed behind, much longer than its distance from the end of the snout. Only four upper labials, second and third entering the eye, fourth largest and in contact with the parietal.\nDorsal scales smooth, without pits, arranged in 15 rows. Ventrals 142; anal plate divided; subcaudals 19, divided.\nTotal length 30 cm (11 3⁄4 in); tail 24 mm (1 in).",
+    "References": "\nBianconi, G.G. 1852. Specimina zoologica mosambicana. p. 94, plate xii, figure 1."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conasprella_iansa",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conasprella"
+    },
+    {
+      "Species": "C. iansa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conasprella iansa is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conasprella, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 11 mm and 16 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean off the Abrolhos Archipelago, Eastern Brazil",
+    "References": "Coltro, J. Jr. 2004. New species of Conidae from northeastern Brazil (Mollusca: Gastropoda). Strombus 11: 1-16.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23.",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Jaspidiconus mindanus mindanus iansa\". Gastropods.com. Retrieved 17 January 2019."
+  }
+}

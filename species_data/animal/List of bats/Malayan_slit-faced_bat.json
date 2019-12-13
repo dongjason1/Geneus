@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malayan_slit-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Nycteridae"
+    },
+    {
+      "Genus": "Nycteris"
+    },
+    {
+      "Species": "N. tragata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malayan slit-faced bat (Nycteris tragata) is a species of slit-faced bat which lives in Indonesia, Malaysia, Myanmar, and Thailand.\n\n\n== References =="
+  }
+}

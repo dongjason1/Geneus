@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_albida",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. albida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula albida is a fungus said to be edible. It is found in North America under deciduous trees.",
+    "See also": "List of Russula species",
+    "External links": "Russula species description"
+  }
+}

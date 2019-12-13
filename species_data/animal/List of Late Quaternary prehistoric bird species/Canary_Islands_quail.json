@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canary_Islands_quail",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "Coturnix"
+    },
+    {
+      "Species": "C. C. gomerae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Canary Islands quail (Coturnix gomerae) once occurred on the islands of El Hierro, La Palma, Tenerife and Fuerteventura (Canary Islands, Spain).",
+    "Extinction": "This quail was most likely still present in the Canary Islands after humans settled there. Cats could have been one of the causes of the disappearance of some little flying birds like the Canary Islands quail.",
+    "See also": "List of extinct birds\nList of extinct animals\nList of extinct animals of Europe",
+    "References": "Jaume, D.; McMinn, M. & Alcover, J. A. (1993): Fossil bird from the Bujero del Silo, La Gomera (Canary Islands), with a description of a new species of Quail (Galliformes; Phasianidae). Boletin do Museu Municipal de Funchal 2: 147-165.",
+    "External links": "The Extinction Website"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_persicinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. persicinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium persicinum is a species of fungus in the genus Penicillium which was isolated from soil from the Qinghai Province in China. Penicillium persicinum produces griseofulvin, lichexanthone, roquefortine C, roquefortine D, patulin and chrysogine",
+    "Further reading": "Jørgensen, Henning; Mørkeberg, Astrid; Krogh, Kristian B.R; Olsson, Lisbeth (2004). \"Growth and enzyme production by three Penicillium species on monosaccharides\". Journal of Biotechnology. 109 (3): 295–9. doi:10.1016/j.jbiotec.2003.12.011. PMID 15066767.\nMark Finkelstein, Brian H. Davison (2004). Proceedings of the Twenty-Fifth Symposium on Biotechnology for Fuels and Chemicals Held May 4–7, 2003, in Breckenridge, CO. Springer Science & Business Media. ISBN 1592598374.\n\n\n== References =="
+  }
+}

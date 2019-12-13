@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_superba",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Allardtia"
+    },
+    {
+      "Species": "T. superba"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia superba is a species in the genus Tillandsia. This species is native to Bolivia and Ecuador.",
+    "References": "Checklist of Bolivian Bromeliaceae Retrieved 21 October 2009\nCatalogue of Vascular Plants of Ecuador Retrieved 12 October 2009"
+  }
+}

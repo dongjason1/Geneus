@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_burii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Myriopholis"
+    },
+    {
+      "Species": "M. burii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Myriopholis burii, commonly known as the Arabian blind snake or Bury's worm snake, is a species of snake in the family Leptotyphlopidae. The species is endemic to the Arabian Peninsula.",
+    "Etymology": "The specific name, burii, is in honor of British naturalist George Wyman Bury (1874-1920).",
+    "Geographic range": "M. burii is found in southwestern Saudi Arabia and southwestern Yemen at elevations of 1,350 to 1,460 m (4,430 to 4,790 ft).",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the Family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Myriopholis burii, new combination, p. 28).\nBoulenger GA (1905). \"Descriptions of Three new Snakes discovered in South Arabia by Mr. G. W. Bury\". Ann. Mag. Nat. Hist., Seventh Series 16: 178-180. (\"Glauconia Burii [sic]\", new species, p. 178).\nCorkill NL, Cochrane JA (1966). \"The snakes of the Arabian Peninsula and Socotra\". J. Bombay Nat. Hist. Soc. 62 (3): 475-506. (Leptotyphlops burii, new combination)."
+  }
+}

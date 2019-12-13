@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Elephas_beyeri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Proboscidea"
+    },
+    {
+      "Family": "Elephantidae"
+    },
+    {
+      "Genus": "Elephas"
+    },
+    {
+      "Species": "E. beyeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Elephas beyeri is an extinct species of dwarf elephant belonging to the Elephantidae family. It was named after the anthropologist H. Otley Beyer. The type specimen was discovered on Cabarruyan Island in The Philippines but has since been lost. Further fossils were found in Visayas and at a number of sites in Luzon. It is unclear if these belonged to Elephas beyeri or Elephas namadicus due to their fragmented nature and the missing holotype.\n\n\n== References =="
+  }
+}

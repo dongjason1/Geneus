@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_occidentalis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. occidentalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius occidentalis is a basidiomycete mushroom of the genus Cortinarius native to the Northern Hemisphere.\n\n\n== References =="
+  }
+}

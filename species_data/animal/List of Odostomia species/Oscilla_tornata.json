@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Oscilla_tornata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Oscilla"
+    },
+    {
+      "Species": "O. tornata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Oscilla tornata is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The length of the shell measures 3 mm.",
+    "Distribution": "This species occurs in the following locations:\nNorthwest Atlantic from North Carolina to the Florida Keys at depths between 27 m and 260 m.",
+    "References": "",
+    "External links": "To Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

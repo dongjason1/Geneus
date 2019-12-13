@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_gierrai",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. gierrai"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Afrotyphlops gierrai, also known as the Gierra's blind snake or Usambara spotted worm snake, is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, gierrai, is in honor of Mr. A. Gierra, an expert in the languages of North Africa and East Africa, who collected the type specimen.",
+    "Geographic range": "It is endemic to Tanzania, where it is found in the Ukaguru Mountains, the Ulaguru Mountains, and the Usambara Mountains.",
+    "References": "",
+    "Further reading": "Broadley DG, Wallach V (2009). \"A review of the eastern and southern African blind-snakes (Serpentes: Typhlopidae), excluding Letheobia Cope, with the description of two new genera and a new species\". Zootaxa 2255: 1-100. (Afrotyphlops gierrai, new combination, p. 38).\nMocquard F (1897). \"Note sur quelques Reptiles de Tanga, don de M. [=Monsieur ] Gierra \". Bulletin du Muséum National d'Histoire Naturelle, Paris 3 (4): 122-123. (Typhlops gierrai, new species). (in French)."
+  }
+}

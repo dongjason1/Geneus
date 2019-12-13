@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_gallaeciae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hymenogastraceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. gallaeciae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe gallaeciae is a species of psilocybin mushroom in the family Hymenogastraceae. It was found in Spain in 1997, and published as a new species in 2003.",
+    "See also": "List of Psilocybe species",
+    "References": "",
+    "External links": "Psilocybe gallaeciae  in Index Fungorum"
+  }
+}

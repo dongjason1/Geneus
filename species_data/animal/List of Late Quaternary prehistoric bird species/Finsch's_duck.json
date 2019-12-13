@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Finsch's_duck",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Anseriformes"
+    },
+    {
+      "Family": "Anatidae"
+    },
+    {
+      "Genus": "Chenonetta"
+    },
+    {
+      "Species": "C. finschi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Finsch's duck (Chenonetta finschi) was a large terrestrial species of duck formerly endemic to New Zealand. The species was possibly once the most common duck in New Zealand, a supposition based on the frequency of its fossils in bone deposits. The species was originally considered to be in its own genus, Euryanas, but is now known to be closely related to the maned duck and recently derived from that species.The Finsch's duck was much larger than the maned duck, probably weighing twice as much (around 1–2 kg) and having larger legs. The wings were much reduced however, and it seems that flight was lost relatively quickly after the species arrived in New Zealand. Little is known about the biology of the species, but its remains have been found widely in New Zealand and it does not seem to have been tied to water like many other duck species.\nThe species is thought to have become extinct due to human hunting and predation by introduced species, particularly rats. Like many large flightless New Zealand birds its remains have been found in Māori middens. Radiocarbon dating puts the youngest bones of the species as recently as the 15th -17th centuries, and one account of a large flightless goose killed in Opotiki suggests the species might have survived until 1870.",
+    "References": "",
+    "Further reading": "Tennyson, A. & Martinson, P. (2006) Extinct Birds of New Zealand Te Papa Press,Wellington ISBN 978-0-909010-21-8\nFinsch's Duck. Chenonetta finschi. by Paul Martinson. Artwork produced for the book Extinct Birds of New Zealand, by Alan Tennyson, Te Papa Press, Wellington, 2006",
+    "External links": "Te Ara article on Finsch's Duck"
+  }
+}

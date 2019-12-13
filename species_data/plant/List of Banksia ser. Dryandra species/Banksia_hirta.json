@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_hirta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. hirta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia hirta is a shrub endemic to Western Australia.\nIt was known as Dryandra hirsuta until 2007, when all Dryandra species were transferred to Banksia by Austin Mast and Kevin Thiele. Since the name Banksia hirsuta had already been published (it is a synonym for Pimelea latifolia subsp. hirsuta), Mast and Thiele had to choose a new specific epithet; their choice, \"hirta\" is from the Latin hirtus (\"hairy\"), in reference to the indumentum that covers most of the plant.",
+    "References": "Cavanagh, Tony; Pieroni, Margaret (2006). The Dryandras. Melbourne: Australian Plants Society (SGAP Victoria); Perth: Wildflower Society of Western Australia. ISBN 1-876473-54-1.\nMast, Austin R.; Thiele, Kevin (2007). \"The transfer of Dryandra R.Br. to Banksia L.f. (Proteaceae)\". Australian Systematic Botany. 20: 63–71. doi:10.1071/SB06016.\n\"Dryandra hirsuta\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

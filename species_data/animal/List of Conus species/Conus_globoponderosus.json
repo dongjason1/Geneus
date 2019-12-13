@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_globoponderosus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. globoponderosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus globoponderosus is a fossil species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail is found only in the fossil state in the Miocene and Tertiary of Austria and Italy, Europe.",
+    "References": "\nSacco, F., 1893. I Molluschi dei Terreni Terziarii del Piemonte e della Liguria. Pt. XIII. Conidae and Conorbidae. Memorie della Reale Accademia delle Scienze di Torino, 2 (44 ): 1 -134\n1958, Sieber. Ann.Nathist.Mus.Wien 62:123 (taxonomic revision)\n1960, Glibert. Mem.Inst.R.Sci.Nat.Belg.ser.2,fasc.64,p. 91ff.\n\n\n== External links =="
+  }
+}

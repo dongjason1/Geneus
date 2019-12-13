@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_judaica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. judaica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia judaica (Judean sage) is a perennial native to Mediterranean woodlands and shrublands, with violet flowers blooming from April–June.",
+    "Notes": "",
+    "External links": "USDA Plants Profile"
+  }
+}

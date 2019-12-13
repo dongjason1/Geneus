@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Cinclosomatidae"
+    },
+    {
+      "Genus": "Cinclosoma"
+    },
+    {
+      "Species": "C. punctatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The spotted quail-thrush (Cinclosoma punctatum) is a species of bird in the Psophodidae family.\nIt is endemic to Australia.\nIts natural habitat is subtropical, tropical and temperate dry forests.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Echis_omanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Echis"
+    },
+    {
+      "Species": "E. omanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Echis omanensis, commonly known as the Oman saw-scaled viper, is a species of venomous viper.",
+    "Geographic range": "The snake is found in eastern Oman and the United Arab Emirates. It is present from sea level up to an altitude of 1000 meters.\n\n\n== References =="
+  }
+}

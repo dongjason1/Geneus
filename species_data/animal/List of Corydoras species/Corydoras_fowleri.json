@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_fowleri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. fowleri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras fowleri is a species of armored catfish from the family Callichthyidae, found in the Western Amazon River Basin.",
+    "References": "\nhttps://www.fishbase.se/summary/46066\nhttps://repository.si.edu/bitstream/handle/10088/16864/1/USNMP-116_3498_1964.pdf\nhttps://www.tandfonline.com/doi/abs/10.1080/01650528609360697?journalCode=nnfe20"
+  }
+}

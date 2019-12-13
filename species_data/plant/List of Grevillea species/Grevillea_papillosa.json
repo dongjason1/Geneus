@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_papillosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. papillosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea papillosa is a shrub of the genus Grevillea native to an area in the South West region of Western Australia.",
+    "See also": "List of Grevillea species\n\n\n== References =="
+  }
+}

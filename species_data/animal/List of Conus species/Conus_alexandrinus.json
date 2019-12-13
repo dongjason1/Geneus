@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_alexandrinus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. alexandrinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus alexandrinus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell varies between 18 mm and 34 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean off Angola.",
+    "References": "Rolán E. & Röckel D. 2000. The endemic Conus of Angola. Argonauta 13(2): 5-44, 150 figs.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\n\"Africonus musivus\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

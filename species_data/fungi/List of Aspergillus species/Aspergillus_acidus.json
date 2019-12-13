@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_acidus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. acidus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus acidus is a species of fungus in the genus Aspergillus. Aspergillus acidus can be used in food fermentation for tea.",
+    "References": "",
+    "Further reading": "Vijai G., Gupta (2016). New and Future Developments in Microbial Biotechnology and Bioengineering: Aspergillus System Properties and Applications. Elsevier. ISBN 978-0-444-63513-6.\nMogensen, J.M.; Varga, J.; Thrane, U.; Frisvad, J.C. (June 2009). \"Aspergillus acidus from Puerh tea and black tea does not produce ochratoxin A and fumonisin B2\". International Journal of Food Microbiology. 132 (2–3): 141–144. doi:10.1016/j.ijfoodmicro.2009.04.011. PMID 19439385.\nhttp://www.fung-growth.org"
+  }
+}

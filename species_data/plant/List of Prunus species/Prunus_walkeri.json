@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_walkeri",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. walkeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus walkeri is a species of plant in the family Rosaceae. It is endemic to Sri Lanka.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Prunus walkeri\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T30866A9578445. doi:10.2305/IUCN.UK.1998.RLTS.T30866A9578445.en. Retrieved 16 December 2017."
+  }
+}

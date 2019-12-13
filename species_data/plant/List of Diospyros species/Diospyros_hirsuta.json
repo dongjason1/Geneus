@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Diospyros_hirsuta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Ebenaceae"
+    },
+    {
+      "Genus": "Diospyros"
+    },
+    {
+      "Species": "D. hirsuta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Diospyros hirsuta is a tree in the ebony family endemic to Sri Lanka.",
+    "Trunk": "Bark - finely fissured, black; Immature Bark - reddish.",
+    "External resources": "http://oldredlist.iucnredlist.org/details/30860/0\nhttp://indiabiodiversity.org/species/show/263212\nhttp://plants.jstor.org/taxon/diospyros.hirsuta"
+  }
+}

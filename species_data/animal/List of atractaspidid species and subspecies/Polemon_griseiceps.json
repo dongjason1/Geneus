@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Polemon_griseiceps",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Polemon"
+    },
+    {
+      "Species": "P. griseiceps"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Polemon griseiceps, or the Cameroon snake-eater, is a species of rear-fanged venomous snake in the subfamily Aparallactinae. The species is endemic to Middle Africa.",
+    "Geographic range": "P. griseiceps is found in Cameroon, the Central African Republic, and the Republic of the Congo.",
+    "References": "",
+    "Further reading": "Laurent RF (1947). \"Notes sur quelques reptiles appartenant a la collection du Musée Royalle d'Histoire Naturelle de Belgique \". Bull. Mus. Hist. Nat. Belgique 23 (16): 1-12. (Miodon griseiceps, new species). (in French)."
+  }
+}

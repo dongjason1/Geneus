@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Guzmania_remediosensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Guzmania"
+    },
+    {
+      "Species": "G. remediosensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Guzmania remediosensis is a plant species in the genus Guzmania. This species is endemic to Bolivia.",
+    "References": "Checklist of Bolivian Bromeliaceae Retrieved 21 October 2009"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_labialis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Namibiana"
+    },
+    {
+      "Species": "N. labialis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Damara threadsnake (Namibiana labialis) is a species of snake in the family Leptotyphlopidae. It is found in northwestern Namibia and southern Angola.\n\n\n== References =="
+  }
+}

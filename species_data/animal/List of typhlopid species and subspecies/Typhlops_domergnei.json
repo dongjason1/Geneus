@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_domergnei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Madatyphlops"
+    },
+    {
+      "Species": "M. domerguei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Madatyphlops domerguei is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, domerguei, is in honor of French herpetologist Charles Domergue.",
+    "Geographic range": "It is endemic to Madagascar.",
+    "References": "",
+    "Further reading": "Roux-Estève, Rolande (1980). \"Une nouvelle espèce de Typhlopidae (Serpentes) du Centre-Est de Madagascar : Typhlops domerguei\". Bulletin du Muséum National d'Histoire Naturelle de Paris, Series 2, 1: 321-323. (in French)."
+  }
+}

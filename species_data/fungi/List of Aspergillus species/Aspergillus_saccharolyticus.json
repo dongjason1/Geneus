@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_saccharolyticus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. saccharolyticus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus saccharolyticus is a species of fungus in the genus Aspergillus. It belongs to the group of black Aspergilli which are important industrial workhorses. A. saccharolyticus belongs to the Nigri section. The species was first described in 2008. It was isolated from under a wooden toilet seat in Denmark. The genome of A. sclerotiicarbonarius was sequenced and published in 2014 as part of the Aspergillus whole-genome sequencing project – a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 37.62 Mbp.",
+    "Growth and morphology": "A. saccharolyticus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Sørensen, Annette; Andersen, Julie Juel; Ahring, Birgitte K.; Teller, Philip J.; Lübeck, Mette (September 2014). \"Screening of carbon sources for beta-glucosidase production by Aspergillus saccharolyticus\". International Biodeterioration & Biodegradation. 93: 78–83. doi:10.1016/j.ibiod.2014.05.011.\nYang, Lei; Lübeck, Mette; Ahring, Birgitte K.; Lübeck, Peter S. (31 October 2015). \"Enhanced succinic acid production in Aspergillus saccharolyticus by heterologous expression of fumarate reductase from Trypanosoma brucei\". Applied Microbiology and Biotechnology. 100 (4): 1799–1809. doi:10.1007/s00253-015-7086-z. PMID 26521243.\nRana, Vandana; Eckard, Anahita D.; Teller, Philip; Ahring, Birgitte K. (February 2014). \"On-site enzymes produced from Trichoderma reesei RUT-C30 and Aspergillus saccharolyticus for hydrolysis of wet exploded corn stover and loblolly pine\". Bioresource Technology. 154: 282–289. doi:10.1016/j.biortech.2013.12.059. PMID 24412480."
+  }
+}

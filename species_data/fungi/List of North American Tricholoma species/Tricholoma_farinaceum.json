@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_farinaceum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. farinaceum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma farinaceum is a mushroom of the agaric genus Tricholoma.",
+    "See also": "List of North American Tricholoma",
+    "References": "",
+    "External links": "Tricholoma farinaceum  in Index Fungorum"
+  }
+}

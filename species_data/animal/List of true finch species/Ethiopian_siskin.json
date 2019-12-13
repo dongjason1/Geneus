@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ethiopian_siskin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Serinus"
+    },
+    {
+      "Species": "S. nigriceps"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ethiopian siskin or Abyssinian siskin (Serinus nigriceps) is a species of finch in the family Fringillidae.\nIt is found only in Ethiopia, usually at altitudes above 2,000 metres (6,600 ft) in the Ethiopian Highlands.\nThe bird's natural habitat is subtropical or tropical high-altitude Afromontane grassland.",
+    "Phylogeny": "It has been obtained by Antonio Arnaiz-Villena et al.\n\n\n== References =="
+  }
+}

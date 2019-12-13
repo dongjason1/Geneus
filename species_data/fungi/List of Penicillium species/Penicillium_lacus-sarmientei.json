@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_lacus-sarmientei",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. lacus-sarmientei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium lacus-sarmientei is an anamorph species of the genus of Penicillium which was isolated from soil of the shores of the Lake Sarmiento in the Chilean Tierra del Fuego.",
+    "Further reading": "Ramírez, C. (1986). \"A new species of Penicillium from the Chilean Tierra del Fuego\". Mycopathologia. 96: 29. doi:10.1007/BF00467682.\n\n\n== References =="
+  }
+}

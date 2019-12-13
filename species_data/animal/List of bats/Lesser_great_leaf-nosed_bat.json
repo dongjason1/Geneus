@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_great_leaf-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. turpis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser great leaf-nosed bat or lesser roundleaf bat (Hipposideros turpis) is a species of bat in the family Hipposideridae. It is found in Japan, Thailand, and Vietnam. Its natural habitat is temperate forests. It is threatened by habitat loss.",
+    "Subspecies": "H. t. turpis: Yaeyama Islands, Japan, on the 4 islands Iriomote, Ishigaki, Yonaguni, and Hateruma\nH. t. pendleburyi:  in southern Thailand (Krabi, Trang, and Nakhon Si Thammarat provinces) and northern Vietnam (Cuc Phuong National Park and Cat Ba National Park)\n\n\n== Sources =="
+  }
+}

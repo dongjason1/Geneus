@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_bellus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Myxacium"
+    },
+    {
+      "Species": "C. bellus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius bellus is a basidiomycete fungus of the genus Cortinarius native to New Zealand, where it grows under Nothofagus and produces purple mushrooms that can grow in fairy rings.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius bellus  in Index Fungorum"
+  }
+}

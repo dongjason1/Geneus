@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Joffre's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Hypsugo"
+    },
+    {
+      "Species": "H. joffrei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Joffre's pipistrelle (Hypsugo joffrei) is a species of vesper bat in the family Vespertilionidae.\nIt is found in South and Southeast Asia.\nIt is threatened by habitat loss.\n\n\n== References =="
+  }
+}

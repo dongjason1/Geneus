@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Helminthophis_frontalis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Anomalepididae"
+    },
+    {
+      "Genus": "Helminthophis"
+    },
+    {
+      "Species": "H. frontalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Helminthophis frontalis is a species of snake in the family Anomalepididae. It is endemic to Costa Rica and Panama.\n\n\n== References =="
+  }
+}

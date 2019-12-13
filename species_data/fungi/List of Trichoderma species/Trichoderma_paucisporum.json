@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_paucisporum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. paucisporum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma paucisporum is a species of endophytic fungus in the family Hypocreaceae. It was first isolated in Ecuador from cacao pods infected with frosty pod rot, Moniliophthora roreri. It produces a volatile antibiotic that inhibits development of M. roreri.",
+    "References": "",
+    "Further reading": "Zhang, Chu-long;  et al. (2007). \"Trichoderma taxi sp. nov., an endophytic fungus from Chinese yew Taxus mairei\". FEMS Microbiology Letters. 270 (1): 90–96. doi:10.1111/j.1574-6968.2007.00659.x.\nBailey, Bryan A.; Strem, Mary D.; Wood, Delilah (2009). \"Trichoderma species form endophytic associations within Theobroma cacao trichomes\". Mycological Research. 113 (12): 1365–1376. doi:10.1016/j.mycres.2009.09.004.\nBailey, Bryan A., et al. \"The endophytic Trichoderma hamatum isolate DIS 219b enhances seedling growth and delays the onset of drought stress in Theobroma cacao.\" Endophytes of Forest Trees. Springer Netherlands, 2011. 157-172.",
+    "External links": "\"Trichoderma paucisporum\" at the Encyclopedia of Life\nMycoBank"
+  }
+}

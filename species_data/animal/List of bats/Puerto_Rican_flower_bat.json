@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puerto_Rican_flower_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Phyllonycteris"
+    },
+    {
+      "Species": "P. major"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Puerto Rican flower bat (Phyllonycteris major) is an extinct species of bat from the family Phyllostomidae (leaf-nosed bats). It was endemic to Puerto Rico and is known only from subfossil skeletal material.",
+    "Sources": "UNEP-WCMC Species Database\nBucknell University - Wilson & Reeder's: Mammal Species of the World (Third edition)\nZipCodeZoo.com\n\n\n== References =="
+  }
+}

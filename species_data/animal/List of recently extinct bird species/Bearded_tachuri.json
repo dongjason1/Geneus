@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bearded_tachuri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Tyrannidae"
+    },
+    {
+      "Genus": "Polystictus"
+    },
+    {
+      "Species": "P. pectoralis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The bearded tachuri (Polystictus pectoralis) is a species of bird in the family Tyrannidae.\nIt is found in Argentina, Bolivia, Brazil, Colombia, French Guiana, Guyana, Paraguay, Suriname, Uruguay, and Venezuela. Its natural habitats are dry savanna and subtropical or tropical seasonally wet or flooded lowland grassland. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

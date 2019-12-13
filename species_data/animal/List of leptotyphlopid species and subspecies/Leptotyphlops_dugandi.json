@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_dugandi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Trilepida"
+    },
+    {
+      "Species": "T. dugandi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dugand's blind snake (Trilepida dugandi ) is a species of snake in the family Leptotyphlopidae. The species is endemic to South America.",
+    "Etymology": "The specific name, dugandi, is in honor of Colombian naturalist Armando Dugand.",
+    "Geographic range": "T. dugandi is found in Atlántico Department, Colombia.",
+    "Description": "Dorsally, T. dugandi is brown with seven dark copper stripes. Ventrally, it is cream-colored.",
+    "Reproduction": "T. dugandi is oviparous.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the Family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Tricheilostoma dugandi, new combination).\nDunn ER (1944). \"A Review of the Colombian Snakes of the Families Typhlopidae and Leptotyphlopidae\". Caldasia 3 (11): 47-55. (Leptotyphlops dugandi, new species, pp. 52–53).\nHedges SB (2011). \"The type species of the threadsnake genus Tricheilostoma Jan revisited (Squamata, Leptotyphlopidae)\". Zootaxa 3027: 63-64. (Trilepida dugandi, new combination)."
+  }
+}

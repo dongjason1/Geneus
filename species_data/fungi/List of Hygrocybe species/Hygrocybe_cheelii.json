@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hygrocybe_cheelii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Cantharellales"
+    },
+    {
+      "Family": "Cantharellaceae"
+    },
+    {
+      "Genus": "Cantharellus"
+    },
+    {
+      "Species": "C. lilacinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cantharellus lilacinus is a species of fungus in the genus Cantharellus. First described in 1919 by botanists John Burton Cleland and Edwin Cheel, the fungus is found in Australia.",
+    "References": "",
+    "External links": "Cantharellus lilacinus  in Index Fungorum"
+  }
+}

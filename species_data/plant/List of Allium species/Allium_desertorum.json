@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allium_desertorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Allioideae"
+    },
+    {
+      "Genus": "Allium"
+    },
+    {
+      "Species": "A. desertorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allium desertorum is a species of onion found in Israel, Jordan, Palestine, and Egypt (including Sinai). It is a small bulb-forming perennial; flowers are white with purple midveins along the tepals.",
+    "References": "",
+    "External links": "photo of herbarium specimen, isotype of Allium desertorum"
+  }
+}

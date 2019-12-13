@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Anemone_baicalensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Ranunculales"
+    },
+    {
+      "Family": "Ranunculaceae"
+    },
+    {
+      "Genus": "Anemone"
+    },
+    {
+      "Species": "A. baicalensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Anemone baicalensis is a species of flowering plant in the genus Anemone. It is native to forests, scrub, and grassy places at 500–3100 m. altitude in Siberia, Mongolia, northern China, and North Korea in Northeast Asia.",
+    "References": "\nTurczaninow, Bull. Soc. Imp. Naturalistes Moscou. 15: 40. 1842.\nefloras.org entry: Anemone baicalensis"
+  }
+}

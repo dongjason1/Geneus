@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gland-tailed_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Chaerephon"
+    },
+    {
+      "Species": "C. bemmeleni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The gland-tailed free-tailed bat (Chaerephon bemmeleni) is a species of bat in the family Molossidae. Its natural habitats are subtropical or tropical moist montane forests, dry savanna, and caves. It is threatened by habitat loss.",
+    "Taxonomy and etymology": "It was described as a new species in 1879 by Dutch zoologist Fredericus Anna Jentink.\nJentink placed it in the now-defunct genus Nyctinomus, with the name Nyctinomus bemmeleni.\nThe eponym for the species name \"bemmeleni\" was Dutch naturalist Adriaan Anthoni van Bemmelen, who presented the holotype to the Leyden Museum where Jentink was curator.",
+    "Description": "Its dorsal fur is a dark, smokey brown while its ventral fur is a yellowish brown.\nIts upper lip is very wrinkled.\nIts tragus is very small and triangular.\nThe males have a gular gland.\nIts dental formula is 2.1.2.34.1.2.3 for a total of 36 teeth.",
+    "Range and habitat": "It is found in several countries in West and Central Africa, including Cameroon, Democratic Republic of the Congo, Ivory Coast, Guinea, Kenya, Liberia, Rwanda, Sierra Leone, South Sudan, Sudan, Tanzania, and Uganda.\nIt has not been documented at elevations greater than 1,700 m (5,600 ft) above sea level.",
+    "Conservation": "It is evaluated as least concern by the IUCN.\nIt meets the criteria for this designation because it has a large geographic range; its population is presumably large; its range includes protected areas; and it is not likely to be experiencing a drastic population decline.\n\n\n== References =="
+  }
+}

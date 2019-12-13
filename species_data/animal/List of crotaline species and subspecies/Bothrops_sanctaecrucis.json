@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_sanctaecrucis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. sanctaecrucis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops sanctaecrucis, or the Bolivian lancehead, is a species of venomous snake in the  family Viperidae. It is endemic to South America.",
+    "Geographic range": "It is found in Bolivia in the departments of Beni and Santa Cruz.\nThe type locality is \"Río Sécure, Oromono, Bolivia\".",
+    "References": "",
+    "Further reading": "Hoge, A.R. 1966. Preliminary account on Neotropical Crotalinae (Serpentes: Viperidae). Memórias do Instituto Butantan 32 [1965]: 109-184."
+  }
+}

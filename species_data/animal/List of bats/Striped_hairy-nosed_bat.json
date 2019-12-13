@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Striped_hairy-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Mimon"
+    },
+    {
+      "Species": "M. crenulatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The striped hairy-nosed bat (Mimon crenulatum) is a bat species from South and Central America. It is found in Brazil, Colombia, Ecuador, French Guiana, Guyana, Suriname and Venezuela.\n\n\n== References =="
+  }
+}

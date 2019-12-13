@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Riparian_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. riparius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The riparian myotis (Myotis riparius), is a vesper bat species from South and Central America.\n\n\n== References =="
+  }
+}

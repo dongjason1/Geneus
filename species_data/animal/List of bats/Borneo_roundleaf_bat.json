@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Borneo_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. doriae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Borneo roundleaf bat (Hipposideros doriae) is a species of bat in the family Hipposideridae. It is found in Borneo, Sumatra and Peninsular Malaysia. Hipposideros sabanus is a synonym of this species.",
+    "References": "",
+    "Literature cited": "Bates, P., Francis, C., Kingston, T., Gumal, M. and Walston, J. 2008. Hipposideros doriae. In IUCN. IUCN Red List of Threatened Species. Version 2010.2. <www.iucnredlist.org>. Downloaded on October 17, 2010.\nSimmons, N.B. 2005. Order Chiroptera. Pp. 312–529 in Wilson, D.E. and Reeder, D.M. (eds.). Mammal Species of the World: a taxonomic and geographic reference. 3rd ed. Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp. ISBN 978-0-8018-8221-0"
+  }
+}

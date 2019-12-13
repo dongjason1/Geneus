@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_lanata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Quercus"
+    },
+    {
+      "Species": "Q. lanata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus lanata, the woolly-leaved oak, is a species of Quercus native to southern and southeastern Asia (Himalayas, Assam, Bhutan, Nepal, Indochina (Vietnam, Myanmar, northern Thailand), and southwestern China (Guangxi, Tibet, Yunnan)). It is a large tree up to 30 m tall, evergreen. Leaves are thick and leathery, green on top but covered in thick wool on the underside.",
+    "References": "\n\n== External links =="
+  }
+}

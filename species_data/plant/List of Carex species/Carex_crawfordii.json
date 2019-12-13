@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_crawfordii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. crawfordii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex crawfordii, common name  Crawford sedge, is a species of Carex native to North America.",
+    "Conservation status within the United States": "It is listed as endangered in Illinois and Pennsylvania. It is listed as a special concern species and believed extirpated in Connecticut.",
+    "Gallery": "\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\n\n== References =="
+  }
+}

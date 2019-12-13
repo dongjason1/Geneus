@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_musky_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Ptenochirus"
+    },
+    {
+      "Species": "P. minor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser musky fruit bat (Ptenochirus minor) is a species of megabat in the family Pteropodidae. It is endemic to the Philippines.\n\n\n== References =="
+  }
+}

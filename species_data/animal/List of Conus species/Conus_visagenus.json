@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_visagenus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. visagenus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus visagenus, common name the Lemonsnap cone, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 17 mm and 32 mm.",
+    "Distribution": "This marine species occurs off South Africa.",
+    "References": "Kilburn (1974), Durban Mus. Novit. 10 (6): p. 81, pl. 1, figs 1 - 4\nKilburn, R.N. & Rippey, E. (1982) Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg, xi + 249 pp.\nPuillandre, N.; Duda, T.F.; Meyer, C.; Olivera, B.M.; Bouchet, P. (2015). \"One, four or 100 genera? A new classification of the cone snails\". Journal of Molluscan Studies. 81: 1–23. doi:10.1093/mollus/eyu055. PMC 4541476.",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea"
+  }
+}

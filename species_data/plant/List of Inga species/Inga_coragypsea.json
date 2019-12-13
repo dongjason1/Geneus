@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_coragypsea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. coragypsea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga coragypsea is a species of legume in the family Fabaceae. It is found only in Colombia.",
+    "References": "World Conservation Monitoring Centre (1998). \"Inga coragypsea\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38226A10106771. doi:10.2305/IUCN.UK.1998.RLTS.T38226A10106771.en. Retrieved 18 December 2017."
+  }
+}

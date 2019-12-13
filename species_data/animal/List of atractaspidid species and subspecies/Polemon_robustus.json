@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Polemon_robustus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Polemon"
+    },
+    {
+      "Species": "P. robustus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Polemon robustus, or the Zaire snake-eater, is a species of rear-fanged venomous snake in the family Atractaspididae. The species is endemic to Africa.",
+    "Geographic range": "P. robustus is found in the Central African Republic and the Democratic Republic of the Congo.",
+    "References": "",
+    "Further reading": "de Witte GF, Laurent RF (1947). \"Revision d'un groupe de Colubridae africains: genres Calamelaps, Miodon, Aparallactus, et formes affines \". Mém. Mus. Roy. Hist. Nat. Belgique (sér. 2) 29: 1-134. (Miodon robustus, new species, p. 62). (in French)."
+  }
+}

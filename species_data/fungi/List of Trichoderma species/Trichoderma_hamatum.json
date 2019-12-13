@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_hamatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. hamatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma hamatum is a species of fugus in the family Hypocreaceae. It has been used a biological control of certain plant diseases.",
+    "References": "",
+    "External links": " Media related to Trichoderma at Wikimedia Commons\n Data related to Trichoderma at Wikispecies"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-winged_grosbeak",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Mycerobas"
+    },
+    {
+      "Species": "M. carnipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-winged grosbeak (Mycerobas carnipes) is a species of finch in the family Fringillidae.\nIt is found in Afghanistan, Bhutan, China, India, Iran, Myanmar, Nepal, Pakistan, Russia, Tajikistan, Turkmenistan, and Uzbekistan. Its natural habitat is boreal forests.",
+    "Phylogeny": "Eophona genus goes together with Mycerobas genus. Both genera form a single phylogenetic group.\n\n\n== References =="
+  }
+}

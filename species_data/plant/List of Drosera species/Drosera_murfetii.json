@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_murfetii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Arcturia"
+    },
+    {
+      "Species": "D. murfetii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera murfetii is a species of the carnivorous sundew family, and is endemic to western Tasmania, Australia.  Although similar in appearance to its close relative, D. arcturi, this species is distinct in that it tends to possess only one or two carnivorous leaves, the rest being non-carnivorous. Other features that distinguish it from D. arcturi are its larger size and tendency to produce more flowers per scape.",
+    "References": "",
+    "External links": "Image gallery on CP Photofinder"
+  }
+}

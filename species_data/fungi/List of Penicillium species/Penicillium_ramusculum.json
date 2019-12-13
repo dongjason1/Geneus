@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_ramusculum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. ramusculum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium ramusculum is an anamorph, species of the genus of Penicillium.",
+    "Further reading": "John I. Pitt (1979). The Genus Penicillium & Its Teleomorphic States: Eupeniccillum & Talaromyces. Academic Press. ISBN 0125577508.\n\n\n== References =="
+  }
+}

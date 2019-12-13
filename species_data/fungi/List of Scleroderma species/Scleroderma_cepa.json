@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Scleroderma_cepa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Sclerodermataceae"
+    },
+    {
+      "Genus": "Scleroderma"
+    },
+    {
+      "Species": "S. cepa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Scleroderma cepa is an ectomycorrhizal fungus used as a soil inoculant in agriculture and horticulture."
+  }
+}

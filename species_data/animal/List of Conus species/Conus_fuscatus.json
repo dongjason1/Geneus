@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_fuscatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. fuscatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus fuscatus is a species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.",
+    "Distribution": "This species occurs in the following locations:\nMascarene Basin\nMauritius\n\n\n== References =="
+  }
+}

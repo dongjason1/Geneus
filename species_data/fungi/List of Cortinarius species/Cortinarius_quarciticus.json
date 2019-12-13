@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_quarciticus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. quarciticus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius quarciticus is an agaric fungus of the genus Cortinarius found in Europe. It was described as new to science in 1994.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius quarciticus  in Index Fungorum"
+  }
+}

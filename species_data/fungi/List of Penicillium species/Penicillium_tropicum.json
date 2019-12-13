@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_tropicum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. tropicum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium tropicum is a species of fungus in the genus Penicillium which was isolated from soil beneath a Coffea arabica plant in Karnataka in India.",
+    "Further reading": "Q. Ashton Acton (2012). Issues in Life Sciences: Botany and Plant Biology Research. ScholarlyEditions. ISBN 1464963436.\n\n\n== References =="
+  }
+}

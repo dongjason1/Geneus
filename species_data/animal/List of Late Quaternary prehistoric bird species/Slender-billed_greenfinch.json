@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Slender-billed_greenfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Chloris"
+    },
+    {
+      "Species": "C. aurelioi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The slender-billed greenfinch (Chloris aurelioi) is an extinct songbird in the finch family Fringillidae. It was found in the island Tenerife of the Canary Islands. It was described on September 23, 2010. It occurred during the Holocene epoch.",
+    "Description": " \nThis bird was like many greenfinch species in its coloring, being olive green throughout most of the body. Its bill, as the name suggests, is longer and thinner than most Carduelis finches.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_floweri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. floweri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gerrhopilus floweri, also known as Flower's worm snake or Flower's blind snake, is a species of snake in the family Gerrhopilidae. The species is endemic to Southeast Asia.",
+    "Etymology": "The specific name, floweri, is in honor of British zoologist Stanley Smyth Flower.",
+    "Geographic range": "It is found in Thailand.",
+    "References": "",
+    "Further reading": "Boulenger GA (1899). In: Flower SS (1899). \"Notes on a Second Collection of Reptiles made in the Malay Peninsula and Siam, from November 1896 to September 1898, with a List of the Species recorded from those Countries\". Proc. Zool. Soc. London 1899: 600-696. (Typhlops floweri, new species, p. 654 + Plate XXXVII, figure 2)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_elegans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius elegans is a species of mushrooms in the family Cortinariaceae.",
+    "References": "",
+    "External links": "\"Cortinarius elegans\" at the Encyclopedia of Life\nCortinarius elegans at Index Fungarum"
+  }
+}

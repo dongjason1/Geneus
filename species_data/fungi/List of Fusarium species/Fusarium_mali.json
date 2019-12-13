@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_mali",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Neonectria"
+    },
+    {
+      "Species": "N. ditissima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Neonectria ditissima (syn. Neonectria galligena) is a fungal plant pathogen. It causes cankers that can kill branches of trees by choking them off.  Apple and beech trees are two susceptible species.",
+    "Host Range": "N. ditissima host range encompass a variety of hardwood tree species such as, Fagus, Populus, Salix, Betula and Acer species. . These tree species population are present in both America and Europe. Phylogenetic studies have revealed genetic divergence among both populations, at specific loci (ß-tubulin, RPB2). . However, due to high levels of within-population diversity of the American populations, it has been hypothesized that America is N. ditissima place of origin.",
+    "Disease management": "N. ditissima is a difficult pathogen to eradicate, however, there are many ways to manage the disease to limit its spread and infection rate. In order to effectively control N. ditissima a combination of cultural and chemical treatments must be used.",
+    "Disease management-Cultural control": "Multiple cultural techniques can be performed in order to manage the spread of N. ditissima. In order to minimize the number of wounds, through which the pathogen can enter, select trees that are well adapted to the local climate. In certain areas, trees must be able to resist damage due to environmental stresses such as cold temperatures. If cankers are present, it is important to prune out the damaged tissue in dry conditions. Dry conditions are unfavorable to the pathogen because it prohibits the development of fruiting structures and spore dispersal. It is essential to disinfect the equipment before and after pruning to prevent the spread of the pathogen to uninfected trees. Cankered prunings must be removed from the area and burned to eliminate the risk of continuing spore production. It is crucial to limit the use of high nitrogen, especially in manure, because it will encourage and facilitate the development of N. ditissima.",
+    "Disease management-Chemical control": "Fungicides that may be used to effectively control N. ditissima are limited. Infection by N. ditissima often occurs through wounds in the autumn and spring-summer period, therefore, it is recommended that fungicides be applied at these times. The application of fungicides will prevent or decrease the sporulation of existing cankers, which in turn decreases the inoculum available to spread the pathogen. Fungicides may also protect trees from N. ditissima through a fungitoxic deposit over favorable infection sites. A mixture of carbendazim and a scab fungicide, such as dithianon, is the suggested treatment in areas with a severe canker problem. In areas with a reduced risk of canker, it is recommended that a scab fungicide be applied in the spring-summer and copper oxychloride applied at leaf-fall to avoid infection. Although scab fungicides are commonly used for managing apple scab, cankers are also controlled when applied at the correct time. Thiophanate-methyl is another fungicide that is highly effective because it protects trees against the pathogen and suppresses sporulation of already infected plants. However, the application of thiophanate-methyl is limited due to its harm on organisms such as mites.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

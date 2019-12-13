@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shorea_maxima",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Dipterocarpaceae"
+    },
+    {
+      "Genus": "Shorea"
+    },
+    {
+      "Species": "S. maxima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Shorea maxima (also called Yellow Meranti) is a species of plant in the family Dipterocarpaceae. It is a tree endemic to Peninsular Malaysia.",
+    "References": "Ashton, P. (1998). \"Shorea maxima\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T31436A9634594. doi:10.2305/IUCN.UK.1998.RLTS.T31436A9634594.en. Retrieved 22 December 2017."
+  }
+}

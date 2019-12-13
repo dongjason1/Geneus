@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_mirabilis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. mirabilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus mirabilis is a species of plant in the family Rosaceae. It is a tree endemic to Borneo where it is confined to Sabah.",
+    "References": "\nKalkman, C. (1998). \"Prunus mirabilis\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T34614A9878349. doi:10.2305/IUCN.UK.1998.RLTS.T34614A9878349.en. Retrieved 22 December 2017."
+  }
+}

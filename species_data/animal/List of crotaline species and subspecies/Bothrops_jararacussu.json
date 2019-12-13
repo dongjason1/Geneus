@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_jararacussu",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. jararacussu"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops jararacussu, commonly known in English as the jararacussu, is a venomous pit viper species endemic to South America.",
+    "Geographic range": "It is found in coastal Brazil (from Bahia to Santa Catarina), Paraguay, southeastern Bolivia, and northeastern Argentina (Misiones Province).",
+    "Common names": "In Brazil, Bothrops jararacussu is known by many common names, among which are the following: jararacuçu, jararacuçu-verdadeiro, patrona, surucucu, surucucu-dourada, surucucu-tapete, urutu-dourado, and urutu-estrela.",
+    "Venom": "Like all other species in the genus Bothrops, the jararacussu has rather potent venom, and fatalities are known.",
+    "References": "",
+    "Further reading": "Lacerda, J.P. 1884. Leçons sur le venin des serpents du Brésil et sur la méthode de traitement des morsures venimeuses par le permanganate de potasse. Lombaerts & C. Rio de Janeiro. 194 pp. (Bothrops jararacussu, p. 8.)"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sphagnum_angustifolium",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Division": "Bryophyta"
+    },
+    {
+      "Class": "Sphagnopsida"
+    },
+    {
+      "Order": "Sphagnales"
+    },
+    {
+      "Family": "Sphagnaceae"
+    },
+    {
+      "Genus": "Sphagnum"
+    },
+    {
+      "Species": "S. angustfolium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sphagnum angustifolium, the fine bogmoss, is a species of peat moss with a Holarctic distribution.",
+    "References": "",
+    "External links": "USDA PLANTS profile\nSphagnum angustifolium @ Moss Flora of China"
+  }
+}

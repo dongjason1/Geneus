@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_landbeckii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Tillandsia subg. Diaphoranthema"
+    },
+    {
+      "Species": "T. landbeckii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia landbeckii is a plant species in the genus Tillandsia. This species is endemic to Peru and Chile. It is one of the species of Tillandsia known as aerophytes, that grow on shifting desert soil rather than attached to other plants.",
+    "References": "\nChilean Bromeliaceae: diversity, distribution and evaluation of conservation status (Published online: 10 March 2009)"
+  }
+}

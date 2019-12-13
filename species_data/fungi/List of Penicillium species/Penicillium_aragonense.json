@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_aragonense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. aragonense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium aragonense is an anamorph fungus species of the genus of Penicillium.",
+    "Further reading": "Ramírez, C.; Martínez, A. T. (1981). \"Seven new species of Penicillium and a new variety of Penicillium novae-caledoniae Smith\". Mycopathologia. 74: 35. doi:10.1007/BF00441440.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

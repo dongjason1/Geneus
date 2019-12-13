@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_virginea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. virginea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus virginea is a tree that is native to two small areas on the south coast of Western Australia.",
+    "See also": "\nList of Eucalyptus species\n\n\n== References =="
+  }
+}

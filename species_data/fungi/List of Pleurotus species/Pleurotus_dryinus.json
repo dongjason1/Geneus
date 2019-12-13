@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurotus_dryinus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Pleurotaceae"
+    },
+    {
+      "Genus": "Pleurotus"
+    },
+    {
+      "Species": "P. dryinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pleurotus dryinus is a species of fungus in the family Pleurotaceae. It grows on dead wood and is also a weak pathogen; infecting especially broad-leaved trees.",
+    "Naming": "The species name is a Latinised version of the Greek word \"dryinos\" (δρύῐνος), meaning \"related to oak\", and referring to one of its main hosts.The original definition of this fungus as Agaricus dryinus was made by Persoon in 1800.  In 1871 in his \"Führer in die Pilzkunde\" (\"Guide to mycology\"), Paul Kummer introduced Pleurotus as a genus and defined three similar ringed species: Pleurotus corticatus, Pleurotus Albertini and P. dryinus. They were distinguished because only P. corticatus has intertwined (\"anastomosing\") gills on the stem and P. Albertini is bigger and grows on conifer wood rather than oak.  However, nowadays all three are considered to be forms of the same species. The name dryinus takes precedence because it is the oldest.Also, in 1874 Fries defined a species Pleurotus tephrotrichus, having a deeper grey colour, which again has been incorporated into P. dryinus but may be distinguished as the variety P. dryinus var. tephrotrichus.The English name \"Veiled Oyster Mushroom\" has been given to this species.",
+    "Description": "The following sections use the given references throughout.",
+    "Description-General": "The cap, growing to about 13 cm, is pale, beige or (in variety tephrotrichus) greyish; later it can turn yellowish.  Veil remnants may adhere to the edge.  At first it is velvety (tomentose) and the tomentum can develop into grey-brown scales; in old specimens the surface becomes bare and may crack.\nThe whitish or pale brownish lateral stem may be very short or up to about 8 cm long, generally  with a membranous ring.\nThe gills are decurrent well down the stipe and may anastomose (criss-cross) at the lower extreme.  They are white or cream.\nThe smell is described as \"pleasant\" or \"slightly polypore-like\" or \"complex, a bit fruity or sourish\".  The odour is definitely not floury (which can be used to distinguish from P. calyptratus).  The taste is mild.",
+    "Description-Microscopic characteristics": "The flesh may be monomitic (as with ordinary fragile mushrooms) but it may also be dimitic, having extra thick-walled hyphae which give the flesh a tough consistency.\nThe elongated spores in the form of a rounded cylinder are around 9-15 μm by 3-5 μm.\nThere are no cystidia.",
+    "Description-Distribution, habitat & ecology": "This mushroom is saprobic on dead wood and can also be a weak parasite of trees.  It occurs especially on oak (from which it derives its name), but also on beech, other broad-leaved trees, and occasionally on conifers.  It is often solitary or may grow in small groups.\nAppearing from summer to autumn, it is distributed throughout Europe, where it varies locally between common and rare.  It is also found in North America.",
+    "Description-Similar species and varieties": "In the following table, Species Fungorum is a general reference for the names.",
+    "Human impact": "This mushroom is edible, though it is tough when older and inferior to the better-known Pleurotus species.It is a mild parasite of broad-leaved trees (a \"white rot\").Like some other Pleurotus species, P. dryinus attacks nematodes and may provide a control method for these parasites when they infect cats and dogs.",
+    "References": "",
+    "Links": "List of Pleurotus species"
+  }
+}

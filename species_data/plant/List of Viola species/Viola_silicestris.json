@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Viola_silicestris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Violaceae"
+    },
+    {
+      "Genus": "Viola"
+    },
+    {
+      "Species": "V. silicestris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Viola silicestris, commonly known as sandstone violet, is a perennial herb of the genus Viola native to southeastern Australia. It is described by K.R.Thiele & Prober in Telopea in 2006",
+    "References": "",
+    "External links": "Australia's Virtual Herbarium: Viola silicestris occurrence records."
+  }
+}

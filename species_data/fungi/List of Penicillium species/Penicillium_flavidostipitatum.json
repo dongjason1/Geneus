@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_flavidostipitatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. flavidostipitatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium flavidostipitatum is a species of the genus of Penicillium which produces patulin.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

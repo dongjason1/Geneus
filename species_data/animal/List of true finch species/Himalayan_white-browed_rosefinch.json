@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Himalayan_white-browed_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. thura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Himalayan white-browed rosefinch (Carpodacus thura) is a true finch species (family Fringillidae).\n\nIt is found in Afghanistan, Bhutan, India, Nepal, and Pakistan. Its natural habitats are temperate forests and temperate shrubland.",
+    "References": "",
+    "External links": "Images at ADW"
+  }
+}

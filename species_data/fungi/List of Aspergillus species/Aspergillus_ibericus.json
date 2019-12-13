@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_ibericus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. ibericus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus ibericus belongs to the group of black Aspergilli which are important industrial workhorses. A. costaricaensis belongs to the Nigri section. Its conidia size is approximately 5–7 μm. The species was first described in 2006. It has been isolated from grapes from Spain and Portugal.The genome of A. ibericus was sequenced and published in 2014 as part of the Aspergillus whole-genome sequencing project – a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 33.44 Mbp.",
+    "Growth and morphology": "A. ibericus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

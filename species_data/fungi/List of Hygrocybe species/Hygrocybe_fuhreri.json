@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hygrocybe_fuhreri",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hygrophoraceae"
+    },
+    {
+      "Genus": "Hygrocybe"
+    },
+    {
+      "Species": "H. fuhreri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hygrocybe fuhreri is a mushroom of the waxcap genus Hygrocybe. Described by mycologist Anthony M. Young in 2000, it is found in Australia, where it grows in moss and leaf litter in eucalypt woodland.",
+    "See also": "List of Hygrocybe species",
+    "References": "",
+    "External links": "Hygrocybe fuhreri  in Index Fungorum"
+  }
+}

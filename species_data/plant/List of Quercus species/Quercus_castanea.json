@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_castanea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. castanea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus castanea is a Mexican species of oak tree in the beech family. It is widespread across much of Mexico from Sonora to Chiapas.Quercus castanea is a deciduous tree up to 15 meters tall with a trunk as much as 80 cm in diameter. Leaves are thick and leathery, up to 116 mm long, elliptical with numerous pointed teeth along the edges.",
+    "References": "",
+    "External links": "photo of herbarium specimen at Missouri Botanical Garden, collected in Oaxaca in 1894"
+  }
+}

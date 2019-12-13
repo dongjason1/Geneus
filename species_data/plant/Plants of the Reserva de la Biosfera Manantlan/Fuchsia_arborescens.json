@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fuchsia_arborescens",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Onagraceae"
+    },
+    {
+      "Genus": "Fuchsia"
+    },
+    {
+      "Species": "F. arborescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fuchsia arborescens, commonly known as the tree fuchsia, is a tree of the genus Fuchsia native to Central America. It belongs to the section Schufia and is most closely related to Fuchsia paniculata.",
+    "References": "\n\n== External links =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_subtilis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. subtilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula subtilis is a basidiomycete mushroom of the genus Russula native to North America. Its flesh smells of parsley.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula subtilis  in Index Fungorum"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_prona",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. prona"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia prona is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This species occurs in European waters (ERMS scope).",
+    "Notes": "Additional information regarding this species:\nHabitat: Known from seamounts and knolls",
+    "References": "",
+    "External links": "To CLEMAM\nTo Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

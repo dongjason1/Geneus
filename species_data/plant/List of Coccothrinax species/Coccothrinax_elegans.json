@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Coccothrinax_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Arecales"
+    },
+    {
+      "Family": "Arecaceae"
+    },
+    {
+      "Genus": "Coccothrinax"
+    },
+    {
+      "Species": "C. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Coccothrinax elegans is a palm which is endemic to Cuba.Henderson and colleagues (1995) considered C. elegans to be a synonym of Coccothrinax miraguama.\n\n\n== References =="
+  }
+}

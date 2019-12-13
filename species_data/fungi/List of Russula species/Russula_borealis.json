@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_borealis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. laeta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula laeta is a brittle gill species that was first described by Julius Schäffer in 1952. This species is critically endangered in Belgium.\n\n\n== References =="
+  }
+}

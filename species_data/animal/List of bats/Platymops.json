@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Platymops",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "PlatymopsThomas, 1906"
+    },
+    {
+      "Species": "P. setiger"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peters's flat-headed bat (Platymops setiger) is a species of bat in the family Molossidae and the monotypic genus Platymops. It is found in Ethiopia, Kenya, and South Sudan. Its natural habitats are dry savanna and rocky areas.",
+    "References": "",
+    "Further reading": "Simmons, N. B. Order Chiroptera. In: Wilson, D. E.; Reeder, D. M. (Eds.). Mammal Species of the World: A Taxonomic and Geographic Reference. 3. ed. Baltimore: Johns Hopkins University Press, 2005. v. 1, p. 312-529."
+  }
+}

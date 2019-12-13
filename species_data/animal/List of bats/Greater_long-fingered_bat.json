@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greater_long-fingered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. inflatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greater long-fingered bat (Miniopterus inflatus) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Ethiopia, Gabon, Guinea, Kenya, Liberia, Mozambique, Namibia, Rwanda, Tanzania, Uganda, and Zimbabwe.\nIt roosts in caves.\n\n\n== References =="
+  }
+}

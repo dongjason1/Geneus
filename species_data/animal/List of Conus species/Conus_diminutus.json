@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_diminutus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. diminutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus diminutus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 9 mm and 22 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean along the west coast of the island Boa Vista, Cape Verde.",
+    "References": "Trovão, H. and Rolán, E. 1986. Description of a new species for the genus Conus (Mollusca: Gastropoda) from the Cape Verde Islands. Publicações Ocasionais da Sociedade Portuguesa de Malacologia 7:9-15, 2 figs.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Africonus diminutus\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

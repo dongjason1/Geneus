@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pholiota_malicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Pholiota"
+    },
+    {
+      "Species": "P. malicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pholiota malicola is a species of fungus in the Strophariaceae family of mushrooms. Originally called Flammula malicola by mycologist Calvin Henry Kauffman in 1926, it was transferred to the genus Pholiota by Alexander H. Smith in 1934. It is found in North America, and Australia.",
+    "See also": "List of Pholiota species\n\n\n== References =="
+  }
+}

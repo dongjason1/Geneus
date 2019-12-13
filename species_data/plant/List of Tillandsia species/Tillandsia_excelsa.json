@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_excelsa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Tillandsia subg. Allardtia"
+    },
+    {
+      "Species": "T. excelsa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia excelsa is a species in the genus Tillandsia. It is native to Central America, Cuba, Jamaica, and the Dominican Republic.\n\n\n== References =="
+  }
+}

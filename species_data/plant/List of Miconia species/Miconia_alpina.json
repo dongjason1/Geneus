@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miconia_alpina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Melastomataceae"
+    },
+    {
+      "Genus": "Miconia"
+    },
+    {
+      "Species": "M. alpina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miconia alpina is a species of tree in the family Melastomataceae. It is endemic to Peru and considered a vulnerable species by the IUCN.\n\n\n== References =="
+  }
+}

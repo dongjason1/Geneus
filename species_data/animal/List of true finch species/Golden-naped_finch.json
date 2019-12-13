@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Golden-naped_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "PyrrhoplectesHodgson, 1844"
+    },
+    {
+      "Species": "P. epauletta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The golden-naped finch (Pyrrhoplectes epauletta) is a species of finch in the Fringillidae family. It is in monotypic genus Pyrrhoplectes.\n\nIt is found in Bhutan, China, India, Myanmar, and Nepal. Its natural habitat is temperate forests.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Narcissus_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Amaryllidoideae"
+    },
+    {
+      "Genus": "Narcissus"
+    },
+    {
+      "Species": "N. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Narcissus elegans is a species of the genus Narcissus (daffodils) in the family Amaryllidaceae. It is classified in Section Tazettae and is native to the western Mediterranean.\n\n\n== References =="
+  }
+}

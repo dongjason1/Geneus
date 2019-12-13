@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_controversus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. controversus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius controversus is a species of fungus native to Tasmania.",
+    "References": "",
+    "External links": "Cortinarius controversus  in MycoBank."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_virginiae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. virginiae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras virginiae, the Miguelito cory, is a species of armored catfish from the family Callichthyidae, found commonly in Peru.\n\n\n== References =="
+  }
+}

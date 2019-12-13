@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_awamori",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. awamori"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus awamori is a species of aspergillus that is used to make awamori. It can produce citric acid and convert starch to sugar. Aspergillus awamori is often confused with Aspergillus niger as they have very similar morphologies and growth rates at different temperatures, and produce several common enzymes.\n\n\n== References =="
+  }
+}

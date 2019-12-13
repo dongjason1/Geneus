@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_borbonense",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. borbonense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper borbonense is a species of plant in the genus Piper.  A close relative of black pepper, its berries are used as a spice known as voatsiperifery, which comes from voa, the Malagasy word for fruit, and tsiperifery, the local name of the plant. A wild pepper, it grows in Madagascar.",
+    "References": "",
+    "External links": "http://plants.jstor.org/flora/floc012468"
+  }
+}

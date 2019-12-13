@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_calhetinensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. calhetinensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus calhetinensis is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 9 mm and 11 mm.",
+    "Distribution": "This marine species is found in the Atlantic Ocean off Boa Vista Island, Cape Verde.",
+    "References": "Cossignani T. & Fiadeiro R. (2014). Cinque nuovi coni da Capo Verde. Malacologia Mostra Mondiale. 84: 21- 27 page(s): 22",
+    "External links": "To World Register of Marine Species"
+  }
+}

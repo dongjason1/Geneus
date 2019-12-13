@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mouselike_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Hypsugo"
+    },
+    {
+      "Species": "H. musciculus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The mouselike pipistrelle (Hypsugo musciculus) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Cameroon, Republic of the Congo, Democratic Republic of the Congo, and Gabon.\nIts natural habitats are subtropical or tropical dry forest and subtropical or tropical moist lowland forest.\n\n\n== References =="
+  }
+}

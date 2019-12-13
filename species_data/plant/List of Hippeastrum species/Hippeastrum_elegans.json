@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hippeastrum_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Amaryllidoideae"
+    },
+    {
+      "Genus": "Hippeastrum"
+    },
+    {
+      "Species": "H. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hippeastrum elegans is a species of flowering plants. It is found in South America, from Costa Rica to Brazil.",
+    "See also": "List of Hippeastrum species",
+    "References": "",
+    "External links": "Hippeastrum elegans at The Plant List"
+  }
+}

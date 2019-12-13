@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_sizovae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. sizovae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium sizovae is an anamorph species of fungus in the genus Penicillium which produces agroclavine-I and epoxyagroclavine-I.",
+    "Further reading": "Vladimir Kren, Ladislav Cvak (2003). Ergot: The Genus Claviceps. CRC Press. ISBN 0-203-30419-5.\nQ. Ashton Acton (2012). Issues in Life Sciences: Botany and Plant Biology Research: 2011 Edition. ScholarlyEditions. ISBN 1-4649-6343-6.\n\n\n== References =="
+  }
+}

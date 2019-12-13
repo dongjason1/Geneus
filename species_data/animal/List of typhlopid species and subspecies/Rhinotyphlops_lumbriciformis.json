@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_lumbriciformis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. lumbriciformis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia lumbriciformis, also known as the Zanzibar gracile blind snake or wormlike beaked snake, is a species of snake in the Typhlopidae family. It is endemic to East Africa and is known from northeastern Tanzania (including Zanzibar) and from eastern Kenya.",
+    "References": "",
+    "Further reading": "Peters, W. 1874. Über einige neue Reptilien (Lacerta, Eremias, Diploglossus, Euprepes, Lygosoma, Sepsina, Ablepharus, Simotes, Onychocephalus). Monatsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin, Volume 1874, pp. 368–377."
+  }
+}

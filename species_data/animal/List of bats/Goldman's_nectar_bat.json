@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Goldman's_nectar_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lonchophylla"
+    },
+    {
+      "Species": "L. mordax"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Goldman's nectar bat (Lonchophylla mordax) is a bat species from South and Central America. It is found in Brazil, Colombia, Costa Rica, Ecuador and Panama.\n\n\n== References =="
+  }
+}

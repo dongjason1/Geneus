@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_latrans_mearnsi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. latrans"
+    },
+    {
+      "Subspecies": "C. l. mearnsi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mearns' coyote (Canis latrans mearnsi) is a subspecies of coyote native to the Southwestern United States.\nIt is found in Nevada, Arizona, southern Utah, deserts of southeastern California, west of Rio Grande in New Mexico, and extreme southwestern Colorado.",
+    "Description": "The Mearns' coyote is a small subspecies, with medium-sized ears, a small skull, and small teeth.\nThe fur is richly and brightly colored. The fulvous tints are exceedingly bright, covering the hind and forelegs.",
+    "References": "\n\n== External links =="
+  }
+}

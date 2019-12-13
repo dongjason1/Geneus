@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miconia_vesca",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Melastomataceae"
+    },
+    {
+      "Genus": "Miconia"
+    },
+    {
+      "Species": "M. vesca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miconia vesca is a species of plant in the family Melastomataceae. It is endemic to Ecuador. Miconia vesca is considered an endangered species due to habitat destruction.\n\n\n== References =="
+  }
+}

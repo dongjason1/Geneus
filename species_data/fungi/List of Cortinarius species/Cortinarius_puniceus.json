@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_puniceus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. puniceus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius puniceus is a species of fungus in the genus Cortinarius. It is closely related to Cortinarius sanguineus, which grows under conifers.",
+    "See also": "List of Cortinarius species\n\n\n== References =="
+  }
+}

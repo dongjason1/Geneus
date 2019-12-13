@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_leuphaeus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. leuphaeus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus leuphaeus is a species of bolete fungus in the Boletaceae family. Found in France, it was described as new to science in 1970.",
+    "See also": "List of Boletus species",
+    "References": "",
+    "External links": "Boletus leuphaeus  in Index Fungorum\nBoletus leuphaeus  in MycoBank."
+  }
+}

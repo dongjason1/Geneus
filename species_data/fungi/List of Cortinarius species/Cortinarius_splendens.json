@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_splendens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. splendens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius splendens, commonly known as the splendid webcap, is a basidiomycete mushroom of the genus Cortinarius native to Europe. It has been implicated in poisonings resulting in renal failure, though with milder symptoms than other deadly webcaps.The species was described in 1939. It has been classed as conspecific with Cortinarius meinhardii, although the two species have different tree hosts—the former with the  European beech (Fagus sylvatica) and the latter with Norway spruce (Picea abies).",
+    "See also": "\nList of Cortinarius species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_nervisequum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Sordariomycetidae"
+    },
+    {
+      "Order": "Diaporthales"
+    },
+    {
+      "Family": "Gnomoniaceae"
+    },
+    {
+      "Genus": "Apiognomonia"
+    },
+    {
+      "Species": "A. veneta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Apiognomonia veneta is a plant pathogen which causes anthracnose on London Plane trees.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

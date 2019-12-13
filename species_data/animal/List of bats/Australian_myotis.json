@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Australian_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. australis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Australian myotis (Myotis australis) is a species of vesper bat. It is found only in Australia. \nThis taxa may not represent a valid species.\nOnly one specimen has ever been documented, supposedly from New South Wales.\nThis specimen may have been mislabelled or a vagrant Myotis muricola or Myotis ater.",
+    "Taxonomy and etymology": "It was described as a new species in 1878 by Irish zoologist George Edward Dobson.\nDobson named it as Vespertilio australis.\nDue to concerns about the accuracy of Dobson's initial record, as well as the fact that the species has not been detected since, the Australian myotis is largely regarded as an erroneous record.\nThe large-footed myotis is generally considered as the only member of its genus in Australia.",
+    "Description": "It is a small species of bat with a body length of 1.5 in (3.8 cm).\nIts fur is brown, short, and dense.\nThe uropatagium has a \"narrow but distinct\" calcar.\nIts tragi are slightly curved.",
+    "Range and habitat": "It is only known from New South Wales, Australia.",
+    "Conservation": "As of 2008, it is listed as a data deficient species by the IUCN.\nIt meets the criteria for this classification because of ongoing doubts surrounding its taxonomic validity and a lack of information about its range, biology, and threats it faces.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_dipodomyis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. dipodomyis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium dipodomyis is a species of the genus of Penicillium which occurs in kangaroo rats and produces penicillin and the diketopiperazine dipodazine.",
+    "Further reading": "Henk, D. A.; Fisher, M. C. (2011). \"Genetic Diversity, Recombination, and Divergence in Animal Associated Penicillium dipodomyis\". PLoS ONE. 6 (8): e22883. doi:10.1371/journal.pone.0022883. PMC 3151277. PMID 21850241.\nBanke, S. R.; Frisvad, J. C.; Rosendahl, S. R. (1997). \"Taxonomy of Penicillium chrysogenum and related xerophilic species, based on isozyme analysis\". Mycological Research. 101 (5): 617. doi:10.1017/S0953756296003048.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

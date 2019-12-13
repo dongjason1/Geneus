@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brooks's_dyak_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Dyacopterus"
+    },
+    {
+      "Species": "D. brooksi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Brooks’s dyak fruit bat (Dyacopterus brooksi) is a species of megabat in the family Pteropodidae endemic to Sumatra. It was formerly included as a subspecies of Dyacopterus spadiceus. It is named for Cecil Joslin Brooks, who collected the type specimen near Bencoolen and presented it to Oldfield Thomas.\n\n\n== References =="
+  }
+}

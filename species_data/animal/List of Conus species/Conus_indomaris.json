@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_indomaris",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. indomaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus indomaris is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell attains 45 mm.",
+    "Distribution": "This marine species in the Central Indian Ocean and off Southwest India.",
+    "References": "Bozzetti L. (2014). Graphiconus indomaris (Gastropoda: Prosobranchia: Conidae: Puncticuliinae) a new species from Central Indian Ocean. Malacologia Mostra Mondiale. 85: 12-13",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea\n\"Graphiconus indomaris\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

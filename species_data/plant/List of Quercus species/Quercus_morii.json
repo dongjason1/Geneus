@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_morii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Cyclobalanopsis"
+    },
+    {
+      "Species": "Q. morii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus morii is an uncommon Asian species of trees in the beech family. It has been found only in Taiwan.Quercus morii is a large tree up to 30 meters tall. Leaves can be as much as 10 cm long.",
+    "References": "",
+    "External links": "line drawing, Flora of China Illustrations vol. 4, fig. 390, drawings 1 + 2 at upper left"
+  }
+}

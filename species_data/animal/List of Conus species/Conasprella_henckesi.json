@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conasprella_henckesi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conasprella"
+    },
+    {
+      "Species": "C. henckesi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conasprella henckesi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conasprella, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Distribution": "This species occurs in the Atlantic Ocean off Northeast Brasil.",
+    "Description": "The maximum recorded shell length is 17.3 mm.",
+    "Habitat": "Minimum recorded depth is 1 m. Maximum recorded depth is 2 m.",
+    "References": "",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Jaspidiconus henckesi\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

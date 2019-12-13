@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Zealand_raven",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Corvidae"
+    },
+    {
+      "Genus": "Corvus"
+    },
+    {
+      "Species": "C. antipodum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The New Zealand raven (Corvus antipodum) was native to the North Island and South Island of New Zealand but has been extinct since the 16th century. There were two subspecies: the North Island raven (Corvus antipodum antipodum) and the South Island raven (Corvus antipodum pycrofti). Another closely related species, the Chatham raven (Corvus moriorum), occurred on the Chatham Islands.\nThe holotype of the South Island raven (Corvus antipodum pycrofti) is in the collection of the Museum of New Zealand Te Papa Tongarewa.New Zealand ravens were large corvids with long, broad bills that were not as arched as those of some of the Hawaiian crows (Corvus hawaiiensis). They were significantly smaller than the Chatham Island raven, and the South Island subspecies was rather larger than the North Island subspecies.\nRemains of New Zealand ravens are most common in Pleistocene and Holocene coastal sites. On the coast, it may have frequented seal and penguin colonies or fed in the intertidal zone, as does the Tasmanian forest raven Corvus tasmanicus. It may also have depended on fruit, like the New Caledonian crow Corvus moneduloides, but it is difficult to understand why a fruit eater would have been most common in coastal forest and shrubland when fruit was distributed throughout the forest.",
+    "See also": "List of Late Quaternary prehistoric bird species\nList of New Zealand animals extinct in the Holocene",
+    "References": "Gill, B. J. 2003. \"Osteometry and systematics of the extinct New Zealand ravens (Aves: Corvidae: Corvus)\". Journal of Systematic Palaeontology 1: 43-58.\nWorthy, T.H., Holdaway R.N., 2002, The Lost World of the Moa: Prehistoric Life of New Zealand, Indiana University Press, Bloomington. ISBN 0-253-34034-9.",
+    "External links": "New Zealand Raven. Corvus antipodum. by Paul Martinson. Artwork produced for the book Extinct Birds of New Zealand, by Alan Tennyson, Te Papa Press, Wellington, 2006\nThe Extinction Website"
+  }
+}

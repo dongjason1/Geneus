@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Thomas's_broad-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Platyrrhinus"
+    },
+    {
+      "Species": "P. dorsalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Thomas's broad-nosed bat (Platyrrhinus dorsalis) is a species of bat in the family Phyllostomidae. It is found in Bolivia, Colombia, Ecuador, Panama, and Peru.\n\n\n== References =="
+  }
+}

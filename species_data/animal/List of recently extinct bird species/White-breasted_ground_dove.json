@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-breasted_ground_dove",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Pampusana"
+    },
+    {
+      "Species": "P. jobiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-breasted ground dove, white-bibbed ground dove, or purple ground dove (Pampusana jobiensis), is a species of bird in the family Columbidae. It is found in New Guinea, the Bismarck Archipelago and the Solomon Islands. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest.\nThis species was formerly in the genus Alopecoenas Sharpe, 1899, but the name of the genus was changed in 2019 to Pampusana Bonaparte, 1855 as this name has priority.",
+    "Gallery": "\n\t\t\n\n\n== References =="
+  }
+}

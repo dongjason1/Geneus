@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dermanura_rava",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Dermanura"
+    },
+    {
+      "Species": "D. rava"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dermanura rava is a species of leaf-nosed bat found in Central and South America.",
+    "Taxonomy": "Dermanura rava was described as a new species in 1902 by American zoologist Gerrit Smith Miller. The holotype had been collected in San Javier of northern Ecuador by \"G. Fleming\", often given by others as Flemming. Georg Flemming was a collector of biological specimens for William Frederick Henry Rosenberg, along with Rudolf Miketta. Dermanura species have frequently been included in the genus Artibeus, so D. rava has also been known as Artibeus ravus. Additionally, it was listed as a synonym of the pygmy fruit-eating bat (Dermanura phaeotis) in 1978 and 1982 publications. However, subsequent molecular analysis showed that D. rava was genetically distinct from the pygmy fruit-eating bat. Its sister taxon is Andersen's fruit-eating bat (Dermanura anderseni).",
+    "Description": "Its fur is yellowish brown, and its face has four indistinct, whitish stripes. Its ears and flight membranes are light brown, with the margins of the flight membranes whitish. Based on the holotype, it has a forearm length of approximately 36 mm (1.4 in).",
+    "Range and habitat": "D. rava is found in the following countries: Panama, Colombia, Ecuador, and Peru. It has been documented at a range of elevations from 0–2,050 m (0–6,726 ft) above sea level.",
+    "Conservation": "As of 2019, it is evaluated as a least-concern species by the IUCN. It meets the criteria for this designation because of its wide geographic range, which includes large tracts of in-tact forest. It is considered relatively abundant, and no major threats to it or its habitat have been identified.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cantor's_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. galeritus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cantor's roundleaf bat (Hipposideros galeritus) is a species of bat in the family Hipposideridae. It is found in Bangladesh, Brunei, Cambodia, India, Indonesia, Laos, Malaysia, Sri Lanka, Thailand and Vietnam.\nIt is named after Theodore Edward Cantor, a 19th-century Danish physician, zoologist and botanist.\n\n\n== References =="
+  }
+}

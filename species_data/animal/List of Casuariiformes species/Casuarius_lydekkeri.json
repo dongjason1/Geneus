@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Casuarius_lydekkeri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Casuariiformes"
+    },
+    {
+      "Family": "Casuariidae"
+    },
+    {
+      "Genus": "Casuarius"
+    },
+    {
+      "Species": "C. lydekkeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Casuarius lydekkeri is an extinct species of cassowary.",
+    "Distribution and habitat": "It was distributed in New South Wales during the Pleistocene, its bones being found in caves near Wellington significantly further south than extant cassowaries, which are confined to Far North Queensland. It is also known from deposits from the central highlands, Papua New Guinea \n\n\n== References =="
+  }
+}

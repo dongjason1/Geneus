@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_lyelli",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. lyelli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus lyelli is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell attains 29.4 mm. Conus lyelli shows tubercles on all postnuclear whorls. This species is different from any known extant species. This suggests that it, along with Conus xenicus, may be members of an extinct clade of cone snails.",
+    "Distribution": "This marine species is only known in the fossil state from the Neogene of the Dominican Republic.",
+    "References": "Hendricks J.R. (2015). Glowing seashells: diversity of fossilized coloration patterns on coral reef-associated cone snail (Gastropoda: Conidae) shells from the Neogene of the Dominican Republic. PLoS ONE. 10(4): e0120924",
+    "External links": "To World Register of Marine Species"
+  }
+}

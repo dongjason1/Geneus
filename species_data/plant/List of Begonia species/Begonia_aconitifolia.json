@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_aconitifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. aconitifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia aconitifolia is a species of plant in the family Begoniaceae, endemic to Brazil. It grows up to 1 meter in height, with panicles of pink flowers.",
+    "Synonyms": "Begonia faureana Garnier\nBegonia faureana var. argentea Linden\nBegonia faureana var. metallica Rodigas\nBegonia kimusiana C.Chev.\nBegonia sceptrum Rodigas",
+    "References": "\nAnn. Sci. Nat., Bot. IV, 11: 127 1859.\nThe Plant List\nHortipedia\nThe Garden Geeks"
+  }
+}

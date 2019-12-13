@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lactarius_trivialis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Lactarius"
+    },
+    {
+      "Species": "L. trivialis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lactarius trivialis is a species of mushroom belonging to the genus Lactarius. The fungus is most commonly found around Great Britain and Ireland. The colour of the mushroom's cap can range from a light brown colour, to dark purple. The species has a total of five subtaxa. It was discovered and first recorded in the year 1838 by Elias Magnus Fries, in his book, Epicrisis Systematis Mycologici.",
+    "See also": "List of Lactarius species\n\n\n== References =="
+  }
+}

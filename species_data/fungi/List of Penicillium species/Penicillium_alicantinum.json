@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_alicantinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. alicantinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium alicantinum is a fungus species of the genus of Penicillium which was isolated from the atmosphere in Madrid.",
+    "Further reading": "Ramírez, C.; Martínez, A. T. (1980). \"Some new species of Penicillium recovered from the atmosphere in Madrid and from other substrata\". Mycopathologia. 72 (3): 181–91. doi:10.1007/BF00572662. PMID 7464904.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Desert_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "RhodospizaSharpe, 1888"
+    },
+    {
+      "Species": "R. obsoleta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The desert finch (Rhodospiza obsoleta), sometimes called Lichtenstein's desert finch, is a large brown true finch found in southern Eurasia. Its taxonomy is confused, and it has formerly been placed in Fringilla, Bucanetes, Carduelis and Rhodopechys.\nIt has an average wingspan of 26 centimetres (10 in). It has a stout black bill, black and white remiges and rectrices, and a slash of rosy-pink on each wing. The female is more dull in color than the male, but other than that the adult sexes are similar in color pattern.\nThe bird is indeed a desert resident in areas where water is readily available, but it can also be found in low mountains and foothills, and in cultivated valleys. It feeds on seeds and the occasional insect. Nesting occurs in trees in the spring, often in fruit trees in orchards, and the female lays and incubates 4 to 6 pale green, lightly speckled eggs.\nThis species does not migrate except locally. The desert finch congregates near rural and remote human settlements, and the well-watered orchard in otherwise arid land is an ideal habitat. It can be found in feeding in large flocks of its own species or mixed finch flocks.\nRecent research by Zamora et al. (2006) has revealed that the desert finch is more closely related to the greenfinches of the genus Carduelis (or Chloris, if Carduelis is split up) as indicated by DNA sequence analysis, vocalizations, and the presence of a black eye-stripe. Genetically, it seems very close to the common ancestor of the greenfinches. It may be that the latter evolved from a desert form and later developed the green plumage, or that the common ancestor of the greenfinches and the desert finch (which lived around 6 million years ago) was a species of semiarid habitat which subsequently diverged into a truly desert-adapted lineage, today represented by the desert finch, and the ancestor of a woodlands lineage, the greenfinches.",
+    "Origin of greenfinches": "The common ancestor of all greenfinches, which are among the oldest Carduelis species, appeared on Earth around 9 MYA.\nOne of these common ancestors is the desert finch, which now thrives in Asian deserts, but could have also inhabited African deserts.\nThis finch, with very pale colors and a breeding season mask similar to that of the common greenfinch, used to be classified, according to phenotypical (external) characters, close to the trumpeter finch, but it belongs to genus Carduelis according to several molecular studies.Two subfossil greenfinches, the slender-billed greenfinch, Carduelis aurelioi, and the Trias greenfinch, Carduelis triasi, are known from the Canary Islands.",
+    "References": "\nGroth, J. G. 1994. A mitochondrial cytochrome b phylogeny of cardueline finches. Journal für Ornithologie, 135: 31.\nLichtenstein, Martin Heinrich Carl: [Description of Carduelis obsoleta]. In: Eversmann, Eduard Friedrich, Reise von Orenburg nach Buchara. Nebst einem Wortverzeichniss aus der Afghanischen Spracbe begleitet von einem naturhistorischen Anhange und einer Vorrede von Н. Lichtenstein: Appendix 132. Berlin, 1822. [in German]"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ivara_terryi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Ivara"
+    },
+    {
+      "Species": "I. terryi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ivara terryi is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The length of the shell attains 3.2 mm.",
+    "Distribution": "This marine species occurs in the following locations:\nCaribbean Sea\nColombia\nGulf of Mexico\nMexico\nPanama",
+    "References": "Rosenberg, G., F. Moretzsohn, and E. F. García. 2009. Gastropoda (Mollusca) of the Gulf of Mexico, Pp. 579–699 in Felder, D.L. and D.K. Camp (eds.), Gulf of Mexico–Origins, Waters, and Biota. Biodiversity. Texas A&M Press, College Station, Texas.",
+    "External links": "To World Register of Marine Species"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pandanus_joskei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Pandanales"
+    },
+    {
+      "Family": "Pandanaceae"
+    },
+    {
+      "Genus": "Pandanus"
+    },
+    {
+      "Species": "P. joskei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pandanus joskei is a species of plant in the family Pandanaceae. It is endemic to Fiji.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_westlingii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. westlingii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium westlingii is a species of fungus in the genus Penicillium which was isolated from soil near Poznan in Poland. Penicillium westlingii produces citrinin and sterol.",
+    "Further reading": "Houbraken, J.; Frisvad, J. C.; Samson, R. A. (2011). \"Taxonomy of Penicillium section Citrina\". Studies in Mycology. 70 (1): 53–138. doi:10.3114/sim.2011.70.02. PMC 3233908. PMID 22308046.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_marinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. marinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium marinum is a species in the genus Penicillium which produces patulin and roquefortine C.",
+    "Further reading": "Wigley, L. J.; Perry, D. A.; Mantle, P. G. (2008). \"An experimental strategy towards optimising directed biosynthesis of communesin analogues by Penicillium marinum in submerged fermentation\". Mycological Research. 112 (2): 131–137. doi:10.1016/j.mycres.2007.09.003. PMID 18280722.\nGeiger, M; Guitton, Y; Vansteelandt, M; Kerzaon, I; Blanchet, E; Robiou Du Pont, T; Frisvad, J. C.; Hess, P; Pouchus, Y. F.; Grovel, O (2013). \"Cytotoxicity and mycotoxin production of shellfish-derived Penicillium spp., a risk for shellfish consumers\" (PDF). Letters in Applied Microbiology. 57 (5): 385–92. doi:10.1111/lam.12143. PMID 24006923.\n\n\n== References =="
+  }
+}

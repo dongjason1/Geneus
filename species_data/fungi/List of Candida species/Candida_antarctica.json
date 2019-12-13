@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_antarctica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. antarctica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida antarctica is a yeast species in the genus Candida.\nCandida antarctica is a source of industrially important lipases. Immobilized Candida antarctica lipase can be used to catalyze the regioselective acylation of flavonoids or the direct acetylation with phenolic acids.",
+    "References": "\n\n== External links =="
+  }
+}

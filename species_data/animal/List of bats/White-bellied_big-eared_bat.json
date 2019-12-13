@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-bellied_big-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Micronycteris"
+    },
+    {
+      "Species": "M. minuta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-bellied big-eared bat (Micronycteris minuta) is a bat species from South and Central America.\n\n\n== References =="
+  }
+}

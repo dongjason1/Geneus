@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Buffy_broad-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Platyrrhinus"
+    },
+    {
+      "Species": "P. infuscus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The buffy broad-nosed bat (Platyrrhinus infuscus) is a bat species from South America. It is found in Bolivia, western Brazil, Colombia, Ecuador, and Peru.\n\n\n== References =="
+  }
+}

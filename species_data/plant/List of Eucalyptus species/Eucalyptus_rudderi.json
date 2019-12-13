@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_rudderi",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. rudderi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus rudderi, or Rudder's box, is a tree native to northern New South Wales.\n\n\n== References =="
+  }
+}

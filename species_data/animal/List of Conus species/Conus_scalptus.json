@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_scalptus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. scalptus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus scalptus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "Conus scalptus is a small (16–45 mm) and has a medium weight. The shell is turbinated with convex sides, rather solid, polished, grooved towards the base. Its color is whitish, with numerous hair-like, light brown, revolving lines. The protoconch is dirty white. The spire is spirally striated, rather elevated, with a sharp apex. Its color is variegated with chestnut. There are 6-7 post nuclear whorls with 2-4 incised spiral grooves on the inner side of each whorl.",
+    "Distribution": "Most true Conus scalptus appear to be from the Philippines, designated as type locality by Filmer (2011).; off Papua New Guinea.",
+    "References": "Reeve, L. A., 1843. Monograph of the genus Conus. Conchologia Iconica, i: figures and descriptions of the shells of molluscs; with remarks on their affinities, synonymy, and geographical distribution, 1. Conus",
+    "External links": "The Conus Biodiversity website"
+  }
+}

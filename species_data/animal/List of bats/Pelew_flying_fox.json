@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pelew_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. pelewensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Pelew flying fox (Pteropus pelewensis) is a species of megabat in the genus Pteropus found in the Pelew Islands.  The species is listed as \"Near Threatened\" by the IUCN due to commercial and small-scale hunting; commercial hunting for the species was banned in 1994, but local exploitation is commonplace.  The species is listed on CITES appendix I.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Norfolk_boobook",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Strigiformes"
+    },
+    {
+      "Family": "Strigidae"
+    },
+    {
+      "Genus": "Ninox"
+    },
+    {
+      "Species": "N. novaeseelandiae"
+    },
+    {
+      "Subspecies": "†N. n. undulata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Norfolk boobook (Ninox novaeseelandiae undulata), also known as the Norfolk Island boobook, Norfolk Island owl or Norfolk Island morepork, was a bird in the true owl family endemic to Norfolk Island, an Australian territory in the Tasman Sea between Australia and New Zealand. It is an extinct subspecies of the morepork (Ninox novaeseelandiae). However, although the taxon is extinct, its genes live on in the descendants of the hybrid offspring of the last female bird, which was sighted for the last time in 1996.",
+    "Description": "The Norfolk boobook was very similar in appearance to other subspecies of the morepork, being a small brown hawk owl with mottled plumage. It was smaller, darker and more reddish in colouring than the Australian subspecies, with much spotting. However, it was slightly larger than the nominate subspecies from New Zealand; female boobooks are larger than the males, with New Zealand females comparable in size to Norfolk Island males, a factor which gave rise to sexing difficulties with hybrid birds in the conservation management program.",
+    "Habitat": "The owl inhabited the island's subtropical rainforest, which was largely cleared in the 19th century following human settlement. Most of the remaining forest lies within the small (4.65 km²) Mt Pitt section of the Norfolk Island National Park.",
+    "Behaviour": "",
+    "Behaviour-Breeding": "Boobooks breed in tree hollows. Recorded clutch sizes from Norfolk Island range from one to three eggs, with two being usual.",
+    "Behaviour-Feeding": "Boobooks feed on small vertebrates, especially birds and mammals, as well as invertebrates.",
+    "Status and conservation": "The population of the Norfolk boobook declined with the clearance and modification of its forest habitat, especially the felling of large trees with suitable hollows for nesting in. There was also competition for nest hollows with feral honey bees and introduced crimson rosellas. By 1986 the population had been reduced to a single female bird, named \"Miamiti\" after a matriarch of the Norfolk Island people.  As part of a program to attempt to conserve at least some of the genes of the insular subspecies, two male moreporks of the nominate New Zealand subspecies, Ninox novaeseelandiae novaeseelandiae, were introduced to the island as mates for the female. The males were sourced from the New Zealand subspecies rather than one of the Australian subspecies as it was discovered that it was more closely related to the Norfolk Island taxon.  Nest boxes were also provided. One of the introduced males disappeared a year after introduction but the other successfully mated with the female with the pair producing fledged chicks in 1989 and 1990. The original female disappeared in 1996 but, by then, there was a small hybrid population of about a dozen birds. These birds and their descendants continue to exist on the island.",
+    "Notes": "",
+    "References": "Anon. (2004). What the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act) means for Norfolk Island. Commonwealth of Australia. ISBN 0-642-55031-X [1]\nDouble, Michael; Olsen, Penny (1997). \"Simplified polymerase chain reaction (PCR)-based sexing assists conservation of an endangered owl, the Norfolk Island Boobook Ninox novaeseelandiae undulata\". Bird Conservation International. 7: 283–286. doi:10.1017/S0959270900001581.\nGarnett, Stephen T.; & Crowley, Gabriel M. (2000). The Action Plan for Australian Birds 2000. Environment Australia: Canberra. ISBN 0-642-54683-5 [2]\nHiggins, P.J. (ed). (1999). Handbook of Australian, New Zealand and Antarctic Birds.  Volume 4: Parrots to Dollarbird. Oxford University Press: Melbourne.  ISBN 0-19-553071-3\nNorman, Janette; Olsen, Penny; Christidis, Les (1998). \"Molecular genetics confirms taxonomic affinities of the endangered Norfolk Island Bookbook Owl Ninox novaeseelandiae undulata\". Biological Conservation. 86 (1): 33–36. doi:10.1016/S0006-3207(98)00012-3."
+  }
+}

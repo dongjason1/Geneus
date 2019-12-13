@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_viride",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. viride"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma viride is a fungus and a biofungicide.\nIt is used for seed and soil treatment for suppression of various diseases caused by fungal pathogens.",
+    "Biology": "T. viride is a mold which produces spores asexually, by mitosis. It is the anamorph of Hypocrea rufa, its teleomorph, which is the sexual reproductive stage of the fungus and produces a typical fungal fruiting body. The mycelium of T. viride can produce a variety of enzymes, including cellulases and chitinases which can degrade cellulose and chitin respectively. The mould can grow directly on wood, which is mostly composed of cellulose, and on fungi, the cell walls of which are mainly composed of chitin. It parasitizes the mycelia and fruiting bodies of other fungi, including cultivated mushrooms, and it has been called the \"green mould disease of mushrooms\". The affected mushrooms are distorted and unattractive in appearance and the crop is reduced. Trichoderma viride is the causal agent of green mold rot of onion. A strain of Trichoderma viride is a known cause of dieback of Pinus nigra seedlings.",
+    "Uses": "The fungicidal activity makes T. viride useful as a biological control against plant pathogenic fungi. It has been shown to provide protection against such pathogens as Rhizoctonia, Pythium and even Armillaria. It is found naturally in soil and is effective as a seed dressing in the control of seed and soil-borne diseases including Rhizoctonia solani, Macrophomina phaseolina and Fusarium species. When it is applied at the same time as the seed, it colonizes the seed surface and kills not only the pathogens present on the cuticle, but also provides protection against soil-borne pathogens.A closely related species, Trichoderma reesei, is used in the creation of stonewashed jeans. The cellulase  produced by the fungus partially degrade the cotton material in places, making it soft and causing the jeans to look as if they had been washed using stones.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

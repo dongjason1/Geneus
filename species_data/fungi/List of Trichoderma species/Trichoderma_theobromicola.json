@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_theobromicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. theobromicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma theobromicola is a species of endophytic fungus in the family Hypocreaceae. It was first isolated from the trunk of a healthy cacao tree in Amazonian Peru. It produces a volatile antibiotic that inhibits development of M. roreri.",
+    "References": "",
+    "Further reading": "Zhang, Chu-long;  et al. (2007). \"Trichoderma taxi sp. nov., an endophytic fungus from Chinese yew Taxus mairei\". FEMS Microbiology Letters. 270 (1): 90–96. doi:10.1111/j.1574-6968.2007.00659.x.\nSamuels, Gary J.; Ismaiel, Adnan (2009). \"Trichoderma evansii and T. lieckfeldtiae: two new T. hamatum-like species\". Mycologia. 101 (1): 142–156. doi:10.3852/08-161.\nBae, Hanhong;  et al. (2011). \"Endophytic Trichoderma isolates from tropical environments delay disease onset and induce resistance against Phytophthora capsici in hot pepper using multiple mechanisms\". Molecular Plant-Microbe Interactions. 24 (3): 336–351. doi:10.1094/mpmi-09-10-0221. PMID 21091159.",
+    "External links": "\"Trichoderma theobromicola\" at the Encyclopedia of Life\nMycoBank"
+  }
+}

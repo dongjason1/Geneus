@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gilliard's_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. gilliardorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gilliard's flying fox (Pteropus gilliardorum) is a species of flying fox in the family Pteropodidae. In Spanish, the common name is zorro volador de Gilliard. It is endemic to Papua New Guinea. It is known from only three specimens.",
+    "Biology": "Their natural habitats are subtropical or tropical dry forests and subtropical or tropical swamps. They prefer to stay solitary or in small groups. They live in a restricted range, and widespread clearing of lowland forests could affect upland habitats. Not enough information about the Gilliard's flying fox is available to determine if it is a threatened or endangered species.\n\n\n== References =="
+  }
+}

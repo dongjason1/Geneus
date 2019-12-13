@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_nana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. nana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula nana is a species of agaric fungus in the family Russulaceae. First described in 1905 as variety of Russula emetica, it was given distinct species status by Killermann in 1936. It is found in Europe.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula nana  in Index Fungorum"
+  }
+}

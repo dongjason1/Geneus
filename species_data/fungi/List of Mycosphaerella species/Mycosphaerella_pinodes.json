@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_pinodes",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Didymellaceae"
+    },
+    {
+      "Genus": "Didymella"
+    },
+    {
+      "Species": "D. pinodes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Didymella pinodes (syn. Mycosphaerella pinodes)  is a hemibiotrophic  fungal plant pathogen and the causal agent of ascochyta blight on pea plants. It is infective on several species such as Lathyrus sativus, Lupinus albus, Medicago spp., Trifolium spp., Vicia sativa, and Vicia articulata, and is thus defined as broadrange pathogen.",
+    "Symptoms": "Symptoms include lesions on leaves, stem and pods of plants. The disease is difficult to distinguish from blight caused by Ascochyta pisi, though D. pinodes is the more aggressive of the two pathogens.",
+    "Epidemiology": "The disease cycle starts with dissemination of ascospores after which germination pycnidia rapidly develop. Pycnidiaspores quickly disperse by rain splashes are responsible for reinfection over short distances. Consequently, production of pseudothecia is initiated on senescent tissues. After rainfall, ascospores are released from the pseudothecia and disperse by wind over long distances.",
+    "Disease management": "Useful levels of resistance remain to be determined and the application of fungicidal sprays was reported to be uneconomical. Furthermore, reports showed that insensitivity arises against chemicals such as strobilurons after continuous application. Thus, cultural management is the preliminar option to control the disease progress by minimizing inoculum carry over as well as survival of inoculum on crop residues and in soil, and avoiding initial infection from arial inoculum. Furthermore, burying of infected residues declines pathogen survival, however, crop rotation and tillage regimes have little influence on disease severity. Delayed sowing by 3–4 weeks reduces ascochyta blight severity by more than 50%, however, such measures are not feasible at higher latitudes, because of a shorter growing season.",
+    "Host resistance": "So far, only incomplete resistance is available in the pea germplasm and quantitative differences are highly influenced by environmental conditions, plant age and physiological characteristics of plants. Tall cultivars with more erect growth suffer lower D. pinodes infection. Susceptibility increases with earliness  and along with maturity of plants.Besides morphological traits, a proteomic and metabolomic study pinpointed molecular markers contributing to resistance. Disease severity of leaves was also reported to be lower when pea plants are associated with rhizobial bacteria that presumably provoke so called induced sysmteic resistance.",
+    "See also": "List of Mycosphaerella species",
+    "External links": "USDA ARS Fungal Database\nIndex Fungorum\n\n\n== References =="
+  }
+}

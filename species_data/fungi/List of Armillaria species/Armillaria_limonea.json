@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_limonea",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. limonea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria limonea is a species of mushroom in the Physalacriaceae family. This plant pathogenic species is one of three Armillaria that have been identified in New Zealand (the others are A. novae-zelandiae and A. hinnulea).",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

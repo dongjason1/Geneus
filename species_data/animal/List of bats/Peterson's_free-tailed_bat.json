@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peterson's_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mops"
+    },
+    {
+      "Species": "M. petersoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peterson's free-tailed bat (Mops petersoni) is a species of bat in the family Molossidae. It is found in Cameroon and Ghana, and its natural habitats are subtropical or tropical dry forest and subtropical or tropical moist lowland forest. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

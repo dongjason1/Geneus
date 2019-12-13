@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sturdee's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. sturdeei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sturdee's pipistrelle (Pipistrellus sturdeei) is a bat that was thought to have lived in Japan before officially becoming extinct in 2000. In 2006 the IUCN changed its official status to \"Data Deficient\", as new data throws doubt on the taxonomic status of the species.",
+    "Range": "Pipistrellus studeei was thought to have existed solely on Haha-jima Island in Bonin Islands, Japan, where the only known specimen was discovered. However, more recent scholarship places doubt on the single specimen's origin and taxonomy.",
+    "Population": "The previous population of this animal is unknown because only one specimen has been preserved, which is currently housed in the Natural History Museum, London. No record of Sturdee's pipistrelle has been observed over the last hundred years.\n\n\n== References =="
+  }
+}

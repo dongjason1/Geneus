@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_fulvum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. fulvum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma fulvum is a mushroom of the agaric genus Tricholoma. The fruit bodies are edible.",
+    "See also": "List of North American Tricholoma\nList of Tricholoma species",
+    "References": "",
+    "External links": "Tricholoma fulvum  in Index Fungorum"
+  }
+}

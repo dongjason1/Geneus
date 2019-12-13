@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_hamatipes",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. hamatipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum hamatipes is a species of orchid in the genus Bulbophyllum.",
+    "References": "The Bulbophyllum-Checklist\nThe Internet Orchid Species Photo Encyclopedia",
+    "External links": "\"Bulbophyllum hamatipes\" at the Encyclopedia of Life"
+  }
+}

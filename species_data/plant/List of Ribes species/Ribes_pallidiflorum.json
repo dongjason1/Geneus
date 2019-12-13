@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ribes_pallidiflorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Saxifragales"
+    },
+    {
+      "Family": "Grossulariaceae"
+    },
+    {
+      "Genus": "Ribes"
+    },
+    {
+      "Species": "R. pallidiflorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ribes pallidiflorum is a species in the genus Ribes native to the far east, from northeastern China to Russia (Amur, Khabarovsk, Primorye, Sakhalin, and in the southern part of the Kamchatka Peninsula).",
+    "References": "",
+    "External links": "GBIF entry"
+  }
+}

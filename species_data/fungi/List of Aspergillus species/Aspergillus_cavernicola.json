@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_cavernicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. cavernicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus cavernicola (also named A. amylovorus) is a species of fungus in the genus Aspergillus. It is from the Cavernicolus section. The species was first described in 1969. It has been isolated from the wall of a cave in Romania and from wheat starch in Ukraine.",
+    "Growth and morphology": "A. cavernicola has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

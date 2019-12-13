@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_parvum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. parvum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium parvum is an anamorph species of fungus in the genus Penicillium which was isolated from soil in Papua New Guinea. Penicillium parvum produces ferrichrome siderophoresPhytochemical investigation of the soil microfungus Eupenicillum parvum led to the isolation of two new compounds: a chromone derivative euparvione and a new mycophenolic derivative euparvilactone, as well as thirteen known compounds. Several isolated compounds were evaluated for in vitro binding assays using opioid receptors (subtypes δ, κ, and μ) and cannabinoid receptors (CB1 and CB2). Compound 10 displayed the best selective μ-opioid receptor and CB1 receptor binding affinities showing values of 47% and 52% at a 10 μM concentration, respectively. These findings provide insight into the potential therapeutic utility of this class of compounds.",
+    "Further reading": "Douglas Templeton (2002). Molecular and Cellular Iron Transport Edition. CRC Press. ISBN 0824744179.\nT. R. Swinburne (2012). Iron, Siderophores, and Plant Diseases. Springer Science & Business Media. ISBN 1461594804.\nPeterson, S. W.; Orchard, S. S.; Menon, S. (2011). \"Penicillium menonorum , a new species related to P. Pimiteouiense\". IMA Fungus. 2 (2): 121. doi:10.5598/imafungus.2011.02.02.02. PMC 3359809. PMID 22679596.\n\n\n== References =="
+  }
+}

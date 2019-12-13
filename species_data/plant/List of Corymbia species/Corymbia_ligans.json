@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corymbia_ligans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Corymbia"
+    },
+    {
+      "Species": "C. ligans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corymbia ligans is a member of the genus Corymbia and is endemic to north Queensland.",
+    "See also": "List of Corymbia species\n\n\n== References =="
+  }
+}

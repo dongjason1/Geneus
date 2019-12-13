@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Flores_woolly_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Kerivoula"
+    },
+    {
+      "Species": "K. flora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Flores woolly bat (Kerivoula flora) is a species of vesper bat in the family Vespertilionidae.",
+    "Distribution": "It is found in Indonesia and Malaysia.  The distribution of this species is believed in Borneo,  Bali, the Lesser Sunda Islands, and Sumba. Possibly the same or a very similar species can be found in Kon Kha Kinh and Pu Mat, Vietnam.The species is primarily dependent on forests, undergone a 30% population decline over the last ten years, in the lesser Sundras.\n\n\n== References =="
+  }
+}

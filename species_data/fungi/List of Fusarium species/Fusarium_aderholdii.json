@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_aderholdii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. aderholdii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium aderholdii is a fungus species of the genus Fusarium.\n\n\n== References =="
+  }
+}

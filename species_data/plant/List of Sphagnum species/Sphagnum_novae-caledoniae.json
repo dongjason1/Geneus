@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sphagnum_novae-caledoniae",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Division": "Bryophyta"
+    },
+    {
+      "Class": "Sphagnopsida"
+    },
+    {
+      "Order": "Sphagnales"
+    },
+    {
+      "Family": "Sphagnaceae"
+    },
+    {
+      "Genus": "Sphagnum"
+    },
+    {
+      "Species": "S. novo-caledoniae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sphagnum novo-caledoniae is a species of plant in the Sphagnaceae family. It is endemic to New Caledonia.  Its natural habitat is rivers.",
+    "References": "Bryophyte Specialist Group 2000.  Sphagnum novo-caledoniae.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

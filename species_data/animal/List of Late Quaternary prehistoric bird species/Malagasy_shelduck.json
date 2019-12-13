@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malagasy_shelduck",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Anseriformes"
+    },
+    {
+      "Family": "Anatidae"
+    },
+    {
+      "Genus": "Alopochen"
+    },
+    {
+      "Species": "A. sirabensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malagasy shelduck (Alopochen sirabensis), also known as the Sirabe shelduck, is an extinct species of waterfowl in the shelduck subfamily. It was described from subfossil bones found at Antsirabe in central Madagascar. Radiocarbon dating of subsequently discovered material shows that the bird survived to at least 1400 years ago, after human settlement of the island. A close relative of the Egyptian goose, the bird is sometimes considered a subspecies of the extinct Mauritian shelduck.\n\n\n== References =="
+  }
+}

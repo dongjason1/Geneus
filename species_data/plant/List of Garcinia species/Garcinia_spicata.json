@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Garcinia_spicata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Clusiaceae"
+    },
+    {
+      "Genus": "Garcinia"
+    },
+    {
+      "Species": "G. spicata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Garcinia echinocarpa is a species of medium tree with 30 ft in the Clusiaceae family. It is native to India and Sri Lanka.",
+    "References": "\nGarcinia spicata\nIndia Biodiversity"
+  }
+}

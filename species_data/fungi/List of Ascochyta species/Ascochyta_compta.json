@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_compta",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Leptosphaeriaceae"
+    },
+    {
+      "Genus": "Leptosphaeria"
+    },
+    {
+      "Species": "L. pratensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Leptosphaeria pratensis is a plant pathogen.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

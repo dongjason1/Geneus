@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Turner's_eremomela",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Cisticolidae"
+    },
+    {
+      "Genus": "Eremomela"
+    },
+    {
+      "Species": "E. turneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Turner's eremomela (Eremomela turneri) is a species of bird formerly placed in the \"Old World warbler\" assemblage, but now placed in the family Cisticolidae.\nIt is found in Democratic Republic of the Congo, Kenya and Uganda.\nIts natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montane forests.\nIt is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

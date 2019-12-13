@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/La_Touche's_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Tadarida"
+    },
+    {
+      "Species": "T. latouchei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The La Touche's free-tailed bat (Tadarida latouchei) is a species of bat in the family Molossidae. It is found in China, Japan, and Thailand.\n\n\n== References =="
+  }
+}

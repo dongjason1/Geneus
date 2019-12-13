@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bermuda_flicker",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Piciformes"
+    },
+    {
+      "Family": "Picidae"
+    },
+    {
+      "Genus": "Colaptes"
+    },
+    {
+      "Species": "C. oceanicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bermuda flicker (Colaptes oceanicus) is an extinct woodpecker from the genus Colaptes. It was confined to Bermuda and is known only by fossil remains dated to the Late Pleistocene and the Holocene. However, an old travel report by explorer Captain John Smith from the 17th century may also refer to this species.",
+    "Extinction": "Though most material is from Late Pleistocene deposits unearthed by Storrs L. Olson, David B. Wingate and others in the Admirals Cave, the Wilkinson Quarry and in the Walsingham Sink Cave in Hamilton Parish in Bermuda in 1981, there is one bone, a tarsometatarsus from a juvenile, which is from a Holocene layer in the Spittal Pond. This fact, and an old travel report by John Smith from 1623, may lead to the assumption that this species just may have persisted until at least the early colonization of Bermuda. John Smith wrote:\n\nNeither hath the Aire for her part been wanting with due supplies of many sorts of Fowles … numbers of small birds like Sparrowes and Robins, which haue lately beene destroyed by the wilde Cats, Wood-pickars, very many Crowes … .\n\n\n== References =="
+  }
+}

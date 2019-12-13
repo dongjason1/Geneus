@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rosa_pinetorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Rosa"
+    },
+    {
+      "Species": "R. pinetorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rosa pinetorum is an uncommon species of rose known by the common name pine rose. It is endemic to California, where it occurs in the coniferous forests of the Central Coast Ranges around Monterey Bay.",
+    "Taxonomy": "The taxonomy of this and related roses is difficult.",
+    "References": "",
+    "External links": "Jepson Manual Treatment - Rosa pinetorum\nRosa pinetorum - Photo gallery\n Media related to Rosa pinetorum at Wikimedia Commons"
+  }
+}

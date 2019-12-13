@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_graueri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. graueri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia graueri, also known as the Lake Tanganyika gracile blind snake', Grauer's gracile blind snake, Sternfeld's beaked snake, Grauer's blind snake, is a species of snake in the family Typhlopidae. The species is endemic to Middle and East Africa.",
+    "Etymology": "The specific name, graueri, is in honor of Rudolf Grauer, an Austrian zoologist and explorer.",
+    "Geographic range": "It is found in Burundi, eastern Democratic Republic of the Congo, Rwanda, western Tanzania, and western Uganda.",
+    "References": "",
+    "Further reading": "Sternfeld R (1912). \"Reptilia\". pp. 197–279. In: Schuboltz R (editor) (1912). Wissenschaftliche Ergebnisse der Deutschen Zentral-Afrika Expedition 1907-1908, unter Führung Adolf Friedrichs, Herzogs zu Mecklenburg. Band IV [Volume 4], Zoologie II. Leipzig: Klinkhard & Biermann. 405 pp. + Plates I-XI. (Typhlops graueri, new species, p. 264). (in German)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fromia_elegans",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Echinodermata"
+    },
+    {
+      "Class": "Asteroidea"
+    },
+    {
+      "Order": "Valvatida"
+    },
+    {
+      "Family": "Goniasteridae"
+    },
+    {
+      "Genus": "Fromia"
+    },
+    {
+      "Species": "F. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fromia elegans, common name little red star, is a species of marine starfish belonging to the family Goniasteridae.",
+    "Distribution": "This sea star has been spotted at latitudes from -27.5 to 26.6 and longitudes from 32.7 to 159.6.",
+    "Habitat": "The animal is found at depths from 1 metre (3 ft 3 in) down to 55 metres (180 ft), in 23.980 °C (75.164 °F) to 28.954 °C (84.117 °F) water.",
+    "Systematics": "In 1921, H. L. Clark described this species of sea star as Fromia elegans. In 1938, Engel collected specimens he believed to be F. elegans. Hayashi studied Engel's collection, and finding them to be the same species as Fromia indica, considered the names to be synonyms. In 1971, A. M. Clark believed there were enough differences between some specimens that they should be separate species, and that Engel's 1938 specimens may have been F. indica mistaken for F. elegans. Marsh doubted this in 1977, though she didn't have evidence. Engel's description is now considered a synonym, and informally a forma, of Fromia indica, while H. L. Clark's description, the subject of this article, is accepted as a full species.\n\n\n== References =="
+  }
+}

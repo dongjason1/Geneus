@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_scabra",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. scabra"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia scabra is a shrub of the genus Acacia and the subgenus Phyllodineae. It is native to Western Australia.",
+    "See also": "List of Acacia species\n\n\n== References =="
+  }
+}

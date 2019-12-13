@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_humboldtiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. humboltiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia humboldtiana is a species of flowering plant in the family Lamiaceae that is endemic to Ecuador.\nIts natural habitat is subtropical or tropical dry valley shrubland.\n\n\n== Notes =="
+  }
+}

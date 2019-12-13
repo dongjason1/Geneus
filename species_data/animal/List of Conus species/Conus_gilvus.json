@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_gilvus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. gilvus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus gilvus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.\nThe epithet \"gilvus\" is a Latin word meaning \"pale yellow\".",
+    "Description": "The size of the shell varies between 24 mm and 38 mm.",
+    "Distribution": "This marine species occurs off New Guinea, the Solomon Islands and off Indonesia.",
+    "References": "Tucker J.K. & Tenorio M.J. (2013) Illustrated catalog of the living cone shells. 517 pp. Wellington, Florida: MdM Publishing.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "World Register of Marine Species\n\"Lividoconus gilvus\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

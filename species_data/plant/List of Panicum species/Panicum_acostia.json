@@ -1,0 +1,48 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Panicum_acostia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Subfamily": "Panicoideae"
+    },
+    {
+      "Supertribe": "Andropogonodae"
+    },
+    {
+      "Tribe": "Paspaleae"
+    },
+    {
+      "Subtribe": "Paspalinae"
+    },
+    {
+      "Genus": "AcostiaSwallen"
+    },
+    {
+      "Species": "A. gracilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acostia is a genus of South American plants in the grass family.The only known species is Acostia gracilis, found only in Ecuador. It is listed as an endangered species.",
+    "See also": "List of Poaceae genera\n\n\n== References =="
+  }
+}

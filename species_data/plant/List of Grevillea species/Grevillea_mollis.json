@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_mollis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. mollis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea mollis is a rare shrub. Found under tall eucalyptus forest, on granite based soils at Gibraltar Range National Park, in New South Wales, in Australia.",
+    "References": "\"New South Wales Flora Online: Grevillea mollis\". Royal Botanic Gardens & Domain Trust, Sydney, Australia."
+  }
+}

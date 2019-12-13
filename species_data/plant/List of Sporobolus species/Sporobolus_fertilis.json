@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sporobolus_fertilis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Sporobolus"
+    },
+    {
+      "Species": "S. fertilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sporobolus fertilis is a species of grass native to the Himalayas, India, Sri Lanka, Burma, Thailand, China, Japan, and Malaysia. It is an invasive species in Australia, where it is known as giant parramatta grass. This plant first appeared in scientific literature as Agrostis fertilis in the Synopsis Plantarum Glumacearum of 1854, published by the German botanist Ernst Gottlieb von Steudel.\n\n\n== References =="
+  }
+}

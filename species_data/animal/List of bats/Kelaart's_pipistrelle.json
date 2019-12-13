@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Kelaart's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. ceylonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Kelaart's pipistrelle (Pipistrellus ceylonicus) is a species of vesper bat.\nIt is found in southern and south-eastern Asia from Pakistan to Indonesia.",
+    "Description": "Head and body length is 9 cm. Forearms 4 cm. Wingspan is 26–27 cm. Weight 3-5g. \nMales are larger and brighter than females. Color varies from almost dark brown to bright reddish brown, but usually reddish brown above and paler below. Wing membrane dark brown. Body covered with dense, short fur.\n\n\n== References =="
+  }
+}

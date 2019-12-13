@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_pseudotextile",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "†C. pseudotextile"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus pseudotextile is an extinct species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.",
+    "Distribution": "This species occurs in France.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_indica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. indica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe indica is a species of mushroom in the Strophariaceae family. The mushroom contains psilocybin, a prodrug for the psychedelic tryptamine psilocin.\nIt was described from the state of Kerala in India.",
+    "See also": "List of Psilocybin mushrooms\nPsilocybin mushrooms\nPsilocybe\n\n\n== References =="
+  }
+}

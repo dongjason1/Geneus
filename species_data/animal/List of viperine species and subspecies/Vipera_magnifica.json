@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vipera_magnifica",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Vipera"
+    },
+    {
+      "Species": "V. magnifica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Vipera magnifica is a species of viper in the family Viperidae. This species is endemic to the Caucasian part of Russia. It is venomous.\n\n\n== References =="
+  }
+}

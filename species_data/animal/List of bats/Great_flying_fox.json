@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Great_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. neohibernicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The great flying fox (Pteropus neohibernicus), also known as the greater flying fox or Bismarck flying fox, is a species of megabat in the genus Pteropus, found throughout lowland areas of New Guinea and in the Bismarck Archipelago. At up to 1.45 kg (3.2 lb) in weight, it is among the largest bats in the world.  It is a gregarious animal which roosts with hundreds or thousands of individuals.It is hunted for human consumption in New Guinea.\n\n\n== References =="
+  }
+}

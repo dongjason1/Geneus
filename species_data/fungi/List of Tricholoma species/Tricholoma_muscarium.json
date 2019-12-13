@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_muscarium",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. muscarium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma muscarium is a mushroom found in Japan.",
+    "Toxicity": "Tricholoma muscarium contain ibotenic acid and tricholomic acid and is considered to be an edible mushroom in Japan.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_sharkiensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Subphylum": "Saccharomycotina"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. sharkiensisFell et al. 2011"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida sharkiensis is a yeast species first found in the Florida Everglades.",
+    "References": "",
+    "Further reading": "Fell, Jack W.;  et al. (2011). \"Five new species of yeasts from fresh water and marine habitats in the Florida Everglades\". Antonie van Leeuwenhoek. 99 (3): 533–549. doi:10.1007/s10482-010-9521-6. PMID 20967499."
+  }
+}

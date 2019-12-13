@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_drewesi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epacrophis"
+    },
+    {
+      "Species": "E. drewesi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drewes's worm snake (Epacrophis drewesi) is a species of snake in the family Leptotyphlopidae.",
+    "Etymology": "The specific name, drewesi, is in honor of American herpetologist Robert Clifton Drewes.",
+    "Geographic range": "E. drewesi is endemic to Kenya.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the Family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Epacrophis drewesi, new combination).\nWallach V (1996). \"Leptotyphlops drewesi n. sp., a worm snake from central Kenya (Serpentes: Leptotyphlopidae)\". Journal of African Zoology 110 (6): 425-431."
+  }
+}

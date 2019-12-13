@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ryukyu_tube-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Murina"
+    },
+    {
+      "Species": "M. ryukyuana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ryukyu tube-nosed bat (Murina ryukyuana) is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Japan.",
+    "References": "",
+    "External links": "NatureWatch NZ"
+  }
+}

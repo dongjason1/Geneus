@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_aurantiacum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. oxysporum"
+    },
+    {
+      "Subspecies": "F. o. f.sp. cyclaminis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium oxysporum f.sp. cyclaminis is a fungal plant pathogen infecting cyclamens.",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

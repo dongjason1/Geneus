@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ardisia_willisii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Primulaceae"
+    },
+    {
+      "Genus": "Ardisia"
+    },
+    {
+      "Species": "A. willisii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ardisia willisii is a species of plant in the family Primulaceae. It is endemic to Sri Lanka.",
+    "Ecology": "Coastal areas.",
+    "Uses": "Fruit- edible; whole plant- medicinal; ornamental.",
+    "References": "http://plants.jstor.org/specimen/goet008144?history=true"
+  }
+}

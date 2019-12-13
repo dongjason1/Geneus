@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trident_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Asellia"
+    },
+    {
+      "Species": "A. tridens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The trident bat or trident leaf-nosed bat (Asellia tridens) is a species of bat in the family Hipposideridae. It is found in Afghanistan, Algeria, Burkina Faso, Chad, Djibouti, Egypt, Eritrea, Ethiopia, Gambia, Iran, Israel, Libya, Mali, Mauritania, Morocco, Niger, Oman, Pakistan, Saudi Arabia, Senegal, Somalia, Sudan, Tunisia, Yemen, and possibly Tanzania. Its natural habitats are subtropical or tropical dry forests, dry savanna, subtropical or tropical dry shrubland, caves and hot deserts.\n\nThey can be identified by their distinct nose from which protrudes a nose-leaf with three cusps (a trident). Asellia tridens are light brown to red in color. Their average wingspan is 270.3 mm. The average length of the body is 6.6 to 9 cm. The average mean maximal weight for males is 14.76 g and the average mean maximal weight for females is 13.05 grams.",
+    "References": "\nSimmons, N.B. 2005. Order Chiroptera. Pp. 312–529 in Wilson, D.E. and Reeder, D.M. (eds.). Mammal Species of the World: a taxonomic and geographic reference. 3rd ed. Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp. ISBN 978-0-8018-8221-0\nAmichai, E., Levin, E., Kronfeld-Schor, N., Roll, U., Yom-Tov, Y. (2012). Natural history, physiology and energetic strategies of Asellia tridens (Chiroptera). Mammalian Biology, 78, 94-103. http://dx.doi.org/10.1016/j.mambio.2012.06.006.\nKerboub, Y., Benabria, A., Adamou, D.M., Fentrouci, B., & Gaouar, S.B.S. (2017). Morphometric Characterization of Some Species of Bats in Western Algeria. Genetics and Biodiversity Journal, 1(1), 71-80."
+  }
+}

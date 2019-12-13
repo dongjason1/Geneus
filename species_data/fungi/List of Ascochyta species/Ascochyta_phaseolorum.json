@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_phaseolorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Phoma"
+    },
+    {
+      "Species": "P. exigua"
+    },
+    {
+      "Variety": "P. e. var exigua"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phoma exigua var. exigua is a fungal plant pathogen infecting several hosts.",
+    "See also": "List of potato diseases\nList of tobacco diseases\nList of cucurbit diseases\nList of hydrangea diseases",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_buxifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. buxifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus buxifolia is a species of tree in the family Rosaceae. It is endemic to Colombia, where it is called Chuwacá.",
+    "Distribution and habitat": "P. buxifolia is native to the montane forests of the eastern Colombian Andes, between 2500–3650 m of elevation.\n\n\n== References =="
+  }
+}

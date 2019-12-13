@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Beatrix's_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Glauconycteris"
+    },
+    {
+      "Species": "G. beatrix"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Beatrix's bat (Glauconycteris beatrix) is a species of vesper bat in the family Vespertilionidae.\nIt can be found in the following countries: Angola, Central African Republic, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Kenya, and Nigeria.\nIt is found in these habitats: subtropical or tropical moist lowland forests.\nIt is threatened by habitat loss.",
+    "Taxonomy and etymology": "It was described as a new species in 1901 by British zoologist Oldfield Thomas.\nThe holotype used to describe the species had been collected by George Latimer Bates in 1898 along the Benito River in what was then the French Congo.\nWhile Thomas did not state who the eponym was for the species name \"beatrix,\" it has been hypothesized that he named it after Princess Beatrice.",
+    "Description": "It is a small species of bat with blackish brown fur.\nIts flight membranes are uniformly brown.\nIt has a broad snout and short, broad tragi.\nIts forearm length is approximately 39 mm (1.5 in).",
+    "Range and habitat": "Beatrix's bat is found in several countries in West and Central Africa, including Angola, Cameroon, Central African Republic, Congo, The Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, and Nigeria.\nIt is associated with tropical lowland forests.",
+    "Conservation": "As of 2017, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this classification because it has a wide geographic range; its population is presumably large; and it is unlikely to be experiencing rapid population decline.\n\n\n== References =="
+  }
+}

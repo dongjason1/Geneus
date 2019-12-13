@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-throated_nightjar",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Caprimulgiformes"
+    },
+    {
+      "Family": "Caprimulgidae"
+    },
+    {
+      "Genus": "Eurostopodus"
+    },
+    {
+      "Species": "E. mystacalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-throated nightjar (Eurostopodus mystacalis) is a species of nightjar in the family Caprimulgidae.\nIt is found in eastern Australia; it winters in Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.\n\n\n== References =="
+  }
+}

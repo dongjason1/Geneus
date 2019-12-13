@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_coralligerum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. coralligerum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium coralligerum is a species of the genus of Penicillium. It is a marine species sometimes referred to as a deep-sea fungus and in some languages named the equivalent of \"deep-sea mold\".",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

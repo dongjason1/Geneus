@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ampoza_ground_roller",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Coraciiformes"
+    },
+    {
+      "Family": "Brachypteraciidae"
+    },
+    {
+      "Genus": "Brachypteracias"
+    },
+    {
+      "Species": "†B. langrandi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ampoza ground roller (Brachypteracias langrandi) was a species of bird in the ground roller family Brachypteraciidae. It is known only from a single humerus fossil discovered in 1929 in southwest Madagascar. Little is known about the species, but it is suggested that the bird's habitat becoming more arid was a contributing factor in its demise.",
+    "Taxonomy and systematics": "The genus name is derived from the Ancient Greek brakhupteros, meaning short-winged. The species was named in honour of Olivier Langrand, an ornithologist who had worked in Madagascar.\n\n\n== References =="
+  }
+}

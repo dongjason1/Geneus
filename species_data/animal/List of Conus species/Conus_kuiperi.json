@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_kuiperi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. kuiperi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus kuiperi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell attains 5.9 mm.",
+    "Distribution": "This marine species occurs off Oman.",
+    "References": "Moolenbeek R.G. 2006. Conus (Lilliconus) kuiperi spec. nov. (Gastropoda, Conidae), from the Sultanate of Oman. Basteria, supplement 3: 83-85",
+    "External links": "The Conus Biodiversity website\n\"Pseudolilliconus kuiperi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

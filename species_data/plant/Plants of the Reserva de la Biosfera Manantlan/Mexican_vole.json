@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mexican_vole",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Rodentia"
+    },
+    {
+      "Family": "Cricetidae"
+    },
+    {
+      "Subfamily": "Arvicolinae"
+    },
+    {
+      "Genus": "Microtus"
+    },
+    {
+      "Species": "M. mexicanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mexican vole (Microtus mexicanus) is a species of rodent in the family Cricetidae found in Mexico and the United States.",
+    "References": "\nMusser, G. G. and M. D. Carleton. 2005. Superfamily Muroidea. pp. 894–1531 in Mammal Species of the World a Taxonomic and Geographic Reference. D. E. Wilson and D. M. Reeder eds. Johns Hopkins University Press, Baltimore."
+  }
+}

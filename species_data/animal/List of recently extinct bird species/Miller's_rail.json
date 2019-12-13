@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miller's_rail",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "Porzana"
+    },
+    {
+      "Species": "P. nigra"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Tahiti crake (Porzana nigra), also known as Miller's rail, was a species of bird in the family Rallidae.\nIt was endemic to Tahiti. It was discovered and painted by Georg Forster during the second Cook voyage. John Frederick Miller copied Forster's painting and published it with some changes and remarks in his work Cimelia Physica in 1784. It probably went extinct in about 1800 from introduced predators. \n\n\n== References =="
+  }
+}

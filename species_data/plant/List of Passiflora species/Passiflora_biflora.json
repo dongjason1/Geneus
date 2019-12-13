@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Passiflora_biflora",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Passifloraceae"
+    },
+    {
+      "Genus": "Passiflora"
+    },
+    {
+      "Species": "P. biflora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Passiflora biflora, the twoflowered passionflower, is a vine with paired peduncles and flowers up to 3.5 cm (1.4 in) wide. It is native to the New World from Mexico to Colombia and Venezuela. In Florida, P. biflora has been classified by the Exotic Pest Plant Council as a non-native species that has the \"potential to disrupt native plant communities.\"\n\n\n== References =="
+  }
+}

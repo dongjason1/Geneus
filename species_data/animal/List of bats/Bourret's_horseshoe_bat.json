@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bourret's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. paradoxolophus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bourret's horseshoe bat (Rhinolophus paradoxolophus) is a species of horseshoe bat native to Southeast Asia. The name \"paradoxolophus\" is derived from the Greek words paradoxos, meaning \"contrary to expectation\", and lophos, meaning \"crest\". This name refers to the bat's difference in nose-leaf morphology compared to other Rhinolophus species. There are no recognised subspecies.",
+    "Description": "Bourret's horseshoe bat is of similar size to many other horseshoe bats, being on average 8.5 cm (3.3 in) in total length, and weighing about 11 g (0.39 oz). The fur is brown in colour, varying from almost black to a lighter, cinnamon, shade, and is paler on the animal's underside. Distinguishing features of the bat include a long, narrow, skull, unusually large ears, and a uniquely shaped nose-leaf. Apart from the nose-leaf, they most closely resemble the king horseshoe bat, but are smaller, with a longer, narrower antitragus.Bourret’s horseshoe bat is a unique example of extreme nose-leaf morphology among the Rhinolophidae. The nose-leaf consists of a very wide anterior part divided into two long forward-facing lobes, and a relatively low, rounded, posterior part. The region between the nostrils is greatly expanded, forming a large cup-like structure covering small pockets behind each nostril, and with a large tongue-shaped protrusion.",
+    "Distribution and habitat": "Bourret’s horseshoe bat is native to northern Vietnam, southwest China, central Vietnam, central Thailand, and northern and central Laos. They inhabit lowland forests, ranging from rainforests to dry pine forest, but always in close association with limestone caves.",
+    "Biology": "The echolocation calls of Bourret's horseshoe bat last 40 to 50 milliseconds. They are unusually low in frequency, with the main component at 43 kHz, followed by a final drop to 37 kHz. According to one study, the need to produce such low calls explains the unusual shape of the nose-leaf. They roost in limestone caves, and, at least in China, enter torpor during the winter. They give birth to a single young, with pregnant females being reported from Vietnam in May.",
+    "Identity of the species": "There is disagreement about whether R. paradoxolophus should be considered a separate species. In a 2009 study it was proposed that there are insufficient morphological differences between Bourret's horseshoe bat and the king horseshoe bat to justify them being considered separate species. When measuring the forearm length of the two species, the study claims there is only a 6 mm (0.24 in) difference, and that the calling frequencies are very similar. The only substantial difference is the nose-leaf morphology, which, according to this study, has little to no effect on call frequency. The two species may therefore be best recognised as subspecies of Rhinolophus rex.\n\n\n== References =="
+  }
+}

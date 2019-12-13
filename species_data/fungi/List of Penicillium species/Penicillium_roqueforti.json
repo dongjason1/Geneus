@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_roqueforti",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. roqueforti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium roqueforti is a common saprotrophic fungus in the genus Penicillium. Widespread in nature, it can be isolated from soil, decaying organic matter, and plants.\nThe major industrial use of this fungus is the production of blue cheeses, flavouring agents, antifungals, polysaccharides, proteases, and other enzymes. The fungus has been a constituent of Roquefort, Stilton, Danish blue, Cabrales, Gorgonzola, and other blue cheeses that humans are known to have eaten since around AD 50; blue cheese is mentioned in literature as far back as AD 79, when Pliny the Elder remarked upon its rich flavour.t",
+    "Classification": "First described by American mycologist Charles Thom in 1906, P. roqueforti was initially a heterogeneous species of blue-green, sporulating fungi. They were grouped into different species based on phenotypic differences, but later combined into one species by Kenneth B. Raper and Thom (1949). The P. roqueforti group got a reclassification in 1996 due to molecular analysis of ribosomal DNA sequences. Formerly divided into two varieties ― cheese-making (P. roqueforti var. roqueforti) and patulin-making (P. roqueforti var. carneum) ― P. roqueforti was reclassified into three species: P. roqueforti, P. carneum, and P. paneum. The complete genome sequence of P. roqueforti was published in 2014.",
+    "Description": "As this fungus does not form visible fruiting bodies, descriptions are based on macromorphological characteristics of fungal colonies growing on various standard agar media, and on microscopic characteristics. When grown on Czapek yeast autolysate agar or yeast-extract sucrose (YES) agar, P. roqueforti colonies are typically 40 mm in diameter, olive brown to dull green (dark green to black on the reverse side of the agar plate), with a velutinous texture. Grown on malt extract agar, colonies are 50 mm in diameter, dull green in color (beige to greyish green on the reverse side), with arachnoid (with many spider-web-like fibers) colony margins. Another characteristic morphological feature of this species is its production of asexual spores in phialides with a distinctive brush-shaped configuration.Evidence for a sexual stage in P. roqueforti has been found based, in part, on the presence of functional mating-type genes and most of the important genes known to be involved in meiosis. In 2014, researchers reported inducing the growth of sexual structures in P. roqueforti, including ascogonia, cleistothecia, and ascospores. Genetic analysis and comparison of many different strains isolated from various environments around the world indicate that it is a genetically diverse species.P. roqueforti is known to be one of the most common spoilage molds of silage. It is also one of several different moulds that can spoil bread.",
+    "Uses": "The chief industrial use of this species is the production of blue cheeses, such as its namesake Roquefort, Bleu de Bresse, Bleu du Vercors-Sassenage, Brebiblu, Cabrales, Cambozola (Blue Brie), Cashel Blue, Danish blue, Polish Rokpol made from cow's milk, Fourme d'Ambert, Fourme de Montbrison, Lanark Blue, Shropshire Blue, and Stilton, and some varieties of Bleu d'Auvergne and Gorgonzola.  (Other blue cheeses, including Bleu de Gex and Rochebaron, use Penicillium glaucum.)\nStrains of the microorganism are also used to produce compounds that can be employed as antibiotics, flavours, and fragrances, uses not regulated under the U.S. Toxic Substances Control Act. Its texture is chitinous.",
+    "Secondary metabolites": "Considerable evidence indicates that most strains are capable of producing harmful secondary metabolites (alkaloids and other mycotoxins) under certain growth conditions.Aristolochene is a sesquiterpenoid compound produced by P. roqueforti, and is likely a precursor to the toxin known as PR toxin, made in large amounts by the fungus. PR-toxin has been implicated in incidents of mycotoxicoses resulting from eating contaminated grains. However, PR toxin is not stable in cheese and breaks down to the less toxic PR imine.Secondary metabolites of P. roqueforti, named andrastins A-D, are found in blue cheese. The andrastins inhibit proteins involved in the efflux of anticancer drugs from multidrug-resistant cancer cells.P. roqueforti also produces the neurotoxin roquefortine C.\nHowever, the levels of roquefortine c in cheese made from it is usually too low to produce toxic effects. \nThe organism can also be used for the production of proteases and specialty chemicals, such as methyl ketones, including 2-heptanone.",
+    "See also": "List of Penicillium species",
+    "References": "",
+    "External links": "This article is based on text originally from a report of the United States Environmental Protection Agency."
+  }
+}

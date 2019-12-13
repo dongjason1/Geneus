@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_verecundus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Myxacium"
+    },
+    {
+      "Species": "C. verecundus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius verecundus is a basidiomycete fungus of the genus Cortinarius native to New Caledonia, where it grows under Nothofagus.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius verecundus  in Index Fungorum"
+  }
+}

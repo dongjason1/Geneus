@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_splendida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. splendida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia splendida, commonly known as shaggy dryandra, is a shrub endemic to Western Australia. It was known as Dryandra speciosa until 2007.",
+    "Taxonomy": "This species was first collected by James Drummond in the late 1840s, and sent to England in Supplement 19 to his 5th Collection. The first mention of the species occurred in 1852, when Meissner published \"A list of the Proteaceae collected in south-western Australia by Mr. James Drummond\" in Hooker's Journal of Botany and Kew Garden Miscellany. This list includes an entry for this specimen under the name \"Dryandra speciosa Meisn. MSS.\". Four years later, Meissner formally published this name in his chapter on the Proteaceae in A. P. de Candolle's Prodromus systematis naturalis regni vegetabilis. No etymology was given for the specific epithet, but it is accepted that it comes from the Latin speciosus (\"showy\"), and refers to the attractive inflorescences; if so then this is somewhat inappropriate since the flowers tend to be obscured by foliage.Meissner initially placed D. speciosa in D. sect. Eudryandra on the grounds that it contained a single seed separator, and erected for it a new series of unstated rank, Dryandra § Haplophyllae, which he defined as Folia omniæ integerrima (\"All the leaves have completely smooth margins\"). Meissner's arrangement was overturned by George Bentham in 1870, whose arrangement was based solely on floral characters, and therefore disregarded leaf shape. He retained D. speciosa in D. sect. Eudryandra, but placed it in a new series, D. ser. Gymnocephalae, between with D. Shuttleworthiana (now B. shuttleworthiana (Bearded Dryandra)) and D. tridentata (now B. tridentata (Yellow Honeypot).Bentham's arrangement stood until 1996, when Alex George published a revision of the genus. D. sect. Eudryandra was discarded as invalid, and replaced by the autonym at subgenus rank, D. subg. Dryandra. D. speciosa was retained in this subgenus, and in D. ser. Gymnocephalae, despite the latter having a significantly different circumscription in George's arrangement.Since 1998, Austin Mast has been publishing results of ongoing cladistic analyses of DNA sequence data for the subtribe Banksiinae. His analyses have provided compelling evidence of the paraphyly of Banksia with respect to Dryandra. Early in 2007, Mast and Kevin Thiele initiated a rearrangement of Banksia by merging Dryandra into it. As there was already a plant named Banksia speciosa (Showy Banksia), Mast and Thiele had to choose a new specific epithet for D. speciosa; their choice, splendida, is from the Latin splendidus (\"brilliant\"), in reference to the attractive inflorescences. No infrageneric arrangement has been proffered in replacement for the arrangement of George's now set aside. Mast and Thiele have foreshadowed publishing a full arrangement once DNA sampling of Dryandra is complete.",
+    "References": "",
+    "External links": "\"Dryandra speciosa Meisn\". Flora of Australia Online. Department of the Environment and Heritage, Australian Government. \n\"Dryandra speciosa Meisn\". FloraBase. Western Australian Government Department of Parks and Wildlife. \n\"Banksia splendida A.R.Mast & K.R.Thiele\". Australian Plant Name Index (APNI), IBIS database. Centre for Plant Biodiversity Research, Australian Government."
+  }
+}

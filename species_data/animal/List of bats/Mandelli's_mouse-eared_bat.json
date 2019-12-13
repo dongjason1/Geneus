@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mandelli's_mouse-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. sicarius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mandelli's mouse-eared bat (Myotis sicarius) is a species of vesper bat. It can be found in India and Nepal. It is found in subtropical or tropical moist montane forests. It is threatened by habitat loss. The name honours the ornithologist Louis Mandelli.\n\n\n== References =="
+  }
+}

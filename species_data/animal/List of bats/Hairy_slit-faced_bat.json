@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hairy_slit-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Nycteridae"
+    },
+    {
+      "Genus": "Nycteris"
+    },
+    {
+      "Species": "N. hispida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The hairy slit-faced bat (Nycteris hispida) is a species of slit-faced bat widely distributed throughout forests and savannas in Africa. Two recognized subspecies exist: N. h. hispida and N. h. pallida. Various forest populations in western and central Africa may be a separate species, although that has not been positively identified as of 2007.\n\n\n== References =="
+  }
+}

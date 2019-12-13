@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puerto_Rican_barn_owl",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Strigiformes"
+    },
+    {
+      "Family": "Tytonidae"
+    },
+    {
+      "Genus": "Tyto"
+    },
+    {
+      "Species": "T. cavatica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Puerto Rican barn owl (Tyto cavatica) is an extinct species of barn owl that inhabited the island of Puerto Rico in the Caribbean. It is sometimes considered to be a subspecies of the ashy-faced owl.\n\n\n== References =="
+  }
+}

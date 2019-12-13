@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Asian_rosy_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Leucosticte"
+    },
+    {
+      "Species": "L. arctoa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Asian rosy finch or Asian rosy-finch (Leucosticte arctoa) is a species of finch in the Fringillidae family.\nIt breeds in Mongolia and North Asia; it winters in Manchuria, Korea, Sakhalin and Japan.\nIts natural habitats are tundra and temperate grassland.",
+    "Taxonomy": "This species has been genetically included in a group of Arid-Zone Carduelini finches, which comprises the following species: Carpodacus nipalensis,\nRhodopechys githaginea, Rhodopechys mongolica.\n\n\n== References =="
+  }
+}

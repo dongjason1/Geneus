@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zamia_muricata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Zamia"
+    },
+    {
+      "Species": "Z. muricata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Zamia muricata is a species of plant in the family Zamiaceae. It is found in Colombia and Venezuela. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

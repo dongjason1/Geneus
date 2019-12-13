@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_terissa",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. terissa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia terissa is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This marine species occurs off Nicaragua.",
+    "References": "",
+    "External links": "To World Register of Marine Species"
+  }
+}

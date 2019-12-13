@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cinnamon_dog-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Cynomops"
+    },
+    {
+      "Species": "C. abrasus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The cinnamon dog-faced bat (Cynomops abrasus), is a South American bat species of the family Molossidae. It is found in northern Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Paraguay, Suriname and Venezuela.",
+    "References": "\nEger, Judith L. (1 March 2008).  Gardner, Alfred L. (ed.). Mammals of South America, Volume 1: Marsupials, Xenarthrans, Shrews, and Bats. University of Chicago Press. pp. 403–404. ISBN 978-0-226-28240-4. OCLC 644361912."
+  }
+}

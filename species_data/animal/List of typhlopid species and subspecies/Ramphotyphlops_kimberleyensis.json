@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_kimberleyensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Anilios"
+    },
+    {
+      "Species": "A. kimberleyensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Kimberley shallow-soil blind snake (Anilios kimberleyensis) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

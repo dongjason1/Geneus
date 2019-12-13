@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southern_little_yellow-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Vampyressa"
+    },
+    {
+      "Species": "V. pusilla"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The southern little yellow-eared bat (Vampyressa pusilla) is a frugivorous bat species from South America. It is found in Brazil, Argentina and Paraguay.\n\n\n== References =="
+  }
+}

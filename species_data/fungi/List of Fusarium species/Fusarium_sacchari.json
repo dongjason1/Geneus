@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_sacchari",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "Fusarium sacchari"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium sacchari is a fungal plant pathogen.",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

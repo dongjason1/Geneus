@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Potentilla_longifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Potentilla"
+    },
+    {
+      "Species": "P. longifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Potentilla longifolia is a plant species in the genus Potentilla found in Russia and Mongolia.",
+    "References": "",
+    "External links": " Data related to Potentilla longifolia at Wikispecies"
+  }
+}

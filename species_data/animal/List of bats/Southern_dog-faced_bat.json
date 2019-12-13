@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southern_dog-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Cynomops"
+    },
+    {
+      "Species": "C. planirostris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The southern dog-faced bat (Cynomops planirostris),  is a Central and South American bat species of the family Molossidae. It is found in northern Argentina, Bolivia, Brazil, Colombia, French Guiana, Guyana, Panama, Peru, Paraguay, Suriname and Venezuela.\n\n\n== References =="
+  }
+}

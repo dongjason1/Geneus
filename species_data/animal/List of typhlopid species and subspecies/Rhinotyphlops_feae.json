@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_feae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. feae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The St. Thomas beaked snake (Letheobia feae) is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, feae, is in honor of Leonardo Fea, who was an Italian explorer and naturalist.",
+    "Description": "It is found on the island of São Tomé, São Tomé and Príncipe.",
+    "References": "",
+    "Further reading": "Boulenger GA (1906). \"Report on the reptiles collected by the late L. Fea in West Africa\". Annali del Museo Civico di Storia Naturale di Genova, Third Series 2: 196-216. (Typhlops feae, new species, p. 209)."
+  }
+}

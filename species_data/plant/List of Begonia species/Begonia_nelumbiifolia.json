@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_nelumbiifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. nelumbiifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia nelumbiifolia, the lilypad begonia, is a species of flowering plant in the family Begoniaceae.",
+    "References": "\nCham. & Schltdl., Linnaea 5: 604 (1830)."
+  }
+}

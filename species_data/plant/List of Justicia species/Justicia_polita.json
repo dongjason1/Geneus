@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Justicia_polita",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Acanthaceae"
+    },
+    {
+      "Genus": "Justicia"
+    },
+    {
+      "Species": "J. polita"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Justicia angustifolia is a plant native to the Atlantic Forest vegetation of Brazil.\n\n\n== References =="
+  }
+}

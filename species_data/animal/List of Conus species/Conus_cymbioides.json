@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_cymbioides",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. cymbioides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus cymbioides is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "",
+    "Distribution": "This marine species occurs off Southern Madagascar",
+    "References": "\nMonnier E., Tenorio M.J., Bouchet P. & Puillandre N. (2018). The cones (Gastropoda) from Madagascar “Deep South”: composition, endemism and new taxa. Xenophora Taxonomy. 19: 25-75 page(s): 47, pl. 12 figs 1-9\n\n\n== External links =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Schultz's_round-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lophostoma"
+    },
+    {
+      "Species": "L. schulzi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Schultz's round-eared bat (Lophostoma schulzi) is a species of bat in the family Phyllostomidae. It is found in Brazil, French Guiana, Guyana, and Suriname. It is threatened by habitat loss.\n\n\n== Sources =="
+  }
+}

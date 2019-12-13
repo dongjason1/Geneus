@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_olsenii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. olsenii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia olsenii is a species of Acacia native to eastern Australia.\n\n\n== References =="
+  }
+}

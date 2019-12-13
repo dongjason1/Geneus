@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Wahlenbergia_telfordii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Campanulaceae"
+    },
+    {
+      "Genus": "Wahlenbergia"
+    },
+    {
+      "Species": "W. telfordii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Wahlenbergia telfordii is a herbaceous plant in the family Campanulaceae native to New South Wales.\n\n\n== References =="
+  }
+}

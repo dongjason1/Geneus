@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_pictus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. pictus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus pictus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.\n\nSubspecies\nConus pictus pictus Reeve, 1843\nConus pictus transkeiensis  Korn, W.  1998 (synonym: Sciteconus pictus transkeiensis Korn, 1998)",
+    "Description": "The size of the shell varies between 26 mm and 50 mm. The shell is chestnut-colored, with two or three pink bands, and a few narrow lines, ornamented with reddish or chestnut spots. The spire is maculated.",
+    "Distribution": "This marine species occurs off Jeffrey's Bay - East London, Republic South Africa",
+    "References": "Sowerby, G. B., III. 1911. Description of a new species of the genus Conus from South Africa. Proceedings of the Malacological Society of London 9(6):352, fig.\nTucker J.K. & Tenorio M.J. (2013) Illustrated catalog of the living cone shells. 517 pp. Wellington, Florida: MdM Publishing.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "Gallery": "Conus pictus transkeiensis",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Sciteconus pictus pictus\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_revelatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Subfamily": "Corydoradinae"
+    },
+    {
+      "Tribe": "Corydoradini"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. revelatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras revelatus is an extinct species of callichthyid catfish known from a single specimen found in Late Paleocene strata of the Mais Gordo Formation in Salta, Argentina. According to chronological dating of the strata, the fossil specimen is about 58.2–58.5 million years old.\nCompared to modern species, C. revelatus has a short, comparatively rounded head, and rather low-set eyes.  Although the species's position within the genus Corydoras is tentative and unresolved, its anatomy confirms that it is a member of the subfamily, Corydoradinae, and demonstrates that the callichthyids had already diverging or diversifying before the end of the Paleocene.",
+    "References": "Lundberg, Sullivan, Discovery of African roots for the Mesoamerican Chiapas catfish, Lacantunia enigmatica, requires an ancient intercontinental passage [1]"
+  }
+}

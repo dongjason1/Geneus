@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_rugulosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. rugulosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula rugulosa is a species of agaric fungus in the family Russulaceae. It was first described by American mycologist Charles Horton Peck in 1902.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula rugulosa  in Index Fungorum"
+  }
+}

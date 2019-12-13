@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_ulaiense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. ulaiense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium ulaiense is a plant pathogen that causes whisker mould.  It is considered an important infection of citrus fruit, especially in packinghouses. P. ulaiense is a citrus postharvest pathogenic fungus described as a member of the serie Italica, together with P. italicum. In 1987, mycologists in Taiwan published a description of P. ulaiense. Authors familiar with green and blue moulds of citrus had mistaken the fungus for P. italicum and dismissed its unique features as variations due to particular environmental conditions. To date, P. ulaiense has been reported in Argentina, Arizona, Australia, California, Florida, Italy, New Zealand, South Africa, Taiwan, and Texas. In recent times, P. ulaiense has been reported in Egypt as a postharvest pathogen of orange fruit.",
+    "References": "",
+    "External links": "USDA ARS Fungal Database"
+  }
+}

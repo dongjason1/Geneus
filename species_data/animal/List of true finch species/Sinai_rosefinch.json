@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sinai_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. synoicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sinai rosefinch (Carpodacus synoicus) is a species of finch in the family Fringillidae. It is found in Egypt, Israel, Jordan, and Saudi Arabia. Its natural habitat is hot deserts. The pale rosefinch is sometimes considered a subspecies. It is the national bird of Jordan.\n\n\n== References =="
+  }
+}

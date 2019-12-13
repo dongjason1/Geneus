@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_citri",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. citri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella citri is a fungal plant pathogen infecting citruses.",
+    "See also": "List of citrus diseases\nList of Mycosphaerella species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

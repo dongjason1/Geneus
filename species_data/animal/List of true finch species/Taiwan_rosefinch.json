@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Taiwan_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. formosanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Taiwan rosefinch (Carpodacus formosanus) is a species of finch in the family Fringillidae.  It was formerly considered a subspecies of the vinaceous rosefinch. It is endemic to Taiwan. Its natural habitats are temperate forests and subtropical or tropical dry forests.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_coprophilum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. coprophilum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium coprophilum is a species of the genus of Penicillium which produces roquefortine C, griseofulvin and \noxaline.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

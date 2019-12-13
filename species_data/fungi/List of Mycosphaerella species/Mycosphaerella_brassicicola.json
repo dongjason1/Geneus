@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_brassicicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. brassicicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella brassicicola is a plant pathogen. The pathogen is the teleomorph phase an ascomycete fungus, which causes the ring spot disease of brassicas. The supplementary anamorph phase Asteromella brassicae produces conidia through its asexual reproduction, however these spores are not confirmed to cause disease in host plants.",
+    "Hosts": "Mycosphaerella brassicicola is common among a variety of crops within the genus Brassica and has been historically noted on brussel sprouts, winter cauliflower, and cabbage.  Alternative species of the Mycosphaerella are thought to have a more restricted host range, though there is not yet concrete evidence to support this conclusion.",
+    "Disease Cycle": "The fungus produces ascospores through its sexual reproductive stage which infect host plants by entering the plant through the stomata. The infection begins through the spores germinating penetration pegs and germ tubes. Around three weeks following infection small black specks of conidia within pycnidia, and ascospores within perithecia, can be seen forming upon concentric ring-shaped lesions. Both spore types develop lesions, though the sexual spores tend to create larger more spherical rings. The conidia produced from asexual reproduction may cause spots upon host leaves, however such signs are not known to induce disease from infection. The ascospores are bicellular and 8 are contained within each asci inside of their corresponding perithecium. The fruiting bodies require moisture to facilitate their reproduction and tend to form after a period of 100% relative humidity lasting at least four days. The longer the duration of wetness, the more severe the infection may spread, with ascospores traveling between crops through wind transport.",
+    "Symptoms": "An infection from Mycosphaerella brassicicola typically presents itself on older leaves, though can be seen on younger foliage with more severe infections. Although infection is most noted on the leaves of the host, spores are technically able to cause disease on any above ground portion of the plant. Lesions tend to appear around 10–14 days following fungal infection. The ring lesions produced by ascospore infection will terminate at the veins of leaves, at times restricting the characteristic circular nature of the signs of Mycosphaerella brassicicola. The ring symptoms may be green-brown or grey-black in color then will progress until grey when dry, turning black when wet. The outer edge typically form a ring of chlorosis around the necrotic tissue within the lesion. The rings originate as 3-5mm diameter spots that can potentially grow up to 2–3 cm. If the infection spreads far enough it may lead to premature defoliation of the host.",
+    "Environment": "The disease has been especially prevalent in areas of Great Britain and south-west England. Infection is most common at 16-20 °C during wet periods to allow for easy entry through the stomata. Poor soil drainage can contribute to Mycosphaerella brassicicola proliferation through allowing for the high levels of moisture required for the ascospores to infect their host. Intensive agricultural operations further enhance the spread of disease by wind and water from the close proximity of host crops, as well as the potential for contact to occur between infected and healthy crop foliage.",
+    "See also": "List of Mycosphaerella species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

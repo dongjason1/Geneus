@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_inornatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. inornatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The montane blind snake (Gerrhopilus inornatus) is a species of snake in the Gerrhopilidae family.\n\n\n== References =="
+  }
+}

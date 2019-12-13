@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Madeira_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. maderensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Madeira pipistrelle (Pipistrellus maderensis) is a species of vesper bat. It is endemic to Azores, Madeira and the Canary Islands.\n\n\n== References =="
+  }
+}

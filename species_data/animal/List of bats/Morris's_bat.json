@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Morris's_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. morrisi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Morris's bat (Myotis morrisi) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Ethiopia and Nigeria.\nIts natural habitats are dry savanna, moist savanna, caves, and subterranean habitats (other than caves).\n\n\n== References =="
+  }
+}

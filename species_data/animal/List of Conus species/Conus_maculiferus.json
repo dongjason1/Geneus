@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_maculiferus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. maculiferus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus maculiferus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell attains 30 mm. The shell is wide, with a short spire and slightly coronate. Its color is yellowish white with two revolving series of irregular longitudinal chestnut markings, which are sometimes partially connected one with another in each series.",
+    "Distribution": "This marine species occurs in the Red Sea.",
+    "References": "Petit, R. E. (2009). George Brettingham Sowerby, I, II & III: their conchological publications and molluscan taxa. Zootaxa. 2189: 1–218\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea"
+  }
+}

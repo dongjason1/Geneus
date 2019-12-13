@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_sessilis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Pucciniomycetes"
+    },
+    {
+      "Order": "Pucciniales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. sessilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia sessilis is a fungal plant pathogen, also known as Arum Rust or Ransons Rust. It commonly infects Arum maculatum and Allium ursinum causing yellow to orange circular patches on leaves. On the underside it produces raised orange aecia commonly covered in spores. It is common in Eurasia in the Spring.\nOther species affected by this rust include Convallaria majalis, Dactylorhiza fuchsii, Dactylorhiza incarnata, Dactylorhiza majalis, Gymnadenia conopsea, Neottia ovata, Paris quadrifolia and Phalaris arundinacea A specialised form, Puccinia sessilis f.sp. narcissi-orchidacearum Boerema & Kesteren (Aecidium narcissi) is a cause of rust in daffodils (Narcissus) and various wild Orchidaceae.",
+    "See also": "List of Puccinia species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cone-billed_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "†Xestospiza"
+    },
+    {
+      "Species": "†X. conica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Xestospiza conica is an extinct species of bird with a cone-shaped bill that was described on the basis of fossils. It was possibly an insectivore, populating the Hawaiian Island of Kauai.",
+    "See also": "Xestospiza fastigialis",
+    "References": "",
+    "Further reading": "A Natural history of the Hawaiian Islands: selected readings II. [Honolulu]: University of Hawaii Press. 1994. ISBN 0-8248-1659-5.",
+    "External links": "ornitaxa.com entry"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ipomoea_bracteata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Convolvulaceae"
+    },
+    {
+      "Genus": "Ipomoea"
+    },
+    {
+      "Species": "I. bracteata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ipomoea bracteata is a species of plant in the family Convolvulaceae of the genus Ipomoea. It is endemic to Mexico.\n\n\n== References =="
+  }
+}

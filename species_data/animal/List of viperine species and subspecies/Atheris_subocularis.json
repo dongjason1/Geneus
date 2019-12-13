@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atheris_subocularis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Atheris"
+    },
+    {
+      "Species": "A. subocularis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Atheris subocularis is a species of venomous snake in the  family Viperidae. It is endemic to Cameroon.\n\n\n== References =="
+  }
+}

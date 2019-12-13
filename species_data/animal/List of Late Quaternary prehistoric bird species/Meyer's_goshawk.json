@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Meyer's_goshawk",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Accipitriformes"
+    },
+    {
+      "Family": "Accipitridae"
+    },
+    {
+      "Genus": "Accipiter"
+    },
+    {
+      "Species": "A. meyerianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Meyer's goshawk (Accipiter meyerianus) is a species of bird of prey in the family Accipitridae. It is found in the Moluccas, New Guinea, the Bismarck Archipelago and the Solomon Islands.\nIts natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest.\nThe common name commemorates  Adolf Bernard Meyer (1840–1911), a German anthropologist and ornithologist who collected in the Dutch East Indies.\n\n\n== References =="
+  }
+}

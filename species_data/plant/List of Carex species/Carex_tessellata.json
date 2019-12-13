@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_tessellata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Species": "C. tessellata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex tessellata is a species of flowering plant in the sedge family, Cyperaceae. It is known from a single herbarium specimen collected by Richard Spruce from an uncertain location in Ecuador in the nineteenth century.\n\n\n== References =="
+  }
+}

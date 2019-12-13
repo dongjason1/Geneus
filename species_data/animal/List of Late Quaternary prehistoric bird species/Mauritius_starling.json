@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mauritius_starling",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Sturnidae"
+    },
+    {
+      "Genus": "CryptopsarHume, 2014"
+    },
+    {
+      "Species": "C. ischyrhynchus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mauritius starling (Cryptopsar ischyrhynchus) is an extinct species of starling, described in 2014 by Julian P. Hume, based on subfossils from Mauritius. The holotype mandible was discovered in 1904, but was hidden in a museum drawer for over a hundred years, hence the genus name. The Mauritius starling was shown to be closer to the Rodrigues starling than to the hoopoe starling of Réunion.",
+    "References": "",
+    "External links": " Media related to Sturnidae at Wikimedia Commons\n Data related to Cryptopsar at Wikispecies"
+  }
+}

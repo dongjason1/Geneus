@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_fuscofulva",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hymenogastraceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. fuscofulva"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe fuscofulva is a species of mushroom in that grows on Sphagnum moss and rarely decaying wood in peat bogs in North America and Europe. It is the only species of Psilocybe currently known to not contain any psilocybin or psilocin. The phylogenetic placement indicates its close relationship to Psilocybe silvatica and Psilocybe semilanceata. It was previously most commonly known as Psilocybe atrobrunnea but the holotype does not exist and the neotype of this species was lost, so Psilocybe fuscofulva, which was previously regarded as a synonym but has a holotype, was resurrected to replace it.",
+    "See also": "List of Psilocybe species",
+    "References": "\n\n== External links =="
+  }
+}

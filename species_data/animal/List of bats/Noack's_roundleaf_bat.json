@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Noack's_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. ruber"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Noack's roundleaf bat (Hipposideros ruber) is a species of bat in the family Hipposideridae. It is found throughout tropical Africa. Its natural habitats are subtropical or tropical moist lowland forests, moist savanna, caves, and subterranean habitats (other than caves).\n\n\n== References =="
+  }
+}

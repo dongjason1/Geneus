@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cerrophidion_godmani",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Cerrophidion"
+    },
+    {
+      "Species": "C. godmani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cerrophidion godmani is a venomous pit viper species found in southern Mexico and Guatemala. No subspecies are currently recognized. It is also known as the Godman's montane pit viper or the Godman's pit viper.",
+    "Etymology": "The specific name, godmani, is in honor of English zoologist Frederick DuCane Godman.",
+    "Description": "Terrestrial and moderately stout, adults of C. godmani are usually less than 55 cm (21.5 in) in total length, but sometimes grow to more than 75 cm (30 in).",
+    "Geographic range": "Cerrophidion godmani is found in Mexico in the Mexican states of Chiapas and southeastern Oaxaca and in Guatemala. Populations from south of Guatemala are now assigned to a new species, Cerrophidion sasai . The type locality given is \"near Dueñas and on the other parts of the tableland of Guatemala\".",
+    "See also": "List of crotaline species and subspecies\nCrotalinae by common name\nCrotalinae by taxonomic synonyms\nSnakebite",
+    "References": "",
+    "Further reading": "Günther A (1863). \"Third Account of new Species of Snakes in the Collection of the British Museum\". Ann. Mag. Nat. Hist., Third Series 12: 348-365. (\"Bothriechis Godmanni\", new species, pp. 364-365 + Plate VI, Figure G)."
+  }
+}

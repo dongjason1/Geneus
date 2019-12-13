@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_axillaris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. axillaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia axillaris is a perennial plant native to central Mexico from San Luis Potosí to Oaxaca. It is grown in horticulture as a ground cover, as it spreads on shoots that root at the nodes. It reaches about 1 m in height, with a great deal of variety in the leaves, depending on where it is growing. The flowers are small white tubes mostly hidden inside a small dark purple calyx, with the upper lip hooded and dark purple.\n\n\n== Notes =="
+  }
+}

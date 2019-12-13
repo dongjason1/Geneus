@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hypericum_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Hypericaceae"
+    },
+    {
+      "Genus": "Hypericum"
+    },
+    {
+      "Section": "Hypericum sect. Hypericum"
+    },
+    {
+      "Species": "H. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hypericum elegans is a species of flowering plant found in Europe.\nThe larvae of the moth Euspilapteryx auroguttella feed on H. elegans.",
+    "See also": "List of Hypericum species",
+    "References": "\nSpecies Plantarum 3(2):1469. 1802\n\n\n== External links =="
+  }
+}

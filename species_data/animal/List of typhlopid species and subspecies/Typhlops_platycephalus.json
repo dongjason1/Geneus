@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_platycephalus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Antillotyphlops"
+    },
+    {
+      "Species": "A. platycephalus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The flathead worm snake (Antillotyphlops platycephalus) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

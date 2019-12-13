@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_cornifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. rhamnoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus rhamnoides, Spanish: coralillo, Nahuatl languages: calaomit, and also iza and mataiza, is a species of Prunus in the family Rosaceae. It is native to Mexico and Central America. It is a tree 7.5 to 15 m tall. A shade tolerant species, it is considered an indicator of forest health. Local people use its timber for construction and household implements.",
+    "Notes": "\n\n== References =="
+  }
+}

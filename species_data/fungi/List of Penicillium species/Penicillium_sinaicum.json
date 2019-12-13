@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_sinaicum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. sinaicum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium sinaicum is a species of fungus in the genus Penicillium which was isolated from marine sludge near Port Said City in Sinai Peninsula in Egypt.\n\n\n== References =="
+  }
+}

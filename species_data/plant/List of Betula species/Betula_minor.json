@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Betula_minor",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Betulaceae"
+    },
+    {
+      "Genus": "Betula"
+    },
+    {
+      "Subgenus": "Betula subg. Chamaebetula"
+    },
+    {
+      "Species": "B. minor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Betula minor, the dwarf white birch, is a species of birch which can be found in Eastern Canada and in such US states as Maine, New Hampshire, and New York.\n\n\n== References =="
+  }
+}

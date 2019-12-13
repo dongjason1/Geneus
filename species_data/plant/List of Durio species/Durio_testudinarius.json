@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Durio_testudinarius",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Malvaceae"
+    },
+    {
+      "Genus": "Durio"
+    },
+    {
+      "Species": "D. testudinarius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Durio testudinarius, commonly known as durian kura kura (literally: 'tortoise durian') is a species of durian tree in the family Malvaceae. It is endemic to Borneo.",
+    "See also": "List of Durio species, with a paragraph on D. testudinarius.\n\n\n== References =="
+  }
+}

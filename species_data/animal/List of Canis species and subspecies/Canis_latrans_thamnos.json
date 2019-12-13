@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_latrans_thamnos",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. latrans"
+    },
+    {
+      "Subspecies": "C. l. thamnos"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Northeastern coyote (Canis latrans thamnos) is a subspecies of coyote native to north-central Saskatchewan, Manitoba (except the extreme southwestern\ncorner), southern Ontario, and extreme southern Quebec. Its population in the United States occurs along the eastern edge of North Dakota, Minnesota, Iowa, Missouri (north of the Missouri River), Michigan, Wisconsin, Illinois (except the extreme southern portion), and northern Indiana. However, due to increased clearing of land for agriculture, the Northeastern coyote has expanded its range throughout the entire state of Indiana. It is similar to C. l. latrans, or larger, but darker in color, and has a broader skull.",
+    "References": "\n\n== External links =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bay_starling",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "?Sturnidae"
+    },
+    {
+      "Genus": "?Aplonis"
+    },
+    {
+      "Species": "Aplonis ulietensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Raiatea starling, formerly known as the bay thrush, bay starling, or the mysterious bird of Ulieta, is an extinct bird species of uncertain taxonomic relationships that once lived on the island of Raiatea (formerly known as Ulietea, hence the specific epithet ulietensis), the second largest of the Society Islands in French Polynesia.",
+    "Taxonomy": "The species is known only from a 1774 watercolour painting of the lost type specimen, contemporary descriptions, and a few brief field notes. The artist was Georg Forster, who accompanied his father Johann Reinhold Forster as naturalists on James Cook's second voyage to the Pacific in HMS Resolution, which visited Raiatea in May and June 1774. The painting, now held by the British Natural History Museum, is annotated \"Raiatea, female, June 1, 1774\", and depicts the specimen obtained by the Forsters which entered the collection of Sir Joseph Banks and later disappeared. The specimen was also described as the \"bay thrush\" by John Latham, who had seen it in Banks' collection, in his General Synopsis of Birds (1781–1785). However, because Latham only used English names, it was left to Johann Friedrich Gmelin to give it a scientific name in 1789.Raiatea was visited in 1850 by explorer and natural history collector Andrew Garrett, who failed to record the species.  Evidently it became extinct between 1774 and 1850, almost certainly as a consequence of the inadvertent introduction of black or brown rats to the island.Some confusion was caused when Richard Bowdler Sharpe tried to match the illustration with a specimen skin of unknown origin in the British Museum collection. This was eventually sorted out when the skin was identified as belonging to another enigmatic and extinct species – the Mauke starling Aplonis mavornata.It has been variously suggested that the species could be a thrush, a starling or a honeyeater. However, without a specimen, its precise taxonomic position remains uncertain. Turdidae are unknown from the Society Islands, while the Huahine starling (Aplonis diluvialis) proves the former existence of Sturnidae.",
+    "Description": "John Latham described it as follows: \"Size of the song thrush: length eight inches and a half. Bill an inch and a quarter, notched at the tip, and of a reddish pearl-colour: general colour of the plumage rufous brown: quills edged with dusky: tail rounded in shape and dusky, legs dusky black.\"James Greenway gives a free and abridged translation (from the Latin) of Forster's description of the lost specimen as: \"Head dusky marked with brown. Above dusky, all the feathers edged with reddish brown; wings dusky, the primaries edged with brown, as are the wing coverts and the tail feathers. Below ochraceous. Iris dark yellow. Twelve tail feathers. Tibiae compressed and with seven scutes. Tongue bifid at the tip and ciliated.\"",
+    "Behaviour": "The only recorded observations of the living bird come from Forster, who noted that it had a soft, fluting voice and lived among the thickets in the valleys of its island home.",
+    "Further reading": "Davies, Martin (2005). The Conjuror's Bird. London: Hodder & Stoughton. ISBN 978-0-340-89616-7.",
+    "References": "",
+    "References-Notes": "",
+    "References-Sources": "Fuller, Errol (2000). Extinct Birds. Oxford: Oxford University Press. pp. 314–315. ISBN 978-0-19-850837-3.\nGreenway, James C. (1967). Extinct and Vanishing Birds of the World. New York: Dover Publications. pp. 377–378. ISBN 978-0-486-21869-4.\nGodino, F.M.J. (2010). \"Bay Starling\". The Extinction Website. Archived from the original on 2016-03-03. Retrieved 2010-10-29.\nSeebohm, Henry (1880). Catalogue of the Passeriformes, or Perching Birds, in the Collection of the British Museum. Cichlomorphae: Part II. Containing the Family Turdidae (Warblers and Thrushes). London: British Museum."
+  }
+}

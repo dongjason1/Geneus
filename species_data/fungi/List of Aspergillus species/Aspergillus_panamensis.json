@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_panamensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. panamensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus panamensis is a species of fungus in the genus Aspergillus which produces cyclogregatin, gregatin A, gregatin B, gregatin C and gregatin D.",
+    "References": "",
+    "Further reading": "ANKE, H.; SCHWAB, H.; ACHENBACH, H. (1980). \"Tetronic acid derivatives from Aspergillus panamensis. Production, isolation, characterization and biological activity\". The Journal of Antibiotics. 33 (9): 931–939. doi:10.7164/antibiotics.33.931.\nMachida, edited by Masayuki; Gomi, Katsuya (2010). Aspergillus : molecular biology and genomics. Wymondham, Norfolk, UK: Caister Academic. ISBN 978-1-904-45553-0.CS1 maint: extra text: authors list (link)"
+  }
+}

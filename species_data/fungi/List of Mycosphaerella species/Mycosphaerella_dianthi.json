@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_dianthi",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Davidiellaceae"
+    },
+    {
+      "Genus": "Davidiella"
+    },
+    {
+      "Species": "D. dianthi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Davidiella dianthi is a fungal plant pathogen infecting carnations.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hispaniolan_crossbill",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Loxia"
+    },
+    {
+      "Species": "L. megaplaga"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Hispaniolan crossbill (Loxia megaplaga) is a crossbill that is endemic to the island of Hispaniola in the Caribbean and therefore only found in Haiti and the Dominican Republic.",
+    "Taxonomy": "It was formerly regarded as conspecific with the two-barred crossbill (L. leucoptera), from which it is now assumed it evolved.\nThere is general acceptance that the origin of the L. megaplaga can be traced to southern populations of L. leucoptera. These got stranded on the highest pine-forested mountains in Hispaniola (the highest in all the Caribbean islands) when the glaciers and vast temperate coniferous forests started receding northward after end of the last glacial period at the beginning of the Holocene, some 10,000 years ago. The distance that now separates both species is of thousands of kilometers (from the Caribbean to the northern U.S. and Canada), making the story of the Hispaniolan crossbill an interesting one from an ecological and environmental point of view. This distribution is similar to that of the rufous-collared sparrow (Zonotrichia capensis), whose native range stretches from southern Mexico as far south as Cape Horn and is absent from all Caribbean islands except Hispaniola.\nThe bird feeds almost exclusively on the seeds from Hispaniolan pine (Pinus occidentalis) cones.",
+    "Conservation": "Because of its restricted range, small population size, and increasing threats to pine forest, this species is listed as Endangered by the IUCN (International Union for Conservation of Nature and Natural Resources; BirdLife International 2008). The population is highly fragmented and is currently thought to be declining primarily due to increased agricultural clearance and habitat loss. The mature population, which is thought to range somewhere between 400-2300 individuals, is concentrated primarily in the Sierra de Baoruco National Park, which lacks any active protection.",
+    "References": "Dod, Annabelle Stockton (1978). Aves de la República Dominicana. Museo Nacional de Historia Natural, Santo Domingo, Dominican Republic.\nDod, A. S. (1992). Endangered and Endemic Birds of the Dominican Republic. Cypress House ISBN 1-879384-12-4",
+    "External links": "BirdLife Species Factsheet"
+  }
+}

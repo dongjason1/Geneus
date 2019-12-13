@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_multiliratus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. multiliratus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus multiliratus is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "The size of the shell varies between 16.7 mm and 20.2 mm.",
+    "Distribution": "This marine species of cone snail is found as a fossil from the Middle Miocene and Tertiary in Mexico, Panama and Colombia; in the Neogene of the Dominican Republic.",
+    "References": "Böse, E., 1906. Sobre algunas faunas terciarias de México. Boletin Instituto Geológico de México, 22: 1 -92\nHendricks J.R. (2015). Glowing seashells: diversity of fossilized coloration patterns on coral reef-associated cone snail (Gastropoda: Conidae) shells from the Neogene of the Dominican Republic. PLoS ONE. 10(4): e0120924",
+    "External links": "To World Register of Marine Species"
+  }
+}

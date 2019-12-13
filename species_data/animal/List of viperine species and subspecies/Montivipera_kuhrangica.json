@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Montivipera_kuhrangica",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Montivipera"
+    },
+    {
+      "Species": "M. kuhrangica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Montivipera kuhrangica, commonly known as the Kuhrang mountain viper, is a species of venomous viper endemic to Iran.",
+    "Geographic range": "The snake is found in Chaharmahal and Bakhtiari Province, Iran in the Zagros Mountains.\n\n\n== References =="
+  }
+}

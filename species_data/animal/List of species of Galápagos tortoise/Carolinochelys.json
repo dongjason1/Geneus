@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carolinochelys",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Chelonioidea"
+    },
+    {
+      "Family": "Cheloniidae"
+    },
+    {
+      "Genus": "†CarolinochelysHay, 1923"
+    },
+    {
+      "Species": "†C. wilsoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carolinochelys is an extinct genus of sea turtle from Oligocene of United States. It contains one species: C. wilsoni, and was first named by O.P. Hay in 1923.",
+    "References": "\nLife History: Geologic History of Sea Turtles\nzipcodezoo.com\nCarolinochelys at the Paleobiology Database"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eragrostis_tremula",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Eragrostis"
+    },
+    {
+      "Species": "E. tremula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eragrostis tremula is an annual grass that is native to tropical Africa, India and Myanmar. It is found in sandy soils and abandoned cultivation.",
+    "Description": "Ascending culms can grow up to 75 centimeters.",
+    "Uses": "It is used as fodder for cattle and eaten in times of food scarcity.\n\n\n== References =="
+  }
+}

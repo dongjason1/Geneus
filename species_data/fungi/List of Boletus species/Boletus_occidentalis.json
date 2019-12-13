@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_occidentalis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. occidentalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus occidentalis is a species of bolete fungus in the Boletaceae family. Found growing under Pinus occidentalis in Jarabacoa, Dominican Republic, it was described as new to science in 2007.",
+    "See also": "List of Boletus species",
+    "References": "",
+    "External links": "Boletus occidentalis  in Index Fungorum"
+  }
+}

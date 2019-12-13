@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allium_austrosibiricum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Allioideae"
+    },
+    {
+      "Genus": "Allium"
+    },
+    {
+      "Species": "A. austrosibiricum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allium austrosibiricum is a species of onion native to Mongolia and southern Siberia (Tuva and Altay Krai). Some sources consider the name synonymous with A. spirale, but others recognize it as a distinct species.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_albellus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. albellus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus albellus, common name  snowy cone snail, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Notes": "Additional information regarding this species:\nTaxonomy: Conus albellus is part of a species complex including C. limpusi, C. lizardensis and C. colmani, that needs re-evaluation. For conservation implications, all are here tentatively listed as distinct.",
+    "Distribution": "This marine species is endemic to Australia and occurs off Queensland.",
+    "References": "Röckel, D. & Korn, W. 1990. Zur Indentitat von Conus lizardensis Crosse, 1865 und Conus sibogae Schepman, 1913- mit Beschreibung dreier neuer Conus-Arten von Queensland, Australien (Mollusca: Conidae). Acta Conchyliorum 2: 5-23, pls 1-10\nWilson, B. (1994) Australian marine shells. Prosobranch gastropods. Vol. 2 Neogastropods. Odyssey Publishing, Kallaroo, Western Australia, 370 pp.\nRöckel, D., Korn, W. & Kohn, A.J. 1995. Manual of the Living Conidae. Volume 1: Indo-Pacific Region. Wiesbaden : Hemmen 517 pp\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\n\"Conus albellus\". Gastropods.com. Retrieved 15 January 2012."
+  }
+}

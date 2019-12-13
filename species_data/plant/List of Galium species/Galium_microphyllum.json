@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Galium_microphyllum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Gentianales"
+    },
+    {
+      "Family": "Rubiaceae"
+    },
+    {
+      "Genus": "Galium"
+    },
+    {
+      "Species": "G. microphyllum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Galium microphyllum (bracted bedstraw) is a species of plant in the family Rubiaceae. It is widespread across much of Mexico, and found also in Guatemala, Arizona, New Mexico and western Texas.",
+    "References": "",
+    "External links": "Photo of herbarium specimen at Missouri Botanical Garden, type of Galium microphyllum\nGardening Europe"
+  }
+}

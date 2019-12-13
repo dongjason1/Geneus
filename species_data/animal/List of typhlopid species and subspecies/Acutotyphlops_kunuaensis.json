@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acutotyphlops_kunuaensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Acutotyphlops"
+    },
+    {
+      "Species": "A. kunuaensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Kunua blind snake (Acutotyphlops kunuaensis) is a species of snake in the Typhlopidae family. It is endemic to the island of Bougainville.\n\n\n== References =="
+  }
+}

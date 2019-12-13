@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pluteus_glaucus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Pluteaceae"
+    },
+    {
+      "Genus": "Pluteus"
+    },
+    {
+      "Species": "P. glaucus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pluteus glaucus is a  mushroom in the family Pluteaceae.",
+    "Chemistry": "0.28% psilocybin, 0.12% psilocin (Stijve and de Meijer 1993).",
+    "See also": "List of Pluteus species\nList of Psilocybin mushrooms\n\n\n== References =="
+  }
+}

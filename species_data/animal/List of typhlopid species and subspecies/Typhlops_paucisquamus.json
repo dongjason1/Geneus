@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_paucisquamus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Amerotyphlops"
+    },
+    {
+      "Species": "A. paucisquamus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Pernambuco worm snake (Amerotyphlops paucisquamus) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

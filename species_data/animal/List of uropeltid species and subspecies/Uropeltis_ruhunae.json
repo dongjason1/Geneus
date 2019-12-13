@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Uropeltis_ruhunae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Uropeltidae"
+    },
+    {
+      "Genus": "Uropeltis"
+    },
+    {
+      "Species": "U. ruhunae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Uropeltis ruhunae is a species of snake in the family Uropeltidae. The species is endemic to Sri Lanka.",
+    "Etymology": "The specific name, ruhunae, refers to the ancient Sri Lankan Kingdom of Ruhuna.",
+    "References": "",
+    "Further reading": "Deraniyagala, P.E.P. (1954). \"Two new snakes from Ceylon\". Proceedings of the 10th Congress of the Ceylon Association for the  Advancement of Science 1: 24. (Uropeltis ruhunae, new species)."
+  }
+}

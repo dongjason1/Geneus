@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_campestris",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. chevalieri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus campestris is a species of fungus in the genus Aspergillus. The species was first described in 1982. It is from the Candidi section. The fungi in the Candidi section are known for their white spores. It has been shown to produce a high number of secondary metabolites.The genome of A. campestris  was sequenced as a part of the Aspergillus whole-genome sequencing project - a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 28.26 Mbp.",
+    "Growth and morphology": "A. campestris has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

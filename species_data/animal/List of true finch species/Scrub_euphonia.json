@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Scrub_euphonia",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Euphoniinae"
+    },
+    {
+      "Genus": "Euphonia"
+    },
+    {
+      "Species": "E. affinis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The scrub euphonia (Euphonia affinis) is a species of bird in the family Fringillidae.\nIt is found in Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, and Nicaragua.  Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and heavily degraded former forest.",
+    "Taxonomy": "The subspecies E. a. godmani is sometimes considered to be a full species, Godman's euphonia Euphonia godmani Brewster, 1889.\n\n\n== References =="
+  }
+}

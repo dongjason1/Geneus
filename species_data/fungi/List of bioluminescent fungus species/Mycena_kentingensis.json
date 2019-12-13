@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_kentingensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. kentingensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena kentingensis is a species of agaric fungus in the family Mycenaceae.  Found in Taiwan and described as new to science in 2013, the fruit bodies of the fungus are bioluminescent. Closely related species include M. stylobates and M. adscendens.",
+    "See also": "List of bioluminescent fungi\n\n\n== References =="
+  }
+}

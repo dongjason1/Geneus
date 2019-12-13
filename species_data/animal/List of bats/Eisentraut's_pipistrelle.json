@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eisentraut's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Parahypsugo"
+    },
+    {
+      "Species": "P. eisentrauti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eisentraut's pipistrelle (Parahypsugo eisentrauti) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Cameroon, Democratic Republic of the Congo, Kenya, Somalia, and Uganda.\nIts natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical mangrove forest, and subtropical or tropical moist montane forest.\n\n\n== Sources =="
+  }
+}

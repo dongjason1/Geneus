@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_bahioides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. bahioides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio bahioides is a species of the genus Senecio and family Asteraceae and is a native of Chile.",
+    "References": "",
+    "External links": " Media related to Senecio bahioides at Wikimedia Commons"
+  }
+}

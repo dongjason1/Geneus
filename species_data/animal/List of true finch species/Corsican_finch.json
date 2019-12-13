@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corsican_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carduelis"
+    },
+    {
+      "Species": "C. corsicana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Corsican finch (Carduelis corsicana), also known as Corsican citril finch or Mediterranean citril finch is a bird in the finch family, Fringillidae.\nIt was formerly regarded a subspecies of the citril finch, but it differs in morphology and vocalizations (Förschler & Kalko, 2007) as well as mtDNA sequence (Sangster, 2000, contra Pasquet & Thibault, 1997, Förschler et al. 2009) and they are now considered distinct species (Sangster et al., 2002, Förschler et al. 2009). \nFormerly, both were placed in the genus Serinus, but they appear to be close relatives of the European goldfinch (Arnaiz-Villena et al., 1998).\nIt is found in Corsica and on the Italian islands of Sardinia, Elba, Capraia and Gorgona.\nIt has dark-streaked brown upperparts, and brighter yellow underparts than the citril finch.",
+    "Taxonomy": "The first formal description of the Corsican finch was by the German zoologist Alexander Koenig in 1899 under the binomial name Citrinella corsicana.",
+    "References": "Arnaiz-Villena, A., Alvarez-Tejado, M., Ruiz-del-Valle, V., Garcia-de-la-Torre, C., Varela, P., Recio, M., Martinez-Laso, J. (1998). Phylogeny and rapid Northern and Southern Hemisphere speciation of goldfinches during the Miocene and Pliocene Epochs. Cellular and Molecular Life Sciences CMLS, 54(9), 1031-1041.[1]\nArnaiz-Villena, A., Gómez-Prieto, P., & Ruiz-de-Valle, V. (2009). Phylogeography of finches and sparrows. Animal Genetics\", New York, NY: USA: Nova Pub. \nFörschler, M.I.; Kalko, E.K.V. (2007). \"Geographical differentiation, acoustic adaptation and species boundaries in mainland citril finches and insular Corsican finches, superspecies Carduelis [citrinella]\". Journal of Biogeography. 34 (9): 1591–1600. doi:10.1111/j.1365-2699.2007.01722.x.\nFörschler, M.I.; Senar, J.C.; Perret, P.; Björklund, M. (2009). \"The species status of the Corsican Finch Carduelis corsicana assessed by three genetic markers with different rates of evolution\". Molecular Phylogenetics and Evolution. 52 (1): 234–240. doi:10.1016/j.ympev.2009.02.014. PMID 19249374.\n\nPasquet, E.; Thibault, J.-C. (1997). \"Genetic differences among mainland and insular forms of the Citril Finch Serinus citrinella\". Ibis. 139 (4): 679–684. doi:10.1111/j.1474-919x.1997.tb04691.x.\nSangster, G (2000). \"Genetic distance as a test of species boundaries in the Citril Finch Serinus citrinella: a critique and taxonomic reinterpretation\". Ibis. 142 (3): 487–490. doi:10.1111/j.1474-919x.2000.tb04447.x.\nSangster, George; Knox, Alan G.; Helbig, Andreas J.; Parkin, David T. (2002). \"Taxonomic recommendations for European birds\". Ibis. 144 (1): 153–159. doi:10.1046/j.0019-1019.2001.00026.x.\nZamora J, Moscoso J, Ruiz-del-Valle V, Lowy E, Serrano-Vela JI, et al. (2006) Conjoint mitochondrial phylogenetic trees for canaries (Serinus spp.) and goldfinches (Carduelis spp.) show several specific polytomies. Ardeola 53: 1-17. https://pdfs.semanticscholar.org/2d7a/7496f3959a9258b4717f5159acf2d7c70720.pdf",
+    "External links": "Audio recordings from Xeno-canto"
+  }
+}

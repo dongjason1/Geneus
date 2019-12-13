@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hairy-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. annectans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The hairy-faced bat (Myotis annectans) is a species of vesper bat.\nIt can be found in the following countries: India, Indonesia, Laos, Myanmar, and Thailand.\n\n\n== References =="
+  }
+}

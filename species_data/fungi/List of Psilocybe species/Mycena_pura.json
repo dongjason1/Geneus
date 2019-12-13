@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_pura",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Basidiomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. pura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena pura, commonly known as the lilac bonnet, is a species of mushroom in the family Mycenaceae. First called Agaricus prunus in 1794 by Christian Hendrik Persoon, it was assigned its current name in 1871 by German Paul Kummer. Mycena pura is known to bioaccumulate the element boron.",
+    "Bioactive compounds": "Mycena pura contains the chemical puraquinonic acid, a sesquiterpene. This compound induces mammalian cells (specifically, the cell line HL60) to differentiate into granulocyte- or macrophage-like cells. The fungus also contains the mycotoxin muscarine, and the antifungal metabolite strobilurin D, the latter previously found in Cyphellopsis anomala.",
+    "See also": "List of bioluminescent fungi",
+    "Gallery": "\n\t\t\n\t\t\n\t\t\n\t\t\n\n\n== References =="
+  }
+}

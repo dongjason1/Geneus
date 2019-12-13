@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_hordei",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Pucciniomycetes"
+    },
+    {
+      "Order": "Pucciniales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. hordei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia hordei is a species of rust fungus. A plant pathogen, it can cause barley brown rust.",
+    "See also": "List of Puccinia species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phoenicopterus_minutus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Phoenicopteriformes"
+    },
+    {
+      "Family": "Phoenicopteridae"
+    },
+    {
+      "Genus": "Phoenicopterus"
+    },
+    {
+      "Species": "P. minutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phoenicopterus minutus is an extinct species of flamingo which inhabited California during the Late Pleistocene."
+  }
+}

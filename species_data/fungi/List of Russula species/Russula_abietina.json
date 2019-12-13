@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_abietina",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. abietina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula abietina is a species of mushroom.\n\n\n== References =="
+  }
+}

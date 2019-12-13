@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russet_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Chaerephon"
+    },
+    {
+      "Species": "C. russatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The russet free-tailed bat (Chaerephon russatus) is a species of bat in the family Molossidae. It is found in Cameroon, Democratic Republic of the Congo, Ghana, and Kenya. Its natural habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

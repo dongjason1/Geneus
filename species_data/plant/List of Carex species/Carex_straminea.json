@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_straminea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Vignea"
+    },
+    {
+      "Section": "Carex sect. Ovales"
+    },
+    {
+      "Species": "C. straminea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex straminea, known as eastern straw sedge, is a species of sedge native to North America.\n\n\n== References =="
+  }
+}

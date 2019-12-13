@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_lacticoffeatus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. lacticoffeatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus lacticoffeatus is a species of fungus in the genus Aspergillus. It belongs to the group of black Aspergilli which are important industrial workhorses. A. lacticoffeatus belongs to the Nigri section. It was first described in 2004. It has been found on coffee beans in Venezuela and Indonesia, and is an effective producer of ochratoxin. It has an unfunctional PKS gene (pksA) for the production of black conidium pigment, which makes it the only species in the Nigri section which is brown and not black. It has been proposed that this species might not be a separate species but instead a mutated A. niger.The genome of A. lacticoffeatus was sequenced in 2014 as part of the Aspergillus whole-genome sequencing project – a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus.  Its genome assembly size was 35.86 Mbp.",
+    "Growth and morphology": "Aspergillus lacticoffeatus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_lycopersici",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Didymellaceae"
+    },
+    {
+      "Genus": "Boeremia"
+    },
+    {
+      "Species": "B. lycopersici"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boeremia lycopersici (syn. Didymella lycopersici) is a fungal plant pathogen infecting tomatoes and strawberries.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shadowy_broad-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Platyrrhinus"
+    },
+    {
+      "Species": "P. umbratus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The shadowy broad-nosed bat (Platyrrhinus umbratus) is a species of bat in the family Phyllostomidae. It is found in Colombia and Venezuela.\n\n\n== References =="
+  }
+}

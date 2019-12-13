@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_pseudoplumosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. pseudoplumosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia pseudoplumosa is a shrub endemic to Western Australia.",
+    "References": "\"Banksia pseudoplumosa (A.S.George) A.R.Mast & K.R.Thiele\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

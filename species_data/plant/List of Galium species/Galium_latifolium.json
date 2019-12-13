@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Galium_latifolium",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Gentianales"
+    },
+    {
+      "Family": "Rubiaceae"
+    },
+    {
+      "Genus": "Galium"
+    },
+    {
+      "Species": "G. latifolium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Galium latifolium (purple bedstraw) is a North American species of plants in the madder family. It is native to eastern North America, primarily the Appalachian Mountains from Pennsylvania to Alabama. There are also a few lowland populations in eastern Maryland and eastern South Carolina.",
+    "References": "",
+    "External links": "State of Pennsylvania, Natural Heritage Program, plant species of concern\nUnited States Department of Agriculture plants profile"
+  }
+}

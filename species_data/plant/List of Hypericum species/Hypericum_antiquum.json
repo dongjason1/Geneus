@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hypericum_antiquum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Hypericaceae"
+    },
+    {
+      "Genus": "Hypericum"
+    },
+    {
+      "Species": "†H. antiquum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hypericum antiquum is an extinct species of the genus Hypericum that was present during the Eocene epoch. The species' fossils are the oldest collected of Hypericum, and it is assumed that the species is the common ancestor of the tribe Hypericeae. Fossil seeds have been found in Russia, and the predicted paleoregion of the species stretched across Eurasia. It is theorized that one factor leading to the species' extinction is a global cooling at the end of the Eocene that removed much of its habitat.",
+    "Specimens": "Fossils of seeds were collected in the Novosibirsk Oblast of Russia from a borehole at a depth of 250 meters.",
+    "Description": "Because the only recovered fossils of the species are seeds, the only description available is of said seeds. The collected seeds were approximately 0.5 x 0.3 mm in size. They are anatropous, and either cylindrical or somewhat flattened in shape. The meshes of the surface are elongated and hexagonal, and are formed by the elongated cells of the testa. One end of the seed is rounded, while the other is slightly narrowed with a small tubercule. The case of the seed is rather thin, and is colored black.",
+    "References": "",
+    "Bibliography": "Meseguer, Andrea S.; Sanmartín, Isabel (2012-06-30). \"Paleobiology of the genus Hypericum (Hypericaceae): a survey of the fossil record and its palaeogeographic implications\". Anales del Jardín Botánico de Madrid. 69 (1): 97–106. doi:10.3989/ajbm.2306. ISSN 1988-3196.\nMeseguer, Andrea S.; Lobo, Jorge M.; Ree, Richard; Beerling, David J.; Sanmartín, Isabel (2014-11-13). \"Integrating Fossils, Phylogenies, and Niche Models into Biogeography to Reveal Ancient Evolutionary History: The Case of Hypericum (Hypericaceae)\". Systematic Biology. 64 (2): 215–232. doi:10.1093/sysbio/syu088. ISSN 1076-836X. PMC 4380036. PMID 25398444."
+  }
+}

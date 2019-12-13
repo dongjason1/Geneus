@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Struthio_wimani",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Struthioniformes"
+    },
+    {
+      "Family": "Struthionidae"
+    },
+    {
+      "Genus": "Struthio"
+    },
+    {
+      "Species": "S. wimani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Struthio wimani is an extinct species of ratite bird from the Pliocene of China.",
+    "Footnotes": "",
+    "References": "beautyofbirds.com  (2010). \"Ostriches\". Wild Bird Web. Retrieved 2 February 2010.\nLucas, Spencer G. (2001). Chinese Fossil Vertebrates. New York, NY: Columbia University Press. ISBN 0-231-08483-8.\nZicha, Ondrej (1999). \"Struthio orlovi\". Biological Library. Retrieved 2 February 2010."
+  }
+}

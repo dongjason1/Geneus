@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_venusta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. venusta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera venusta is a subtropical sundew endemic to South Africa. It was described as a new species by Paul Debbert in 1987. Some have questioned its specific rank, noting its affinity to D. natalensis, while others have reduced it to a synonym of D. natalensis.",
+    "See also": "List of Drosera species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_raphiae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. raphiae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium raphiae is a species of fungus in the genus Penicillium which was isolated from agricultural soil of the Ulleung Island in Korea.",
+    "Further reading": "Paul, Narayan Chandra; Mun, Hye Yeon; Lee, Hye Won; Yu, Seung Hun; Lee, Hyang Burm (2014). \"A New Record of Penicillium raphiae Isolated from Agricultural Soil of Ulleung Island, Korea\". Mycobiology. 42 (3): 282–5. doi:10.5941/MYCO.2014.42.3.282. PMC 4206796. PMID 25346607.\n\n\n== References =="
+  }
+}

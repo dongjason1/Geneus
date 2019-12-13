@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_brevijanus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. brevijanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus brevijanus is a species of fungus in the genus Aspergillus. It is from the Jani section. The section only contains the two species A. brevijanus and A. janus. The colonies of the members of the section have both white and green sections. The species was first described in 2008.In 2016, the genome of A. brevijanus was sequenced as a part of the Aspergillus whole-genome sequencing project - a project dedicated to performing whole-genome sequencing of all members of the genus Aspergillus. The genome assembly size was 36.00 Mbp.",
+    "Growth and morphology": "A. brevijanus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

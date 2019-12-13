@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sinaspideretes",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Genus": "SinaspideretesYoung and Chow, 1953"
+    },
+    {
+      "Species": "S. wimani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sinaspideretes is an extinct genus of turtle from the Late Jurassic of China. It is considered the earliest and most basal representative of the Trionychia.",
+    "References": "",
+    "Sources": "The Age of Dinosaurs in Russia and Mongolia by Michael J. Benton, Mikhail A. Shishkin, David M. Unwin, and Evgenii N. Kurochkin\nChinese Fossil Vertebrates by Spencer G. Lucas"
+  }
+}

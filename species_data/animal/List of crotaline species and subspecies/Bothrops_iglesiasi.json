@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_iglesiasi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. lutzi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops lutzi, the Cerrado lancehead, is a species of venomous snake in the  family Viperidae. The species is endemic to Brazil.",
+    "Etymology": "The specific name, lutzi, is in honor of Adolfo Lutz of the Instituto Oswaldo Cruz, who collected the type specimen, upon which Miranda-Ribeiro based his new species description. Adolfo Lutz was the father of Brazilian herpetologist Bertha Lutz.",
+    "References": "",
+    "Further reading": "Amaral A (1923). \"New Genera and Species of Snakes\". Proceedings of the New England Zoölogical Club 8: 85-105. (Bothrops iglesiasi, new species, pp. 97–99).\nMiranda Ribeiro [sic] A (1915). \"Lachesis lutzi, Uma variedade de L. pictus Tschudi \". Archivos do Museu Nacional, Rio de Janeiro 17 (3): 3-4. (Lachesis lutzi, new species). (in Portuguese)."
+  }
+}

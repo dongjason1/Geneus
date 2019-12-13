@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phyllanthus_maderaspatensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Phyllanthaceae"
+    },
+    {
+      "Genus": "Phyllanthus"
+    },
+    {
+      "Species": "P. maderaspatensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phyllanthus maderaspatensis is a perennial herbaceous species of plant in the family Phyllanthaceae, widespread in tropical and subtropical areas of the old world.",
+    "References": "\nBingtao Li & Michael G. Gilbert (2008), \"Phyllanthus maderaspatensis Linnaeus, Sp. Pl. 2: 982. 1753\", Flora of China online, 11"
+  }
+}

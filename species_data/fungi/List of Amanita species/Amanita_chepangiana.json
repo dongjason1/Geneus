@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_chepangiana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. chepangiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita chepangiana, commonly known as the Chepang slender Caesar, is a species of agaric fungus in the family Amanitaceae native to China and southern Asia.\nIn part of Yunnan, China, the species is traditionally consumed, however toxicity analysis found out at least 1 type of amatoxin and phallotoxin each within the species. Together with the difficulty to distinguish against other lethal species, consumption is recommended against.",
+    "References": "",
+    "External links": "Amanita chepangiana  in MycoBank."
+  }
+}

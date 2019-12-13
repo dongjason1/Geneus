@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_lappae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Incertae sedis"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. doronici"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta doronici is a fungal plant pathogen that causes leaf spot on African daisy.",
+    "See also": "List of Ascochyta species",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

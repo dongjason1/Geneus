@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hispaniolan_greater_funnel-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Natalidae"
+    },
+    {
+      "Genus": "Natalus"
+    },
+    {
+      "Species": "N. major"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Hispaniolan greater funnel-eared bat (Natalus major) is a species of funnel-eared bat found on the island of Hispaniola. First described in 1902, it has a complex taxonomic history, with some authors identifying multiple subspecies, now recognised as the separate species Natalus primus and Natalus jamaicensis, and others considering Natalus major to be itself a subspecies of Natalus stramineus. It lives primarily in caves and feeds on insects.",
+    "Taxonomy": "The Hispaniolan greater funnel-eared bat was first described scientifically in 1902 by Gerrit Miller as Natulus major. The holotype was the skin and skull of a male preserved in alcohol, which was collected \"near Savanata\", presumed to mean Sabaneta. The Cuban greater funnel-eared bat (Natalus primus), described in 1919, has been considered a subspecies of N. major: N. major primus, but is now recognised as a different species by the IUCN. Similarly, N. major jamaicensis, described in 1959, is now recognised as a distinct species: Natalus jamaicensis. Previous reports of Natalus on the island had also been referred considered Natulus major.The genus Natalus was traditionally placed into three subgenera: Natalus, Chilonatalus and Nyctielleus. Within this taxonomy, the N. major was placed in the subgenus Natalus, along with the genus's type species the N. stramineus and N. tumidirostris. However, morphological analyses in the 2000s supported promoting the subgenera to generic status. The genus is characterised by the large, bell-shaped and face-covering natalid organ, by features of the ears and by osteological differences between it and its relatives. N. major can be distinguished from other members of its genus by its larger size and differing distribution. However, some authors have argued that the N. major should be considered conspecific with the N. stramineus, and conservative estimations that some or all Natalidae species were in fact forms of N. stramineus were common. Recent studies which have included N. major within N. stramineus include those by Hugh Genoways and colleagues, supported by a later paper which claimed that there were no \"structural\" differences between the populations. A 2005 study conducted by Adrian Tejedor and colleagues concluded the three populations of Natalus were distinct to a degree that they should be considered separate species, and so the author offered new descriptions of the three.",
+    "Description": "The Hispaniolan greater funnel-eared bat is similar in appearance to a larger version of the Mexican funnel-eared bat (Natalus stramineus). The two species have such similar morphology that in his original description of the Hispaniolan greater funnel-eared bat, Miller declined to offer a description of its physical appearance, writing \"Except for its greater size, Natalus major so closely resembles specimens of N. stramineus from Dominica as to require no detailed description.\"The Hispaniolan greater funnel-eared bat has a forearm length of between 40 and 45 millimetres (1.6 and 1.8 in). The fur covering the body of the species is soft and moderately long, with a wool-like texture at the base. The upperparts are tawny-olive, while the underparts, and the base of the hairs, are pink-buff. The membranes on the wing are umber. The large natalid organ (the structure located on the forehead) is bell-shaped. No sexual dimorphism is apparent.",
+    "Distribution, habitat and ecology": "The species is found widely throughout the island of Hispaniola, in both the Dominican Republic and Haiti. Previous reports of the species from Jamaica and other islands are now recognised as records of separate species. For the most part, the species is found in caves, though a record from a hollow tree is also known. Due to the delicate wing membrane, it is assumed that the species requires relatively humid caves for daytime roosting.The Hispaniolan greater funnel-eared bat is insectivorous, like all members of its genus. Individuals are assumed to forage in dense vegetation over a limited range near their preferred roost. No information on reproduction is known.",
+    "Conservation status": "The IUCN has categorised the species as \"Near Threatened\" as, although reasonably well distributed, the caves upon which it relies are a fragile habitat. Among the threats are tourists damaging cave ecosystems, mining, and guano extraction. The IUCN's recommended conservation action is simply \"protect the caves\".",
+    "References": "",
+    "References-Cited texts": "Tejedor, Adrian; Tavares, Valeria da C.; Silva-Taboada, Andgilberto (2005). \"A revision of extant Greater Antillean bats of the genus Natalus\" (PDF). American Museum Novitates. 3493: 1–22. doi:10.1206/0003-0082(2005)493[0001:aroega]2.0.co;2."
+  }
+}

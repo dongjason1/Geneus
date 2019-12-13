@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_redolens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. redolens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula redolens, commonly known as the parsley-scented russula, is a basidiomycete mushroom of the genus Russula native to North America. Its flesh smells of parsley.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula redolens  in Index Fungorum"
+  }
+}

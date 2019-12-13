@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_smithiana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. smithiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita smithiana, also known as Smith's amanita, is a species of agaric found on soil in coniferous (Abies, Tsuga, Pseudotsuga) and broadleaved (Alnus, Quercus) woodland in the Pacific Northwest of North America. It fruits in August and September.",
+    "Taxonomy": "Amanita smithiana was described by Dutch mycologist Cornelis Bas in 1969. The specific epithet honors mycologist Alexander H. Smith, who collected the type specimens from Washington in 1941. It belongs in the subgenus Lepidella.",
+    "Description": "The cap has a diameter of 5–17 cm (2–7 in) and is white and scaled with remnants of the universal veil. The stipe is 6–18 cm (2–7 in) long by 1–3.5 cm (0.4–1.4 in) thick, white and similarly scaled, with a ring. Spores are ellipsoid to elongated, amyloid, and measure 11–12.5 by 7–8 µm.",
+    "Toxicity": "It is responsible for poisonings in the Pacific Northwest when mistaken for the edible and sought after Tricholoma murrillianum. It causes initial gastrointestinal symptoms that manifest 1 to 12 hours after eating the mushrooms, followed by acute renal failure after a delay of 2–6 days. This is often severe, requiring hemodialysis, but most patients recover normal kidney function within several weeks. Gastroenteritis may result in a large loss of fluid volume. Amanita smithiana nephrotoxicity is from chlorocrotylglycine and allenic norleucine.Several similar species have been implicated in similar cases of acute renal failure: A. sphaerobulbosa, A. thiersii, A. proxima, (Spain) and A. pseudoporphyria (Japan).",
+    "See also": "\nList of Amanita species\n\n\n== References =="
+  }
+}

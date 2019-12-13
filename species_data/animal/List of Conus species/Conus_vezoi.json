@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_vezoi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. vezoi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus vezoi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail occurs off Madagascar",
+    "References": "Notes\nSourcesFilmer R.M. (2001). A Catalogue of Nomenclature and Taxonomy in the Living Conidae 1758 - 1998. Backhuys Publishers, Leiden. 388pp.\nBozzetti L. (2013) Darioconus pennaceus pseudoecho (Gastropoda: Prosobranchia: Conidae) new subspecies from southern Madagascar. Malacologia Mostra Mondiale 78: 9-10\nMonnier E., Batifoix J.L. & Limpalaër L. (2018). Darioconus rosiae (Gastropoda: Conidae) a new species of the Darioconus pennaceus complex from South-West Madagascar. Xenophora Taxonomy. 19: 9-24\nMonnier E., Tenorio M.J., Bouchet P. & Puillandre N. (2018). The cones (Gastropoda) from Madagascar “Deep South”: composition, endemism and new taxa. Xenophora Taxonomy. 19: 25-75\nMonnier E., Batifoix J.L. & Limpalaër L. (2018). Darioconus rosiae (Gastropoda: Conidae) a new species of the Darioconus pennaceus complex from South-West Madagascar. Xenophora Taxonomy. 19: 9-24.",
+    "External links": "Specimen in MNHN, Paris\nHolotype in MNHN, Paris"
+  }
+}

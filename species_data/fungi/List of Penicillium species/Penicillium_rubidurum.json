@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_rubidurum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. rubidurum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium rubidurum is an anamorph, monoverticillate species of fungus in the genus Penicillium.",
+    "Further reading": "J. Sugiyama (2012). Pleomorphic Fungi: The Diversity and Its Taxonomic Implications. Elsevier. ISBN 0444598510.\nJohn I. Pitt (1979). The Genus Penicillium & Its Teleomorphic States: Eupeniccillum & Talaromyces. Academic Press. ISBN 0125577508.\n\n\n== References =="
+  }
+}

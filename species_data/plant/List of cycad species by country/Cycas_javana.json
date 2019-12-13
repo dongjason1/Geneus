@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_javana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. javana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas javana is a species of cycad in Indonesia. It is found primarily in Java, as well as southern Sumatra and possibly the western Sunda Islands.\n\n\n== References =="
+  }
+}

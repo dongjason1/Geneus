@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_adzamethica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Didymellaceae"
+    },
+    {
+      "Genus": "Didymella"
+    },
+    {
+      "Species": "D. arachidicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Didymella arachidicola (syn. Didymosphaeria arachidicola) is a plant pathogen.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

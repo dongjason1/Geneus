@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Anomalepis_aspinosus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Anomalepididae"
+    },
+    {
+      "Genus": "Anomalepis"
+    },
+    {
+      "Species": "A. aspinosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Anomalepis aspinosus is a species of snake in the Anomalepididae family. It is endemic to Peru.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_singula",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. singula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria singula is a species of agaric fungus in the family Physalacriaceae. It is found in Asia.",
+    "See also": "List of Armillaria species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nicotiana_tomentosiformis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Nicotiana"
+    },
+    {
+      "Species": "N. tomentosiformis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nicotiana tomentosiformis is a perennial herbaceous plant.  It is a wild species of tobacco native to the Yungas Valley region in the eastern piedmont of the Andes Mountains, primarily in Bolivia.\nRecent genetic evidence suggests it is one of the parent species of the common domesticated tobacco (Nicotiana tabacum), which was hybridized along with the species Nicotiana sylvestris, and possibly Nicotiana otophora",
+    "References": "",
+    "External links": "Yukawa, M.; Tsudzuki, T.; Sugiura, M. (2006). \"The chloroplast genome of Nicotiana sylvestris and Nicotiana tomentosiformis: complete sequencing confirms that the Nicotiana  sylvestris progenitor is the maternal genome donor of Nicotiana tabacum\". Molecular Genetics and Genomics. 275 (4): 367–373. doi:10.1007/s00438-005-0092-6. PMID 16435119."
+  }
+}

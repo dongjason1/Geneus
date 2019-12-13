@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_oxalidis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Pucciniomycetes"
+    },
+    {
+      "Order": "Pucciniales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. oxalidis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia oxalidis is a fungus species in the genus Puccinia. This species is a causal agent of rust on plants in the genus Oxalis, such as Oxalis articulata. The disease appears as yellow dots on the reverse of the leaves. The aecial stage can be found on Berberis repens.",
+    "See also": "List of Puccinia species",
+    "References": "\n\n== External links =="
+  }
+}

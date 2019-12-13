@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inocybe_tristis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Inocybaceae"
+    },
+    {
+      "Genus": "Inocybe"
+    },
+    {
+      "Species": "I. tristis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inocybe tristis is a species of agaric fungus in the family Inocybaceae native to Israel. It is poisonous.",
+    "See also": "\nList of Inocybe species\n\n\n== References =="
+  }
+}

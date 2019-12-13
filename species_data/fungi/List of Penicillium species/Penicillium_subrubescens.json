@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_subrubescens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. subrubescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium subrubescens is a species of the genus of Penicillium which produces high amounts of inulinase.",
+    "Further reading": "Mansouri, S.; Houbraken, J.; Samson, R. A.; Frisvad, J. C.; Christensen, M.; Tuthill, D. E.; Koutaniemi, S.; Hatakka, A.; Lankinen, P. (2013). \"Penicillium subrubescens, a new species efficiently producing inulinase\". Antonie van Leeuwenhoek. 103 (6): 1343. doi:10.1007/s10482-013-9915-3. PMID 23559042.\n\n\n== References =="
+  }
+}

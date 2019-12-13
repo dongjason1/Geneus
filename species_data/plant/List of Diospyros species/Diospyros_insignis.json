@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Diospyros_insignis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Ebenaceae"
+    },
+    {
+      "Genus": "Diospyros"
+    },
+    {
+      "Species": "D. insignis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Diospyros insignis, is an evergreen tree in the ebony family, distributed in  Western Ghats of India and Sri Lanka.",
+    "References": "\nPlantnet\n\n\n== External resources =="
+  }
+}

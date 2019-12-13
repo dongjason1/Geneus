@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Polemon_notatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Polemon"
+    },
+    {
+      "Species": "P. notatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Polemon notatus is a species of venomous rear-fanged snake in the family Atractaspididae. It is endemic to Africa.",
+    "Geographic range": "It is found in Cameroon, Central African Republic, Democratic Republic of the Congo, and Gabon.",
+    "Description": "Dorsally pale brown, with two series of round black spots, which may be light-edged. Dorsal surface of head black, nuchal collar black, and dorsal surface of tail black. Ventrals white, subcaudals white, and terminal caudal scale white.\nAdults may attain a total length of 317 mm (12 1⁄2 in), with a tail 29 mm (1 1⁄8 in) long.\nDorsal scales smooth, without apical pits, arranged in 15 rows. Ventrals 181-200; anal plate divided; subcaudals 14-18, also divided.\nDiameter of eye about half its distance from the mouth. Internasals as long as or slightly shorter than the prefrontals. Frontal a little longer than broad, much shorter than the parietals. Nasal divided, in contact with the preocular. One preocular. One or two postoculars. Temporals 1+1. Seven upper labials, the second in contact with the preocular, third and fourth entering the eye. First lower labial forming a suture with its fellow behind the mental. Three lower labials in contact with the anterior chin shield. Two pairs of chin shields, the anterior pair slightly longer than the posterior pair.",
+    "Subspecies": "Two subspecies are recognized including the nominate race.\n\nPolemon notatus aemulans (F. Werner, 1902)\nPolemon notatus notatus (Peters, 1882)",
+    "Footnotes": "",
+    "References": "Peters, W.C.H. 1882. Den Namen der Batrachiergattung Hylonomus in Hyloscirtus zu ändern und legte zwei neue Arten von Schlangen, Microsoma notatum, und Liophis ygraecum. Sitzungsber. Ges. naurf. Freunde Berlin 1882(8):127-129.\nWerner, F. 1902. Über westafrikanische Reptilien. Verh. Zool. Bot. Ges. Wien 52:332-348."
+  }
+}

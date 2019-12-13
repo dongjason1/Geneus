@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fischer's_little_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Rhinophylla"
+    },
+    {
+      "Species": "R. fischerae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fischer's little fruit bat (Rhinophylla fischerae) is a bat species from South America. It is found in Brazil, Colombia, Ecuador, Peru and Venezuela.\n\n\n== References =="
+  }
+}

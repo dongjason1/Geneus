@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Durio_pinangianus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Malvaceae"
+    },
+    {
+      "Genus": "Durio"
+    },
+    {
+      "Species": "D. pinangianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Durio pinangianus is a species of tree in the family Malvaceae. It is endemic to Peninsular Malaysia.",
+    "See also": "List of Durio species, with a few notes on this species\n\n\n== References =="
+  }
+}

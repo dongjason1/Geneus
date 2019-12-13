@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tiny_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Rhogeessa"
+    },
+    {
+      "Species": "R. minutilla"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The tiny yellow bat (Rhogeessa minutilla) is a species of vesper bat. It is found in Colombia and Venezuela.\n\n\n== References =="
+  }
+}

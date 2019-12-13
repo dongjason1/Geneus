@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_asturianum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. asturianum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium asturianum is an anamorph fungus species of the genus of Penicillium.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

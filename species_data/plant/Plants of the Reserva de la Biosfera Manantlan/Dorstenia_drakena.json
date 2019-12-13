@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dorstenia_drakena",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Moraceae"
+    },
+    {
+      "Genus": "Dorstenia"
+    },
+    {
+      "Species": "D. drakena"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dorstenia drakena is a plant species in the family Moraceae which is native to Mexico and Central America.\n\n\n== References =="
+  }
+}

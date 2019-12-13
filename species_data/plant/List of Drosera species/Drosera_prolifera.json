@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_prolifera",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Prolifera"
+    },
+    {
+      "Species": "D. prolifera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera prolifera is a species of Drosera found in Queensland, Australia.",
+    "See also": "List of Drosera species",
+    "References": "",
+    "External links": " Media related to Drosera prolifera at Wikimedia Commons"
+  }
+}

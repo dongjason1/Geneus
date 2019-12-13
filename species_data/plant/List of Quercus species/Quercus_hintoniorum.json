@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_hintoniorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. hintoniorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus hintoniorum is a Mexican species of trees in the beech family. It has been found only in the States of Coahuila and Nuevo León in northeastern Mexico.",
+    "References": "",
+    "External links": "photo of herbarium specimen collected in Coahuila in 1991"
+  }
+}

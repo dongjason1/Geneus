@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Partridge_pigeon",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Geophaps"
+    },
+    {
+      "Species": "G. smithii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The partridge pigeon (Geophaps smithii) is a species of bird in the family Columbidae.\nIt is endemic to Australia.\nIts natural habitats are subtropical or tropical dry shrubland and subtropical or tropical dry lowland grassland.\nIt is threatened by habitat loss.\nThere are two subspecies. They differ in face colour.\n\n\n== References =="
+  }
+}

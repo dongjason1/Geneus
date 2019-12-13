@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_hordei",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. hordei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium hordei is a species of the genus of Penicillium which produces corymbiferone and roquefortine C.",
+    "Further reading": "Overy, D. P.; Blunt, J. W. (2004). \"Corymbiferan lactones from Penicillium hordei: Stimulation of novel phenolic metabolites using plant tissue media\". Journal of Natural Products. 67 (11): 1850–3. doi:10.1021/np049723c. PMID 15568774.\nJuan-Francisco Martín; Carlos García-Estrada; Susanne Zeilinger (2014). Biosynthesis and Molecular Genetics of Fungal Secondary Metabolites. Springer. ISBN 1493911910.\nDilip K. Arora (1991). Handbook of Applied Mycology: Volume 3: Foods and Feeds. CRC Press. ISBN 082478491X.\n\n\n== References =="
+  }
+}

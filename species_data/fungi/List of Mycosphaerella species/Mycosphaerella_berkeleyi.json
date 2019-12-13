@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_berkeleyi",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. berkeleyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella berkeleyi is a fungal plant pathogen. It is the causal agent of the peanut foliar disease Late Leaf Spot.",
+    "Hosts and Symptoms": "Hosts that suffer from late leaf spot include groundnut species belonging to the genus Arachis hypogaea, and peanuts. Late leaf spot of peanut that produces sexual spores is referred to as Mycosphaerella berkeleyi, whereas the asexual spore is referred to as Cercosporidium personatum. Late leaf spot of peanut symptoms usually appear between 30–50 days following planting. Symptoms include dark brown to black pin-point spots on the upper and under side of the leaf surface. This contrasts the fewer, lighter brown spots that early leaf spot of peanut presents. Late leaf spot of peanut produces symptoms later in the season. These spores can be seen without magnification and give the spot a velvety appearance as opposed to early leaf spot of peanut, which can be seen with higher magnification. Even though these differences are slight, it is what helps to distinguish between the two pathogens.",
+    "Importance": "Late leaf spot of peanut is a serious disease that occurs in places where peanuts are grown worldwide. This foliar disease causes significant yield loss, and can be found wherever peanuts are grown. This includes areas such as Oklahoma, the southern USA, Fiji, Solomon Islands, as well as Tonga. Infection causes early death of the leaves and dramatic yield loss. This is estimated to range from 10% to 80%, and varies according to the environment and availability of control methods. In the USA, where fungicide application is a typical management practice, yield losses are less frequent as opposed to the semi-arid tropics, where fungicides are less available. It is estimated that Cercosporidium personatum reduces yields by 50% or more in Pacific island countries. Therefore, early detection is crucial, and successful management efforts must be implemented once the disease has been recognized. To help achieve this, early symptom recognition, as well as the timing of management strategies are valuable.",
+    "Management": "Cultural controls help to delay the onset and development of symptoms, and reduce the level of the primary inoculum present. The primary inoculum that causes the onset of symptoms is induced by the production of microscopic spores called conidia in soil residue. Large amounts of peanut residue in fields where peanuts are cropped seasonally usually results in the  progression of late leaf spot. Therefore, crop rotation, along with tillage practices are advised. Since longer periods of leaf wetness is required for disease development, frequent irrigation can increase the chances of high humidity and increased leaf wetness.  As opposed to irrigation systems, growers are encouraged to apply small amounts of water regularly in order to maintain a drier canopy. When planting new crops, plant as far away as possible, since late leaf spot spores travel far distances through wind dispersal. Try to avoid planting crops downwind from one another due to spore’s ability to travel between neighboring crop fields. Different varieties of peanut differ in their reaction to the pathogen, but none have proven to be resistant, and are able to be used as a control method. Spanish varieties are most susceptible, Virginia varieties are intermediates, and runner varieties are partially resistant. Very specific chemical controls are used to prevent yield loss, and are required in a very narrow, specific time period in order to be most effective. To be most successful, spray chemical controls as soon as the onset of symptom development.  Fungicide application is recommended on a 14-day set calendar schedule, or according to weather based leaf spot advisory. In fields that utilize crop rotation, fungicides should be sprayed during the early pod stage (R3), which typically occurs during July, but can vary according to environment. After the first spray, the grower should continue to apply fungicides every 14 days or according to the leaf spot advisory. Chlorothalonil (Bravo; various generic brands), are the most successful fungicides, and have reduced risk of host resistance. An alternative approach to calendar sprays are to spray crops based on weather patterns. However, this method has proven to be less effective than calendar treatment approaches. Following a harvesting season, growers should collect, burn, or bury the remains of the crops to prevent the soil-borne pathogen from surviving and causing future disease outbreaks.",
+    "See also": "List of Mycosphaerella species",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

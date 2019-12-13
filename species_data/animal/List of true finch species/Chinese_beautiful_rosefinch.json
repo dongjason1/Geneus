@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chinese_beautiful_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. davidianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chinese beautiful rosefinch (Carpodacus davidianus) is a true finch species (family Fringillidae). It is one of the rosefinches that might belong in the genus Propasser.  It is found in China. Its natural habitats are temperate shrubland and subtropical or tropical high-altitude shrubland.",
+    "References": "\nGill, F and D Donsker (Eds). 2011. IOC World Bird Names (version 2.9). Available at http://www.worldbirdnames.org/ [Accessed August 1, 2011]."
+  }
+}

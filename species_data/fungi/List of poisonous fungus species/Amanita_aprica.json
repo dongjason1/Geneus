@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_aprica",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. aprica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita aprica is a species of fungus in the family Amanitaceae. Described as new to science in 2005, the species is found in the Pacific Northwest region of North America, where it grows in a mycorrhizal association with Douglas-fir and pines.",
+    "See also": "List of Amanita species",
+    "References": "",
+    "External links": "Amanita aprica  in Index Fungorum\nAmanita aprica at mushroomexpert.com\nAmanita aprica at amanitaceae.org"
+  }
+}

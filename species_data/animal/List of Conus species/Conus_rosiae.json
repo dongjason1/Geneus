@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_rosiae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. rosiae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus rosiae is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species of cone snail occurs off Madagascar",
+    "References": "\nMonnier E., Batifoix J.L. & Limpalaër L. (2018). Darioconus rosiae (Gastropoda: Conidae) a new species of the Darioconus pennaceus complex from South-West Madagascar. Xenophora Taxonomy. 19: 9-24. page(s): 10, pl. 1 figs 1-11; pl. 2 figs 1-11; pl. 3 figs 1-10"
+  }
+}

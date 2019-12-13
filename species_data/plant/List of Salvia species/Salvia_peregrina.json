@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_peregrina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. peregrina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia peregrina is a species of flowering plant in the family Lamiaceae that is native to Ecuador.\nIts natural habitat is subtropical or tropical moist mountains.",
+    "Sources": "Montúfar, R. & Pitman, N. (2004). \"Salvia peregrina\". The IUCN Red List of Threatened Species. IUCN. 2004: e.T45576A11005431. doi:10.2305/IUCN.UK.2004.RLTS.T45576A11005431.en. Retrieved 18 December 2017."
+  }
+}

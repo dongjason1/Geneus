@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_chytreus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. chytreus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus chytreus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 16 mm and 32 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean off Angola.",
+    "References": "Rolán E. & Röckel D. 2000. The endemic Conus of Angola. Argonauta 13(2): 5-44, 150 figs.",
+    "External links": "The Conus Biodiversity website\n\"Varioconus chytreus\". Gastropods.com. Retrieved 15 January 2019.\nCone Shells - Knights of the Sea"
+  }
+}

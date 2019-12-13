@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_areola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. areola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella areola is a plant pathogen infecting cotton.",
+    "See also": "List of Mycosphaerella species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

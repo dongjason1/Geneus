@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_albifrons",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. albifrons"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Epictia albifrons, known as Wagler's blind snake or silver snake, is a species of snake in the family Leptotyphlopidae of blind snakes native to Argentina (Tucuman, Salta), Bolivia, Brazil and South-Africa.\n\n\n== References =="
+  }
+}

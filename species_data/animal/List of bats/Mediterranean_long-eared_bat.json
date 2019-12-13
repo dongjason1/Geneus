@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mediterranean_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Plecotus"
+    },
+    {
+      "Species": "P. kolombatovici"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Kolombatovic's long-eared bat (Plecotus kolombatovici), also known as the Mediterranean long-eared bat, is a European species of bat found in the Balkans.",
+    "Taxonomy": "The species was described by Dulić in 1980, following the identification of small bats from the Plecotus genus in Croatia.\nHowever, until 2010, the qualification of P.kolombatovici as species was subject to doubt. Specimens of Plecotus sp. were analysed in North Africa, the Canary Islands, and Asia over a period of years, and it was proposed that all the specimens were subspecies of the same species, Plecotus teneriffae. \nHowever, the most recent studies confirm the status of species for P. kolombatovici. As several species of Plecotus can be leaving in sympatry in a same region, a clear identification of specimen can be very difficult.",
+    "Distribution": "So far, P.kolombatovici has been recorded in Albania, Croatia and Greece.This species is often found in the islands of the Adriatic sea, but also inland with a recorded presence in most of Greece. In Albania, many specimens were found in former bunkers on the Sazan Island.",
+    "References": "",
+    "Literature cited": "Dietz, C. & von Helversen, O. 2004. Illustrated identification key to the bats of Europe. Tuebingen & Erlangen, Germany.\nThéou, P., & Loçe, E. 2017. First data on bats (Chiroptera) for Vlora bay and Sazan Island, Albania. Journal of Bat Research & Conservation 10(1).\nTvrtkovic, N., Pavlinic, I., & Haring, E. (2005).Four species of long-eared bats (Plecotus, Geoffroy, 1818; Mammalia, Vespertilionidae) in Croatia: field identification and distribution. Folia zoologica, 54(1/2), 75."
+  }
+}

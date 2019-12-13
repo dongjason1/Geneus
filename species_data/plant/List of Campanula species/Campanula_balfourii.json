@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Campanula_balfourii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Campanulaceae"
+    },
+    {
+      "Genus": "Campanula"
+    },
+    {
+      "Species": "C. balfourii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Campanula balfourii is a species of plant in the family Campanulaceae. It is endemic to northeastern Socotra, Yemen.  Its natural habitat is subtropical or tropical dry forests.",
+    "Description": "Delicate, erect herb to 15 cm, with spreading hairs. Leaves broadly oblong-elliptic to orbicular, 0.5-1 x 0.3–07 cm. Flowers lilac-blue, <0.8 cm long, sessile.",
+    "Ecology": "Clearings in semi-deciduous woodland, 500–750 m. This delicate annual with its small pretty flowers, appears soon after rain but rapidly dies back in the dry season.",
+    "Conservation status": "Least concern (LC). Common in several vegetation types and under no present or perceived threat.",
+    "References": "\nAnthony G. Miller & Mirranda Morris (2004). The Ethnoflora of the Soqotra Archipelago. Royal Botanic Garden Edinburgh. ISBN 1-872291-59-7."
+  }
+}

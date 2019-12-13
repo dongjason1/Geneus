@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phoenix_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. alba"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Phoenix petrel (Pterodroma alba) is a medium-sized tropical seabird, measuring up to 35 cm (14 in) long, with a wingspan of 83 cm (33 in). It has a dark brown upperparts plumage, white below and whitish throat. The sexes are similar.\nThe Phoenix petrel is found throughout oceans and coastal areas in the central Pacific Ocean. Their colonies can be found on Phoenix, Tonga, Kiritimati, Tuamotu, Marquesas and Pitcairn Island. Females lay one white egg on the ground surface. The diet consists mainly of squid, fish and crustaceans.\nDue to ongoing habitat loss, small population size, predation by invasive species and human exploitation, the Phoenix petrel is evaluated as endangered on the IUCN Red List of Threatened Species.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet"
+  }
+}

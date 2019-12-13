@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_pictus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. pictus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops pictus, commonly known in English as the desert lancehead, is a species of venomous snake in the family Viperidae. The species is endemic to South America.",
+    "Geographic range": "B. pictus is found along the coast of Peru, at altitudes from sea level to 1,800 m (5,900 ft).",
+    "Description": "Adults of B. pictus may attain a total length of 31 cm (12 in), which includes a tail 4.3 cm (1.7 in) long.\nDorsally, B. pictus has a pale brown ground color, overlaid with a series of large brown black-edged squarish blotches, which may merge to form a thick wavy or zig zag stripe.  On each flank is a series of smaller roundish blotches of the same color as the dorsal blotches.  There is a dark streak from behind the eye to the corner of the mouth. Ventrally, it is yellowish with brown dots or spots.\nThe strongly keeled dorsal scales are arranged in 21 to 23 rows at midbody. Ventrals 157-172; anal plate undivided; subcaudals divided, 40-74 pairs.",
+    "References": "",
+    "Further reading": "Tschudi JJ (1845). \"Reptilium conspectus quae in Republica Peruana reperiuntur et pleraque observata vel collecta sunt in itinere \". Archiv für Naturgeschichte 11 (1): 150-170. (Lachesis picta, new species, p. 166). (in Latin)."
+  }
+}

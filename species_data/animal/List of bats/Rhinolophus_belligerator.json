@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinolophus_belligerator",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. belligerator"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinolophus belligerator is an endangered species of horseshoe bat found only on  Sulawesi Island, which is part of Indonesia.",
+    "Taxonomy and etymology": "Until 2013, it was considered a subspecies of the arcuate horseshoe bat, Rhinolophus arctuatus, called Rhinolophus arctuatus proconsulis.\nThe authors of the 2013 paper that elevated R. a. proconsulis to species rank chose the new species name belligerator from Latin word belligerans, meaning \"belligerent combatant\".\nThis unusual species name for a bat was suggested because, \"the specimen originates in an area where a long-running and senseless Muslim–Christian civil war has been going on for many years.\"",
+    "Range and habitat": "The single known specimen was discovered in Permana Cave, which is near Poso, Sulawesi.",
+    "Conservation": "It is currently evaluated as endangered by the IUCN.\nIt meets the criteria for this designation because its extent of occurrence is estimated at 1,742 km2 (673 sq mi), it is found at only one location, and only one individual has ever been documented.\n\n\n== References =="
+  }
+}

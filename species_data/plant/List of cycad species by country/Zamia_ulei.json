@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zamia_ulei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Zamia"
+    },
+    {
+      "Species": "Z. ulei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Zamia ulei is a species of plant in the family Zamiaceae. It is found in Brazil, Colombia, Ecuador, and Peru.\n\n\n== References =="
+  }
+}

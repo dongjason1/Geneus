@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Schwartz's_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. martiniquensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Schwartz's myotis (Myotis martiniquensis) is a species of vesper bat. It is found in Barbados and Martinique.\n\n\n== References =="
+  }
+}

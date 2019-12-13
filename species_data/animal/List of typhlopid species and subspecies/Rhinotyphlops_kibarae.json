@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_kibarae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. kibarae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia kibarae, also known as the Upemba gracile blind snake or Katanga beaked snake, is a species of snakes in the family Typhlopidae. It is endemic to southern Democratic Republic of the Congo. Its type locality is in the Upemba National Park.",
+    "References": "",
+    "Further reading": "de Witte, G.F. 1953. Exploration du Parc National de l'Upemba. Mission G.F. de Witte en collaboration avec W. Adam, A. Janssens, L. van Meel et R. Verheyen (1946-1949). Reptiles. Institut des Parcs Nationaux du Congo Belge. Brussels. 6: 1-322."
+  }
+}

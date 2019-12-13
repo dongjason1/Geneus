@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_lumbricalis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Typhlops"
+    },
+    {
+      "Species": "T. lumbricalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Typhlops lumbricalis is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

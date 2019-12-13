@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southern_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. aelleni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The southern myotis (Myotis aelleni) is a species of vesper bat. It is found only in Argentina.\nBased on qualitative and quantitative analyses of type specimens, Novaes, Wilson, Ruedi and Moratelli treat this taxon as a junior synonym of Myotis chiloensis.\n\n\n== References =="
+  }
+}

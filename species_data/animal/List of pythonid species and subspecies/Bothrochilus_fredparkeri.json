@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrochilus_fredparkeri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Pythonidae"
+    },
+    {
+      "Genus": "Bothrochilus"
+    },
+    {
+      "Species": "B. fredparkeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Karimui Basin whitelip python (Bothrochilus fredparkeri) is a species of snake in the family Pythonidae.",
+    "Etymology": "The specific name, fredparkeri, is in honor of Australian naturalist Fred Parker (born 1941).",
+    "Geographic range": "It is found in Papua New Guinea.",
+    "References": "\n\n== External links =="
+  }
+}

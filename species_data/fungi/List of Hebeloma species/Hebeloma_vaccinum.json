@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hebeloma_vaccinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hymenogastraceae"
+    },
+    {
+      "Genus": "Hebeloma"
+    },
+    {
+      "Species": "H. vaccinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hebeloma vaccinum is a species of agaric fungus in the family Hymenogastraceae. It was described as new to science in 1965 by French mycologist Henri Romagnesi.",
+    "See also": "List of Hebeloma species\n\n\n== References =="
+  }
+}

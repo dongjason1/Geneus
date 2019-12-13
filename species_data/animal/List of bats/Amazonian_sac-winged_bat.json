@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amazonian_sac-winged_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Saccopteryx"
+    },
+    {
+      "Species": "S. gymnura"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Amazonian sac-winged bat (Saccopteryx gymnura) is a bat species of the family Emballonuridae from South America.  It is found in northern Brazil, Guyana, French Guiana, Suriname and possibly Venezuela.",
+    "Taxonomy and etymology": "It was described as a new species in 1901 by British zoologist Oldfield Thomas.\nThomas identified \"Mr. Wickham\" as the collector of the holotype, possibly referring to British explorer Henry Wickham who also collected bird specimens in South America.\nWickham collected the holotype in Santarém along the Amazon River.\nThe species name \"gymnura\" is from Ancient Greek \"gumnós\" meaning \"naked\" and \"ourá\" meaning \"tail.\"\nThomas wrote, \"the nakedness of the interfemoral [membrane] will readily distinguish this bat from any of its allies.\"",
+    "Biology and ecology": "It is insectivorous, catching its prey in the air.",
+    "Range and habitat": "This bat inhabits humid tropical forests.\nIt is found in several countries and territories in northern South America, including Brazil, French Guiana, Guyana, and Suriname.",
+    "Conservation": "It is currently evaluated as data deficient by the IUCN.\nIt is uncommonly encountered and its range is not clearly defined.\n\n\n== References =="
+  }
+}

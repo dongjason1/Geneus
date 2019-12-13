@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_mexicanum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. mexicanum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium mexicanum is a species of the genus Penicillium.",
+    "Further reading": "Gian Paolo Rossini (2014). Toxins and Biologically Active Compounds from Microalgae. CRC Press. ISBN 1482210681.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ceratozamia_alvarezii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Ceratozamia"
+    },
+    {
+      "Species": "C. alvarezii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ceratozamia alvarezii is a species of plant in the family Zamiaceae. It is endemic to Mexico, where it is known only from Chiapas. It is found near Rizo de Oro in the Sierra Madre de Chiapas.\nThere are only two known subpopulations of this species, one of which comprises about 300 individuals. The species is threatened by habitat loss as land is cleared for agriculture.",
+    "References": "",
+    "Further reading": "Perez-Farrera, M. A., Vovides, A. P., & Iglesias, C. (1999). A new species of Ceratozamia (Zamiaceae, Cycadales) from Chiapas, Mexico. Novon 9 410-413."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_mallochii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. mallochii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium mallochii is a species of the genus of Penicillium which was isolated from the caterpillars Rothschildia lebeau and Citheronia lobesis on Costa Rica.",
+    "Further reading": "Rivera, K. G.; Díaz, J.; Chavarría-Díaz, F.; Garcia, M.; Urb, M.; Thorn, R. G.; Louis-Seize, G.; Janzen, D. H.; Seifert, K. A. (2012). \"Penicillium mallochii and P. Guanacastense, two new species isolated from Costa Rican caterpillars\". Mycotaxon. 119: 315–328. doi:10.5248/119.315.\n\n\n== References =="
+  }
+}

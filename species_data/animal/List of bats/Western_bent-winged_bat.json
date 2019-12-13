@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Western_bent-winged_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. magnater"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The western bent-winged bat (Miniopterus magnater) is a species of vesper bat in the family Vespertilionidae.\nIt can be found in the following countries: China, India, Indonesia, Laos, Malaysia, Myanmar, Papua New Guinea, Thailand, Timor-Leste, and Vietnam.\n\n\n== References =="
+  }
+}

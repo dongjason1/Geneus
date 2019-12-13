@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_sacculum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. sacculum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium sacculum is an anamorph species of fungus in the genus Penicillium which produces the xanthone 1-hydroxy-3-methoxy-6-sulfo-8-methylxanthone. Penicillium sacculum was isolated from the halophyte plant Atriplex",
+    "Further reading": "Robert Samson (2013). Advances in Penicillium and Aspergillus Systematics. Springer Science & Business Media. ISBN 978-1-4757-1856-0.\nStephane La Barre; Jean-Michel Kornprobst (2014). Outstanding Marine Molecules. John Wiley & Sons. ISBN 978-3-527-68153-2.\n\n\n== References =="
+  }
+}

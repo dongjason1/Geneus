@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_coecatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. coecatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia coecatus is a species of snake in the family Typhlopidae. It is endemic to West Africa and is known from Ghana, Ivory Ceast, and Guinea.\n\n\n== References =="
+  }
+}

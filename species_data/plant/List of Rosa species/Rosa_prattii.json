@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rosa_prattii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Rosa"
+    },
+    {
+      "Species": "R. prattii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rosa prattii is a wild rose species native to China, with pink flowers.",
+    "References": "\n Media related to Rosa prattii at Wikimedia Commons"
+  }
+}

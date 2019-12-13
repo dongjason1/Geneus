@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_camemberti",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. camemberti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium camemberti is a species of fungus in the genus Penicillium. It is used in the production of Camembert, Brie, Langres, Coulommiers, and Cambozola cheeses, on which colonies of P. camemberti form a hard, white crust. It is responsible for giving these cheeses their distinctive flavors. An allergy to the antibiotic penicillin does not necessarily imply an allergy to cheeses made using P. camemberti.When making soft cheese that involves P. camemberti, the mold may be mixed into the ingredients before being placed in the molds, or it may be added to the outside of the cheese after it is removed from the cheese molds.  P. camemberti is responsible for the soft, buttery texture of Brie and Camembert, but a too high concentration may lead to an undesirable bitter taste.Using PCR techniques, cheese manufacturers can control cheesemaking by monitoring the mycelial growth of P. camemberti. This is particularly significant, as controlling the growth is important to maintain desirable levels of compounds for flavor and to keep toxicity at a safe level.",
+    "History": "The fungus was first described by Dr. Charles Thom in 1906. It is considered to be a great subject for experiments and tests, as the fungus thrives well in artificial situations, creates dense, enzymatic mycelia, and is readily available in markets from cheeses. P. camemberti is also important economically for the cheese industry.Twenty-four isolates of Penicillium species are known, resulting in “considerable taxonomic confusion”. However, these strains are only antigenically related, having similarities in micromorphology, growth rates, toxin production, and the ability to grow in water and at low temperatures. These isolates can be grouped into nine subdivisions below the species level. This indicates that P. commune Thom is the wild-type, or the strain occurring in nature, ancestor of P. camemberti. The complete genome sequence of P. camemberti was published in 2014.",
+    "Toxic properties": "As a fungus, P. camemberti can produce toxins, in this case, cyclopiazonic acid. The amount of the mycotoxin produced depends on the strain of P. camemberti, as well as the temperature at which the culture is grown. Additionally, the toxin is typically more concentrated on the crust of the fungus rather than the inner part. In regards to safety, generally, consumers would only receive lower than a 4-μg dose of cyclopiazonic acid. Still, using weaker strains of the fungus is advised, since the secretion of the toxin appears to be natural and necessary, but unhealthy for cheese consumers.",
+    "Use in other foods": "Since P. camemberti is responsible for the main flavor and odor of popular cheeses, the fungus can be used for the flavoring of other foods, such as dry, fermented sausages. José M. Bruna and his team saw that the flavor comes from compounds produced by the fungus, such as ammonia, methyl ketones, primary and secondary alcohols, esters, and aldehydes, and decided to superficially inoculate P. camemberti on dry, fermented sausages to improve its sensory properties. P. camemberti promotes proteolysis and lipolysis, which is the breakdown of proteins and lipids, resulting in free amino acids, free fatty acids, and volatile compounds that allow for the ripened flavor. The fungus created a mycelium, protecting the lipids within, allowing for better flavor and odor of sausages. This is a potential starter culture for dry, fermented sausages.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

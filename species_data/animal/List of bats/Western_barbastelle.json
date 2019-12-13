@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Western_barbastelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Barbastella"
+    },
+    {
+      "Species": "B. barbastellus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The western barbastelle (Barbastella barbastellus), also known as the barbastelle or barbastelle bat, is a European bat. It has a short nose, small eyes and wide ears.",
+    "Ecology": "",
+    "Ecology-Habitat": "Barbastelles roost in splits or behind loose bark of trees all year, normally in mature deciduous forests, as well as within human buildings. While barbastelles typically remain within a single roosting area, they move between individual roosts with great frequency.Barbastelles migrate to underground roosting sites over the winter, although they may within arboreal roosts in the beginning of the season. Winter roosting sites include natural caves and human structures such as basements, mines and bunkers. Barbastelles are relatively resistant to cold conditions, and are typically found hibernating in cold sites and in exposed positions.",
+    "Ecology-Hunting and feeding": "Barbastelles feed chiefly on moths, as well as on flies and beetles.",
+    "Ecology-Echolocation": "The barbastelle has two main call types used for echolocation. The frequency parameters of call type 1 lie between 30–38 kHz, have most energy at 33 kHz and have an average duration of 2.5 ms. The frequency parameters of call type 2 lie between 29–47 kHz, have most energy at 38 kHz and have an average duration of 4.1 ms.",
+    "Range and conservation": "It is rare and decreasing throughout its range. In Britain, only a few breeding roosts are known; Paston Great Barn in Norfolk, parts of Exmoor and the Quantock Hills in Devon and Somerset (see Tarr Steps), Wimpole Wood in Cambridgeshire, the Mottisfont woodland in Hampshire and Ebernoe Common in West Sussex. The UK distribution can be found on the National Biodiversity Network website here. It was considered extirpated in Norway, having only been sighted in 1896, 1911, 1913 and 1949. However, it was again found in 2004 and 2008.The barbastelle has been extinct in the Netherlands since 1984. Barbastelle bats are known to occur within the Sonian Forest of Belgium.",
+    "Range and conservation-Protection": "Barbastelles are protected under the European Habitats Directive. In the UK their rarity means that woodlands containing the species may be considered for notification as a Site of Special Scientific Interest and may attract a grant under Natural Englands Environmental Stewardship scheme.",
+    "Evolutionary arms race": "The barbastelle has, like the rest of the animal kingdom of this world, participated in an evolutionary arms race. The foe for the bat order Chiroptera is its prey, the moth order Lepidoptera. To minimize the risk of the bats' echolocation, moths [and in rarest examples, butterflies] have evolved to detect the echolocation calls of hunting bats, and evoke evasive flight manoeuvres, or reply with their own ultrasonic clicks to confuse the bat's echolocation. The Arctiidae subfamily of Noctuid moths uniquely respond to bat echolocation in three prevailing hypotheses: startle, sonar jamming, and acoustic aposematic defence. All these differences depend on specific environmental settings and the type of echolocation call; however, these hypotheses are not mutually exclusive and can be used by the same moth for defence.In response, to continue the race, some bat families are known to use clicks at frequencies above or below moths' hearing ranges. This is known as the allotonic frequency hypothesis. It argues that the auditory systems in moths have driven their bat predators to use higher or lower frequency echolocation to circumvent the moth hearing. Barbastelle bats have evolved to use a quieter mode of echolocation, calling at a reduced volume and further reducing the volume of their clicks as they close in on prey moths. The lower volume of clicks reduces the effective successful hunting range, but results in a significantly higher number of moths caught than other, louder bat species. Moths have further evolved the ability to discriminate between high and low echolocation click rates, which indicates whether the bat has just detected their presence or is actively pursuing them. This allows them to decide whether or not defensive ultrasonic clicks are worth the time and energy expenditure.",
+    "References": "",
+    "External links": "ARKive page about barbastelles\nWoodland Management For Bats Guide\nBarbastella barbastellus - Science for Nature Foundation\nwww.worlddeer.org/britishbats/barbastelle\nIUCN\nWestern Barbastelle Bat (Science For Nature Foundation)"
+  }
+}

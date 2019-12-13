@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Greenish_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Scotophilus"
+    },
+    {
+      "Species": "S. viridis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The greenish yellow bat (Scotophilus viridis) is a species of vesper bat. It is found in Benin, Botswana, Burkina Faso, Cameroon, Central African Republic, Chad, Ivory Coast, Ethiopia, Gambia, Ghana, Kenya, Madagascar, Malawi, Mali, Mozambique, Namibia, Niger, Nigeria, Senegal, South Africa, Sudan, Tanzania, Togo, Zambia, and Zimbabwe. Its natural habitats are dry and moist savanna.\n\n\n== References =="
+  }
+}

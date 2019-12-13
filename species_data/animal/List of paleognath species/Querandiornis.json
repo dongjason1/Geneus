@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Querandiornis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Tinamiformes"
+    },
+    {
+      "Family": "Tinamidae"
+    },
+    {
+      "Genus": "†Querandiornis"
+    },
+    {
+      "Species": "†Q. romani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Querandiornis romani was a species of Tinamid bird that lived during the Pleistocene.\n\n\n== References =="
+  }
+}

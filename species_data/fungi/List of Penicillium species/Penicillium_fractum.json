@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_fractum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. fractum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium fractum is a species of the genus of Penicillium.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

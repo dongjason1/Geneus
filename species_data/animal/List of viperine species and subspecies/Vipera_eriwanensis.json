@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vipera_eriwanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Vipera"
+    },
+    {
+      "Species": "V. eriwanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Vipera eriwanensis, commonly known as the Alburzi viper or the Armenian steppe viper, is a species of venomous snake of the family Viperidae.",
+    "Subspecies": "There are two recognized subspecies:\nVipera eriwanensis ebneri Knoepffler & Sochurek, 1955\nVipera eriwanensis eriwanensis (Reuss, 1933)",
+    "Geographic range": "The snake is found in Armenia, northwestern Iran and northeastern Turkey.\n\n\n== References =="
+  }
+}

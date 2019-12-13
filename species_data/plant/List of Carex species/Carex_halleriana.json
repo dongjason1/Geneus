@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_halleriana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Species": "C. halleriana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex halleriana is a species of sedge found on rocky and grassy slopes. It occurs from Western Asia to southern Europe and northwest Africa.\n\n\n== References =="
+  }
+}

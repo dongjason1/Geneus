@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_nivalis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. nivalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio nivalis, a flowering herb native to South America.",
+    "Distribution": "Ecuador, Peru, Bolivia.\n\n\n== References =="
+  }
+}

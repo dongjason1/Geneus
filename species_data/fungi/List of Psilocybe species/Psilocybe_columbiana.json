@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_columbiana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. columbiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe columbiana is a species of mushroom in the family Strophariaceae known only from the páramos of high mountains in Colombia. It is in the Psilocybe fagicola complex with Psilocybe fagicola, Psilocybe oaxacana, Psilocybe banderillensis, Psilocybe herrerae, Psilocybe keralensis, Psilocybe neoxalapensis, and Psilocybe teofiloi.",
+    "See also": "List of Psilocybin mushrooms\nPsilocybin mushrooms\nPsilocybe\n\n\n== References =="
+  }
+}

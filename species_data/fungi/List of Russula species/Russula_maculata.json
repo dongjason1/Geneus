@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_maculata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. maculata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula albidula is a species of mushroom in the genus Russula.",
+    "References": "",
+    "External links": "Russula maculata  in Index Fungorum"
+  }
+}

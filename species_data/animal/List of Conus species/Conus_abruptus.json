@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_abruptus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. abruptus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus abruptus is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.",
+    "Description": "Conus abruptus was originally discovered and described by New Zealand geologist Patrick Marshall in 1918.Marshall's type description reads as follows:",
+    "Distribution": "Pakaurangi Point, Kaipara Harbour, New Zealand, during the Tertiary.",
+    "References": "This article incorporates public domain text originating from the New Zealand from the reference.\n\nMaxwell, P.A. (2009). Cenozoic Mollusca. pp 232–254 in Gordon, D.P. (ed.) New Zealand inventory of biodiversity. Volume one. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia. Canterbury University Press, Christchurch.",
+    "Further reading": "Beu & Maxwell (1990). N.Z. Geol. Surv. Paleontol. Bull. 58: 124.\n\n\n== External links =="
+  }
+}

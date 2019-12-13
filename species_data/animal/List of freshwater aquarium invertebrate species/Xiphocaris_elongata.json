@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Xiphocaris_elongata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Arthropoda"
+    },
+    {
+      "Subphylum": "Crustacea"
+    },
+    {
+      "Class": "Malacostraca"
+    },
+    {
+      "Order": "Decapoda"
+    },
+    {
+      "Infraorder": "Caridea"
+    },
+    {
+      "Family": "Xiphocarididae"
+    },
+    {
+      "Genus": "Xiphocaris"
+    },
+    {
+      "Species": "X. elongata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Xiphocaris elongata, the yellow-nose shrimp, yellow rhino shrimp, salpiche or piquine, is a species of freshwater shrimp native to the Caribbean. A hardy species, this shrimp is tolerant of a wide range of water conditions and can even survive in brackish and saltwater. Despite it being widely encountered across the Caribbean this species is still virtually unavailable to hobbyists in Europe and North America.\n\n\n== References =="
+  }
+}

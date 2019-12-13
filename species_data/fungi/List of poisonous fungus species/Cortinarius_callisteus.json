@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_callisteus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. callisteus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius callisteus is a species of agaric fungus in the family Cortinariaceae. It was first described by Elias Magnus Fries in 1818 as Agaricus callisteus. Two decades later he transferred it to the genus Cortinarius in his 1838 work Epicrisis Systematis Mycologici.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius callisteus  in Index Fungorum"
+  }
+}

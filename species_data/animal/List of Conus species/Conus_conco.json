@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_conco",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. conco"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus conco is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Nomenclature": "The description of Conus conco was included in the online Supplementary Material to the article by Puillandre et al. (2014). This description was not included in the printed version of the article, and thus did not meet the requirements of the International Code of Zoological Nomenclature (ICZN) for electronic publications, and the name Conus conco Puillandre et al., 2014, was not a nomenclaturally available name. To meet the ICZN requirements and make the name Conus conco available, the description has been published in January 2015 as a standard print part of Molecular Phylogenetics and Evolution.",
+    "Description": "The size of the shell attains 45 mm.",
+    "Distribution": "This species occurs in the Pacific Ocean off the Marquesas Islands.",
+    "References": "Puillandre N., Stöcklin R., Favreau P., Bianchi E., Perret F., Rivasseau A., Limpalaër L., Monnier E., Bouchet P. (2015). Corrigendum to ‘‘When everything converges: Integrative taxonomy with shell, DNA and venomic data reveals Conus conco, a new species of cone snails (Gastropoda: Conoidea)’’ [Mol. Phylogenet. Evol. 80 (2014) 186–192]. Molecular Phylogenetics and Evolution. 82: 341-342",
+    "External links": "To World Register of Marine Species\n\"Lividoconus conco\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

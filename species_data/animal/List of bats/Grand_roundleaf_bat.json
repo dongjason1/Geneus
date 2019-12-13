@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grand_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. grandis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The grand roundleaf bat (Hipposideros grandis), also known as the grand leaf-nosed bat, is a species of bat in the genus Hipposideros. It can be found in China, Myanmar, Thailand, and Vietnam.",
+    "Taxonomy": "Per George Henry Hamilton Tate, it was described as a new taxon in 1936 by American zoologist Glover Morrill Allen.\nAllen listed it as a subspecies of the intermediate roundleaf bat (Hipposideros larvatus).\nThe holotype had been collected in Chindwin, Myanmar.\nIt was frequently listed as a subspecies until 2006, when analyses of its echolocation and morphology demonstrated that the grand roundleaf bat is distinct enough to be considered a full species.",
+    "Description": "Males have a mean forearm length of 60.5 mm (2.38 in), while females have a mean forearm length of 61 mm (2.4 in).\nMales weigh 18.3 g (0.65 oz), while females weigh 17.6 g (0.62 oz).\nIn India, the species has a peak echolocation frequency of 98 kHz, which helps distinguish it from other Hipposideros species.",
+    "Range and habitat": "This species is found in several countries in Asia, including China, Myanmar, Thailand, and Vietnam.\nIt is also found in India.",
+    "Conservation": "As of 2016, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this classification because it has a wide geographic range, it is relatively abundant in Vietnam, and it tolerates some human disturbance to its habitat.\n\n\n== References =="
+  }
+}

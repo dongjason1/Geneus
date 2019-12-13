@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_niederhoeferi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. niederhoeferi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus niederhoeferi is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell attains 35 mm.",
+    "Distribution": "This marine species occurs in the East China Sea.",
+    "References": "E. Monnier, L. Limpalaër & F. Lorenz (2012): Phasmoconus niederhoeferi (Gastropoda, Conidae), a new species of cone from the East China Sea and notes on the Ph. moluccensis (Küster, 1838) and the Ph. proximus (Sowerby II, 1860) complexes- Acta Conchyliorum n°11.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea\n\"Asprella niederhoeferi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

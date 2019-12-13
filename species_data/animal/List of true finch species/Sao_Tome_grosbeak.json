@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sao_Tome_grosbeak",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. concolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The São Tomé grosbeak (Crithagra concolor) is the largest member of the canary genus Crithagra, 50% heavier than the next largest canary species, and possesses a massive bill for a member of that genus. It is endemic to the island of São Tomé.For a long period this bird was known only from three nineteenth-century specimens. It was rediscovered in 1991. The current population is estimated at less than 250, and it is classified as critically endangered by the IUCN. The main threat is habitat destruction.\nThe São Tomé grosbeak was formerly placed in the genus Neospiza (meaning \"new finch\") but was assigned to the genus Crithagra based on a phylogenetic analysis of mitochondrial and nuclear DNA sequences.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet"
+  }
+}

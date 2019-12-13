@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hypericum_rumeliacum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Hypericaceae"
+    },
+    {
+      "Genus": "Hypericum"
+    },
+    {
+      "Section": "Hypericum sect. Drosocarpium"
+    },
+    {
+      "Species": "H. rumeliacum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hypericum rumeliacum is a species of flowering plant in the family Hypericaceae, native to southeastern Europe.",
+    "References": "\nRobson, N. K. B., \"Studies in the genus Hypericum L. (Guttiferae). 1. Infrageneric classification\", Bull. Br. Mus. (Nat. Hist.), Bot. 5:325. 1977."
+  }
+}

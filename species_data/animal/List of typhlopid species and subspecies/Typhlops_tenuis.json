@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_tenuis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Amerotyphlops"
+    },
+    {
+      "Species": "A. tenuis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The coffee worm snake (Amerotyphlops tenuis) is a harmless blind snake species found in Mexico and Guatemala. No subspecies are currently recognized.",
+    "Geographic range": "It is found from Mexico (Veracruz) south to Guatemala (Alta and Baja Verapaz). Earlier sources also include Honduras whereas recent ones do not, the Honduran endemic Amerotyphlops stadelmani was formerly included in this species. The type locality given is \"Coban [Cobán, Alta Verapaz] in Guatemala\".",
+    "Habitat": "The species occurs in moist forests, degraded forests, and agricultural land from sea level to 800 m (2,600 ft) above sea level. As a fossorial species, it is difficult to find, but it can be locally common.",
+    "Conservation status": "It is classified as Least Concern (LC) on the IUCN Red List of Threatened Species (v3.1, 2001). Species are listed as such due to their wide distribution, presumed large population, or because it is unlikely to be declining fast enough to qualify for listing in a more threatened category. The population trend is unknown. Year assessed: 2007.",
+    "See also": "List of typhlopid species and subspecies.\nTyphlops by common name.\nTyphlops by taxonomic synonyms.\nTyphlopidae by common name.\nTyphlopidae by taxonomic synonyms.",
+    "References": "",
+    "Further reading": "Salvin O (1860). \"On the Reptiles of Guatemala\". Proc. Zool. Soc. London 1860: 451-461. (Typhlops tenuis, new species, p. 454)."
+  }
+}

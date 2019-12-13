@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Patrizi's_trident_leaf-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Asellia"
+    },
+    {
+      "Species": "A. patrizii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Patrizi's trident leaf-nosed bat (Asellia patrizii) is a species of bat in the family Hipposideridae. It is found in Eritrea, Ethiopia, and Saudi Arabia. Its natural habitats are subtropical or tropical dry shrubland and caves. It is threatened by habitat loss.",
+    "References": "\nSimmons, N.B. 2005. Order Chiroptera. Pp. 312–529 in Wilson, D.E. and Reeder, D.M. (eds.). Mammal Species of the World: a taxonomic and geographic reference. 3rd ed. Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp. ISBN 978-0-8018-8221-0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_flavida",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. flavida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula flavida is a member of the large mushroom genus Russula, described in 1880 by American botanist and mycologist Charles Christopher Frost and found in North America and parts of Asia. It has a bright yellow to orange yellow cap and stipe and white gills.A variant, R. flavida var. dhakurianus, was described in 2005 from Kumaon in the Indian Himalaya.The species contains the pigment russulaflavidin and a related compound.",
+    "References": "",
+    "External links": "Russula flavida  in Index Fungorum\nRussula flavida  in MycoBank."
+  }
+}

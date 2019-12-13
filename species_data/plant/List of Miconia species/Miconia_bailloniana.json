@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miconia_bailloniana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Melastomataceae"
+    },
+    {
+      "Genus": "Miconia"
+    },
+    {
+      "Species": "M. bailloniana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miconia bailloniana is a species of plant in the family Melastomataceae. It is endemic to Peru & Bolivia.",
+    "References": "\nRevista peruana de Biología [1]"
+  }
+}

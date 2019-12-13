@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Western_nectar_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lonchophylla"
+    },
+    {
+      "Species": "L. hesperia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The western nectar bat (Lonchophylla hesperia) is a species of bat in the family Phyllostomidae. It is found in Ecuador and Peru. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

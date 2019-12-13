@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miconia_sparrei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Melastomataceae"
+    },
+    {
+      "Genus": "Miconia"
+    },
+    {
+      "Species": "M. sparrei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miconia sparrei is a species of plant in the family Melastomataceae. It is endemic to Ecuador.\n\n\n== References =="
+  }
+}

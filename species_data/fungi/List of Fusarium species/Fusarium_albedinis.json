@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_albedinis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. oxysporum"
+    },
+    {
+      "Subspecies": "F. o. f.sp. albedinis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium oxysporum f.sp. albedinis is a fungal plant pathogen that causes a disease known as Bayoud disease or fusarium wilt primarily on date palm.",
+    "See also": "List of date palm diseases",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

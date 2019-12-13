@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Adam's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. adami"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Adam's horseshoe bat (Rhinolophus adami) is a species of bat in the family Rhinolophidae. It is endemic to Republic of the Congo. Its natural habitats include caves.",
+    "Taxonomy and etymology": "It was described as a new species in 1968.\nThe holotype used to describe the species was collected by J. P. Adam, who is likely the eponym for the species name \"adami.\" The genus Rhinolophus, of which the Adam's horseshoe bat is a member, is divided into species groups, as it is quite speciose. The Adam's horseshoe bat is the identifier of one of these groups, the adami group. The only other member of the adami group is the Maendeleo horseshoe bat.",
+    "Description": "Its forearm length is 47–49 mm (1.9–1.9 in). Its ears are relatively long, at 25–26 mm (0.98–1.02 in). It has a large nose-leaf, at 15–16 mm (0.59–0.63 in) long and 8.5–9 mm (0.33–0.35 in) wide.",
+    "Biology and ecology": "It is nocturnal, roosting in sheltered places during the day such as caves.",
+    "Range and habitat": "It has only been observed in a single cave in the Kouilou Department of the Republic of the Congo.",
+    "Conservation": "It is currently evaluated as data deficient by the IUCN. As of 2019, the species had not been observed since the series of 10 individuals used to describe the species in 1968.\n\n\n== References =="
+  }
+}

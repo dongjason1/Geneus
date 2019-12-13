@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Palaeoamyda",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Family": "Trionychidae"
+    },
+    {
+      "Subfamily": "Trionychinae"
+    },
+    {
+      "Genus": "†PalaeoamydaCadena, 2016"
+    },
+    {
+      "Species": "†P. messeliana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Palaeoamyda is an extinct genus of softshell turtle belonging to the family Trionychidae. Remains have been found in the Eocene of Germany.",
+    "Taxonomy": "Karl (1998) considered Palaeoamyda a synonym of Rafetoides austriacus (Peters, 1858), but subsequent re-description of the material showed that it was a distinct genus in its own right.",
+    "Description": "Palaeoamyda is a three-clawed soft-shell turtle that can reach a length of about two feet. It is the largest species of turtles of Messel Pit Fossil Site. The carapace and plastron are not connected by bony prominences and the plastron shows bony plates reduced to small protrusions.",
+    "References": "\nH.-V. Karl - Zur Taxonomie der känozoischen Weichschildkröten Österreichs und Deutschlands (Trionychidae: Trionychinae).- Mitt. Geol. Und Paläont. Landesmuseum Joanneum, 56: 273- 328; Graz (1998).\nM. Morlo, S. Schaal, G. Mayr, C. Seiffert - Annotated taxonomic list of the Middle Eocene Vertebrata of Messel (2004) \nColin Tudge  Uncovering Our Earliest Ancestor\nNatuur informatie\nHans-Volker Karl Jurnal Article"
+  }
+}

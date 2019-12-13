@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yoshiyuki's_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. ikonnikovi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ikonnikov's bat (Myotis ikonnikovi) is a species of vesper bat.  An adult Ikonnikov's bat has a body length of 4.2-5.1 cm, a tail of 3.1-4.0 cm, and a wing length of 3.3-3.6 cm.  It is found in eastern Siberia, the Ussuri region, Sakhalin, Hokkaido and Honshu (Japan), and the Korean Peninsula.",
+    "References": "Notes\nSourcesWon, Byeong-o (원병오) (2004). 한국의 포유동물 (Hangugui poyudongmul, Mammals of Korea). Seoul: Dongbang Media. ISBN 89-8457-310-8.\n\nTemplate:Vespertilinoidae-stub"
+  }
+}

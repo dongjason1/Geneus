@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_acremoniopsis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. acremoniopsis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium acremoniopsis is a fungus species of the genus Fusarium.",
+    "References": "",
+    "Further reading": "United States. Dept. of Agriculture; Association of American Agricultural Colleges and Experiment Stations; Association of Land-Grant Colleges and Universities (1920). Journal of Agricultural Research, Band 18. U.S. Government Printing Office."
+  }
+}

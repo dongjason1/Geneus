@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miniopterus_gleni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. gleni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Glen's long-fingered bat (Miniopterus gleni) is a species of vesper bat in the family Vespertilionidae and it belongs to the class Mammalia.\nIt is found only in Madagascar.\n\n\n== References =="
+  }
+}

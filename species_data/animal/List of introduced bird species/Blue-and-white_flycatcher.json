@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Blue-and-white_flycatcher",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Muscicapidae"
+    },
+    {
+      "Genus": "Cyanoptila"
+    },
+    {
+      "Species": "C. cyanomelana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The blue-and-white flycatcher (Cyanoptila cyanomelana) is a migratory songbird in the Old World flycatcher family Muscicapidae. The species is also known as the Japanese flycatcher. It breeds in Japan, Korea, and in parts of north eastern China and far eastern Russia. It winters in South East Asia, especially in Vietnam, Cambodia, Thailand, Sumatra and Borneo. This species has been recorded as a vagrant from the Sinharaja Rainforest in Sri Lanka in 2014.",
+    "References": "Del Hoyo, J.; Elliot, A. & Christie D. (editors). (2006). Handbook of the Birds of the World. Volume 11: Old World Flycatchers to Old World Warblers. Lynx Edicions. ISBN 84-96553-06-X.",
+    "External links": "Cyanoptila cyanomelana  in the Flickr: Field Guide Birds of the World"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_porrecta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. porrecta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia porrecta, formerly known as Dryandra porrecta, is a shrub endemic to Western Australia.\nAn assessment of the potential impact of climate change on this species found that its range is likely to contract by between 50% and 80% by 2080, depending on the severity of the change.",
+    "References": "\n\"Banksia porrecta\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

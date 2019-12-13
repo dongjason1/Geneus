@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eulophia_euglossa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Eulophia"
+    },
+    {
+      "Species": "E. euglossa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eulophia euglossa is a species of orchid, occurring from Western Tropical Africa to Western Ethiopia and Angola."
+  }
+}

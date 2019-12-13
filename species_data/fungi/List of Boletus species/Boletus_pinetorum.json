@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_pinetorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. pinetorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus pinetorum is an edible bolete fungus generally found in Fennoscandia. It was described as a new species in 2009 from a collection made in Finland. It resembles the popular Boletus edulis but is distinct from that species genetically. Fruitbodies of B. pinetorum have greyish brown caps with wrinkled margins. The bolete is mycorrhizal with pines, and grows in dry sandy pine heaths and dry coniferous forests.",
+    "See also": "List of Boletus species\n\n\n== References =="
+  }
+}

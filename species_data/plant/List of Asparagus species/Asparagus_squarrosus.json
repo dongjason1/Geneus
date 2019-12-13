@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Asparagus_squarrosus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Asparagoideae"
+    },
+    {
+      "Genus": "Asparagus"
+    },
+    {
+      "Species": "A. squarrosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Asparagus squarrosus is a species of flowering plant in the family Asparagaceae. The species is endemic to Cape Verde. The species was named by Johann Anton Schmidt in 1853. Its local name is espargo. The plant is used in traditional medicine.",
+    "Distribution and ecology": "Asparagus squarrosus occurs on nearly all of the Cape Verdean islands. It is found in arid and extremely arid zones.\n\n\n== References =="
+  }
+}

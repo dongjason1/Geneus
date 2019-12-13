@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_smoesi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. smoesi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus smoesi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The length of the shell attains 20 mm.",
+    "Distribution": "This marine species of cone snail occurs off the Ceará State, Northeast Brazil",
+    "References": "Petuch E.J. & Berschauer D.P. (2016). Six new species of gastropods (Fasciolariidae, Conidae, and Conilithidae) from Brazil. The Festivus. 48(4): 257-266.page(s): 260, figs 2I-L",
+    "External links": "\"Poremskiconus smoesi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

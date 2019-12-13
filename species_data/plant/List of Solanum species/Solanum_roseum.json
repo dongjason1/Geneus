@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Solanum_roseum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Solanum"
+    },
+    {
+      "Species": "S. roseum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Solanum roseum is a species of plant in the family Solanaceae. It is endemic to Bolivia.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Solanum roseum\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T35456A9933917. doi:10.2305/IUCN.UK.1998.RLTS.T35456A9933917.en. Retrieved 16 December 2017."
+  }
+}

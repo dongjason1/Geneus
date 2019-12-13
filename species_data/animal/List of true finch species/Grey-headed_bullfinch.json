@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grey-headed_bullfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Pyrrhula"
+    },
+    {
+      "Species": "P. erythaca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The grey-headed bullfinch (Pyrrhula erythaca) is a species of finch in the Fringillidae family.\nIt is found in Bhutan, China, India, Myanmar, Nepal, and Taiwan. Its natural habitats are boreal forests and temperate forests.",
+    "Taxonomy": "Molecular phylogeny indicates that species of the genus Pyrrhula have a common ancestor with the pine grosbeak (Pinicola enucleator).\n\n\n== References =="
+  }
+}

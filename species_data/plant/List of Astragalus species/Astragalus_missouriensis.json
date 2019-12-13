@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Astragalus_missouriensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Astragalus"
+    },
+    {
+      "Species": "A. missouriensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Astragalus missouriensis is a species of flowering plant in the legume family known by the common name Missouri milkvetch. It is native to central North America, where it is common and widespread.",
+    "External links": "USDA Plants Profile\nThe Nature Conservancy."
+  }
+}

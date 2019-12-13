@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shamel's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. shameli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Shamel's horseshoe bat (Rhinolophus shameli) is a species of bat in the family Rhinolophidae. It is found in Cambodia, Laos, Myanmar, Thailand and Vietnam.\nThe eponym for the species name \"shameli\" was American mammalogist H. Harold Shamel.\n\n\n== References =="
+  }
+}

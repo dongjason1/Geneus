@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leucoagaricus_sericifer",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Agaricaceae"
+    },
+    {
+      "Genus": "Leucoagaricus"
+    },
+    {
+      "Species": "L. sericifer"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Leucoagaricus sericifer is an agaric fungus in the genus Leucoagaricus. It was originally described as Pseudobaeospora sericifera by French mycologist Marcel Locquin. It is widespread in Europe.",
+    "See also": "\nList of Leucoagaricus species\n\n\n== References =="
+  }
+}

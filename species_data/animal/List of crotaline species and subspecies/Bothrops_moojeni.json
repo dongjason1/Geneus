@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_moojeni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. moojeni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops moojeni, commonly known in English as the Brazilian lancehead, is a species of venomous snake in the  family Viperidae. It is a pit viper endemic to South America.",
+    "Etymology": "The specific name, moojeni, is in honor of Brazilian zoologist João Moojen de Oliveira (1904-1985).",
+    "Geographic range": "B. moojeni is found in Argentina, Bolivia, Brazil, and Paraguay.The type locality is Brasília, Distrito Federal, Brazil.",
+    "Habitat": "B. moojeni inhabits Araucaria moist forests and the Cerrado.",
+    "Reproduction": "B. moojeni is viviparous.",
+    "Common names": "In South America common names for B. moojeni include caiçaca, caissaca, caiçara, jacuruçu, and jararação.",
+    "References": "",
+    "Further reading": "Hoge AR (1966). \"Preliminary account on Neotropical Crotalinae (Serpentes: Viperidae)\". Memórias do Instituto Butantan 32 [1965]: 109-184. (Bothrops moojeni, new species)."
+  }
+}

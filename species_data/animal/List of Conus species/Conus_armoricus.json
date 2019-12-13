@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_armoricus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. armoricus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus armoricus is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "",
+    "Distribution": "This species is from Miocene-aged marine environments of New Zealand.",
+    "References": "\nMaxwell, P.A. (2009). Cenozoic Mollusca. pp 232–254 in Gordon, D.P. (ed.) New Zealand inventory of biodiversity. Volume one. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia. Canterbury University Press, Christchurch.\n\n\n== External links =="
+  }
+}

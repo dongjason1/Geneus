@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rickart's_dyak_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Dyacopterus"
+    },
+    {
+      "Species": "D. rickarti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Rickart's dyak fruit bat (Dyacopterus rickarti) is a species of megabat in the family Pteropodidae found in Luzon and Mindanao islands, in the Philippines.",
+    "References": "\nMammals Planet website: Species Sheet. [1]"
+  }
+}

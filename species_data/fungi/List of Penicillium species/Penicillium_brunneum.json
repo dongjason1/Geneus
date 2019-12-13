@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_brunneum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. brunneum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium brunneum is an anamorph fungus species of the genus of Penicillium which was isolated in imported rice an produces rugulosin a substance which is hepatocarcinogenic to mice and rats.",
+    "Further reading": "Haska, N.; Ohta, Y. (1994). \"Purification and Properties of the Raw Starch Digesting Amylase from Penicillium brunneum No. 24\". Starch - Stärke. 46 (12): 480–485. doi:10.1002/star.19940461207.\nSankawa, U.; Ebizuka, Y.; Shibata, S. (1973). \"Biosynthetic incorporation of emodin and emodinanthrone into the anthraquinonoids of and\". Tetrahedron Letters. 14 (23): 2125–2128. doi:10.1016/S0040-4039(01)86824-6.\nPieter Steyn (2012). The Biosynthesis of Mycotoxins: A study in secondary Metabolism. Elsevier. ISBN 0323149936.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_compressus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. compressus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus compressus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.The database WoRMS lists this species only tentatively, as it may be a synonym for a northern form of Conus anemone. As there are conservation implications, a precautionary approach should be taken, and C. compressus is here tentatively listed as a valid species. The real C. compressus has a distribution restricted from Geraldton to Shark Bay, but in recent years the name has been mistakenly applied to a tall-spired form of anemone from South Australia.\nLike all cone snail species, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 25 mm and 67 mm.",
+    "Distribution": "This marine species occurs off Southern Australia.",
+    "References": "Lamarck, J.B.P.A. de M. 1810. Suite des espèces du genre Cône. Annales du Muséum National d'Histoire Naturelle. Paris 15: 263-286, 422-442\nSowerby, G.B. 1866. Monograph of the genus Conus. pp. 328-329 in Thesaurus Conchyliorum, or monographs of genera of shells. London : Sowerby, G.B. Vol. 3.\nTomlin, J.R. le B. 1937. Catalogue of Recent and Fossil Cones. Proceedings of the Zoological Society of London 22: 205-333\nPetit, R. E. (2009). George Brettingham Sowerby, I, II & III: their conchological publications and molluscan taxa. Zootaxa. 2189: 1–218\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To Biodiversity Heritage Library (1 publication)\nTo USNM Invertebrate Zoology Mollusca Collection\nTo World Register of Marine Species\nCone Shells - Knights of the Sea\n\"Floraconus compressus\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mount_Gargues_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. aero"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mount Gargues pipistrelle (Pipistrellus aero) is a species of vesper bat found in Kenya and possibly Ethiopia. It typically lives in subtropical or tropical forests.\n\n\n== References =="
+  }
+}

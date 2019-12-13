@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_sellowii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. reflexa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus reflexa is a species of tree in the family Rosaceae. It is native to South America.",
+    "Distribution and habitat": "Prunus reflexa occurs in montane cloud forests, valleys and semi-deciduous dry forests from Ecuador south to Bolivia, between 600–2,600 m (2,000–8,500 ft) of elevation.\n\n\n== References =="
+  }
+}

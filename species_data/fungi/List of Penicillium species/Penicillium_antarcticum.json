@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_antarcticum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. antarcticum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium antarcticum is an ubiquitous, endophytic fungus species of the genus Penicillium. Penicillium antarcticum produces the polyketide compounds antarone A and antarone B.It was originally discovered on the Windmill Islands off Antarctica, thus its name.",
+    "Further reading": "Helga Stan-Lotter; Sergiu Fendrihan (2011). Adaption of Microbial Life to Environmental Extremes: Novel Research Results and Application. Springer. ISBN 3211996907.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

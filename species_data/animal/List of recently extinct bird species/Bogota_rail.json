@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bogota_rail",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "Rallus"
+    },
+    {
+      "Species": "R. semiplumbeus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bogotá rail (Rallus semiplumbeus) is a species of bird in the family Rallidae.\nIt is endemic to Colombia.\n\nIts natural habitats are subtropical or tropical high-altitude grassland, freshwater lakes, and freshwater marshes.\nIt is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet.\nhttps://www.youtube.com/watch?v=Mr1BeL5zslg Bogotá rail\nBogotá rail- pictures"
+  }
+}

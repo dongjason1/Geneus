@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Short-headed_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. breviceps"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The short-headed roundleaf bat (Hipposideros breviceps) is a species of bat in the family Hipposideridae endemic to Indonesia. It is known only from the type specimen.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_glaucophylla",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. strupifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera strupifolia is a species of orchid."
+  }
+}

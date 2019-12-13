@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hieracium_coloratum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Tribe": "Cichorieae"
+    },
+    {
+      "Genus": "Hieracium"
+    },
+    {
+      "Species": "H. coloratum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hieracium coloratum is a forb in the aster family. A single sample was found in Ecuador more than 120 years ago and put into a collection without a clear description of where it was found. The label on the specimen only says \"in Andibus Ecuadorensibus\". Since then, no other occurrence has been noted and there are no specimens in the collections of Ecuadorian museums.\n\n\n== References =="
+  }
+}

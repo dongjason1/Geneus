@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Daito_varied_tit",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Paridae"
+    },
+    {
+      "Genus": "Sittiparus"
+    },
+    {
+      "Species": "S. varius"
+    },
+    {
+      "Subspecies": "†S. v. orii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Daito varied tit is an extinct subspecies of the varied tit. It was formerly found on Kita Daitō-jima and Minami Daitō-jima in the Daitō group east of the Okinawa Islands, but became extinct around 1940. It seems that the last specimens collected were Kuroda's types taken in 1922, and that the last confirmed sighting was in 1938. Searches in the 1980s and subsequently failed to find any. The subspecies became extinct following the habitat destruction brought about by settlement and construction activity in the 1930s.\nIt differed from the typical P. v. varius in having a broad chestnut-coloured band on the upper mantle, olive-green (not dark grey) lower mantle, and orangey (not white) sides to the head (Harrap & Quinn 1996, del Hoyo et al. 2007).\nLike many bird taxa from the Okinawa region, the scientific name is named after the veteran specimen collector Hyojiri Orii.",
+    "References": "del Hoyo, J., Elliot, A., & Christie D. (eds). (2007). Handbook of the Birds of the World. Volume 12: Picathartes to Tits and Chickadees. Lynx Edicions. ISBN 978-84-96553-42-2\nHarrap, S., & Quinn, D. (1996). Tits, Nuthatches and Treecreepers. Christopher Helm. ISBN 0-7136-3964-4\nKuroda, N. M. (1923). Descriptions of New Forms of Birds from the Borodino Islands. Bull. Brit. Ornithol. Club 43: 120-123"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_lorenzi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Ramphotyphlops"
+    },
+    {
+      "Species": "R. lorenzi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lorenz's blind snake (Ramphotyphlops lorenzi ) is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, lorenzi, is in honor of German ornithologist Theodore K. Lorenz.",
+    "Geographic range": "R. lorenzi is found in Indonesia (Borneo).",
+    "References": "",
+    "Further reading": "Hedges SB, Marion AB, Lipp KM, Marin J, Vidal N (2014). \"A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61.\nWerner F (1909). \"Über neue oder seltene Reptilien des Naturhistorischen Museums in Hamburg \". Jahrbuch der Hamburgischen Wissenschaftlichen Anstalten 26: 205-247 (in supplement). (Typhlops lorenzi, new species, p. 209). (in German)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Angolan_hairy_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Cistugidae"
+    },
+    {
+      "Genus": "Cistugo"
+    },
+    {
+      "Species": "C. seabrae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Angolan hairy bat (Cistugo seabrae) also known as Angolan wing-gland bat is a species of bat in the Cistugidae family.\nIt can be found in the following countries: Angola, Namibia, and South Africa.\nIt is found in these habitats: hot deserts.",
+    "Taxonomy and etymology": "It was described as a new species in 1912 by British zoologist Oldfield Thomas.\nThomas decided that the taxa was so distinct, it warranted the description of a new genus, Cistugo.\nThe Angolan hairy bat is the type species for Cistugo.\nThe holotype of the species was captured in Mossamedes, Angola.\nThe eponym for the species name \"seabrae\" is Antero Frederico de Seabra.",
+    "Description": "It has \"peculiar thickened glands\" on its wings with three on each wing.\nThe glands are 3–3.5 mm (0.12–0.14 in) in length and 1–1.5 mm (0.039–0.059 in) in width.\nIts forearm is approximately 32.5 mm (1.28 in) long.",
+    "Range and habitat": "It is found in several countries in Southern Africa including Angola, Namibia, and South Africa.\nIt is typically documented in arid areas with less than 100 mm (3.9 in) of annual rainfall.",
+    "Conservation": "As of 2017, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this designation because it has a wide geographic range; its population is presumably large; and no major threats have been identified to its continued existence.\nLocal threats may include cave disturbance due to mining activities.\n\n\n== References =="
+  }
+}

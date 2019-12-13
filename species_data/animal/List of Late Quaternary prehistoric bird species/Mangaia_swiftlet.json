@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mangaia_swiftlet",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Apodiformes"
+    },
+    {
+      "Family": "Apodidae"
+    },
+    {
+      "Genus": "Aerodramus"
+    },
+    {
+      "Species": "A. manuoi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mangaia swiftlet (Aerodramusa manuoi) is an extinct species of bird in the swift family. It became extinct during prehistoric times.  It was endemic to Mangaia in the Cook Islands.  It was closely allied with the extant Atiu swiftlet (Aerodramus sawtelli) of Atiu, Mangaia's neighbouring island, though it was probably slightly larger.It was described from six fossil bones recovered from a Holocene rock shelter deposit on Mangaia. The coracoid and carpometacarpus of the new species are larger and very different qualitatively from those of the Atiu species.  This is the first species of Aerodramus to be described from fossils.",
+    "References": "",
+    "References-Notes": "",
+    "References-Sources": "Steadman, David W. (2002). \"A new species of swiftlet (Aves: Apodidae) from the late Quaternary of Mangaia, Cook Islands, Oceania\". Journal of Vertebrate Paleontology. 22 (2): 326–331. doi:10.1671/0272-4634(2002)022[0326:ANSOSA]2.0.CO;2."
+  }
+}

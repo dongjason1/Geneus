@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Persea_obtusifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Magnoliids"
+    },
+    {
+      "Order": "Laurales"
+    },
+    {
+      "Family": "Lauraceae"
+    },
+    {
+      "Genus": "Persea"
+    },
+    {
+      "Species": "P. obtusifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Persea obtusifolia is a species of plant in the family Lauraceae. It is found in Costa Rica and Panama.",
+    "References": "\nWorld Conservation Monitoring Centre 1998. Persea obtusifolia. 2006 IUCN Red List of Threatened Species. Downloaded on 23 August 2007."
+  }
+}

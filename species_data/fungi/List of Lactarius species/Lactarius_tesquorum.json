@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lactarius_tesquorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Lactarius"
+    },
+    {
+      "Species": "L. tesquorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lactarius tesquorum is a member of the large milk-cap genus Lactarius in the order Russulales. It was described in 1979 by Georges Malençon based on collections from Morocco, but was later identified in other Mediterranean countries.",
+    "See also": "List of Lactarius species",
+    "References": "",
+    "External links": "Lactarius tesquorum  in Index Fungorum"
+  }
+}

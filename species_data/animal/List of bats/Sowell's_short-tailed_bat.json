@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sowell's_short-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Carollia"
+    },
+    {
+      "Species": "C. sowelli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sowell's short-tailed bat (Carollia sowelli) is a common bat species in the family Phyllostomidae. It is found from San Luis Potosi (Mexico) through Central America to west Panama. The species is named after American philanthropist James N. Sowell.\n\n\n== References =="
+  }
+}

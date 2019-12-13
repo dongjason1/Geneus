@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Red-spectacled_amazon",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Psittaciformes"
+    },
+    {
+      "Family": "Psittacidae"
+    },
+    {
+      "Genus": "Amazona"
+    },
+    {
+      "Species": "A. pretrei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The red-spectacled amazon (Amazona pretrei) is a species of parrot in the family Psittacidae. It is found in Argentina, Brazil, and Paraguay.\nIts natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, dry savanna, and plantations. It is threatened by habitat loss.",
+    "Description": "The red-spectacled amazon is 32 cm (13 in) long. It is mostly green with some sparse red spots on head, variable extent of red on forehead, lores and around eyes, white eyerings, red on the bend of the wings with blue tips to secondaries and primaries, yellowish bill. Females have less red on the bend of the wing.",
+    "References": "",
+    "Cited texts": "Forshaw, Joseph M. (2006). Parrots of the World; an Identification Guide. Illustrated by Frank Knight. Princeton University Press. ISBN 0-691-09251-6.",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

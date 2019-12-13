@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_ootensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. ootensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium ootensis is a species of fungus in the genus Penicillium.",
+    "Further reading": "R. P. Sharma (1996). The Indian Forester. R. P. Sharma, Business Manager, Indian Forester.\nIndian National Scientific Documentation Centre, Delhi (1997). Indian Science Abstracts. Indian National Scientific Documentation Centre.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Long-tailed_triller",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Campephagidae"
+    },
+    {
+      "Genus": "Lalage"
+    },
+    {
+      "Species": "L. leucopyga"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The long-tailed triller (Lalage leucopyga) is a species of bird in the family Campephagidae. It is found in New Caledonia, Solomon Islands, and Vanuatu. The Norfolk Island subspecies of the long-tailed triller, the Norfolk triller, has become extinct. Its natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montane forests.",
+    "References": "",
+    "External links": "Norfolk Island Triller. Lalage leucopyga. by Paul Martinson. Artwork produced for the book Extinct Birds of New Zealand, by Alan Tennyson, Te Papa Press, Wellington, 2006"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_classiarius",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. classiarius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus classiarius is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.\nThis species is considered a nomen dubium",
+    "Distribution": "This marine species occurs off Madagascar.",
+    "References": "Bruguière, M. 1792. Encyclopédie Méthodique ou par ordre de matières. Histoire naturelle des vers. Paris : Panckoucke Vol. 1 i-xviii, 757 pp.\nTucker J.K. & Tenorio M.J. (2013) Illustrated catalog of the living cone shells. 517 pp. Wellington, Florida: MdM Publishing",
+    "External links": "The Conus Biodiversity website"
+  }
+}

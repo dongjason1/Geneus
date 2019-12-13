@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Marasmius_elegans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Marasmiaceae"
+    },
+    {
+      "Genus": "Marasmius"
+    },
+    {
+      "Species": "M. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Marasmius elegans, commonly known as the velvet parachute, is a species of fungus in the family Marasmiaceae. It has a reddish-brown cap, and a whitish stipe with white hairs at the base. It can be found in eucalypt forests in Australia.",
+    "Taxonomy": "The species was originally described as Collybia elegans by the Australian mycologist John Burton Cleland in 1933. Cheryl Grgurinovic transferred it to Marasmius in a 1997 publication.",
+    "See also": "List of Marasmius species\n\n\n== References =="
+  }
+}

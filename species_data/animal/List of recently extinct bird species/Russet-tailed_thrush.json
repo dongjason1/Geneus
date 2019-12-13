@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russet-tailed_thrush",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Turdidae"
+    },
+    {
+      "Genus": "Zoothera"
+    },
+    {
+      "Species": "Z. heinei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The russet-tailed thrush (Zoothera heinei) is a species of bird in the family Turdidae, closely related to the more widespread Bassian thrush (Zoothera lunulata). It is found in eastern Australia and Papua New Guinea.\nIts natural habitats are temperate forests and subtropical or tropical moist lowland forests.\n\n\n== References =="
+  }
+}

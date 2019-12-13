@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_thaliae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. thaliae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Canna rust is a fungal disease of canna caused by Puccinia thaliae. Symptoms include yellow to tan spots on the plant's leaves and stems.  Initial disease symptoms will result in scattered sori (clustered sporangia), eventually covering the entirety of the leaf with coalescing pustulates. Both leaf surfaces, although more predominant on the underside (abaxial) of the leaf, will show yellow to brownish spore-producing these pustulate structures, and these are the signs of the disease. Spots on the upper leaf-surface coalesce and turn to brown-to-black as the disease progresses. Infection spots will become necrotic with time, with small holes (3 to 5mm) developing in older leaves. These infected leaves eventually become dry and prematurely fall.",
+    "Control": "When Canna rust first appears, the affected foliage should be removed and discarded, otherwise the fungi will propagate and destroy the whole plant. The affected foliage should not be composted, as that will simply spread the fungus further.\nBecause Canna rust thrives in warm, moist conditions (~20 °C), it is best to reduce irrigation or implement methods to reduce standing water, such as mulch and planting in the sun.\nCommercially, a liquid copper-based spray can be sprayed on the stems and both sides of the leaves to prevent fungal problems before they occur. Although used commercially, copper is not recommended for home use because of its heavy metal toxicity.\nOther practices include, reducing plant material or debris and reducing foliage from the plant. This practice can increase the aeration of the canopy, permitting more light and allowing fungicide sprays (if used) to reach the plant. This method disrupts the uredospores stage from persisting.\nP. thaliae is a systemic pathogen, in that symptoms will affect a greater part or all of the plant.",
+    "Disease Cycle": "The disease cycle for Canna Rust has not been fully discovered, but there are several known pieces. Urediniospores (or uredospores), asexual rust spores, have been discovered on the leaf surface.  The color of the urediniospore can range from a golden to a yellow-orange, and are egg or pear shaped. The uredospores are responsible for the spread of the rust to new leaf tissue. Uredospores are subglobose to ovoid or pyriform, echinulate, and measure 25.74 to 37.18 x 17.16 to 27.17 μm, with thickened walls apical walls (1.3 to 1.6 μm) and one to two equatorial germ pores. In addition, the overwintering spores that produce basidiospores, also known as teliospores, have been located on the leaf surface. The teliospores range from cylindrical, clavate to club shaped, with rounded apex and sized from 50−83 × 14−21 μm. Basidiospores are the sexual spores of rusts. There have been no pycnia or aecia located on Canna Rust. However, P. thaliae has been known to cause rust on several cannabis species and on arrowroot which are other uredial hosts. The pathogen is likely mobile in the plant leaf allowing it to spread across the leaf surface. The overwintering stage occurs during the wet and cold seasons.",
+    "Environment": "The Canna rust fungus grows best under high relative humidity and extended periods of leaf wetness (roughly ≥20 °C). This type of environment can be caused by high soil moisture, tall weeds surrounding the Canna, and dense shading that prevents moisture from evaporating from the leaf surface.  The fungus can survive in most tropical environments where the Canna Lily grows due to the tropics high relative moisture throughout the growing season. P. thaliae has been reported throughout Europe and extends throughout the northern hemisphere. In North America, P. thaliae has been reported to cause rust in Cannabis indica in Florida and C. x generalis in Texas. Also reported throughout Hawaii since the 1970s. The host range of P. thaliae includes Canna indica (syn. C. edulis) and some hybrids of C. x generalis and other plants of the order Zingiberales. Moreover, P. thaliae on Canna lily was reported in South Africa.",
+    "Importance": "Canna is a very versatile plant that has both ornamental and agronomic uses.  In tropical parts of the world Canna achira, the agricultural breed of Canna, is grown for starch production in its rhizomes and fiber production in the shoots.  Countries like Ecuador and Peru used to rely on Canna as a staple crop.  In Thailand Puccinia thaliae is listed as a medium threat to biosecurity and agriculture. The Canna rust damages the crop and can impact all of its potential uses by damaging photosynthetic material and reducing plant productivity and value.   In the United States it is a popular ornamental for home gardens. The rust lowers the value of lilies for sale and can kill canna plants that home gardeners are trying to grow themselves.",
+    "See also": "Canna\nList of Canna species\nList of Canna cultivars\nList of Puccinia species\nRust (fungus)",
+    "Notes": "",
+    "External links": "British Society for Plant Pathology report on Canna Rust"
+  }
+}

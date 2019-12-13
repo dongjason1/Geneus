@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_cruenta",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. cruenta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella cruenta, also called Pseudocercosopora cruenta in its asexual stage, is a fungal plant pathogen belonging to the group Ascomycota. It can affect several legume plants, including species of Phaseolus, Vigna, Calopogonium, Lablab niger, Mucuna and Stizolobium deeringianum [Mucuna pruriens] [2]. It causes cowpea cercospora leaf spot, one of the most widespread and significant plant diseases in Africa and Asia. A city in China reported a 100% Mycosphaerella cruenta infection rate on cowpea in 2014[5]. In Africa, an epidemic can cause a yield loss of up to 40% [3].",
+    "Symptoms and signs": "Cercospora leaf spots of cowpea begin as small, lighter coloured areas, almost yellow. Later they become bronze to dark grey, roughly circular to more elongated and up to 10 mm across [3]. There will be chlorotic spots on upper surfaces of leaves, masses of spores on lesions which resemble black mats on lower leaf surface, and necrotic spots on leaves [7]. The leaf spot has a unique grey to dark powdery appearance that can distinct it from septoria leafspot and ascochyta blight. The leaf withers as the spots join together. Leaves then die and fall off [3]. In severe cases, only a few new leaves on the top of the plant are left [4]. \nMore signs can be found under microscope [6]: \nConidia can be taken from the black mats on lower leaf surface of infected leaves. These obclavate-cylindrical and slightly flexuous conidia have 4 to 9 septa, appearing as smooth, colourless to olivaceous brown, of size 35-155 × 4-4.5 μm. \nAsci, when sighted, are fasciculate, cylindric-clavate, and bitunicate. 8-spored, size 35-60 × 7-15 μm. \nAscospores colourless, 1-septate, upper cell sometimes slightly larger than the lower cell, straight to slightly curved, size at 11-19 × 3-4 μm.",
+    "Lifecycle": "The fungus survives between crops on seed and in crop debris. It may also survive on legume weeds [8]. Transmission is by air-borne spores produced on the underside of the leaf [3]. Both windborne ascospores and conidia are thought to be spreading agents [2].",
+    "Management and Control": "There are resistant cowpea varieties. Resistance has also been found in mung bean varieties [8]. Planting of resistant varieties is so far considered the main and most important method for controlling this disease [3].\nManual seed cleaning, to remove plant debris, will prevent carry-over of the fungus for farmers who save seeds for the next season. Burying or destroying the remains of a cowpea harvest will reduce the amount of fungus able to infect new crops, as will removing alternative hosts, but these are costly and time-consuming measures which may not appeal to, or be feasible for, all farmers.\nIntercropping by planting alternate rows of cowpea and another suitable non-legume crop, such as maize or sorghum, will limit spread of the disease within a field but not eliminate it. [3]\nIf susceptible varieties are grown, and weather conditions occur that experience suggests will result in disease outbreaks, spray with mancozeb. Begin after the crop has flowered and pods have started to develop. The number of sprays should be limited to 2-3 per crop [8].",
+    "See also": "List of Mycosphaerella species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database",
+    "References": "[1] Lin, Y., Yang, Z., Guo, Z. (1995). An Overview for Taiwan Farmers. P188. ISBN：9910000000027(林益昇、楊佐琦、郭章信。1995。台灣農家要覽農作篇(三)，第188頁。葉瑩編。)\n[2] Sivanesan, A. (1990). Mycosphaerella cruenta. [Descriptions of Fungi and Bacteria]. IMI Descriptions of Fungi and Bacteria, (99)\n[3] Boa, E., (2014) Cercospora leaf spot of cowpea. http://africasoilhealth.cabi.org/wpcms/wp-content/uploads/2015/02/38-legumes-cercospora-leaf-spot.pdf \n[4] Cowpea cercospora leaf spot. Website for China agricultural information (中国农业信息网) http://www.agri.cn/kj/syjs/zzjs/201608/t20160812_5237278.htm \n[5] Ministry of Agriculture and Rural Affairs of the People’s Republic of China. Weekly report of vegetable production of the year. Issue 27, 2014. (全国蔬菜生产信息周报2014年第27期) http://www.moa.gov.cn/ztzl/scscxx/zpjs/201407/t20140718_3972701.htm\n[6] Cercospora cruenta Sacc. 1880. Encyclopedia of Life. https://eol.org/pages/51119821/articles \n[7] Cowpea. Penn State University. https://plantvillage.psu.edu/topics/cowpea/infos \n\n[8] Cowpea Cercospora leaf spot. Pacific Pests and Pathogens - Fact Sheets. http://www.pestnet.org/fact_sheets/cowpea_cercospora_leaf_spot_303.htm"
+  }
+}

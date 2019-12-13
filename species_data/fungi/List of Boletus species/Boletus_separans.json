@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_separans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. separans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus separans is a species of bolete fungus in the family Boletaceae. It was described as new to science in 1873 by American mycologist Charles Horton Peck. In 1998, Roy Halling and Ernst Both transferred the bolete to the genus Xanthoconium. Molecular phylogenetic analysis published in 2013 shows that it is more closely related to Boletus sensu stricto than to Xanthoconium.",
+    "See also": "List of Boletus species\nList of North American boletes",
+    "References": "",
+    "External links": "Boletus separans  in Index Fungorum"
+  }
+}

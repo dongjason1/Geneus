@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-cheeked_bullfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Pyrrhula"
+    },
+    {
+      "Species": "P. leucogenis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-cheeked bullfinch (Pyrrhula leucogenis) is a species of finch in the family Fringillidae.\nIt is found only in the Philippines. Its natural habitat is subtropical or tropical moist montane forests.",
+    "Taxonomy": "The taxonomy was described in 2001 by Arnaiz-Villena et al. All birds belonging to Genus Pyrrhula have a common ancestor: Pinicola enucleator.\n\n\n== References =="
+  }
+}

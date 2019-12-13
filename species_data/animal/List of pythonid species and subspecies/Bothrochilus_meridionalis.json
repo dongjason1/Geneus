@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrochilus_meridionalis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Pythonidae"
+    },
+    {
+      "Genus": "Bothrochilus"
+    },
+    {
+      "Species": "B. meridionalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The southern whitelip python (Bothrochilus meridionalis) is a species of snake of the family Pythonidae.",
+    "Geographic range": "The snake is found in Papua New Guinea.",
+    "References": "\nSpecies Bothrochilus meridionalis at The Reptile Database"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Magpie_mannikin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Lonchura"
+    },
+    {
+      "Species": "L. fringilloides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The magpie mannikin or magpie munia (Lonchura fringilloides) is a species of estrildid finch found in Sub-Saharan Africa. It has an estimated global extent of occurrence of 1,400,000 km².\nIt is found in subtropical/ tropical (lowland) moist shrubland, forest and dry grassland habitat. The status of the species is evaluated as Least Concern.",
+    "Origin": "Origin and phylogeny has been obtained by Antonio Arnaiz-Villena et al. Estrildinae may have originated in India and dispersed thereafter (towards Africa and Pacific Ocean habitats).",
+    "References": "BirdLife Species Factsheet",
+    "External links": "Magpie mannikin - Species text in The Atlas of Southern African Birds."
+  }
+}

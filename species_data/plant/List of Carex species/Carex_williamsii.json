@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_williamsii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Carex"
+    },
+    {
+      "Section": "Carex sect. Chlorostachyae"
+    },
+    {
+      "Species": "C. williamsii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex williamsii is a species of sedge found in Siberia and northern North America, from Alaska to Greenland.\n\n\n== References =="
+  }
+}

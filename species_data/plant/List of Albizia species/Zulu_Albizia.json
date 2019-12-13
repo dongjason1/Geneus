@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zulu_Albizia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Albizia"
+    },
+    {
+      "Species": "A. suluensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Albizia suluensis (the Zulu albizia) is a species of legume in the family Fabaceae. It is found only in South Africa. It is threatened by habitat loss.",
+    "References": "\nHilton-Taylor, C., Scott-Shaw, R. & Johnson, D. 1998. Albizia suluensis. 2006 IUCN Red List of Threatened Species. Downloaded on 18 July 2007."
+  }
+}

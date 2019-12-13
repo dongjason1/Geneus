@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_xylarioides",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Gibberella"
+    },
+    {
+      "Species": "G. xylarioides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gibberella xylarioides (Fusarium xylarioides) is a species of fungus in the family Nectriaceae. It is the causative agent of coffee wilt disease (CWD). The disease caused a severe problem in several countries in West and East Africa during the 1940s and 1950s.  CWD was first seen in Coffea liberica.",
+    "Hosts": "Main hosts\nCoffea arabica (arabica coffee)\nCoffea canephora (robusta coffee)\nCoffea liberica (Liberian coffee tree)\nOther Hosts\nGossypium (cotton)\nMusa x paradisiaca (plantain)",
+    "Signs and symptoms": "Similar to other vascular wilt pathogens, the fungus colonizes the xylem and causes the flow of water to be cut off. In the leaves can wilt, have veinal necrosis, and abscission. Coffee bark, when scraped with a knife, will have a blue-black coloration. The berries of the coffee plant will appear as though they are ripening prematurely but will stay on the coffee plant after the leaves have fallen off. Necrosis can often be seen near the collar of the plant.Young trees can be killed within a few days of infection while more mature coffee plants can survive up to 8 months.Gibberella xylarioides (Sexual form) will make purple perithecia and ascospores, but resting structures are rarely found in the soil. Fusarium xylarioides (Asexual form) make sickle shaped conidia and are spread by wind, rain, and human activities like weeding and harvesting.",
+    "Management": "Other methods of management include:\n\nRemoval of diseased trees and burning is the most successful method of eradication of Coffee Wilt. Coffea sp. should not be replanted in soil for six months to avoid infection of seedlings.\nCare when weeding around coffee plants to avoid injuring the bark as the fungus can enter the bark through wounds\nUsing planting tools that are free of disease\nSpraying the soil surface with 2.5% copper (II) sulphate\nBreeding resistance—\"The results of greenhouse inoculation experiments proved that there was important diversity in coffee populations (within and among the forest sites) in reaction to G. xylariodies infection.\"",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

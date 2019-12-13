@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_stenoprion",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. stenoprion"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia stenoprion is a shrub endemic to Western Australia. It was first described in 1855 by Swiss botanist Carl Meissner who gave it the name Dryandra stenoprion. The species was transferred to the genus Banksia in 2007.",
+    "References": "\n\"Banksia stenoprion\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

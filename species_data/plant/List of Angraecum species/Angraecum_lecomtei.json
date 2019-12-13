@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Angraecum_lecomtei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Angraecum"
+    },
+    {
+      "Species": "A. lecomtei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Angraecum lecomtei is a species of orchid native to Madagascar."
+  }
+}

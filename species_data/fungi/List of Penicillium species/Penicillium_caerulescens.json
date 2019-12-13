@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_caerulescens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. caerulescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium caerulescens is a fungus species of the genus of Penicillium which was isolated from soil.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_hydrolapathum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. hydrolapathum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper hydrolapathum is a species of plant in the family Piperaceae. It is endemic to Ecuador.",
+    "References": "Santiana, J. & Pitman, N. 2004.  Piper hydrolapathum.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

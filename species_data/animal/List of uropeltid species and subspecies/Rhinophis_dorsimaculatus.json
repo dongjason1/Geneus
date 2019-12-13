@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinophis_dorsimaculatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Uropeltidae"
+    },
+    {
+      "Genus": "Rhinophis"
+    },
+    {
+      "Species": "R. dorsimaculatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinophis dorsimaculatus, commonly known as the polka-dot earth snake, is a species of snake in the Uropeltidae family. It is endemic to the scrub jungles of Sri Lanka.",
+    "References": "",
+    "Further reading": "Deraniyagala, P.E.P. 1941. A new fossorial snake (Rhinophis dorsimaculatus) from Ceylon. J. Bombay Nat. Hist. Soc. 42 (4): 800-802."
+  }
+}

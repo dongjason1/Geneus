@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trimeresurus_stejnegeri_yunnanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Trimeresurus"
+    },
+    {
+      "Species": "T. yunnanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trimeresurus yunnanensis, commonly known as the Yunnan bamboo pitviper, is a venomous pitviper species endemic to China.",
+    "Description": "The scalation includes 19 (or 21) rows of dorsal scales at midbody, 154-164/150-172 ventral scales in males/females, 61-71/52-65 subcaudal scales in males/females, and 9-11 supralabial scales.",
+    "Geographic range": "It is found in southern China (Yunnan and southwestern Sichuan). The type locality given is \"Tengyueh, Yunnan Province, China\" (= Tengchong County).",
+    "Taxonomy": "Zhao (1995) raised this taxon back up to the level of a full species: T. yunnanensis.",
+    "See also": "List of crotaline species and subspecies\nTrimeresurus by common name\nTrimeresurus by taxonomic synonyms\nCrotalinae by common name\nCrotalinae by taxonomic synonyms\nSnakebite",
+    "References": "",
+    "Further reading": "Schmidt, K.P. 1925. New Reptiles and a New Salamander from China. American Museum Novitates (157): 1-5. (\"Trimeresurus yunnanensis, new species\", pp. 4–5.)"
+  }
+}

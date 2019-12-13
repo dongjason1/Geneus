@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_monicae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. monicae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus monicae is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The length of the shell varies between 45 mm and 61 mm.",
+    "Distribution": "This marine species occurs in the Caribbean Sea off Aruba",
+    "References": "Petuch E.J. & Berschauer D.P. (2015). Two new species of Tenorioconus (Gastropoda: Conidae) from Aruba. The Festivus. 47(3): 195-205. page(s): 197, figs 1, 3A, B, C, 6C, 7",
+    "External links": "\"Tenorioconus monicae\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

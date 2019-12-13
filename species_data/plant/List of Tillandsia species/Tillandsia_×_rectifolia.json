@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_×_rectifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Species": "T. × rectifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia × rectifolia is a natural hybrid of T. schiedeana and T. ionantha. This plant is native to Costa Rica and Mexico.",
+    "References": "An Annotated Checklist of the Bromeliaceae of Costa Rica retrieved 3 November 2009\nChecklist of Mexican Bromeliaceae with Notes on Species Distribution and Levels of Endemism retrieved 3 November 2009"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Schmidts's_big-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Micronycteris"
+    },
+    {
+      "Species": "M. schmidtorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Schmidts's big-eared bat (Micronycteris schmidtorum) is a bat species from South and Central America.",
+    "Description": "Individuals weigh 7–10 g (0.25–0.35 oz) and have forearm lengths of 33–36 mm (1.3–1.4 in).\nIts ears are long with rounded tips.\nIts dorsal fur is brown while its ventral fur light gray or whitish.\nIts dental formula is 2.1.2.32.1.3.3 for a total of 34 teeth.",
+    "Biology and ecology": "It is insectivorous, though it possibly also consumes fruit.\nIt is nocturnal, roosting in sheltered places during the day such as hollow trees or in human structures.",
+    "Range and habitat": "It is found in several countries in Central and South America.\nIts range includes: Belize, Bolivia, Brazil, Colombia Costa Rica, El Salvador, French Guiana, Guatemala, Honduras, Mexico, Nicaragua, Panama, Peru, and Venezuela.\nIt is generally documented in lowland areas.",
+    "Conservation": "As of 2016, it is assessed as a least-concern species by the IUCN.\nIt meets the criteria for this classification because it has a wide geographic range, and its population size is unlikely to be in rapid decline.\n\n\n== References =="
+  }
+}

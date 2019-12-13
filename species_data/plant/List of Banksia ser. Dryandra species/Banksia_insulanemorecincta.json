@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_insulanemorecincta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. insulanemorecincta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia insulanemorecincta is a shrub endemic to Western Australia.",
+    "References": "\"Banksia insulanemorecincta\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

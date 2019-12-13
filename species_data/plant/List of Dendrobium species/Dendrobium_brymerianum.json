@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_brymerianum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. brymerianum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium brymerianum (Brymer's dendrobium) is a species of orchid. It is native to Yunnan, Assam, and northern Indochina (Myanmar, Thailand, Laos, Vietnam).\n\n\n== References =="
+  }
+}

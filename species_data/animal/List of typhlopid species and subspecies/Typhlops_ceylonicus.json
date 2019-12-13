@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_ceylonicus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. ceylonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gerrhopilus ceylonicus, also known as the Sri Lanka worm snake,  is a species of snake in the family Gerrhopilidae. It is endemic to Sri Lanka.\n\n\n== References =="
+  }
+}

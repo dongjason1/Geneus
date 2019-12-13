@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_filifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Species": "T. filifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia filifolia is a species in the genus Tillandsia. This species is native to Costa Rica and Mexico.",
+    "References": "An Annotated Checklist of the Bromeliaceae of Costa Rica retrieved 3 November 2009\nChecklist of Mexican Bromeliaceae with Notes on Species Distribution and Levels of Endemism retrieved 3 November 2009"
+  }
+}

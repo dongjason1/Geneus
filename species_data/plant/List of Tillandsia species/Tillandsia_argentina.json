@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_argentina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Anoplophytum"
+    },
+    {
+      "Species": "T. argentina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia argentina is a species in the genus Tillandsia. This species is native to Bolivia.",
+    "Cultivars": "Tillandsia 'Evita'",
+    "References": "Checklist of Bolivian Bromeliaceae Retrieved 21 October 2009\nBSI Cultivar Registry Retrieved 11 October 2009"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rosa_anemoniflora",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Rosa"
+    },
+    {
+      "Species": "R. anemoniflora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rosa anemoniflora is a species of rose found in France.",
+    "See also": "List of Rosa species",
+    "References": "\n Media related to Rosa sempervirens at Wikimedia Commons"
+  }
+}

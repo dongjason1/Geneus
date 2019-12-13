@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_pimiteouiense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. pimiteouiense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium pimiteouiense is a species of fungus in the genus Penicillium which was isolated from sandy beach soil from the Penang Island in Peninsular Malaysia.",
+    "Further reading": "Peterson SW; Corneli S; Hjelle T;  et al. (1999). \"Penicillium pimiteouiense: A New Species Isolated from Polycystic Kidney Cell Cultures\". Mycologia. 91 (2): 269–277. doi:10.2307/3761372. JSTOR 3761372.\n\n\n== References =="
+  }
+}

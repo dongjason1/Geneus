@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_pseudostromaticum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. pseudostromaticum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium pseudostromaticum is an anamorph species of fungus in the genus Penicillium which was isolated from the mushroom Piptoporus betulinus which grew on the tree Betula populifolia.",
+    "Further reading": "Hodges CS; Warner GM; Rogerson CT (1970). \"A New Species of Penicillium\". Mycologia. 62 (6): 1106–1111. doi:10.2307/3757734. JSTOR 3757734.\nRobert A. Samson, J I Pitt (2000). Integration of Modern Taxonomic Methods For Penicillium and Aspergillus Classification. CRC Press. ISBN 9058231593.\n\n\n== References =="
+  }
+}

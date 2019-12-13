@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_verrucata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. verrucata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus verrucata, commonly known as Mount Abrupt stringybark, is a small tree that is endemic to the  Grampians in Victoria, Australia. The species was formally described  in 1995 based on plant material collected from the south-east side of Mount Abrupt at an altitude of 400 metres above sea level in 1979.",
+    "See also": "\nList of Eucalyptus species\n\n\n== References =="
+  }
+}

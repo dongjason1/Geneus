@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_sexseminifera",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. sexseminifera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas sexseminifera is a species of cycad in northern Vietnam and southern China.",
+    "Range": "It is widespread in:\nsouthern and central Guangxi, China\nCao Bang Province, Vietnam\nThanh Hoa Province, Vietnam\n\n\n== References =="
+  }
+}

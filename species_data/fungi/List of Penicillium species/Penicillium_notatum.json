@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_notatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. chrysogenum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium chrysogenum or P. notatum (formerly) is a species of fungus in the genus Penicillium. It is common in temperate and subtropical regions and can be found on salted food products, but it is mostly found in indoor environments, especially in damp or water-damaged buildings. It was previously known as Penicillium notatum. It has rarely been reported as a cause of human disease. It is the source of several β-lactam antibiotics, most significantly penicillin. Other secondary metabolites of P. chrysogenum include roquefortine C, meleagrin, chrysogine, 6-MSA YWA1/melanin, andrastatin A, fungisporin, secalonic acids, sorbicillin, and PR-toxin.Like the many other species of the genus Penicillium, P. chrysogenum usually reproduces by forming dry chains of spores (or conidia) from brush-shaped conidiophores. The conidia are typically carried by air currents to new colonisation sites. In P. chrysogenum, the conidia are blue to blue-green, and the mold sometimes exudes a yellow pigment. However, P. chrysogenum cannot be identified based on colour alone. Observations of morphology and microscopic features are needed to confirm its identity and DNA sequencing is essential to distinguish it from closely related species such as Penicillium rubens. The sexual stage of P. chrysogenum was discovered in 2013 by mating cultures in the dark on oatmeal agar supplemented with biotin, after the mating types (MAT1-1 or MAT1-2) of the strains had been determined using PCR amplification.The airborne asexual spores of P. chrysogenum are important human allergens. Vacuolar and alkaline serine proteases have been implicated as the major allergenic proteins.P. chrysogenum has been used industrially to produce penicillin and xanthocillin X, to treat pulp mill waste, and to produce the enzymes polyamine oxidase, phosphogluconate dehydrogenase, and glucose oxidase.",
+    "Science": "The discovery of penicillin ushered in a new age of antibiotics derived from microorganisms. Penicillin is an antibiotic isolated from growing Penicillium mold in a fermenter. The mold is grown in a liquid culture containing sugar and other nutrients including a source of nitrogen. As the mold grows, it uses up the sugar and starts to make penicillin only after using up most of the nutrients for growth.",
+    "History": "",
+    "Genetics and evolution": "The ability to produce penicillin appears to have evolved over millions of years, and is shared with several other related fungi. It is believed to confer a selective advantage during competition with bacteria for food sources. Some bacteria have consequently developed the counter-ability to survive penicillin exposure by producing penicillinases, enzymes that degrade penicillin. Penicillinase production is one mechanism by which bacteria can become penicillin resistant.\nThe principal genes responsible for producing penicillin, pcbAB, pcbC, and penDE are closely linked, forming a cluster on chromosome I. Some high-producing Penicillium chrysogenum strains used for the industrial production of penicillin contain multiple tandem copies of the penicillin gene cluster.Similar to other filamentous fungi, CRISPR/Cas9-based genome editing techniques are available for editing the genome of Penicillium chrysogenum.",
+    "References": "",
+    "External links": "\"Penicillium chrysogenum\". Tom Volk's fungus of the month."
+  }
+}

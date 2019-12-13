@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peperomia_rupicola",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Peperomia"
+    },
+    {
+      "Species": "P. rupicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peperomia rupicola is a species of plant in the family Piperaceae. It is endemic to Ecuador.",
+    "References": "\nSantiana, J. & Pitman, N. 2004.  Peperomia rupicola.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

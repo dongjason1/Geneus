@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_arachidis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. arachidis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella arachidis is a fungal plant pathogen.",
+    "See also": "List of Mycosphaerella species. Mycosphaerella arachidis is the seldom found teleomorph stage of Cercospora arachidicola affecting peanuts.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

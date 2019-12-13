@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_nitida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. javanica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus javanica is a species of plant in the family Rosaceae. It is found in India, Indonesia, Malaysia, and Myanmar.",
+    "References": "\nKalkman, C. (1998). \"Prunus javanica\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T33592A9789617. doi:10.2305/IUCN.UK.1998.RLTS.T33592A9789617.en. Retrieved 22 December 2017."
+  }
+}

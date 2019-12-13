@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_titanops",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Typhlops"
+    },
+    {
+      "Species": "T. titanops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The titan worm snake (Typhlops titanops) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

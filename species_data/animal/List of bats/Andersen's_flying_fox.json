@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Andersen's_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. intermedius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Andersen's flying fox (Pteropus intermedius) is a species of flying fox in the family Pteropodidae found in south Burma and west Thailand. Although it is hunted for both food and as a pest, it is not known if this has a significant impact on the species. It has been seen roosting in tall, well-established trees in urban areas and will fly several kilometres to eat wild and cultivated fruits. The species was named after Knud Christian Andersen. It was last recorded in Thailand in 1970 and, presumably, there is still a small viable population in Myanmar.",
+    "Taxonomy and etymology": "It was described as a new species in 1908 by Danish mammalogist Knud Andersen.\nThe holotype had been collected by William Ruxton Davison and presented to Andersen by Allan Octavian Hume.\nThere is taxonomic uncertainty regarding this species: some have published that it is likely synonymous with the Indian flying fox while other have published that it is synonymous with the large flying fox.\nIts species name \"intermedius\" is Latin for \"intermediate;\" Andersen may have chosen that name because he compared it to both the Indian flying fox and the large flying fox.",
+    "Description": "Andersen wrote that it was \"scarcely distinguishable\" from the Indian flying fox based on its skull morphology, dentition, and external characters.\nHe distinguished it as a new species based by the color of its breast and belly, which he described as seal brown.\nIts forearm is approximately 180 mm (7.1 in) long.",
+    "Range and habitat": "The holotype was collected in Moulmein, Myanmar.\nIts range includes Myanmar and Thailand.",
+    "Conservation": "It is currently evaluated as data deficient by the IUCN.\nThe IUCN refers to its validity as a species as \"dubious,\" citing their belief that future research will synonymize it with the Indian flying fox.\nIt meets the criteria for data deficient because there is a scarcity of information on its population size and trend, as well as any threats it may be facing.\n\n\n== References =="
+  }
+}

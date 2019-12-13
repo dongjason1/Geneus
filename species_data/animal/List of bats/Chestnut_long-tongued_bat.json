@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chestnut_long-tongued_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "LionycterisThomas, 1913"
+    },
+    {
+      "Species": "L. spurrelli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The chestnut long-tongued bat (Lionycteris spurrelli) is a bat species from South and Central America. It is monotypic within its genus.\n\n\n== References =="
+  }
+}

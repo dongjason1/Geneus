@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Jamaica_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. caribbaea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Jamaican petrel (Pterodroma caribbaea) is (or was) a small seabird in the gadfly petrel genus, Pterodroma. It is related to the black-capped petrel P. hasitata, and often considered a subspecies.\n\nThis species was last collected in 1879, and was searched for without success between 1996 and 2000. However, it cannot yet be classified as extinct because nocturnal petrels are notoriously difficult to record, and it may conceivably occur on Dominica and Guadeloupe.\nSeveral species of lice are known to have parasitized the Jamaica and black-capped petrels [1]. If the former is extinct, one of these lice, the phtilopterid Saemundssonia jamaicensis may be coextinct as it has not been found on other birds (May 1990).\nIt most likely became extinct due to predation by introduced mongooses and rats.",
+    "References": "Mey, Eberhard (1990): Eine neue ausgestorbene Vogel-Ischnozere von Neuseeland, Huiacola extinctus (Insecta, Phthiraptera). Zoologischer Anzeiger 224(1/2): 49-73. [German with English abstract] PDF fulltext",
+    "External links": "BirdLife species factsheet"
+  }
+}

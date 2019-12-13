@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_affine",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. affine"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium affine is a fungal plant pathogen affecting tobacco.",
+    "See also": "List of tobacco diseases",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

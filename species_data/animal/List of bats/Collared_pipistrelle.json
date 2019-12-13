@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Collared_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Arielulus"
+    },
+    {
+      "Species": "A. aureocollaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The collared pipistrelle (Arielulus aureocollaris) is a species of vesper bat found in Laos and Thailand.\n\n\n== References =="
+  }
+}

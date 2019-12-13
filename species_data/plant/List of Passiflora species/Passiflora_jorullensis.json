@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Passiflora_jorullensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Passifloraceae"
+    },
+    {
+      "Genus": "Passiflora"
+    },
+    {
+      "Species": "P. jorullensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Passiflora jorullensis is a species in the family Passifloraceae."
+  }
+}

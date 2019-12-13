@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_vespertilio",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. vespertilio"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas vespertilio is a species of cycad endemic to the Philippines.",
+    "Range": "Cycas vespertilio has been recorded in:\nLuzon: Camarines Sur (Panagan River)\nMindoro: Mindoro Oriental (Mount Yagaw)\nMarinduque (Torrijos, Bonliw, Talisay)\nPanay: Iloilo (Barotac Viejo, Nagpana)\nNegros: Negros Oriental\nCebu\nLeyte: Leyte (Gigantangan)\nSamar\n\n\n== References =="
+  }
+}

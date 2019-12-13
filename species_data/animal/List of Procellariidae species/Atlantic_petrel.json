@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atlantic_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. incerta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Atlantic petrel (Pterodroma incerta) is a gadfly petrel endemic to the South Atlantic Ocean. It breeds in enormous colonies on Tristan da Cunha and Gough Island, and ranges at sea from Brazil to Namibia, with most records at sea being to the west of the breeding islands, and along the subtropical convergence.\nThe species feeds mostly on squid, which comprises 87% of its diet in some studies; it will also feed on lanternfishes (Myctophidae) as they ascend to the surface at night, as well as on crustaceans.Although the species exists in large numbers, the world population being estimated at around 5 million birds, it is listed as endangered by the IUCN. It is restricted to just two breeding islands and has declined historically due to exploitation for food. It is also currently thought to be threatened by introduced house mice, which attack chicks leading to low breeding success.\nIt was formerly classified as a vulnerable species by the IUCN. However, new research has demonstrated the severe impact of predation by mice. Consequently, it was uplisted to endangered status in 2008.",
+    "Footnotes": "",
+    "References": "BirdLife International (BLI) (2008a): 2008 IUCN Redlist status changes. Retrieved 2008-MAY-23.\nBirdLife International (BLI) (2008b): Atlantic Petrel Species Factsheet. Retrieved 2008-MAY-23.\nEnticott, J.W. (1991): Distribution of the Atlantic Petrel Pterodroma incerta at sea. Marine Ornithology 19(1): 49-60. PDF fulltext\nKlages, N.T.W. & Cooper, J. (1997) Diet of the Atlantic Petrel Pterodroma incerta during breeding season at South Atlantic Gough Island. Marine Ornithology 25(1+2): 13-16. PDF fulltext"
+  }
+}

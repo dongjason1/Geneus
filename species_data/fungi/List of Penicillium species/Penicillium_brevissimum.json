@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_brevissimum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. brevissimum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium brevissimum is a fungus species of the genus of Penicillium which was isolated from Indian soils.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

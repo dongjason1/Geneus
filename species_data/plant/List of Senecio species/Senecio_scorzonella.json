@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_scorzonella",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. scorzonella"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio scorzonella, known by the common name Sierra ragwort, is a species of the genus Senecio and family Asteraceae which is native to California and Nevada. It grows in the southernmost Cascade Range, the Sierra Nevada, and the White Mountains.",
+    "References": "",
+    "External links": " Media related to Senecio scorzonella at Wikimedia Commons\n\nJepson Manual Treatment\nFlora of North America\nPhoto gallery"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-winged_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Desmalopex"
+    },
+    {
+      "Species": "D. leucopterus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-winged flying fox (Desmalopex leucopterus), also known as the mottle-winged flying fox is a species of bat in the family Pteropodidae. They are endemic to the Philippines. Their natural habitat is subtropical or tropical dry forests. They are threatened by habitat loss. In 2008, Giannini et al. revived the genus Desmalopex and placed D. leucopterus in it.\n\n\n== References =="
+  }
+}

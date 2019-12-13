@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Manado_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Boneia"
+    },
+    {
+      "Species": "B. bidens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Manado fruit bat (Boneia bidens) is a species of megabat in the family Pteropodidae.\nIt is endemic to Sulawesi island in Indonesia, including in North Sulawesi Province.).\n\n\n== References =="
+  }
+}

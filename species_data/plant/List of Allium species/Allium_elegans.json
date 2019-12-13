@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allium_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Allioideae"
+    },
+    {
+      "Genus": "Allium"
+    },
+    {
+      "Species": "A. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allium elegans is a species of flowering plants. It is native to Tadzhikistan, Uzbekistan and Kirgizistan.",
+    "References": "",
+    "External links": "Allium elegans at The Plant List\nAllium elegans at Tropicos\nAllium elegans at Kew Plant of the World"
+  }
+}

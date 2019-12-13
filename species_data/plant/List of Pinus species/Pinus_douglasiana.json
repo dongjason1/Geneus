@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pinus_douglasiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Pinophyta"
+    },
+    {
+      "Class": "Pinopsida"
+    },
+    {
+      "Order": "Pinales"
+    },
+    {
+      "Family": "Pinaceae"
+    },
+    {
+      "Genus": "Pinus"
+    },
+    {
+      "Subgenus": "P. subg. Pinus"
+    },
+    {
+      "Section": "P. sect. Trifoliae"
+    },
+    {
+      "Subsection": "P. subsect. Ponderosae"
+    },
+    {
+      "Species": "P. douglasiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pinus douglasiana is a species of conifer in the family Pinaceae.\nIt is found only in Mexico. A common name is Douglas pine, but that name is often applied to the more widespread species Pseudotsuga menziesii which is also known as Douglas fir.",
+    "References": "\nConifer Specialist Group 1998.  Pinus douglasiana.   2006 IUCN Red List of Threatened Species.   Downloaded on 10 July 2007."
+  }
+}

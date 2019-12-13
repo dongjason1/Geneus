@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Polemon_gabonensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Polemon"
+    },
+    {
+      "Species": "P. gabonensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Polemon gabonensis, or the Gaboon snake-eater, is a species of venomous rear-fanged snake in the family Atractaspididae. It is endemic to Africa.",
+    "Geographic range": "It is found in Benin, Cameroon, Central African Republic, Democratic Republic of the Congo, Nigeria, and Togo.",
+    "Description": "Dorsally dark brown or olive, with three darker stripes, or all blackish. Upper lip white. A pale brownish band across the occiput. Ventrals, subcaudals, and terminal caudal scute white.\nAdults may attain a total length of 51 cm (20 inches), with a tail 23 mm (⅞ inch) long.\nDorsal scales smooth, without apical pits, arranged in 15 rows. Ventrals 214-249; anal plate divided; subcaudals 16-24, also divided (in two rows).\nDiameter of eye ⅓ to ½ its distance from the mouth. Rostral broader than high, barely visible from above. Internasals as long as or slightly shorter than the prefrontals. Frontal slightly broader than the supraocular, 1⅓ to 1½ times as long as broad, as long as its distance from the rostral, much shorter than the parietals. Nasal entire or imperfectly divided. One preocular, in contact with the nasal. One or two postoculars. Temporals 1+1. Seven upper labials, third and fourth entering the eye. First lower labial forming a suture with its fellow behind the mental. Four lower labials in contact with the anterior chin shield. Two pairs of chin shields, the anterior pair longer than the posterior pair.",
+    "Subspecies": "Two subspecies are recognized including the nominate race.\n\nPolemon gabonensis gabonensis (A.H.A. Duméril, 1856)\nPolemon gabonensis schmidti (de Witte & Laurent, 1947)",
+    "Etymology": "The subspecific name, schmidti, is in honor of American herpetologist Karl Patterson Schmidt.",
+    "Footnotes": "",
+    "References": "Duméril, A.H.A. 1856. Note sur les reptiles du Gabon. Revue et Magasin de Zoologie Pure et Appliquée (2) 8: 369-377, 417-424, 460-470, 553-562. (Elapomorphus gabonensis, p. 468.)\nde Witte, G.F. & R.F. Laurent. 1947. Revision d'un groupe de Colubridae africains: genres Calamelaps, Miodon, Aparallactus, et formes affines. Mém. Mus. Roy. Hist. Nat. Belgique (sér. 2) 29: 1-134."
+  }
+}

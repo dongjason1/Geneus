@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Anomalepis_flavapices",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Anomalepididae"
+    },
+    {
+      "Genus": "Anomalepis"
+    },
+    {
+      "Species": "A. flavapices"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Anomalepis flavapices is a species of snake in the Anomalepididae family. It is endemic to Ecuador.\n\n\n== References =="
+  }
+}

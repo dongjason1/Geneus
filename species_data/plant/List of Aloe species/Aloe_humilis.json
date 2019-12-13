@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_humilis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. humilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe humilis is a species of succulent plant  in the genus Aloe. It is endemic to South Africa's Cape Province, and is a low growing, short stemmed Aloe with small spines and which grows in dense clusters.",
+    "References": "\n\n== External links =="
+  }
+}

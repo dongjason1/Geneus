@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gambian_slit-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Nycteridae"
+    },
+    {
+      "Genus": "Nycteris"
+    },
+    {
+      "Species": "N. gambiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Gambian slit-faced bat (Nycteris gambiensis) is a species of bat in the family Nycteridae found in Benin, Burkina Faso, Cameroon, Ivory Coast, Gambia, Ghana, Guinea, Guinea-Bissau, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, and Togo. Its natural habitats are subtropical or tropical moist lowland forests, dry savanna, and moist savanna. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

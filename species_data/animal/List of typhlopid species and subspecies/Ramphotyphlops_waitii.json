@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramphotyphlops_waitii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Anilios"
+    },
+    {
+      "Species": "A. waitii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The beaked blind snake (Anilios waitii ) is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, waitii, is in honor of English-born Australian zoologist Edgar Ravenswood Waite.",
+    "Geographic range": "A. waitii is endemic to Western Australia.",
+    "Reproduction": "A. waitii is oviparous.",
+    "References": "",
+    "Further reading": "Boulenger GA (1895). \"On a new Typhlops previously confounded with Typhlops unguirostris, Peters\". Proc. Linnean Soc. New South Wales, Second Series 9: 718-719. (Typhlops waitii, new species).\nCogger HG (2014). Reptiles and Amphibians of Australia, Seventh Edition. Clayton, Victoria, Australia: CSIRO Publishing. xxx + 1,033 pp. ISBN 978-0643100350. (Ramphotyphlops waitii, p. 812).\nHedges SB, Marion AB, Lipp KM, Marin J, Vidal N (2014). \"A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61. (Anilios waitii, new combination).\nWallach V (2006). \"The Nomenclatural Status of Australian Ramphotyphlops (Serpentes: Typhlopidae)\". Bulletin of the Maryland Herpetological Society 42 (1): 8-24. (Austrotyphlops waitii, new combination, p. 13)."
+  }
+}

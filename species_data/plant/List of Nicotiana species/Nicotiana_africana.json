@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nicotiana_africana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Nicotiana"
+    },
+    {
+      "Species": "N. africana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nicotiana africana is a species of plant in the family Solanaceae. It is endemic to Namibia.  Its natural habitats are subtropical or tropical dry shrubland and rocky areas.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bogota_fruit-eating_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Dermanura"
+    },
+    {
+      "Species": "D. bogotensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bogota fruit-eating bat (Dermanura bogotensis) is a species of bat found in South America.",
+    "Taxonomy and etymology": "This bat was described in 1906 by Danish mammalogist Knud Andersen. He described it as a subspecies of the Gervais's fruit-eating bat, A. cinereus. The holotype had been collected near Bogotá, Colombia, undoubtedly inspiring the species name \"bogotensis.\" Later, beginning in 1987, the taxon was considered a subspecies of the silver fruit-eating bat, A. glaucus. In 2008, researchers proposed that the Bogota fruit-eating bat should be elevated to species rank.",
+    "Description": "It has pale brown fur and distinct white stripes on its face. The length of its head and body is 50–58 mm (2.0–2.3 in). It lacks a tail. Its hind feet are 14–16 mm (0.55–0.63 in) long; its ears are 17–18 mm (0.67–0.71 in); and its forearm is 37–42 mm (1.5–1.7 in) long. It weighs 9–15 g (0.32–0.53 oz).",
+    "Biology and ecology": "This bat is frugivorous. It is bimodally polyestrous, meaning that it has two breeding seasons in a year. These breeding seasons correspond to seasonal fruit abundance. Like many bat species, it is nocturnal, roosting in sheltered places during the day such as caves.",
+    "Range and habitat": "It has been documented in several countries in South America, including Colombia, Guyana, Peru, Suriname, and Venezuela. It has been recorded at elevations from 100–2,600 m (330–8,530 ft) above sea level. It is often found in montane forests.",
+    "Conservation": "It is currently evaluated as least concern by the IUCN. It meets the criteria for this designation because it has a large geographic range; it occurs in protected areas; and its population size is not likely declining at a rapid rate. Major threats to this species, if any exist, have not been identified.",
+    "References": "",
+    "External links": "Image of this species"
+  }
+}

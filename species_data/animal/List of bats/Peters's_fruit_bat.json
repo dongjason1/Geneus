@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peters's_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Cynopterus"
+    },
+    {
+      "Species": "C. luzoniensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peters’s fruit bat (Cynopterus luzoniensis) is a species of megabat within the family Pteropodidae. It is found in Sulawesi, Philippines, and adjacent small islands.",
+    "References": "",
+    "Further reading": "Don E. Wilson & Deeann, and M. Reeder, 2005: Mammal Species of the World: A Taxonomic and Geographic Reference. Third Edition. The Johns Hopkins University Press, Baltimore\nPeters. 1861. Monatsberichte der Koniglich Preussischen Akademie der Wissenschaften zu Berlin, 1861: 708.\nConservation status: IUCN link: Cynopterus luzoniensis (Not Evaluated)\nCynopterus luzoniensis on Mammal Species of the World."
+  }
+}

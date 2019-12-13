@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_lacrimans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. lacrimans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas lacrimans is a species of cycad endemic to Mindanao, Philippines.",
+    "Range": "Cycas lacrimans has been recorded in the following locations within Davao Oriental Province, Mindanao.\nMati, Davao Oriental\nSan Isidro, Davao Oriental\nMount Galintan\nMount Hamiguitan\n\n\n== References =="
+  }
+}

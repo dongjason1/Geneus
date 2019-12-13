@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large-footed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. adversus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large-footed bat, large-footed mouse-eared bat, or large-footed myotis (Myotis adversus) is a species of vesper bat (family Vespertilionidae). It can be found in the following countries: Australia, Indonesia, Malaysia, Papua New Guinea, Singapore, Solomon Islands, Taiwan, Vanuatu, and possibly Vietnam.\n\n\n== References =="
+  }
+}

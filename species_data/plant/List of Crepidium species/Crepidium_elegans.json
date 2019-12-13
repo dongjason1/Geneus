@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Crepidium_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Crepidium"
+    },
+    {
+      "Species": "C. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Crepidium elegans is a species of epidendroid orchids in the tribe Malaxideae.",
+    "See also": "List of Crepidium species",
+    "References": "",
+    "External links": "Crepidium elegans at the International Plant Name Index (IPNI)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chrysallida_ghisottii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Folinella"
+    },
+    {
+      "Species": "F. ghisottii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Folinella ghisottii is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This marine species occurs in the following locations:\nEuropean waters (ERMS scope)\nGreek Exclusive Economic Zone\nPortuguese Exclusive Economic Zone\nSpanish Exclusive Economic Zone",
+    "References": "van Aartsen J. J. (1984). The Pyramidellid genera described by the marquis L. de Folin. Bollettino Malacologico 20 (5-8): 131-138",
+    "External links": "To CLEMAM\nTo Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

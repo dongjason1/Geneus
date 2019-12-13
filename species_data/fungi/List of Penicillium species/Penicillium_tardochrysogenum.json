@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_tardochrysogenum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. tardochrysogenum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium tardochrysogenum is a filamentous species of fungus in the genus Penicillium which produces penicillin, secalonic acids D and secalonic acids F.",
+    "Further reading": "Benjamin A. Horwitz; Prasun K. Mukherjee; Mala Mukherjee; Christian P. Kubicek (2013). Genomics of Soil- and Plant-Associated Fungi. Springer Science & Business Media. ISBN 978-3642393396.\n\n\n== References =="
+  }
+}

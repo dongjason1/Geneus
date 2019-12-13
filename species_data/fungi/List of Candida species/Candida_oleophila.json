@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_oleophila",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. oleophila"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida oleophila is a species of yeast in the genus Candida.",
+    "References": "\n\n== External links =="
+  }
+}

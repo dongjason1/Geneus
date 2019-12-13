@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomella_metata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomella"
+    },
+    {
+      "Species": "O. metata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomella metata is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This marine species is endemic to New Zealand.",
+    "References": "Schander, C.; Hori, S.; Lundberg, J. (1999). Anatomy and phylogeny of Odostomella and Herviera (Mollusca, Heterogastropoda, Pyramidellidae), with a description of a new species of Odostomella. Ophelia. 51(1), 39-76 page(s): 57",
+    "External links": "To World Register of Marine Species"
+  }
+}

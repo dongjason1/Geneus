@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_pedicellata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Tillandsia subg. Diaphoranthema"
+    },
+    {
+      "Species": "T. pedicellata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia pedicellata is a plant species in the genus Tillandsia. This species is native to Bolivia.",
+    "References": "\nChecklist of Bolivian Bromeliaceae Retrieved 21 October 2009"
+  }
+}

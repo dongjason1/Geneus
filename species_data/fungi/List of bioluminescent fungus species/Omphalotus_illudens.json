@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Omphalotus_illudens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Marasmiaceae"
+    },
+    {
+      "Genus": "Omphalotus"
+    },
+    {
+      "Species": "O. illudens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Omphalotus illudens is commonly called the eastern jack-o'lantern mushroom. It is a large orange mushroom that is often found in clumps on decaying stumps, buried roots or at the base of hardwood trees in eastern North America.  Nearly all field guides claim its gills often exhibit a weak green bioluminescence when fresh; however, some dispute this entirely as a myth.Omphalotus illudens is sometimes confused with edible chanterelles, but is poisonous to humans when eaten, whether raw or cooked, and typically causes vomiting, cramps, and diarrhea. Although some older literature claims the name is synonymous with Omphalotus olearius, phylogenetic analysis confirms they are distinct species.",
+    "Toxicity": "The poisonous chemical compounds illudin S and illudin M were isolated from Omphalotus illudens. In addition to their antibacterial and antifungal effects, illudins appear to be the cause of human toxicity when these mushrooms are eaten raw or cooked. Muscarine has also been indirectly implicated in toxicity, but modern studies to demonstrate its presence in O. illudens are needed.\nThe cytotoxic effect of illudin is of interest for treating some cancers, but illudin itself is too poisonous to use directly so it must first be chemically modified. Inside human cells, illudin S reacts with DNA and creates a type of DNA damage that blocks transcription. This block can only be relieved by a repair system called nucleotide excision repair. Damage in non-transcribed DNA areas is left unrepaired by the cell. This property was exploited by the company MGI Pharma to develop an illudin-derivative called Irofulven for use as a cancer treatment. Its application is still in the experimental phase.",
+    "Gallery": "",
+    "See also": "List of bioluminescent fungi\n\n\n== References =="
+  }
+}

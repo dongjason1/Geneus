@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Morelia_nauta",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Pythonidae"
+    },
+    {
+      "Genus": "Simalia"
+    },
+    {
+      "Species": "S. nauta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Simalia nauta, commonly known as the Tanimbar python, is a species of snake of the family Pythonidae.",
+    "Geographic range": "The snake is found in Indonesia.",
+    "References": "\nSpecies Simalia nauta at The Reptile Database"
+  }
+}

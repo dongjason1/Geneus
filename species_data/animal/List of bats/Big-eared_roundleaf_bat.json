@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Big-eared_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. macrobullatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The big-eared roundleaf bat (Hipposideros macrobullatus) is a species of bat in the family Hipposideridae.\nIt is endemic to Indonesia, known from Kangean Islands, southwestern Sulawesi and Seram Island.\nIt roosts in caves and tree hollows and probably forages in woodland. It is threatened by habitat loss through logging and other human activities.",
+    "Taxonomy and etymology": "It was described in 1941 by American zoologist George Henry Hamilton Tate.\nTate described it as a new subspecies of the bicolored roundleaf bat, with a trinomen of Hipposideros bicolor macrobullatus.\nThe holotype had been collected by G. Heinrich in 1931 in Maros, Indonesia.\nTate wrote that its skull was \"noteworthy on the account of the large bullae,\" likely inspiring the specific epithet \"macrobullatus\" from Ancient Greek makrós meaning \"large\" and Latin bulla.\nIn 1986, it was revised to full species status.",
+    "Description": "Its forearm length is 40.2–42 mm (1.58–1.65 in).\nIts fur is brown or reddish brown.",
+    "Range and habitat": "It is endemic to Indonesia.\nWithin Indonesia, it is known from the Kangean Islands, Seram Island, and southwestern Sulawesi.",
+    "Conservation": "As of 2016, it is evaluated as a data deficient species by the IUCN.\nIt meets the criteria for this designation because its population size is unknown; its exact geographic range is unclear; and the threats to this species are not defined.\nHabitat destruction, however, is a likely threat.\n\n\n== References =="
+  }
+}

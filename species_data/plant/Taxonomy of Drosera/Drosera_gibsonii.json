@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_gibsonii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Bryastrum"
+    },
+    {
+      "Section": "Drosera sect. Lamprolepis"
+    },
+    {
+      "Species": "D. gibsonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera gibsonii is a species of pygmy sundew endemic to Stirling Range National Park in Western Australia. It is thought to be most closely related to Drosera silvicola.\n\n\n== References =="
+  }
+}

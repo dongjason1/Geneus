@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_sepultus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. sepultus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus sepultus is a species of fungus in the genus Aspergillus. It is from the Cremei section. The species was first described in 1986.",
+    "Growth and morphology": "A. sepultus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below. \n\n\t\t\n\n\n== References =="
+  }
+}

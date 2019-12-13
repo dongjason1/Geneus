@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acutotyphlops_solomonis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Acutotyphlops"
+    },
+    {
+      "Species": "A. solomonis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acutotyphlops solomonis is a species of snake in the Typhlopidae family. It is found in the Solomon Islands and Papua New Guinea.\n\n\n== References =="
+  }
+}

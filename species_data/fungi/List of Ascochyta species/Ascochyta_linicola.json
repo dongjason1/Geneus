@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_linicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Phoma"
+    },
+    {
+      "Species": "P. exigua var. linicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phoma exigua var. linicola is a fungal plant pathogen that affects flax.\nThe disease is passed on in the seed. The effects are more pronounced after the plant has flowered. Brown discolorations can be seen with small black dots, the pycnidia, where the spores are formed. The disease severely impacts the fiber quality.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

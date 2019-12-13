@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_lineolatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. lineolatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Afrotyphlops lineolatus, also known as the common lined worm snake or lineolate blind snake, is a species of snake in the family Typhlopidae. It is widely distributed in Sub-Saharan Africa, from Senegal in the west to Ethiopia in the east and Zambia in the south.\n\n\n== References =="
+  }
+}

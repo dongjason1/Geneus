@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Solanum_chimborazense",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Eudicots"
+    },
+    {
+      "(unranked)": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Solanum"
+    },
+    {
+      "Species": "S. chimborazense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Solanum chimborazense is a species of plant in the family Solanaceae. It is endemic to Ecuador.",
+    "Sources": "Montúfar, R. & Pitman, N. (2004). \"Solanum chimborazense\". The IUCN Red List of Threatened Species. IUCN. 2004: e.T46327A11048996. doi:10.2305/IUCN.UK.2004.RLTS.T46327A11048996.en. Retrieved 18 December 2017."
+  }
+}

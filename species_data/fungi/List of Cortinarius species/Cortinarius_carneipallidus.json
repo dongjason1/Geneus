@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_carneipallidus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. carneipallidus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius carneipallidus is a fungus native to New Zealand. It was described in 2015 by Emma Harrower and Egon Horak, and is related to the northern hemisphere species Cortinarius violaceus.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius carneipallidus  in Index Fungorum"
+  }
+}

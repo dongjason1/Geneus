@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Blyth's_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. grandis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Blyth's rosefinch (Carpodacus grandis) or the Himalayan rosefinch, is a species of finch in the Fringillidae family.  It is found in northern Afghanistan to the western Himalayas.  Its natural habitats are temperate forests and boreal shrubland.  It is sometimes considered a subspecies of the red-mantled rosefinch.\nThe common name commemorates Edward Blyth (1810–1873), English zoologist and Curator of the Museum of the Asiatic Society of Bengal.",
+    "References": "\nClements, J. F., T. S. Schulenberg, M. J. Iliff, B.L. Sullivan, C. L. Wood, and D. Roberson. 2012. The eBird/Clements checklist of birds of the world: Version 6.7. Downloaded from [1]"
+  }
+}

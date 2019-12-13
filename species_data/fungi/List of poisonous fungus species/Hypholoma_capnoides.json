@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hypholoma_capnoides",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Hypholoma"
+    },
+    {
+      "Species": "H. capnoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hypholoma capnoides is an edible mushroom in the family Strophariaceae. Like its poisonous or suspect relatives H. fasciculare (\"sulphur tuft\") and H. sublateritium (\"brick caps\") grows on decaying wood, for example in tufts on old tree stumps.  Anyone thinking to eat this mushroom needs to be able to distinguish it from sulphur tuft, which is more common in many areas. H. capnoides has greyish gills due to the dark color of its spores, whereas sulphur tuft has greenish gills. It could also perhaps be confused with the deadly Galerina marginata or the good edible Kuehneromyces mutabilis.",
+    "Description": "Cap: Up to 6 cm in diameter with yellow-to-orange-brownish or matt yellow colour.\nGills: Initially pale orangish-yellow, pale grey when mature, later darker purple/brown.\nSpore powder: Dark burgundy/brown.\nStipe: Yellowish, somewhat rust-brown below.\nTaste: Mild (other Hypholomas mostly have a bitter taste).",
+    "References": "Mostly taken from the German page."
+  }
+}

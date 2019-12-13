@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinolophus_microglobosus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. microglobosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinolophus microglobosus is a species of horseshoe bat found in Southeast Asia.",
+    "Taxonomy and etymology": "It was described as a subspecies of the lesser brown horseshoe bat in 1998, with the trinomen Rhinolophus stheno microglobosus.\nThe holotype was collected in Na Hang Nature Reserve in Vietnam in 1996.\nIn 2008, Soisook et al. published that R. s. microglobosus should be considered a full species based on distinct morphology and echolocation characteristics.\nThe species name \"microglobosus\" \"refers to the size and shape of the median anterior rostral swellings which are considerably smaller than those of R. stheno.\"",
+    "Description": "Relative to other horseshoe bats, it is medium-sized.\nIts forearm length is 43.8–47.2 mm (1.72–1.86 in).\nIndividuals weigh 9–9.5 g (0.32–0.34 oz).\nIts dorsal fur is bicolored, with the basal portions of the hairs yellowish-brown and the distal portions cinnamon-brown.\nIts ventral fur is paler in color.\nIts flight membranes are all dark brown.",
+    "Range and habitat": "It is found in several countries in Southeast Asia, including: Cambodia, Laos, Myanmar, Thailand, and Vietnam.",
+    "Conservation": "As of 2017, it is evaluated as a least-concern species by the IUCN.\nIt met the criteria for this classification because it has a wide geographic range and it is relatively common within its range.\n\n\n== References =="
+  }
+}

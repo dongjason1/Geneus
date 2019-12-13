@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_tintinnabulum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. tintinnabulum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena tintinnabulum is a European species of agaric fungus in the family Mycenaceae. The mycelium, but not the fruit body, is bioluminescent.",
+    "See also": "List of bioluminescent fungi",
+    "References": "",
+    "External links": "Mycena tintinnabulum  in Index Fungorum"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sunda_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Nyctophilus"
+    },
+    {
+      "Species": "N. heran"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sunda long-eared bat (Nyctophilus heran) is a species of vesper bat. It is found only in Indonesia.\n\n\n== References =="
+  }
+}

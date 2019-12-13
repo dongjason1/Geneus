@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hygrocybe_nigrescens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hygrophoraceae"
+    },
+    {
+      "Genus": "Hygrocybe"
+    },
+    {
+      "Species": "H. nigrescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hygrocybe nigrescens, commonly known as the blackening wax-cap, is a mushroom of the waxcap genus Hygrocybe. It is found in Europe and Africa.",
+    "See also": "List of Hygrocybe species",
+    "References": "",
+    "External links": "Hygrocybe nigrescens  in Index Fungorum"
+  }
+}

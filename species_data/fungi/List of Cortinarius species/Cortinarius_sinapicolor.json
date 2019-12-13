@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_sinapicolor",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. sinapicolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius sinapicolor is a species of fungus in the family Cortinariaceae native to Australia.",
+    "External links": "Cortinarius sinapicolor  in Index Fungorum"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_achupallasense",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. achupallasense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper achupallasense is a species of pepper plant in the family Piperaceae. It is endemic to Ecuador.\n\n\n== References =="
+  }
+}

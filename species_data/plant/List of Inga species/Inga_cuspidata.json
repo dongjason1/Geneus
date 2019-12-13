@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_cuspidata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. cuspidata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga cuspidata is a species of legume in the family Fabaceae. It is found only in Panama.",
+    "References": "World Conservation Monitoring Centre (1998). \"Inga cuspidata\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38274A10108745. doi:10.2305/IUCN.UK.1998.RLTS.T38274A10108745.en. Retrieved 16 December 2017."
+  }
+}

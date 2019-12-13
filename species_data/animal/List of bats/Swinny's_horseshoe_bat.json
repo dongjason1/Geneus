@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Swinny's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. swinnyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Swinny's horseshoe bat (Rhinolophus swinnyi) is a species of bat in the family Rhinolophidae. It is found in Angola, Republic of the Congo, Mozambique, South Africa, Tanzania, Zambia, and Zimbabwe. Its natural habitats are subtropical or tropical moist montane forests, dry savanna, moist savanna, caves, and subterranean habitats (other than caves). It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

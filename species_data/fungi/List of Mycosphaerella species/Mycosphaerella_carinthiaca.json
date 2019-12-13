@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_carinthiaca",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Davidiellaceae"
+    },
+    {
+      "Genus": "Davidiella"
+    },
+    {
+      "Species": "D. carinthiaca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Davidiella carinthiaca is a fungal plant pathogen infecting red clover.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

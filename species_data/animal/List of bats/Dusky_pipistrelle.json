@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dusky_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. hesperidus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The dusky pipistrelle (Pipistrellus hesperidus) is a small pipistrelle bat found in Africa.\n\n\n== References =="
+  }
+}

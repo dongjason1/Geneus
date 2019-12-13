@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Orange_bullfinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Pyrrhula"
+    },
+    {
+      "Species": "P. aurantiaca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The orange bullfinch (Pyrrhula aurantiaca) is a species of finch in the family Fringillidae.\nIt is found in India and Pakistan. Its natural habitat is temperate forests.",
+    "Taxonomy": "The taxonomy was described in 2001 by Arnaiz-Villena et al. All birds belonging to genus Pyrrhula have a common ancestor: Pinicola enucleator.\n\n\n== References =="
+  }
+}

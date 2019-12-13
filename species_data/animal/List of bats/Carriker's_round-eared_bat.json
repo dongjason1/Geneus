@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carriker's_round-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lophostoma"
+    },
+    {
+      "Species": "L. carrikeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carriker's round-eared bat (Lophostoma carrikeri) is a bat species from South America. It is found in Bolivia, Brazil, Colombia, Guyana, Peru, Suriname and Venezuela. It was discovered by and named for Melbourne A. Carriker, Jr.\n\n\n== References =="
+  }
+}

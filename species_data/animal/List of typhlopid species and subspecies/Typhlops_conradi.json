@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_conradi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Ramphotyphlops"
+    },
+    {
+      "Species": "R. conradi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conrad's worm snake (Ramphotyphlops conradi) is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, conradi, is in honor of German Captain Paul Conrad (1836 – ca. 1873).",
+    "Geographic range": "It is found in Indonesia on the island Sulawesi (formerly known as Celebes).",
+    "Description": "Dorsally, it is uniform brown; ventrally it is lighter brown. The head and the tip of the tail are white. There are 18 scales around the body at midbody. The holotype measures 17.5 cm (6.9 inches) in total length (including tail).",
+    "References": "",
+    "Further reading": "Hedges SB, Marion AB, Lipp KM, Marin J, Vidal N (2014). \"A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61. (Ramphotyphlops conradi, new combination).\nPeters W (1874). \"Über neue Reptilien (Peropus, Agama, Euprepes, Lygosoma, Typhlops, Heterolepis) der herpetologischen Sammlung des Berliner zoologischen Museums \". Monatsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin 1874: 159-164 + one plate. (Typhlops conradi, new species, pp. 162–163 + figures 1, 1a, 1b, 1c). (in German)."
+  }
+}

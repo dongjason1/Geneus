@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_noctule",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Nyctalus"
+    },
+    {
+      "Species": "N. leisleri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser noctule, Leisler's bat or the Irish bat (Nyctalus leisleri),  is a species of insectivorous bat belonging to the vesper bat family, Vespertilionidae.",
+    "Description": "It is a medium-sized bat, slightly smaller than the common noctule. It has a length of 48 to 68 mm (head and body) and a wingspan of 260 to 330 mm. The forearm measures 38 to 47 mm and the bat's weight is 11 to 20 grams. The face, ears and wings are dark. The fur is brown, darker at the base than the tip unlike that of the common noctule which is the same colour along its length. The undersides of the arms are hairy giving it the alternative name \"hairy-armed bat\". The ears are short and rounded with a mushroom-shaped tragus. The wings are long and narrow.",
+    "Distribution": "The lesser noctule is found locally across Europe and western Asia, eastwards as far as the Urals and Himalayas. It is also found in north-west Africa, the Canary Islands  and Madeira. The form in the Azores is often considered to be a separate species - Azores noctule (Nyctalus azoreum).\nIt is typically found in forests, both coniferous and deciduous, but has also adapted to parkland and urban areas and frequently roosts in buildings.\nIn most parts of its range the lesser noctule is rare, however in Ireland it is much more common, being the island's largest and third most common bat species. Due to the lesser noctule's ubiquity in Ireland, the island is also considered its global stronghold. In Britain it is known from a few colonies in England and Wales with occasional wanderers reaching Scotland. Threats to its survival include declines in large insects, loss of forest and hollow trees and toxic chemicals found in treated timber in buildings.",
+    "Feeding": "The bats emerge soon after sunset to feed on flying insects such as moths and beetles. They fly straight and fast with shallow dives, often at treetop level. They sometimes feed around streetlights, catching the insects attracted to them. They are most active around dusk and dawn and will travel up to 10 km while foraging.",
+    "Reproduction": "Lesser noctules usually breed in small colonies of around 20 to 50 individuals but in Ireland they can be much larger, with some colonies numbering as many as 1,000 individuals. The colony is usually in a hollow tree or building; bat boxes may sometimes be used. The females give birth to one or two young, with twins being more common in the eastern part of the range.",
+    "Echolocation": "The frequencies used by this bat species for echolocation lie between 25–54 kHz, have most energy at 29 kHz and have an average duration of 8.5 ms.",
+    "Other": "The species was named to honour the naturalist Johann Philipp Achilles Leisler",
+    "References": "Chiroptera Specialist Group (1996). \"Nyctalus leisleri\". IUCN Red List of Threatened Species. Version 2006. International Union for Conservation of Nature. Retrieved 5 December 2006.\nFrank Greenaway & A. M. Hudson (1990) A Field Guide to British Bats, Bruce Coleman Books, Uxbridge\nWilfried Schober & Eckard Grimmberger (1993) Hamlyn Guide: Bats of Britain and Europe, Hamlyn, London.\nR. E. Stebbings & Francesca Griffith (1986) Distribution and Status of Bats in Europe, Institute of Terrestrial Ecology, Huntingdon.\nS. Zera & P. Myers (2004) Nyctalus leisleri, Animal Diversity Web. Accessed 5 December 2006.",
+    "External links": "ARKive Photographs\nWoodland Management For Bats Guide"
+  }
+}

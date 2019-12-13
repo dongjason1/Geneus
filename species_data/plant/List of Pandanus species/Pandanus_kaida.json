@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pandanus_kaida",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Pandanales"
+    },
+    {
+      "Family": "Pandanaceae"
+    },
+    {
+      "Genus": "Pandanus"
+    },
+    {
+      "Species": "P. kaida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pandanus kaida is a monocot species of plant in the family Pandanaceae, known only in cultivation. It is native to India, Sri Lanka.",
+    "In culture": "\"Weta keyiya\" (sinhala).",
+    "Uses": "live fencing; medicinal; polen-insect repellent. \nleaves- mats, boxes, hats.",
+    "References": "\nhttp://indiabiodiversity.org/species/show/259135\nhttp://base.sp2000.cn/colchina_e13/show_species_details.php?name_code=107de7dd-e8b7-4b93-99ab-a01afa5527c4"
+  }
+}

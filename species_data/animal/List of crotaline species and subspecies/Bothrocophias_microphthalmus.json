@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrocophias_microphthalmus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrocophias"
+    },
+    {
+      "Species": "B. microphthalmus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrocophias microphthalmus, or the small-eyed toad-headed pitviper, is a species of venomous snake in the family Viperidae. The species is endemic to northwestern South America.",
+    "Geographic range": "B. microphthalmus is found in Brazil, Colombia, Ecuador, Peru, and Bolivia.\nThe type locality is \"between Balsa Puerto and Moyabamba, Peru\".",
+    "References": "",
+    "Further reading": "Cope ED. 1875. \"Report on the Reptiles brought by Professor James Orton from the middle and upper Amazon, and Western Peru\". J. Acad. Nat. Sci. Philadelphia (2) 8: 159-183. (Bothrops microphthalmus, new species, pp. 182–183)."
+  }
+}

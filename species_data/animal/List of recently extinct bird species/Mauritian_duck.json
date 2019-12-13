@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mauritian_duck",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Anseriformes"
+    },
+    {
+      "Family": "Anatidae"
+    },
+    {
+      "Genus": "Anas"
+    },
+    {
+      "Species": "†A. theodori"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mascarene teal (Anas theodori), also known as Sauzier's teal and Mauritian duck, is an extinct dabbling duck that formerly occurred on the islands of Mauritius and Réunion. It was a small teal of the Anas gibberifrons superspecies of the Anas subgenus Nettion. Its closest relative is probably Bernier's teal from Madagascar and, apart from having stronger wings and being considerably bigger (between a Sunda teal and a mallard in size), it seems to have looked very similar to that species. Earlier, it was proposed that Meller's duck, also from Madagascar, is the closest living relative of A. theodori, but as more remains of the latter were unearthed this appears far less likely. Apart from a few, brief descriptions, not much is known about the bird in life, but its habits probably did not differ significantly from those of its close relatives. Bones have been found in the Mare aux Songes swamp on Mauritius and more recently on Réunion also. The scientific name honours Thé́odore Sauzier, who made many bones of extinct birds found on Mauritius available to science.",
+    "Extinction": "The bird became extinct on both islands almost simultaneously and for the same reason: overhunting. On Mauritus, the \"grey teals\" were found in \"great numbers\" in 1681, but in 1693, Leguat (1708) found \"wild ducks\" to be already rare. In 1696, governor Deodati mentioned the species for the last time to be extant. On Réunion, the species is last mentioned to occur \"in quantity\" in de la Merveille's 1709 listing of the island's wildlife, but as Jean Feuilley had not listed waterfowl in his 1705 report, de la Merveille's record is obviously based on obsolete hearsay information. The last reliable Réunion record of the species appears to be the report of Père Bernardin in 1687; thus, the date of extinction can be assumed to be the late 1690s on Mauritius, and a few years earlier on Réunion.\nThe reports of Bernardin and (1710) Boucher are puzzling insofar as that they mention both geese, sarcelles (teals, this species) as well as canards (ducks, larger than sarcelles) as occurring or having occurred on Réunion. It is possible that a carpometacarpus bone apparently of an Aythya diving duck is referrable to these canards. If so, these birds were probably related to the Madagascar pochard, of which only small numbers are known to remain.",
+    "References": "\nLeguat, François (1708): Voyages et Avantures de François Leguat & de ses Compagnons, en Deux Isles Desertes des Indes Orientales, etc. 2: 71. Jean Louis de Lorme, Amsterdam. PDF fulltext available at Gallica: search for \"Leguat\"\nNewton, Edward & Gadow, Hans Friedrich (1893): On additional bones of the Dodo and other extinct birds of Mauritius obtained by Mr. Théodore Sauzier. Trans. Zool. Soc. 13: 281-302, plate 34: figures 11-17."
+  }
+}

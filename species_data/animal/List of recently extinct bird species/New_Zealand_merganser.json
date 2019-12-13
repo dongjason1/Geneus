@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Zealand_merganser",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Anseriformes"
+    },
+    {
+      "Family": "Anatidae"
+    },
+    {
+      "Genus": "Mergus"
+    },
+    {
+      "Species": "†M. australis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The New Zealand merganser, Auckland merganser or Auckland Islands merganser (Mergus australis) was a typical merganser which is now extinct.\nThis duck was similar in size to the red-breasted merganser. The adult male had a dark reddish-brown head, crest and neck, with bluish black mantle and tail and slate grey wings. The female was slightly smaller with a shorter crest.\n\n \n \nThis bird was first collected when a French expedition led by the explorer Jules Dumont d'Urville on the ships L'Astrolabe and La Zelee visited the Auckland Islands in 1840. Its decline was caused by a combination of hunting and predation by introduced mammals. The bird was not flightless, but rather hard to flush; it preferred to hide between rocks when pursued. The last sighting was of a pair shot on January 9, 1902. It was not found in a 1909 search, and a thorough 1972/1973 exploration of possible habitat concluded that it was long extinct (Williams & Weller, 1974).\nSubsequent fossil discoveries suggest that this merganser was previously resident in the South Island, and on Stewart Island/Rakiura in New Zealand. Fossils of a subspecies or closely related species have also been found on the Chatham Islands. There exists a short remark mentioning \"a merganser\" found on Campbell Island in McCormick (1842), but this may just as well refer to the semi-marine Campbell teal which is otherwise missing in his notes: he only mentions the Pacific black duck (\"a New Zealand species of duck\").",
+    "References": "\nMcCormick, Robert (1842): A sketch of the Antarctic regions, embracing a few passing remarks, geographical and ornithological. Tasmanian Journal of Natural Sciences 1(4): 241-247. PDF fulltext\nWilliams, G. R. & Weller, M. W.. (1974): Unsuccessful search for the Auckland Islands Merganser (Mergus australis). Notornis 21(3): 246-249. PDF fulltext\nSouthern Merganser. Mergus australis. by Paul Martinson. Artwork produced for the book Extinct Birds of New Zealand, by Alan Tennyson, Te Papa Press, Wellington, 2006"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Himalayan_beautiful_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. pulcherrimus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Himalayan beautiful rosefinch (Carpodacus pulcherrimus) is a true finch species (family Fringillidae). It is found in mid-western China and the northern Himalayas. Its natural habitats are temperate shrubland and subtropical or tropical high-altitude shrubland.\n\n\n== References =="
+  }
+}

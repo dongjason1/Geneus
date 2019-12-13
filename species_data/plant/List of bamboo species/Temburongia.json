@@ -1,0 +1,48 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Temburongia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Clade": "BOP clade"
+    },
+    {
+      "Subfamily": "Bambusoideae"
+    },
+    {
+      "Tribe": "Bambuseae"
+    },
+    {
+      "Subtribe": "Temburongiinae"
+    },
+    {
+      "Genus": "TemburongiaS.Dransf. & K.M.Wong"
+    },
+    {
+      "Species": "T. simplex"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Temburongia is a genus of bamboo from the Sultanate of Brunei on the Island of Borneo. It is usually classified in the subtribe Shibataeinae, though its exact relationship with the subtribe remains unclear.",
+    "Species": "The only described species is Temburongia simplex.\n\n\n== References =="
+  }
+}

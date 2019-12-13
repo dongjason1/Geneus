@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_corynephorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. corynephorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium corynephorum is an anamorph species of the genus of Penicillium.",
+    "Further reading": "Martin Weidenbörner (2001). Encyclopedia of Food Mycotoxins. Springer Science & Business Media. ISBN 3540675566.\nHoubraken, J.; Samson, R. A. (2011). \"Phylogeny of Penicillium and the segregation of Trichocomaceae into three families\". Studies in Mycology. 70: 1–51. doi:10.3114/sim.2011.70.01. PMC 3233907. PMID 22308045.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

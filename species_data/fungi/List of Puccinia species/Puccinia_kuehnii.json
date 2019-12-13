@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_kuehnii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "Puccinia kuehnii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia kuehnii is a plant pathogen that causes orange rust disease of sugarcane. Orange rust was first discovered in India in 1914, but the first case of huge economical damage in sugarcane was registered in Australia in 2001. The first case in United States was in 2007 in Florida and has so far been the only state in the United States where sugarcane has been affected by this kind of rust.  In order to treat the infected sugarcane at least three rounds of fungicide must be applied to the plant, costing growers $40 million a year.  Currently scientists at the Agricultural Research Service are genetically analyzing the fungus that causes orange rust in order to help combat the problem.",
+    "See also": "List of Puccinia species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\nBritish Society for Plant Pathology (BSPP)\nUSDA Agricultural Research Service\n\n\n== References =="
+  }
+}

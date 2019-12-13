@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Solomons_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. rayneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Solomons flying fox (Pteropus rayneri) is a species of flying fox in the family Pteropodidae. It is endemic to the Solomon Islands archipelago.  The population abundance has been marked by periodic die-offs of generally unknown cause, including a major die-off in the 1980s.  Hunting may be a significant threat to the population.\n\n\n== References =="
+  }
+}

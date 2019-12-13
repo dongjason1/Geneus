@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Asparagus_flagellaris",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Asparagoideae"
+    },
+    {
+      "Genus": "Asparagus"
+    },
+    {
+      "Species": "A. flagellaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Asparagus flagellaris is a  flowering plant that is native to tropical Africa.\nLike related species, the shoot-tips are eaten as a vegetable.",
+    "References": "",
+    "External links": "PROTAbase on Asparagus flagellaris\nAsparagus flagellaris in West African plants – A Photo Guide."
+  }
+}

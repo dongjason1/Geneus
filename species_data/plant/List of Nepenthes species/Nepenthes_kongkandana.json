@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_kongkandana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. kongkandana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes kongkandana is a tropical pitcher plant endemic to Songkhla Province in southern Thailand. It is closely related to N. kerrii.",
+    "Natural hybrids": "N. kongkandana × N. mirabilis",
+    "References": "",
+    "External links": "Nepenthes of Indochina"
+  }
+}

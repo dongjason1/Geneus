@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_pica",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. pica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus pica is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 23 mm and 52 mm. Its appearance closely resembles Conus spectrum and was therefore considered by G.W. Tryon a synonym of this species.",
+    "Distribution": "This marine species occurs off the Philippines, Northeast Borneo and Northeast Indonesia.",
+    "References": "Puillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To USNM Invertebrate Zoology Mollusca Collection\nTo World Register of Marine Species\n\"Graphiconus pica\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

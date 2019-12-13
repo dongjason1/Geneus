@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sphagnum_squarrosum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Division": "Bryophyta"
+    },
+    {
+      "Class": "Sphagnopsida"
+    },
+    {
+      "Order": "Sphagnales"
+    },
+    {
+      "Family": "Sphagnaceae"
+    },
+    {
+      "Genus": "Sphagnum"
+    },
+    {
+      "Species": "S. squarrosum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sphagnum squarrosum, commonly known as the spiky bog-moss or spreading-leaved bog moss is a species of moss which grows in nutrient-rich, damp soil. Typical habitats include woodland, the banks of streams and ditches; it can even be found at high altitude in damp cirques. The species often grows near sedges (Carex), rushes (Juncus) or purple moor grass (Molinia caerulea).Sphagnum squarrosum plants are green, and have the appearance of spikiness.",
+    "See also": "List of Sphagnum species\n\n\n== References =="
+  }
+}

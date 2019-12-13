@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_garbei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. garbei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras garbei is a species of catfish in the family Callichthyidae endemic to Brazil where it is found in the São Francisco River basin.  It is sold as an aquarium fish.",
+    "References": "Froese, Rainer and Pauly, Daniel, eds. (2011). \"Corydoras garbei\" in FishBase. December 2011 version."
+  }
+}

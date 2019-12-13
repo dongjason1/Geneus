@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_mustelina",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. mustelina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula mustelina is a basidiomycete mushroom of the genus Russula native to Europe and North America.",
+    "See also": "List of Russula species",
+    "References": "",
+    "External links": "Russula mustelina  in Index Fungorum"
+  }
+}

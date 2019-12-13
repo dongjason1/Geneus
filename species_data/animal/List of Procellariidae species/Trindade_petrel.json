@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trindade_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pterodroma"
+    },
+    {
+      "Species": "P. arminjoniana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Trindade petrel (Pterodroma arminjoniana) is a species of seabird and a member of the gadfly petrels. The bird is 35–39 cm (14–15 in) in size, with an 88–102 cm (35–40 in) wingspan.\nThe petrel has various color morphs: dark and light, as well as intermediates between the two. Previously, two separate populations were considered conspecific, one occurring in the south Pacific, sometimes seen in Hawaii; the other occurring in the south Atlantic, nesting off Brazil, with regular sightings in the Gulf Stream off the southeastern United States. The little-known Pacific birds were then split and determined distinct as the herald petrel, Pterodroma heraldica.\nIt uses oceanic islands and atolls, nesting on cliff ledges, ridges or rocky slopes. On some islands, nesting birds are threatened by feral cats and rats.\nDue to ongoing habitat loss and small breeding range, this species is evaluated as vulnerable on the IUCN Red List of Threatened Species.\nThe specific name is after Vittorio Arminjon, captain of the ship during on the voyage in which the specimen was collected.",
+    "References": "\"National Geographic\"  Field Guide to the Birds of North America ISBN 0-7922-6877-6\n Seabirds, an Identification Guide by Peter Harrison, (1983) ISBN 0-7470-1410-8\nHandbook of the Birds of the World Vol 1,  Josep del Hoyo editor, ISBN 84-87334-10-5\n\"National Audubon Society\" The Sibley Guide to Birds, by David Allen Sibley, ISBN 0-679-45122-6",
+    "External links": "BirdLife species factsheet"
+  }
+}

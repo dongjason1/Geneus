@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zamia_angustifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Zamia"
+    },
+    {
+      "Species": "Z. angustifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Zamia angustifolia is a species of plant in the family Zamiaceae. It is found in the Bahamas and Cuba. It is threatened by habitat loss.",
+    "References": "\nDonaldson, J.S. 2003.  Zamia angustifolia."
+  }
+}

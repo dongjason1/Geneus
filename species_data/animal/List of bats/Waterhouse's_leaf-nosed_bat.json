@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Waterhouse's_leaf-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Macrotus"
+    },
+    {
+      "Species": "M. waterhousii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Waterhouse's leaf-nosed bat (Macrotus waterhousii) is a species of big-eared bat in the family Phyllostomidae. It is found in Bahamas, Cayman Islands, Cuba, the Dominican Republic, Guatemala, Haiti, Jamaica, Mexico, and Puerto Rico, with a range from Sonora to Hidalgo Mexico, south to Guatemala and the Greater Antilles (excluding Puerto Rico) and Bahamas.",
+    "Behavior": "This species roosts primarily in caves, but also in mines and buildings. The species is insectivorous, primarily consuming insects of the order Lepidoptera and Orthoptera.M. waterhousii does not require complete darkness in its roosting place, and can often be found near the entrance of a cave (with in 10–30 meters), or even partially lit buildings. It is possible to find this species in groups, but not as common as other bats; they are almost never in direct contact with one another. They typically leave their roost about 30 minutes after sundown.",
+    "Reproduction": "",
+    "Reproduction-Sperm cycle": "Male M. waterhousii have an interesting cycle in their sperm production and peak times for successful mating.  From December to early June, there are no mature sperm found within the male's reproductive tract. Starting in June, the spermatogenic cycle begins, leading to sperm being available (for mating) in August. Mature sperm can be found in the reproductive tract of males from August to early December.  However, starting around September, a decrease in testes size can be observed.",
+    "Reproduction-Delayed development": "Observed during the pregnancy of female M. waterhousii, there seems to be a delay in the development of the offspring.  It is possible that this is controlled by levels of Plasma Thyroxine (T4). During the first two trimester of pregnancy, levels of T4 are relatively low. But during the last trimester (and lactation), levels of T4 more than double typically. These corresponds in the observed delayed development of the offspring, as much of the development happen in that last trimester.",
+    "Echolocation and foraging": "Like many bats, this species uses echolocation as a means to locate their prey.  In particular, Macrotus waterhousii uses a low intensity, broadband-like call to aide in their search for food. The maximum frequency of a call is 73.65 kHz with a minimum of 46.19 kHz, creating a bandwidth of 27.46 kHz. The call ranges from about 1 second to 3 seconds. In addition, to echolocation, M. waterhousii uses the sound made by the prey itself to locate it. This type of foraging behavior leads to a preference for a cluttered habitat. As M. waterhousii is hunting, the frequency of calls decreases as it approaches its prey.",
+    "Geographic range contraction": "According to the fossil record, there have been 30 islands that M. waterhousii inhabited in significant numbers. However, today this species is only found on 24 of those original islands. In fact on six islands these bats seem to have gone extinct.  In addition, studies of gene flow have shown that populations on different islands are functionally distinct (genetically speaking). This shows that colonization events between islands is very uncommon, and that these distinct populations tend to stay on the island they are born in. Thus, when this species goes extinct locally on one island, it is not likely that the island will be repopulated from a different population of M. waterhousii.  All of this leads to an observed geographic range contraction.",
+    "Parasites": "The nematode Torrestrongylus tetradorsalis was described in 2015. It is a parasite of the small intestine of the Waterhouse's leaf-nosed bat in Central Mexico. It was collected from bats from the Biosphere Reserve “Sierra de Huautla” in the state of Morelos.",
+    "References": "\nChiroptera Specialist Group 1996.  Macrotus waterhousii.   2006 IUCN Red List of Threatened Species.   Downloaded on 30 July 2007.\nMurray, Kevin L., Theodore H. Fleming, Michael S. Gaines, and Dean A. Williams. \"Characterization of Polymorphic Microsatellite Loci for Two Species of Phyllostomid Bats from the Greater Antilles (Erophylla Sezekorni and Macrotus waterhousii).\" Molecular Ecology Resources 8 (2008): 596-98. Print."
+  }
+}

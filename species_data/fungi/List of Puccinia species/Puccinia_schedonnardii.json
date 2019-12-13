@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_schedonnardii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniastraceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. schedonnardii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia schedonnardii is a basidiomycete fungus that affects cotton. More commonly known as a “rust,” this pathogen typically affects cotton leaves, which can decrease the quality of the boll at time of harvest. As large percentages of cotton in the United States are resistant to various rust varieties, there is little economic importance to this disease. In places where rust is prevalent, however, growers could see up to a 50% reduction in yield due to rust infection.",
+    "Hosts and symptoms": "For Puccinia schedonnardii the host range is specific to cotton, but is not specific to a certain cotton species. Alternate hosts are necessary to complete the life cycle, and include many types of gramma grasses.  Symptomology is similar to that of other rust species. First appearing as small yellow pustules on leaves, bolls, and stems, the spots will then transform into larger, orange/red pustules which release aeciospores. Rust lesions can cause leaves or stems to become weak and break or fall off, resulting in decreased photosynthetic ability and extreme difficulty during harvest. Symptoms on the alternate host grasses are small ovular red/brown (rust colored) powdery lesions, which release uredospores.",
+    "Disease cycle and pathogenesis": "The disease cycle of Puccinia schedonardii does not vary from other rust disease cycles. This pathogen is heteroecious and exhibits a polycyclic disease cycle. Puccinia schedonnardii overwinters as teliospores that are produced in telia on the alternate host. In the spring, the teliospores germinate to produce basidiospores. The basidospores are then windblown to the cotton host where they enter via stomata. When basidiospores germinate, they produce a mycelium from which flask-shape pycnia as well as receptive hyphae are formed. From here, nothing happens until the pycniospores produced by the pycnia fertilize receptive hyphae of a different mating type. Over a period of five to ten days the dikaryotic mycelia formed by the joining of the receptive hyphae and the pycniospore grows through the cotton leaf to produce aecia. Aecia are the pustules seen on the leaves of the cotton. When conditions are right, and adequate moisture is achieved, aeciospores are released from the aecia. These aeciospores land on the alternate grass host and infect it via a germ tube. Eventually, a uredium is formed from this germ tube. The uredospores released by the uredium are then able to do one of two things. As a polycyclic disease, the uredospores present an opportunity for secondary infection in a single season. The spores can either reinfect grasses by spreading uredospores that become uredia which leads to more uredospores and a likely epidemic; or they can become overwintering teliospores, thus preparing for the cycle to begin again in the spring.",
+    "Environment": "Rust infections can proliferate under humid conditions and periods of prolonged wetness. Ideally, periods of 1 inch (25 mm) or more of rain followed by at least 12 hours of high humidity are needed for the disease to develop. It is the moisture on the leaf surfaces that leads to disease and spore release/germination, so even well drained soils are susceptible to rust outbreaks. However, evidence has shown that poorly-drained soils may have increased incidence of fungal pathogens like rust, due to the increased relative humidity underneath the canopy.",
+    "Management and importance": "Disease management can be difficult as it would be impossible to eliminate the alternate host grass species. However, the utilization of non-susceptible crops in a rotation can decrease infection rate in future cotton crops.  An application of Mancozeb foliar fungicide can be used to prevent the disease, but little can be done after infection. This is not effective as a treatment, only as a prevention tool. Similarly, growers are proactive in their prevention of the disease, ensuring the proper fungicide applications.\nAs previously stated, the importance of this disease can be severe, but growers tend to plant resistant varieties in areas where rust has been prevalent. One common cultivar with transferred resistance is Gossypium hirsutum, which was transferred from G. arboretum and G. anomalum. Without resistance, Puccinia schedonnardii can cause a 50% yield loss, which is why generally resistant varieties are so widely used. Cotton is one of the most important textile fibers, and the United States is ranked third in cotton production. It is for that reason that such a large focus of agronomic research funding has gone to cotton research to develop solutions to cotton rust.",
+    "See also": "List of Puccinia species",
+    "External links": "USDA ARS Fungal Database\n\n\n== References =="
+  }
+}

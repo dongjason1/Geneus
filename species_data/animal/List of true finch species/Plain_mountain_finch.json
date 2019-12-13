@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Plain_mountain_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Leucosticte"
+    },
+    {
+      "Species": "L. nemoricola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The plain mountain finch (Leucosticte nemoricola) is a species of finch in the Fringillidae family.\n\nIt is found in Afghanistan, Bhutan, China, India, Kazakhstan, Myanmar, Nepal, Pakistan, Russia, Tajikistan, Tibet, and Turkmenistan. Its natural habitat is temperate grassland and upland forest.  It is a resident breeder across the Himalayas.\n\n\n== References =="
+  }
+}

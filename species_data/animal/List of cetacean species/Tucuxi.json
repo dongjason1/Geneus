@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tucuxi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Artiodactyla"
+    },
+    {
+      "Infraorder": "Cetacea"
+    },
+    {
+      "Family": "Delphinidae"
+    },
+    {
+      "Genus": "Sotalia"
+    },
+    {
+      "Species": "S. fluviatilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The tucuxi (Sotalia fluviatilis), alternatively in Peru bufeo gris or bufeo negro, is a species of freshwater dolphin found in the rivers of the Amazon basin. The word tucuxi  is derived from the Tupi language word tuchuchi-ana, and has now been adopted as the species' common name. Despite being found in geographic locations similar to those of 'true' river dolphins such as the boto, the tucuxi is not closely related to them genetically. Instead, it is classed in the oceanic dolphin family (Delphinidae).\nPhysically, the species resembles the bottlenose dolphin but differs sufficiently to be placed in a separate genus, Sotalia. The costero (Sotalia guianensis), related dolphins present in coastal and estuarine environments and formerly grouped together with the tucuxi, have recently been recognized as a distinct species.",
+    "Description": "The tucuxi is frequently described (see references below) as looking similar to the bottlenose dolphin, but it is typically smaller at around 1.5 m (4.9 ft). The dolphin is colored light to bluish grey on its back and sides. The ventral region is much lighter, often pinkish. It is theorized that this pinkish color may be caused or intensified by increased blood flow. The dorsal fluke is typically slightly hooked. The beak is well-defined and of moderate length. There are 26 to 36 pairs of teeth in the upper and lower jaws.",
+    "Taxonomy": "The tucuxi Sotalia fluviatilis was described by Gervais and Deville in 1853, and the costero Sotalia guianensis by Pierre-Joseph van Bénéden in 1864. These two species were subsequently synonymized, with the two species being treated as subspecies of marine and freshwater varieties. The first to reassert differences between these two species was a three-dimensional morphometric study of Monteiro-Filho and colleagues. Subsequently, a molecular analysis by Cunha and colleagues unambiguously demonstrated that Sotalia guianensis was genetically differentiated from Sotalia fluviatilis. This finding was reiterated by Caballero and colleagues with a larger number of genes. The existence of two species has been generally accepted by the scientific community.",
+    "Distribution": "The tucuxi exists along much the length of the Amazon River and many of its tributaries, and is found in Venezuela, Brazil, Peru, Ecuador, southeastern Colombia. Numerous individuals have been seen in the Orinoco River further north, though it is not clear whether these are tucuxi or costero.This species occurs in freshwater habitats only.",
+    "Food and Foraging": "Tucuxis forage in tight groups, often chasing fish in rapid dashes just below the water surface, with fish jumping out of their way. Thirty species of fish are known to be prey, some living in protected lakes and channels, while others occur in fast-flowing rivers.",
+    "Behaviour": "The tucuxi exists in small groups of about 10-15 individuals, and swim in tight-knit groups, suggesting a highly developed social structure. Tucuxis are quite active and may jump clear of the water (a behavior known as breaching), somersault, spy-hop or tail-splash. They are unlikely, however, to approach boats.\nTucuxis have been observed to feed with other river dolphins. They feed on a wide variety of fish. Studies of growth layers suggest the species can live up to 35 years. The oldest  known animal was 36 years of age.",
+    "Conservation": "The tucuxi is endemic to the regions described above; although no precise estimates of population are available, it is common. A significant human problem is fishing nets. Deliberate hunting in the Amazon basin for food has also been reported. Pollution, in particular, mercury poisoning of water due to gold mining, is a particular concern for this species. The IUCN also cites habitat fragmentation by dam construction as a threat, though more detailed study is necessary.Tucuxis are observed not to maintain good health and attitude in captive environments. A few tucuxis remained in captivity in European aquaria, but the last one (\"Paco\") died in 2009 in the Zoo of Münster, Germany.\nThe tucuxi is listed on Appendix II of the Convention on the Conservation of Migratory Species of Wild Animals (CMS). It is listed on Appendix II as it has an unfavourable conservation status or would benefit significantly from international co-operation organised by tailored agreements.",
+    "See also": "List of cetacean species\nEnvironmental issues in Brazil",
+    "References": "National Audubon Society Guide to Marine Mammals of the World ISBN 0-375-41141-0\nEncyclopedia of Marine Mammals ISBN 0-12-551340-2\nWhales, Dolphins and Porpoises, Mark Carwardine, ISBN 0-7513-2781-6",
+    "External links": "Whale and Dolphin Conservation Society (WDCS)"
+  }
+}

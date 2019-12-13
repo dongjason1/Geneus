@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_admirationis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. admirationis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus admirationis is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The length  of the shell attains 60 mm.",
+    "Distribution": "This marine species of cone snail is endemic to the  Philippines and occurs off the Sulu Island",
+    "References": "Poppe G.T. & Tagaro S.P. (2015). A spectacular new Conus (Conidae) from the Philippines. Visaya. 4(4): 71-75",
+    "External links": "\"Graphiconus admirationis\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

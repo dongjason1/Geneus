@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_spiceri",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. spiceri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus spiceri is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 45 mm and 152 mm.",
+    "Distribution": "This marine species occurs in the Pacific Ocean off Hawaii and Midway.",
+    "References": "Bartsch & Rehder (1943), New cones from the Hawaiian Islands; Proceedings of the Biological Society of Washington. v.56, 1943\nSeverns, M. (2011). Shells of the Hawaiian Islands - The Sea Shells. Conchbooks, Hackenheim. 564 pp.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea\n\"Virgiconus coelinae spiceri\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

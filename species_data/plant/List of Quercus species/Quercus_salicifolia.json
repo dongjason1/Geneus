@@ -1,0 +1,44 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_salicifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Lobatae"
+    },
+    {
+      "Species": "Q. salicifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus salicifolia is a Mesoamerican species of oak in the beech family. It is native to Central America and to central and southern Mexico, from Jalisco to Panamá.",
+    "Description": "Quercus salicifolia is a tree up to 25 meters tall, with a trunk up to 100 cm in diameter. Leaves narrowly lance-shaped, up to 20 cm long, with no teeth or lobes.The epithet \"salicifolia\" means \"willow-leaved\" alluding to the resemblance between the leaves of Q salicifolia and those of several species of Salix.",
+    "References": "",
+    "External links": "photo of herbarium specimen at Missouri Botanical Garden, collected in Panamá in 1938"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vordermann's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Hypsugo"
+    },
+    {
+      "Species": "H. vordermanni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Vordermann's pipistrelle (Hypsugo vordermanni) is a species of vesper bat found in Brunei Darussalam, Indonesia, and Malaysia.",
+    "Distribution, Habitat, and Ecology": "The species is found on Banggi Island and Belitung Island. In Borneo, it has been reported in Tanjung Puting National Park, Sungai Sarawak Kiri, and Brunei. The species may occur in other locations along Borneo's coast from 0–100 m (0–330 ft) above sea level. It may only roost in coastal mangroves.",
+    "Conservation status": "The IUCN has categorised the species as \"Data Deficient\" because the species is only known from a few records and localities, and its habitat preferences, population status, threats and ecology are not known. If it is restricted to mangroves, mangrove harvesting and coastal development are major threats to the species.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southern_citril",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. hyposticta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The southern citril (Crithagra hyposticta) is a species of finch in the Fringillidae family.  It is found in South Sudan, Kenya, Tanzania, Zambia and Malawi.\nThe southern citril was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the southern citril were moved to the resurrected genus Crithagra.",
+    "References": "\nClements, J. F., T. S. Schulenberg, M. J. Iliff, B.L. Sullivan, C. L. Wood, and D. Roberson. 2012. The eBird/Clements checklist of birds of the world: Version 6.7. Downloaded from [1]"
+  }
+}

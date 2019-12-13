@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pandanus_teuszii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Pandanales"
+    },
+    {
+      "Family": "Pandanaceae"
+    },
+    {
+      "Genus": "Pandanus"
+    },
+    {
+      "Species": "P. teuszii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pandanus teuszii is a species of plant in the family Pandanaceae. It is endemic to Gabon.\n\n\n== References =="
+  }
+}

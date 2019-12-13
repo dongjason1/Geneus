@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_goudeyi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. goudeyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus goudeyi is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 30 mm and 45 mm.",
+    "Distribution": "This marine species occurs off New Caledonia.",
+    "References": "E. Monnier & L. Limpalaër (2012): Phasmoconus goudeyi (Gastropoda: Conidae) a New Species from New Caledonia - Visaya Vol. 3 n°5.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\n\"Phasmoconus goudeyi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_barbigera",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Bryastrum"
+    },
+    {
+      "Section": "Drosera sect. Lamprolepis"
+    },
+    {
+      "Species": "D. barbigera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera barbigera is a species of pygmy sundew from Western Australia. The specific epithet \"barbigera\" is derived from Latin and means \"bearded\" (barbiger = bearded).",
+    "External links": " Media related to Drosera barbigera at Wikimedia Commons"
+  }
+}

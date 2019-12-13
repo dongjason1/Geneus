@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_aureonimbosus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. aureonimbosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus aureonimbosus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.These snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The shell of a Conus Aureonimbosus can vary in size between 33 mm and 61 mm. It has a light cream colored shell, with tan striations running throughout it.",
+    "Distribution": "This marine species occurs off Florida.",
+    "References": "Tucker J. T. (2013) The cone shells of Florida. An illustrated key and a review of the Recent species. 155 pp. Wellington, Florida: MdM Publishing.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "\"Attenuiconus attenuatus aureonimbosus\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

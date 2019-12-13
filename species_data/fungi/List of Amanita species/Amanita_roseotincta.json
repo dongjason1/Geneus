@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amanita_roseotincta",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Amanitaceae"
+    },
+    {
+      "Genus": "Amanita"
+    },
+    {
+      "Species": "A. roseotincta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amanita roseotincta is a species of agaric fungus in the family Amanitaceae found in North America. It was first described by American mycologist William Alphonso Murrill in 1914 as a species of Venenarius before being transferred to Amanita the same year.",
+    "See also": "\nList of Amanita species\n\n\n== References =="
+  }
+}

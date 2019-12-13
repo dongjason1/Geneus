@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bambusa_boniopsis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Bambusa"
+    },
+    {
+      "Species": "B. boniopsis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bambusa boniopsis is a species of Bambusa bamboo.",
+    "Distribution": "Bambusa boniopsis is endemic to Hainan province of China.\n\n\n== References =="
+  }
+}

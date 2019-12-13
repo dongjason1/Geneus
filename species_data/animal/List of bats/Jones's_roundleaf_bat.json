@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Jones's_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. jonesi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Jones's roundleaf bat (Hipposideros jonesi) is a species of bat in the family Hipposideridae. It is found in Burkina Faso, Ivory Coast, Ghana, Guinea, Liberia, Mali, Nigeria, and Sierra Leone. Its natural habitats are subtropical or tropical dry forest, dry savanna, moist savanna, subtropical or tropical dry lowland grassland, rocky areas, caves, and subterranean habitats (other than caves).\n\n\n== Sources =="
+  }
+}

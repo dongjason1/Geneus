@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_malacanus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. malacanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus malacanus, common name the Malacca cone, is a species of sea snails, marine gastropod molluscs in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 40 mm and 83 mm. The shell is channeled, concavely elevated but not reticulated. It is pink-white, with two pale yellow bands and a very few chestnut spots on the body whorl and spire. The aperture is generally rose-tinted.",
+    "Distribution": "This marine species occurs in Southeast Asia and in the Bay of Bengal.",
+    "References": "Sowerby, G. B., II. 1865. Descriptions of two new species of Conus from the collection of H. Cuming, ESQ., and two from the collection of the late Mr. Denisson. Proceedings of the Zoological Society of London 1865:518-519, pl. 32\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Stellaconus malacanus\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

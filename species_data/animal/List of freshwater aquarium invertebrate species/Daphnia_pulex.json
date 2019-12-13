@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Daphnia_pulex",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Arthropoda"
+    },
+    {
+      "Subphylum": "Crustacea"
+    },
+    {
+      "Class": "Branchiopoda"
+    },
+    {
+      "Order": "Cladocera"
+    },
+    {
+      "Family": "Daphniidae"
+    },
+    {
+      "Genus": "Daphnia"
+    },
+    {
+      "Subgenus": "Daphnia"
+    },
+    {
+      "Species": "D. pulex"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Daphnia pulex is the most common species of water flea. It has a cosmopolitan distribution: the species is found throughout the Americas, Europe and Australia. It is a model species, and was the first crustacean to have its genome sequenced.",
+    "Description": "Daphnia pulex is an arthropod whose body segments are difficult to distinguish. They can only be recognised by the appendages they bear (only ever one pair per segment), and by studying the internal anatomy. The head is distinct and is made up of six segments which are fused together even as an embryo. It bears the mouthparts, and two pairs of antennae, the second of which are enlarged into powerful organs used for swimming. There is no clear division between thorax and abdomen, which collectively bear five pairs of appendages. The shell surrounding the animal extends posteriorly into a long or short spine. Like most other Daphnia species, D. pulex reproduces by cyclical parthenogenesis, alternating between sexual and  asexual reproduction.",
+    "Ecology": "Daphnia pulex occurs in a wide range of aquatic habitats, although it is most closely associated with small, shaded pools. In oligotrophic lakes, D. pulex has little pigmentation, while it may become bright red in hypereutrophic waters, due to the production of haemoglobin.",
+    "Ecology-Predation": "Daphnia are prey for a variety of both vertebrate and invertebrate predators. The role of predation on D. pulex population ecology extensively studied, and has been shown to be a major axis of variation in shaping population dynamics and landscape-level distribution. In addition to the direct population ecological effects of predation, the process contributes to phenotypic evolution in contrasting ways: larger D. pulex are more visible to vertebrate predators, but invertebrate predators are unable to handle larger D. pulex. As a result, larger D. pulex tend to be found with invertebrate predators while smaller size is associated with vertebrate predators.\nSimilar to some other Daphnia species, the morphology of D. pulex exhibits a plastic response to the presence of predators. Phantom midge larvae (Chaoborus) release kairomones – chemical cues – that induce the development of small jagged protrusions on the head, known as \"neck-teeth\". Neck-teeth increase survivorship in the presence of the invertebrate predator, but there are costs – longer development time, for example – when those predators are not present.",
+    "Ecology-Ecological stoichiometry": "Daphnia pulex ecology is shaped by nutrient availability and balance, which affects traits that mediate intra- and interspecific interactions. Because nutrients are required for an array of biological processes – for example, amino acid synthesis – the environmental availability of these nutrients regulates downstream organismal characteristics. Low nutrient availability reduces both body size and growth rate, which, as noted above, regulates Daphnia relationships to predators. Daphnia pulex in particular has been an important model species for investigating ecological stoichiometry, demonstrating that pond shading by trees increases nutrient concentrations relative to carbon in algae, which increases D. pulex body size, and therefore competitive ability and susceptibility to predation by vertebrates.",
+    "Genomics": "Daphnia pulex was the first crustacean to have its genome sequenced. Its genome contains 31,000 genes – 8,000 more than are present in the human genome – as a result of extensive gene duplication.One of the most astonishing features of the D. pulex genome is its compactness: despite being around 200 Mb in size (around 16-fold smaller than the human genome which is 3,200 Mb in size); its 12 chromosomes contain a minimum set of 30,907 predicted protein-coding genes, more than the 20,000–25,000 contained in the human counterpart.Such an efficient gene packaging is achieved by means of a small intron size. Indeed, whereas the mean protein length in D. pulex is quite similar to that of Drosophila, the average gene size is 1000 bp shorter in D. pulex. As inferred from EST analysis, the average intron size found in D. pulex genes is 170 bp.On the other hand, the intron density of D. pulex genome is similar to that of Apis mellifera, which in turn is twice of that found in Drosophila.D. pulex genome has undergone extensive gene duplication followed by rapid paralog divergence and tandem rearrangement. As a result of these processes, around 20% of its gene catalog is composed of tandems consisting of 3–80 paralog genes, many of which are ecoresponsive, that is, they are differentially expressed upon exposure of D. pulex to environmental challenges like biotic or abiotic stress and also fluctuations in light/oxygen levels.",
+    "Notes": "\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tropidophis_wrighti",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Tropidophiidae"
+    },
+    {
+      "Genus": "Tropidophis"
+    },
+    {
+      "Species": "T. wrighti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tropidophis wrighti, commonly known as the gracile banded dwarf boa or Wright's dwarf boa, is a species of snake in the family Tropidophiidae. The species is endemic to Cuba.",
+    "Etymology": "T. wrighti is named after American botanist and explorer Charles Wright.",
+    "Geographic range": "T. wrighti is found in eastern Cuba from Céspedes in Camagüey Province eastward to Santiago de Cuba in Santiago de Cuba Province.",
+    "References": "",
+    "Further reading": "Stull OG (1928). \"A Revision of the Genus Tropidophis \". Occ. Pap. Mus. Zool. Univ. Michigan (195): 1-49. (Tropidophis wrighti, new species, pp. 38–39)."
+  }
+}

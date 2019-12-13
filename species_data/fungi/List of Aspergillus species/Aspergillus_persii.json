@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_persii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. persii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus persii is a species of fungus in the genus Aspergillus which can cause onychomycosis. It is from the Circumdati section. Aspergillus persii produces xanthomegnin and ochratoxin A.",
+    "Growth and morphology": "A. persii has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Kim, Jung A.; Jeon, Jongbum; Park, Sook-Young; Kim, Ki-Tae; Choi, Gobong; Nguyen, Hoa Thi; Jeon, Sun Jeong; Lee, Hyang Burm; Bae, Chang-Hwan; Yang, Hee-sun; Yeo, Joo-Hong; Kim, Jin-Cheol; Lee, Yong-Hwan; Kim, Soonok (21 September 2017). \"Draft Genome Sequence of Aspergillus persii NIBRFGC000004109, Which Has Antibacterial Activity against Plant-Pathogenic Bacteria\". Genome Announcements. 5 (38): e00932–17. doi:10.1128/genomeA.00932-17. PMC 5609410. PMID 28935731.\n\"Aspergillus persii | Aspergillus & Aspergillosis Website\". www.aspergillus.org.uk.\n\"Aspergillus persii | Aspergillus & Aspergillosis Website\". www.aspergillus.org.uk.\nLamoth, Frederic; Steinbach, William J. (2016). Advances in Aspergillus fumigatus pathobiology. Frontiers Media SA. ISBN 9782889197897."
+  }
+}

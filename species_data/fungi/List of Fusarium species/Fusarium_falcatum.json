@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_falcatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Gibberella"
+    },
+    {
+      "Species": "G. intricans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gibberella intricans is a fungal plant pathogen.  It is an opportunistic pathogen of durians such as  Durio graveolens and D. kutejensis.",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

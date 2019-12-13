@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Viola_hirsutula",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Violaceae"
+    },
+    {
+      "Genus": "Viola"
+    },
+    {
+      "Species": "V. hirsutula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Viola hirsutula, common name southern woodland violet, is a perennial species of violet found in the eastern United States.",
+    "Conservation status": "It is listed extirpated in Indiana, endangered in New York, and as a special concern and believed extirpated in Connecticut.\n\n\n== References =="
+  }
+}

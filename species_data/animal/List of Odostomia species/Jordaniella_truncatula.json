@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Jordaniella_truncatula",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Jordaniella"
+    },
+    {
+      "Species": "J. truncatula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Jordaniella truncatula is a rare  species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The length of the shell varies between 1.5 mm and 4.5 mm.",
+    "Distribution": "This marine species occurs in the following locations:\nEuropean waters (Greenland, Ireland, Atlantic France)\nUnited Kingdom Exclusive Economic Zone\nAtlantic Ocean off the Cape Verdes (at depths between 140 m and 200 m)",
+    "References": "Høisæter, T. (2014). The Pyramidellidae (Gastropoda, Heterobranchia) of Norway and adjacent waters. A taxonomic review. Fauna norvegica. 34: 7-78",
+    "External links": "To CLEMAM\nTo Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

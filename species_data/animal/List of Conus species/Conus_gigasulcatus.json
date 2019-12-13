@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_gigasulcatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. gigasulcatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus gigasulcatus is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of an adult shell varies between 28 mm and 90 mm.",
+    "Distribution": "This species occurs in the Pacific Ocean off Fiji and Vanuatu",
+    "References": "Tucker J.K. (2009). Recent cone species database. September 4, 2009 Edition.\nTucker J.K. & Tenorio M.J. (2009) Systematic classification of Recent and fossil conoidean gastropods. Hackenheim: Conchbooks. 296 pp.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23\nMoolenbeek, R., Röckel, D. & Bouchet, P., 2008. New records and new species of cones from deeper water off Fiji (Mollusca, Gastropoda, Conidae). Vita Malacologica 6: 35-49",
+    "External links": "The Conus Biodiversity website\n\"Asprella gigasulcata\". Gastropods.com. Retrieved 24 July 2011.\nHolotype in MNHN, Paris"
+  }
+}

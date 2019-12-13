@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Whiskered_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. muricola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The wall-roosting mouse-eared bat, or Nepalese whiskered myotis (Myotis muricola) is a species of vesper bat whose type locality is Nepal.",
+    "Taxonomic notes": "Myotis muricola was previously classified as a subspecies of Myotis mystacinus but genetic studies indicate that M. muricola represents a complex of species.",
+    "Morphology": "The upper side of M.muricola is coloured brown or grey with dark bases and the underside has dark bases and light brown tips. The ears are moderately long, slender, bent forwards and bluntly pointed (Francis, 2008). M.muricola has small feet with wing membranes attached at the base of the toes. The tail is long and completely enclosed in the interfemoral membrane. It has three pairs of premolars, with the upper canine much longer than the third premolar. The second premolar is small and slightly intruded from the tooth row (Yasuma, Andau, Apin, Tuh Yit Yu, & Kimsui, 2003).",
+    "Distributions": "Myotis muricola is found in Afghanistan, Bangladesh, Bhutan, Cambodia, India, Indonesia, Laos, Malaysia, Myanmar, Nepal, Pakistan, Papua New Guinea, the Philippines, Thailand, and Vietnam (Simmons, 2005).",
+    "Ecology": "Myotis muricola is a nocturnal and insectivorous bat. It tends to feed during the first two hours after sunset and before dawn, using ultrasonic echolocation (Richardson, 1993). It catches insects in flight or perched on foliage, the ground or a water surface. Small insects are usually caught directly in the mouth, while larger ones are scooped out of the air using the tail membrane and flipped into the mouth, or brought to the mouth with the wing tips (Bonaccooso, 1998). It drinks by swooping low over the surface of a body of water or collecting droplets of water from the roof of tunnels or caves in which it roosts (Richardson, 1993).",
+    "Habitat": "Myotis muricola roosts in a variety of different sites, including curled-up banana leaves (Francis, 2008), limestone forests (Abdullah, Azlan, & Neuchlos, 2005), hollow trees, rock shelters, artificial caves, mines and tunnels, and old buildings (Richardson, 1993).",
+    "Conservation status": "According to the 2008 IUCN Red List of Threatened Species, M.muricola is classified as Least Concern.",
+    "References": "\nAbdullah, M.T.; Azlan, Mohd; Neuchlos, J. (2005). \"Diversity of Chiropterans in limestone forest area, Bau, Sarawak\". Malays. Appl. Biol. 34 (1): 59–64.\nBonaccooso, F.J. (1998). Bats of Papua New Guinea. Washington DC: Conservation International.\nCooper KL, Tabin CJ (January 2008). \"Understanding of bat wing evolution takes flight\". Genes Dev. 22 (2): 121–4. doi:10.1101/gad.1639108. PMC 2731632. PMID 18198331.\nFrancis, C.M., Guillén, A., Robinson, M.F. (1999). Order Chiroptera: Bats. Wildlife of Lao PDR: 1999 Status Report .\nKhan, M.M. (1992). Mamalia Semenanjung Malaysia (in Malay). OCLC 34640593.\nPayne, J.; Francis, C.M.; Phillipps, K. (1994). A Field guide to the Mammals of Borneo. Petaling Jaya: The Sabah Society.\nRichardson, P. (1993). Bats. London: Whittet Books.\nSears KE, Behringer RR, Rasweiler JJ, Niswander LA (2006). \"Development of bat flight: morphologic and molecular evolution of bat wing digits\". Proc. Natl. Acad. Sci. 103 (17): 6581–6. Bibcode:2006PNAS..103.6581S. doi:10.1073/pnas.0509716103. PMC 1458926. PMID 16618938.\nSimmons, N.B. (2005). \"Order Chiroptera\".  In Wilson, D.E.; Reeder, D.M. (eds.). Mammal species of the World: a taxonomic and geographic reference (3rd ed.). Johns Hopkins University Press.\nYasuma, S.; Andau, M.; Apin, L.; Tuh Yit Yu, F.; Kimsui, L. (2003). Identification keys to the mammals of Borneo. Sabah: BBEC Publication."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Caribbean_dove",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Leptotila"
+    },
+    {
+      "Species": "L. jamaicensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Caribbean dove (Leptotila jamaicensis) is a species of bird in the family Columbidae. It is found in the Cayman Islands, Colombia (San Andrés island), Honduras (Bay Islands), Jamaica, and Mexico (Yucatán Peninsula). It has been introduced to New Providence in the Bahamas. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and heavily degraded former forest.",
+    "References": "\n Media related to Leptotila jamaicensis at Wikimedia Commons"
+  }
+}

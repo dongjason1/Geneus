@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Panicum_fauriei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Panicum"
+    },
+    {
+      "Species": "P. fauriei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Panicum fauriei is a species of grass known by the common name Faurie's panicgrass. It is endemic to Hawaii.There are at least three varieties of this grass species. One, var. carteri, Carter's panicgrass (formerly named Panicum carteri) is federally listed as an endangered species of the United States.\n\n\n== References =="
+  }
+}

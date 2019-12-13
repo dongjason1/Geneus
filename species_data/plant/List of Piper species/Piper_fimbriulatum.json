@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_fimbriulatum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. fimbriulatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper fimbriulatum is a species of plant in the family Piperaceae. It is found in Colombia, Costa Rica, and Panama. It is threatened by habitat loss.",
+    "References": "Mitré, M. 1998.  Piper fimbriulatum.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

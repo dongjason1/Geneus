@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yellow-bellied_waxbill",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Estrildidae"
+    },
+    {
+      "Genus": "Coccopygia"
+    },
+    {
+      "Species": "C. quartinia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The yellow-bellied waxbill (Coccopygia quartinia) is species of estrildid finch native to East Africa. The bird is now named yellow-bellied swee.It breeds in east central and south-eastern Africa.  Some taxonomists consider it to be conspecific with the swee waxbill.",
+    "References": "\nClements, J. F., T. S. Schulenberg, M. J. Iliff, B.L. Sullivan, C. L. Wood, and D. Roberson. 2012. The eBird/Clements checklist of birds of the world: Version 6.7. Downloaded from [1]"
+  }
+}

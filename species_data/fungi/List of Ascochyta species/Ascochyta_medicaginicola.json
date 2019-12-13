@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_medicaginicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Didymellaceae"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. medicaginicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta medicaginicola (syn. Phoma medicaginis) is a plant pathogen infecting alfalfa, lentil and chickpea. One particular disease is Spring black stem.",
+    "See also": "List of Ascochyta species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

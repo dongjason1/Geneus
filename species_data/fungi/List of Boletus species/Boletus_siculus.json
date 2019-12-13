@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_siculus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. siculus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus siculus is a pored mushroom of the Boletaceae family. The European species was described as new to science in 1869 by Italian botanist Giuseppe Inzenga.",
+    "See also": "List of Boletus species",
+    "References": "",
+    "External links": "Boletus siculus  in Index Fungorum"
+  }
+}

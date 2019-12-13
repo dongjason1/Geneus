@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_sulcatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Typhlops"
+    },
+    {
+      "Species": "T. sulcatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The island worm snake (Typhlops sulcatus) is a species of snake in the Typhlopidae family.",
+    "Geographic range": "It is believed to be endemic to southwestern Hispaniola including Navassa Island, an uninhabited island located in the Caribbean.",
+    "Conservation status": "Extinct on Navassa Island, where the species became a casualty of human interference and feral predators, such as rodents, cats, dogs and goats that were introduced during the large-scale mining period on this small island during the 1800s.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_muelleriana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. muelleriana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia muelleriana is a species of Acacia native to eastern Australia.",
+    "Etymology & naming": "Joseph Maiden and Richard Baker first described the species in 1893 from a specimen found at the \"Foot of ranges forming the southern watershed of the western branches of the Hunter River, New South Wales\", and gave it the specific epithet, muelleriana,  to honour Ferdinand von Mueller.",
+    "See also": "List of Acacia species\n\n\n== References =="
+  }
+}

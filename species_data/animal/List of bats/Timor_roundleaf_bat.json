@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Timor_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. crumeniferus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Timor roundleaf bat (Hipposideros crumeniferus) is a species of bat in the family Hipposideridae. It is endemic to Indonesia.\n\n\n== Sources =="
+  }
+}

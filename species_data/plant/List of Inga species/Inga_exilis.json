@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_exilis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. exilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga exilis is a species of legume in the family Fabaceae.\nIt is found only in Brazil.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Inga exilis\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38253A10108031. doi:10.2305/IUCN.UK.1998.RLTS.T38253A10108031.en. Retrieved 16 December 2017."
+  }
+}

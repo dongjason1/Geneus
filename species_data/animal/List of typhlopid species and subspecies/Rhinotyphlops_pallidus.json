@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_pallidus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. pallida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Zanzibar beaked snake (Letheobia pallida) is a species of blind snake in the Typhlopidae family. It is endemic to Africa.",
+    "Notes": "",
+    "References": "Cope, E.D. 1869. Observations on REPTILES of the Old World. Art. II. Proc. Acad. Nat. Sci. Philadelphia, Volume \"1868\" [20]:316-323.\nBroadley, Donald G.; Wallach, Van (2007). \"A review of East and Central African species of Letheobia Cope, revived from the synonymy of Rhinotyphlops Fitzinger, with descriptions of five new species (Serpentes: Typhlopidae)\". Zootaxa. 1515 (1515): 31–68. doi:10.11646/zootaxa.1515.1.2. Abstract"
+  }
+}

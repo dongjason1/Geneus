@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Armillaria_sinapina",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Physalacriaceae"
+    },
+    {
+      "Genus": "Armillaria"
+    },
+    {
+      "Species": "A. sinapina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Armillaria sinapina is a species of mushroom in the family Physalacriaceae. A plant pathogenic fungus, it causes  Armillaria root disease, and has been found on a variety of tree hosts in Alaska. The mycelium of the fungus is bioluminescent.",
+    "See also": "List of Armillaria species\nList of bioluminescent fungi\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Agave_demeesteriana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Agavoideae"
+    },
+    {
+      "Genus": "Agave"
+    },
+    {
+      "Species": "A. demeesteriana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Agave demeesteriana is a species reported as native to the Mexican states of Sinaloa and Veracruz and reportedly naturalized in Florida.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_meridionalis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Homobasidiomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. meridionalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe meridionalis is a psychedelic mushroom which has psilocybin and psilocin as main active compounds.   This mushroom is closely related to Psilocybe stuntzii but can be distinguished by its smaller spores and the presence of pleurocystidia.  This is the only species of Psilocybe from section Stuntzii which has been found in Mexico.    It is known only from the type location in Neverias, Sierra de Cacoma, Jalisco, Mexico.",
+    "Distribution and habitat": "Found in Oak and Pine subtropical forests in the western mountains of Jalisco, Mexico.  The holotype was collected at 2,200 meters elevation.",
+    "References": "Guzmán, Gastón, Laura Guzmán-Dávalos, Florencia Ramírez-Guillén & María del Refugio Sánchez-Jácome 2008: A new bluing species of Psilocybe – the first record of section Stuntzii for Mexico. - Mycotaxon 103: 27-31. 2008."
+  }
+}

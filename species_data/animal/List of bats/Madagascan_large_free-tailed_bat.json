@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Madagascan_large_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Tadarida"
+    },
+    {
+      "Species": "T. fulminans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Madagascan large free-tailed bat (Tadarida fulminans) is a species of bat in the family Molossidae. It is found in Democratic Republic of the Congo, Kenya, Madagascar, Malawi, Rwanda, South Africa, Tanzania, Zambia, and Zimbabwe. Its natural habitats are dry savanna and moist savanna.\n\n\n== References =="
+  }
+}

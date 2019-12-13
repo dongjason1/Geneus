@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malaysian_giant_turtle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Testudinoidea"
+    },
+    {
+      "Family": "Geoemydidae"
+    },
+    {
+      "Genus": "OrlitiaGray, 1873"
+    },
+    {
+      "Species": "O. borneensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Bornean giant turtle (Orlitia borneensis) is a species of turtles in the family Bataguridae. It is monotypic within the genus Orlitia. It is found in Indonesia and Malaysia.\n\n\n== References =="
+  }
+}

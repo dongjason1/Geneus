@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large-eared_pied_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Chalinolobus"
+    },
+    {
+      "Species": "C. dwyeri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large-eared pied bat (Chalinolobus dwyeri) is a species of vesper bat in the family Vespertilionidae.\nThis vulnerable mammal can be found in Australia.",
+    "See also": "\nThreatened fauna of Australia\nList of bats of Australia\n\n\n== References =="
+  }
+}

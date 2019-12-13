@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Geoffroy's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. clivosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Geoffroy's horseshoe bat (Rhinolophus clivosus) is a species of bat in the family Rhinolophidae found in Africa. Its natural habitats are subtropical or tropical moist lowland forest, Mediterranean-type shrubby vegetation, caves, subterranean habitats (other than caves), and hot deserts.\n\n\n== References =="
+  }
+}

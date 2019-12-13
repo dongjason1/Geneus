@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_tenuipes",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. tenuipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus tenuipes, known as the narrow-leafed white mahogany, is a eucalyptus tree species of northern Australia, considered to be vulnerable.",
+    "References": "",
+    "External links": "Atlas of Living Australia"
+  }
+}

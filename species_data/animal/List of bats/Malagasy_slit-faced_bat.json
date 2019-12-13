@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malagasy_slit-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Nycteridae"
+    },
+    {
+      "Genus": "Nycteris"
+    },
+    {
+      "Species": "N. madagascariensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malagasy slit-faced bat, (Nycteris madagascariensis) is a species of slit-faced bat in Madagascar. Very little is known about this species.\n\n\n== References =="
+  }
+}

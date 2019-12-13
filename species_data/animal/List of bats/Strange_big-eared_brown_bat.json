@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Strange_big-eared_brown_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Histiotus"
+    },
+    {
+      "Species": "H. alienus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The strange big-eared brown bat (Histiotus alienus), is a bat species from South America. It is found in Brazil.\n\n\n== References =="
+  }
+}

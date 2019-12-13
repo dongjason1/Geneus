@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Elephas_platycephalus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Proboscidea"
+    },
+    {
+      "Family": "Elephantidae"
+    },
+    {
+      "Genus": "Elephas"
+    },
+    {
+      "Species": "†E. platycephalus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Elephas platycephalus is an extinct species of large herbivorous mammals that were closely related to Asian elephants. It lived between 130,000 and 700,000 years ago during the Middle Pleistocene epoch. Fossils have been found in the upper Sivalik Hills..",
+    "Taxonomy": "Author and researcher Vincent Maglio suspected that another species, Mammuthus meridionalis (syn. Elephas planifrons), was a direct ancestor of E. platycephalus since both of the species appear quite similar. However, upon closely studying the fronto-parietal region of the skull as well as upper molars of the specimens belonging to both species, it was concluded that the two species differed radically.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Curry's_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Glauconycteris"
+    },
+    {
+      "Species": "G. curryae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Curry's bat (Glauconycteris curryae) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Cameroon and Democratic Republic of the Congo.\nIts natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical swamps.\nThe specific name was originally curryi, but it was emended to be curryae in accordance with §31.1.2 of the ICZN Code.",
+    "References": "",
+    "Further reading": "Eger, Judith (2013). \"Glauconycteris curryae Curry's Butterfly Bat\".  In Happold, Meredith; Happold, David C. D. (eds.). Hedgehogs, Shrews and Bats. Mammals of Africa. 4. London: Bloomsbury. pp. 567–568."
+  }
+}

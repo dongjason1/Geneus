@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrochilus_biakensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Pythonidae"
+    },
+    {
+      "Genus": "Bothrochilus"
+    },
+    {
+      "Species": "B. biakensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Biak whitelip python (Bothrochilus biakensis) is a species of snakes of the family Pythonidae.",
+    "Geographic range": "The snake is found in Biak, Indonesia.",
+    "References": "\nSpecies Bothrochilus biakensis at The Reptile Database"
+  }
+}

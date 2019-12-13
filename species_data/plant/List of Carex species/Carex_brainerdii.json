@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_brainerdii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Species": "C. brainerdii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex brainerdii, or Brainerd's sedge, is a species of sedge that was first described by Kenneth Mackenzie in 1913. It is native to California and Oregon.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mt._Missim_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Nyctophilus"
+    },
+    {
+      "Species": "N. shirleyae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mount Missim long-eared bat (Nyctophilus shirleyae) is a species of slit-faced bat found in Papua New Guinea.",
+    "Taxonomy and etymology": "The Mount Missim long-eared bat was described as a new species by H. Parnaby in 2009.\nThe holotype had been collected in 1988 on Mount Missim by H. Parnaby.\nThe eponym for the species name \"shirleyae\" was H. Parnaby's mother, Shirley Jean Parnaby.\nH. Parnaby wrote that she was \"a great admirer of the people of the Papua New Guinea nation and its biodiversity,\" in addition to a supporter of his childhood interest in mammals.",
+    "Description": "Its forearm length is approximately 46.8 mm (1.84 in).\nIndividuals weigh 11.5–13 g (0.41–0.46 oz).",
+    "Range and habitat": "It is endemic to Papua New Guinea.\nIt has been documented at elevations between 500–1,700 m (1,600–5,600 ft) above sea level.",
+    "Conservation": "As of 2017, it is assessed as a data deficient species by the IUCN.\nIt is characterized as \"very poorly known,\" though it suspected that its population size is decreasing due to habitat destruction.\nAdditional surveys are necessary to determine its range and abundance.\n\n\n== References =="
+  }
+}

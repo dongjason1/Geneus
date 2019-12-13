@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_cossignanii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. cossignanii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus cossignanii is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This species occurs in the Atlantic Ocean off the island of Maio, Cape Verde.",
+    "References": "Cossignani T. & Fiadeiro R. (2014). Quattro nuovi coni da Capo Verde. Malacologia Mostra Mondiale. 83: 14-19.",
+    "External links": "To World Register of Marine Species\n\"Africonus cossignanii\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

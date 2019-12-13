@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trametes_nivosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Polyporales"
+    },
+    {
+      "Family": "Fomitopsidaceae"
+    },
+    {
+      "Genus": "Trametes"
+    },
+    {
+      "Species": "Trametes nivosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trametes nivosa is a fungal plant pathogen affecting pears and nectarines.",
+    "See also": "List of Trametes species\n\n\n== References =="
+  }
+}

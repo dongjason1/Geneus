@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_linearis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. linearis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera linearis, commonly called the slenderleaf sundew, is a sundew found in the Great Lakes region of North America, in Canada and the United States, such as Michigan, and in Montana. It is usually no more than four inches tall.",
+    "See also": "List of Drosera species",
+    "References": "",
+    "External links": " Media related to Drosera linearis at Wikimedia Commons"
+  }
+}

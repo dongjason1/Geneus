@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_odini",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. odini"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus odini is a species of mushroom in the Cortinariaceae family.",
+    "See also": "\nList of Gymnopilus species"
+  }
+}

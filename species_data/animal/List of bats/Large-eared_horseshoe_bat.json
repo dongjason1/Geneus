@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large-eared_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. philippinensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large-eared horseshoe bat (Rhinolophus philippinensis) is a species of bat in the family Rhinolophidae. It is found in Australia, Indonesia, Malaysia, Papua New Guinea, and the Philippines.\n\n\n== References =="
+  }
+}

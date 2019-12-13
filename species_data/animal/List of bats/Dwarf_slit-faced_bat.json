@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dwarf_slit-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Nycteridae"
+    },
+    {
+      "Genus": "Nycteris"
+    },
+    {
+      "Species": "N. nana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The dwarf slit-faced bat (Nycteris nana) is a species of slit-faced bat living in forest and savanna regions of Central Africa. Two subspecies have been noted: N. n. nana and N. n. tristis.",
+    "Range": "This species can be found in West, Central, and East Africa. Its range goes from Côte d'Ivoire and Ghana in the west, to Cameroon and the Democratic Republic of the Congo, from Rwanda and Burundi to Uganda and western Kenya, and to the south it ranges as far south as northern Angola. Its generally a lowland species.",
+    "Habitat": "Its habitat has been recorded from both dry and moist lowland forest, gallery forest, and moist savanna. It has been found roosting in standing trees in small family groups.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Racinaea_pendulispica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Racinaea"
+    },
+    {
+      "Species": "R. pendulispica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Racinaea pendulispica is a plant species in the genus Racinaea. This species is native to Bolivia.",
+    "References": "Checklist of Bolivian Bromeliaceae Retrieved 21 October 2009"
+  }
+}

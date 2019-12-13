@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Kanaka_pigeon",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Caloenas"
+    },
+    {
+      "Species": "C. canacorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Kanaka pigeon (Caloenas canacorum), also called the great green pigeon or greater maned pigeon, is extinct. It was probably hunted to extinction by the early settlers of New Caledonia and Tonga around 2500 years ago. It was described from subfossil remains found at the Pindai Caves of New Caledonia.  The specific epithet is a latinisation of kanaka, the name of the native Melanesian people of New Caledonia.  It was about  25% larger than its closest living relative, the Nicobar pigeon.\n\n\n== References =="
+  }
+}

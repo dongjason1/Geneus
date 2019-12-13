@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_bicolor",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Tricheilostoma"
+    },
+    {
+      "Species": "T. bicolor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The two-colored blind snake (Tricheilostoma bicolor) is a species of snake in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

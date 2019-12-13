@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corymbia_petalophylla",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Corymbia"
+    },
+    {
+      "Species": "C. petalophylla"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corymbia petalophylla is a member of the tree genus Corymbia native to Queensland.",
+    "See also": "List of Corymbia species\n\n\n== References =="
+  }
+}

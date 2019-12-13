@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_freii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. freii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium freii is a psychrophilic species of the genus of Penicillium which produces xanthomegnin and patulin. Penicillium freii occurs in meat, meat products, barley and wheat",
+    "Further reading": "Nicolaisen, M.; Geisen, R. (1996). \"Transformation of Penicillium freii and a rapid PCR screening procedure for cotransformation events\". Microbiological Research. 151 (3): 281–4. doi:10.1016/S0944-5013(96)80025-5. PMID 8817919.\nQ. Ashton Acton (2013). Issues in Bioengineering and Bioinformatics: 2013 Edition. ScholarlyEditions. ISBN 1490106057.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

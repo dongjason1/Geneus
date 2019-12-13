@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Crinum_moorei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Amaryllidoideae"
+    },
+    {
+      "Genus": "Crinum"
+    },
+    {
+      "Species": "C. moorei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Crinum moorei is a herbaceous plant belonging to the family Amaryllidaceae, and native to South Africa (the Cape Provinces and KwaZulu-Natal).\n\n\n== References =="
+  }
+}

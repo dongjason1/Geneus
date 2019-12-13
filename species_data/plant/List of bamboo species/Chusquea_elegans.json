@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chusquea_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Chusquea"
+    },
+    {
+      "Species": "C. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Chusquea elegans is a bamboo species in the genus Chusquea.\nIt is native to Paraná (state) in Brazil.",
+    "References": "\n\n== External links =="
+  }
+}

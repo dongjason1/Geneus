@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Makira_woodhen",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "Gallinula"
+    },
+    {
+      "Species": "G. silvestris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Makira woodhen (Gallinula silvestris), also known as the Makira moorhen, is a species of bird in the family Rallidae.  It is endemic to Solomon Islands.  Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest.\nIt is critically endangered and sometimes considered extinct from habitat loss and predation by feral cats. The last recorded sighting was from 1953.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

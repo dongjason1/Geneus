@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_neoechinulatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. neoechinulatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium neoechinulatum is a species of fungi in the genus Penicillium which produces patulin.\n\n\n== References =="
+  }
+}

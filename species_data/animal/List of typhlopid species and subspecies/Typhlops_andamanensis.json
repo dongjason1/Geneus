@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_andamanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. andamanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Andaman worm snake (Gerrhopilus andamanensis) is a species of harmless blind snake in the family Gerrhopilidae. The species is endemic to the Andaman Islands. No subspecies are currently recognized.",
+    "Geographic range": "It is found in the Andaman Islands in the Bay of Bengal. The type locality given is \"Andaman Islands\".",
+    "References": "\n\n== Further reading =="
+  }
+}

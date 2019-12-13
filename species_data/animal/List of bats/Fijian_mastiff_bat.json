@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fijian_mastiff_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Chaerephon"
+    },
+    {
+      "Species": "C. bregullae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Fijian mastiff bat  (Chaerephon bregullae) is a species of bat in the family Molossidae. It is found in Fiji and Vanuatu. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.\n\n\n== References =="
+  }
+}

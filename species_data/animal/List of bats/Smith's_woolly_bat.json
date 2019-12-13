@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Smith's_woolly_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Kerivoula"
+    },
+    {
+      "Species": "K. smithii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Smith's woolly bat (Kerivoula smithii) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Cameroon, Democratic Republic of the Congo, Kenya, Nigeria, and Uganda.\nIts natural habitats are subtropical or tropical dry forests, subtropical or tropical moist lowland forests, subtropical or tropical swamps, and subtropical or tropical moist montane forests.\n\n\n== References =="
+  }
+}

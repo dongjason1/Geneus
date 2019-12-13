@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_palitans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. palitans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium palitans is an anamorph species of fungus in the genus Penicillium which was isolated from cheese and ancient permafrost deposits. Penicillium palitans produces viridicatin, cyclopiazonic acid, roquefortine, palitantin and ochratoxin A",
+    "Further reading": "Lund, F. (1995). \"Diagnostic characterization of Penicillium palitans, P. Commune and P. Solitum\". Letters in Applied Microbiology. 21: 60. doi:10.1111/j.1472-765X.1995.tb01007.x.\nRobert Samson (2013). Advances in Penicillium and Aspergillus Systematics. Springer Science & Business Media. ISBN 1-4757-1856-X.\nLarry R. Beuchat (1987). Food and Beverage Mycology. Springer Science & Business Media. ISBN 0-442-21084-1.\n\n\n== References =="
+  }
+}

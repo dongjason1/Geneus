@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrocophias_hyoprora",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrocophias"
+    },
+    {
+      "Species": "B. hyoprora"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrocophias hyoprora, or the Amazonian toad-headed pitviper, is a species of venomous snake in the  family Viperidae. It is endemic to northwestern South America.",
+    "Geographic range": "It is found in Bolivia, Brazil (in the states of Acre, Amazonas, Pará, and Rondônia), Colombia, Ecuador, and Peru.",
+    "References": "",
+    "Further reading": "Amaral, A.P. 1935. Estudos sobre ophídios neotropicos XXXIII. Novas especies de ophídios da Colombia. Memórias do Instituto Butantan 9 : 219-223 + 1 Plate."
+  }
+}

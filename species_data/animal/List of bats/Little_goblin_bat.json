@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Little_goblin_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mormopterus"
+    },
+    {
+      "Subgenus": "Mormopterus"
+    },
+    {
+      "Species": "M. minutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The little goblin bat (Mormopterus minutus) is a species of bat in the family Molossidae, the free-tailed bats. It is endemic to Cuba.This bat is vulnerable due to habitat loss and degradation. During the day it can be found roosting in the palm tree Copernicia gigas and in human-made structures. The diet of this bat is entirely composed of insects. It hunts insects using echolocation, emitting a variable pattern of calls.",
+    "Description": "Its total body length is 71 mm (2.8 in).\nThe fur is short and dense, with individual hairs about 3 mm (0.12 in) long.\nThe face lacks fur except for a sparse layer of fine hairs.\nThe wing membranes on both sides of the body are furred close to the abdomen.\nThe uropatagium has hair on both sides.\nIts forearm is approximately 30 mm (1.2 in) long.\nIts ears are small and pointed at the tips.\nThe tragus is short, at 4 mm (0.16 in).\nIts dental formula is 1.1.1.32.1.2.3, for a total of 28 teeth.",
+    "Distribution": "M. minutus is the only species of bat endemic to Cuba. Specimens have been collected from Trinidad, Cuba (type locality), as well as the Cuban municipalities of Omaja and Guaro (near Preston).\nIn 1911, Glover Morrill Allen hypothesized that the ancestor of the little goblin bat originated in Central America, and dispersed to Cuba by way of the Yucatan land bridge, which no longer exists. \nThis hypothesis of Cuban Mormopterus originating in Central America was echoed by Karl Koopman in 1989, as per Mancina 2007.",
+    "Taxonomic history": "The species was described by Gerrit Smith Miller, Jr. in 1899 and initially placed in the genus Nyctinomus. This species's holotype is a male specimen collected by Frank M. Chapman of the American Museum of Natural History. Miller notes Chapman had identified this specimen as Nyctinomus brasiliensis in an earlier paper. The specific epithet minutus is Latin for \"small, paltry\"; Miller wrote in his species description that it was the \"smallest known species of Nyctinomus\". In 1907, Miller classified this species in the genus Mormopterus.The Mormopterus genus is further divided into species group, which classify members of the genus based on how closely related they are. The little goblin bat is placed in the kalinowskii group, which also contains the following species:\nKalinowski's mastiff bat (Mormopterus kalinowskii)\nIncan little mastiff bat (Mormopterus phrudus)",
+    "Biology": "It is insectivorous, locating insects while in flight using echolocation.\nThis species has the ability to change its echolocation style based on the environment that it is in.\nThe parasite Ochoterenatrema breckenridgei, a trematode in the order Plagiorchiida, has been found in its digestive tract.\nO. breckenridgeii uses mosquitoes as intermediate hosts; when bats eat the mosquitoes, the parasites are able to mature into adults within their intestines.",
+    "Conservation": "As of 2017, it is listed as vulnerable by the IUCN.\nIt meets the criteria for this assessment because its area of occupancy is less than 2,000 km2 (770 sq mi), and there is a projected decline in the extent and quality of its habitat.\nIts population is decreasing.\nA main threat to this species is habitat destruction.\nSome disagree with the IUCN's assessment of the species, asserting that it should instead be listed as near threatened.",
+    "References": "\n\n== Further reading =="
+  }
+}

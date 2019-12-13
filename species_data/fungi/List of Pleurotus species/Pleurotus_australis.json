@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurotus_australis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Pleurotaceae"
+    },
+    {
+      "Genus": "Pleurotus"
+    },
+    {
+      "Species": "P. australis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pleurotus australis, the brown oyster mushroom, is a gilled fungus native to Australia and New Zealand.  It is found on dead wood.  Although morphologically similar to some other Pleurotus fungi, it has been shown to be a distinct species incapable of cross-breeding.",
+    "See also": "List of Pleurotus species",
+    "References": "",
+    "External links": "Biological Species in Pleurotus: ISG XIV. Pleurotus australis at University of Tennessee-Knoxville Mycology Lab\n\"Pleurotus australis (Cooke & Massee) Sacc\". Atlas of Living Australia."
+  }
+}

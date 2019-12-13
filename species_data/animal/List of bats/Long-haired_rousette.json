@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Long-haired_rousette",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Rousettus"
+    },
+    {
+      "Species": "R. lanosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The long-haired rousette (Rousettus lanosus) is a species of megabat in the family Pteropodidae found in the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Sudan, Tanzania, and Uganda. Its natural habitat is subtropical or tropical moist montane forests.\n\n\n== References =="
+  }
+}

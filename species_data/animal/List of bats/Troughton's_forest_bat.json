@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Troughton's_forest_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Vespadelus"
+    },
+    {
+      "Species": "V. troughtoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The eastern cave bat or Troughton's forest bat (Vespadelus troughtoni) is a species of vesper bat in the family Vespertilionidae. It is found only in Australia. This bat lives in caves along the east coast of Australia and in adjacent inland ranges.\n\n\n== References =="
+  }
+}

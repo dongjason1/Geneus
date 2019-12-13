@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_ustus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. ustus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus ustus is a microfungus and member of the division Ascomycota. It is commonly found in indoor environments and soil. Isolated cases of human infection resulting from A. ustus have been described; however the majority of these are nail infections.",
+    "Identification and taxonomy": "",
+    "Identification and taxonomy-Morphology and physiology": "Colonies of A. ustus appear dull brown sometimes with a purplish to grey brown or dark brown with a yellow to brown reverse side; colonies are flat to furrowed often with a cental bump. Microscopically, the fungus is characterized by elongated conidial heads with bent Hülle cells scattered throughout the pigmented mycelium.  The conidia are rough-walled and spherical, ranging in color from green to yellow-brown. The vesicles range from 7–15 μm in diameter and are hemispherical to almost round.  Although A. ustus is able to grow at human body temperature, other species in this group, such as A. baeticus and A. pseudoustus, require relatively low temperature for growth and thus are unlikely to cause human infection.",
+    "Identification and taxonomy-Secondary metabolites": "Despite that A. ustus has long been recognized as a common soil-associated fungus, knowledge of its biochemistry remained poor until recently. One of the first metabolites to be isolated and characterized from this fungus, ustic acid (C11H7O7), reacts with Iron (III) chloride to form a deep purple-colored compound. Ustic acid has since been shown to occur in other fungi, notably closely related Aspergilli such as A. granulosus and A. puniceus. Aspergillus ustus produce a number of other metabolites including autocystins (and versicolourins), austalides, a sterigmatocystin-like chemical, and nidulol. Some metabolites of A. ustus have antibacterial properties. Metabolite chemistry has been shown to be useful for the taxonomy and identification of this fungus.",
+    "Identification and taxonomy-Phylogenetic position": "Like other members of the genus Aspergillus, the A. ustus group is affiliated with the family Trichocomaceae. A phylogenetic study of Aspergillus section Usti using morphology, secondary metabolite chemistry and gene sequencing (beta-tubulin and calmodulin) revealed 21 distinct species and showed an affiliation of the section with two teleomorph genera, Emericella and Fennellia.",
+    "Ecology": "Aspergillus ustus has been found on the surfaces of walls of caves and in indoor air of buildings including hospitals, soils and bat dung. A sugarcane farm in Egypt was found to host A. ustus  and other species of Aspergillus section Usti. Aspergillus ustus is thought to have a world-wide distribution. Species in the A. usti group have been isolated from caves (e.g., Aspergillus baeticus was isolated from the floors of the Grotto of the Marvels cave).",
+    "Human infection": "The most common clinical presentations of A. ustus infection involve onychomycosis and otitis media. It only rarely found to cause serious infection (e.g., endocarditis, pneumonia, disseminated disease), typically as an opportunist in severely immunocompromised people, often secondary to immunosuppressive chemotherapy following hematopoietic stem cells transplant. Mortality is high (50%) and survival is generally short (e.g., eight days). The apparent recent increase in serious infections coupled with the propensity of this species to resist antifungal therapy has raised concern about A. ustus as an emerging agent of opportunistic fungal infection. However, the true incidence of A. ustus infection is very difficult to estimate based on challenges and inconsistencies with identifying this agent in the clinical setting, and the patchy nature of reporting. The fungus is thought to spread through air and water, and be passed on surfaces (where spores settle).",
+    "Human infection-Management and treatment": "This species shows elevated resistance to antifungal drugs; however, four classes of drugs (itraconazole (a triazole), voriconazole, caspofungin and amphotericin B) demonstrate fungicidal effectiveness that is most pronounced in combination. One promising regimen combines voriconazole and caspofungin. Although disseminated infection carries a high mortality rate, the response of skin to treatment varies depending on the degree of drug susceptibility exhibited by the particular strain.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cyperus_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Cyperus"
+    },
+    {
+      "Species": "C. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cyperus elegans, the royal flatsedge, is a sedge species in the genus Cyperus from Central and South America.",
+    "See also": "List of flora of the Sonoran Desert Region by common name",
+    "References": "\n\n== External links =="
+  }
+}

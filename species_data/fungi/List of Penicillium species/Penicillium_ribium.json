@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_ribium",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. ribium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium ribium is a  psychrotolerant species of the genus of Penicillium which was isolated from the Rocky Mountains in Wyoming, in the United States. Penicillium ribium produces asperfuran, kojic acid and cycloaspeptide.",
+    "Further reading": "Robert V. Miller, Lyle Whyte (2011). Polar Microbiology: Life in a Deep Freeze. American Society for Microbiology Press. ISBN 1555816045.\nFrisvad, J. C.; Larsen, T. O.; Dalsgaard, P. W.; Seifert, K. A.; Louis-Seize, G; Lyhne, E. K.; Jarvis, B. B.; Fettinger, J. C.; Overy, D. P. (2006). \"Four psychrotolerant species with high chemical diversity consistently producing cycloaspeptide A, Penicillium jamesonlandense sp. nov., Penicillium ribium sp. nov., Penicillium soppii and Penicillium lanosum\". International Journal of Systematic and Evolutionary Microbiology. 56 (Pt 6): 1427–37. doi:10.1099/ijs.0.64160-0. PMID 16738124.\n\n\n== References =="
+  }
+}

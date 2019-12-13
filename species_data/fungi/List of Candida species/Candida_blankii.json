@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_blankii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Subphylum": "Saccharomycotina"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. blankii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida blankii is a species of budding yeast (Saccharomycotina) in the family Saccharomycetaceae. The yeast may be a dangerous pathogen and resistant to treatment in human hosts. Research on the fungi has therapeutic, medical and industrial implications.",
+    "Taxonomy": "Candida blankii was discovered in the 1960s, after the analysis of the organs of infected mink in Canada by F. Blank. These mink were infected with the unknown yeast, and all died from mycosis. It was described in 1968 by H. R. Buckley and N. van Uden, who named it in honour of Blank. The description was published in the journal Mycopathologia et Mycologia Applicata, along with descriptions of four other new species.",
+    "Identification": "On Sabouraud dextrose agar, C. blankii isolates present as typical yeast, i.e., cream-colored colonies, which then tend toward pink and later dark blue. Blood sample DNA sequencing of the 26S ribosomal subunit can definitively identify C. blankii.",
+    "Ecology": "In nature, Candida blankii forms symbiotic relationships with other organisms. An Indian study of seven bee species and 9 plant species found 45 yeast species from 16 genera colonise the nectaries of flowers and honey stomachs of bees. Most were members of the genus Candida; the most common species in honey bee stomachs was Dekkera intermedia, while the most common species colonising flower nectaries was C. blankii. Although the mechanics are not fully understood, it was found that Azadirachta indica flowers more if C. blankii are present.",
+    "Ecology-Human pathology": "A few human infections of Candida blankii have been found. Their existence suggests that the condition may have been under-reported. In 2015, the yeast was found in the airways of a patient with cystic fibrosis; this was the first recorded case of C. blankii infection in humans. A second case was reported in 2018. The fungus proved resistant to treatment with antifungals. The yeast was characterized as \"an opportunist pathogen for lung transplant and/or CF patients\". Because of its resistance, it was said to warrant further study. Different strains, it was suggested, should also be studied \"to increase knowledge of genetic diversity and antifungal susceptibility profile\".Fungal blood-stream infections (fungaemia) have been newly associated with C blankii. Polyene antifungals have been identified as a possible treatment.The species has been detected in meat intended for human consumption, including Iberian ham.",
+    "Biotechnology": "Like many yeasts, Candida blankii has been the subject of various biotechnological studies, including for use as a BOD biosensor. The metabolic process of C. blankii is aerobic. Consequently, it oxidizes many forms of alcohol, amino acid, carbohydrates, and other organic compounds. As a BOD biosensor, practical applications may be limited due to short term effectiveness.A diploid isolate of C. blankii had an observed \"potential for use in single cell protein production from hemicellulose hydrolysates\", which is related to Cellulosic ethanol (i.e., ethanol production).This yeast is one of several studied extensively for use in xylose fermentation.C. blankii has been tested as an aid for the degradation of hemicellulose hydrolycates. C. blankii \"cultivated on a mixture of n-paraffins (6% vol/vol) has been shown to produce fumaric acid\", which could be important in ethanol production, once the process is worked out.",
+    "Notes": "",
+    "References": "",
+    "Further reading": "\"Journal of Fermentation Technology\". 60. Society of Fermentation Technology, Japan. 1982: 89.",
+    "External links": "Candida blankii on MycoBank\nCandida blankii on Index Fungorum\nCandida blankii MicrobeWiki, Boston University"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_thai",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. thai"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes thai is a tropical pitcher plant endemic to peninsular Thailand. It grows on limestone hills at elevations of 500–600 m above sea level.Nepenthes thai has no known natural hybrids.",
+    "References": "Mey, F.S. 2014. 'Nepenthes of Indochina', my 2010 ICPS lecture now on Youtube. Strange Fruits: A Garden's Chronicle, February 3, 2014.",
+    "External links": "Nepenthes of Indochina"
+  }
+}

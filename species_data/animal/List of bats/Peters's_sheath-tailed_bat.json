@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peters's_sheath-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Paremballonura"
+    },
+    {
+      "Species": "P. atrata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peters's sheath-tailed bat (Paremballonura atrata) is a species of sac-winged bat in the family Emballonuridae. It is found only in Madagascar. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

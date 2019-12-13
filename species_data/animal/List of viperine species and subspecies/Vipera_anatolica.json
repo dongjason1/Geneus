@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vipera_anatolica",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Vipera"
+    },
+    {
+      "Species": "V. anatolica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Vipera anatolica, commonly known as the Anatolian meadow viper, is a species of venomous snake of the family Viperidae.",
+    "Geographic range": "The snake is found in southwestern Turkey.\n\n\n== References =="
+  }
+}

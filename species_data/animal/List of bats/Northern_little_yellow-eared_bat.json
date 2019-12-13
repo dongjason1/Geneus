@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Northern_little_yellow-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Vampyressa"
+    },
+    {
+      "Species": "V. thyone"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The northern little yellow-eared bat (Vampyressa thyone) is a bat species from South and Central America, where it is found from southern Mexico to Bolivia, the Guianas and western Brazil.\n\n\n== References =="
+  }
+}

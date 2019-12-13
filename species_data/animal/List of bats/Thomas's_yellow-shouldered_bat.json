@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Thomas's_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. thomasi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Thomas's yellow-shouldered bat (Sturnira thomasi) is a species of bat in the family Phyllostomidae. It is endemic to Guadeloupe.  It is threatened by habitat loss. STATUS: Extremely rare in the northern Lesser Antilles - Sturnira is relatively uncommon on many of the Antillean islands where it does occurs and unlike some fruit bats it needs native humid forest instead of tropical agriculture to flourish.  The genus Sturnira is known from 6 islands in the Lesser Antilles with Montserrat being the furthest north, with this subspecies S. t. vulcanensis being known only from Montserrat being first reported by Pedersen et al. (1996). The subspecific name refers to the Soufrière that has seriously damaged natural habitat and the lives of the citizens of Montserrat with its recent eruptions. Only two examples of the very rare bat have been mist-netted on Montserrat - 1 in 1994 by Pedersen in the Paradise Estate area and another in 2005 by Pedersen in Bottomless Ghaut.\nIDENTIFICATION: The fur of this animal is uniformly grayish brown dorsally and ventrally and lacks the \"yellow shoulder\" characteristic of the genus",
+    "References": "\nTwo new subspecies of bats of the genus Sturnira form the Lesser Antilles. Occasional Papers, Museum of Texas Tech University, Number 176, 1998. Hugh H. Genoways"
+  }
+}

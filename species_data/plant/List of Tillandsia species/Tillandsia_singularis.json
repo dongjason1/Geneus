@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_singularis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Allardtia"
+    },
+    {
+      "Species": "T. singularis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia singularis is a species in the genus Tillandsia. This species is native to Costa Rica.",
+    "References": "An Annotated Checklist of the Bromeliaceae of Costa Rica retrieved 3 November 2009"
+  }
+}

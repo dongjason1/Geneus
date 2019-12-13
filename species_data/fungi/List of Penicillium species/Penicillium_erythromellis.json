@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_erythromellis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. erythromellis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium erythromellis is an anamorph species of the genus of Penicillium.",
+    "Further reading": "Rupérez, P.; Leal, J. A. (1986). \"Age-related changes in Penicillium erythromellis cell wall\". Transactions of the British Mycological Society. 86 (2): 279. doi:10.1016/S0007-1536(86)80157-7.\nRupérez, P.; Gómez-Miranda, B.; Leal, J. A. (1983). \"Extracellular β-malonoglucan from Penicillium erythromellis\". Transactions of the British Mycological Society. 80 (2): 313. doi:10.1016/S0007-1536(83)80015-1.\nFrisvad (1998). Chemical Fungal Taxonomy. CRC Press. ISBN 0824700694.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

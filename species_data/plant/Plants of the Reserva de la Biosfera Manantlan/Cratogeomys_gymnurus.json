@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cratogeomys_gymnurus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Rodentia"
+    },
+    {
+      "Family": "Geomyidae"
+    },
+    {
+      "Genus": "Geomys"
+    },
+    {
+      "Species": "G. texensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The central Texas pocket gopher or Llano pocket gopher (Geomys texensis) is a species of rodent in the family Geomyidae. It is endemic to central Texas in the United States.",
+    "Description": "The central Texas pocket gopher is very similar in appearance to its close relatives, the plains pocket gopher and Knox Jones's pocket gopher, and the three species can be difficult to distinguish visually. Males average 18 cm (7.1 in) in length, and females 15 cm (5.9 in); both sexes have a tail about 6 or 7 cm (2.4 or 2.8 in) long. The fur is brownish over most of the body, with a paler, yellowish collar about the throat, and white underparts and feet. The winter coat is darker than the summer one, with the underparts sometimes pale grey in color.",
+    "Distribution": "Geomys texensis can primarily be found in central Texas. Northern specimens reside in stretches along McCulloch, San Saba, and Lampasas counties, and extend to Zavala, Frio, and Medina counties in the south. The three subspecies of Geomys texensis (llanensis, texensis, and bakeri) are located in several clades over these ranges, and they are typically characterized as being northern or southern-dwelling.\nNorthern specimens G. t. texensis and G. t. llanesis are parapatric in their distribution.  That is, their respective ranges do not overlap, however, they are immediately adjacent to each other. The third subspecies, G. t. bakeri, is geographically isolated from the other two subspecies, and can primarily be found in the southern counties of Medina, Uvalde, and Zavala. The significant geographic segregation between the three subspecies has recently been highlighted, as genetic implications associated with habitat range are currently being investigated. Primarily, genetic differences between the northern-dwelling G. t. texensis and G. t. llanesis, and the southern-dwelling G. t. bakeri are being examined.",
+    "Morphological Implications": "The lack of cranial morphological differentiation between G. texensis and its sibling species have posed problems for scientists attempting to affirm the characteristics unambiguously associated with G. texensis. Conservation of morphological characters, that scientists postulate arose from adaptations to a fossorial lifestyle, is one reason G. texensis and its pocket gopher siblings look alike.Genetic isolation is rarely complemented by morphological evolution. This phenomenon leads to the need for a more comprehensive understanding of the genetic makeup of G. texensis and its siblings.",
+    "Genetics": "Due to recent major advancements in the field of genetics, DNA sequencing is now a useful method scientists use to characterize and understand organisms. The need for expanded sampling of G. texensis has been recognized as an important goal in differentiating G. texensis from other members of its taxa. This is because there is limited morphological divergence among taxa related to G. texensis. Extensive population sampling is the likely first step scientists will take in order to collect genetic data sets on G. texensis.\nThe development of advanced molecular techniques is what led to the elevation of G. texensis to species status. Mitochondrial cytochrome-b is often used as a template for DNA sequencing, and it has successfully been used to construct phylogenetic relationships between G. texensis and its subspecies. Cytochrome-b has previously been used to reconstruct phylogenetic relationships between rodents, so it is currently a preferred method in regards to genetic analysis.\nChromosomal examination of G. texensis and its proximate taxa is another method researchers have utilized in order to better understand what distinguishes G. texensis from other pocket gophers. Distinctions between gophers in this particular model are based on differing diploid number and chromosomal morphology. In particular, the geographic distribution of the northern G. texensis subspecies have 2n=70-72, but with altering morphology. Additionally, the southern-dwelling specimens have 2n=70, 71, 72, or 74.",
+    "Biology": "As its name implies, the species is found only in central Texas, where it inhabits areas with loamy soils suitable for digging. They are solitary animals, occupying tunnel systems that are typically at least 2 m (6 ft 7 in) apart. The burrows contain multiple chambers, including food caches and latrines in addition to resting chambers, and vertical corkscrew tunnels to deter predators. They give birth to a litter once each year.One species of Ischnoceran chewing louse, Geomydoecus heaneyi, is only known to live in the fur of central Texas pocket gophers.",
+    "Subspecies": "Three subspecies have been identified:\nG. t. texensis  - Mason, McCulloch, and San Saba counties\nG. t. bakeri - Medina, Uvalde, and Zavala counties\nG. t. llanensis - Gillespie, Kimble and Llano counties\n\n\n== References =="
+  }
+}

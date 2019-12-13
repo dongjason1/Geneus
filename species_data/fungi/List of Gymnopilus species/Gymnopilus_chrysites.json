@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_chrysites",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. chrysites"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus chrysites is a species of mushroom in the Cortinariaceae family.",
+    "See also": "List of Gymnopilus species",
+    "External links": "Index Fungorum"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_condiscipulus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. condiscipulus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras condiscipulus is a species of Corydoras catfish found in the Oyapock River of French Guiana and Brazil.\nIt is found in the whole river, much of which is blackwater and covered by rainforest. \nCorydoras condiscipulus grows to a length of 5.1 cm (2.0 in).",
+    "External links": "Froese, Rainer and Pauly, Daniel, eds. (2011). \"Corydoras condiscipulus\" in FishBase. December 2011 version.\nCorydoras condiscipulus - seriouslyfish.com"
+  }
+}

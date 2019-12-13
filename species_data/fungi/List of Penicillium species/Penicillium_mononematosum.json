@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_mononematosum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. mononematosum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium mononematosum is an anamorph species of the genus Penicillium which produces viriditoxin.",
+    "Further reading": "Houbraken, J; Frisvad, J. C.; Seifert, K. A.; Overy, D. P.; Tuthill, D. M.; Valdez, J. G.; Samson, R. A. (2012). \"New penicillin-producing Penicillium species and an overview of section Chrysogena\". Persoonia. 29: 78–100. doi:10.3767/003158512X660571. PMC 3589797. PMID 23606767.\n\n\n== References =="
+  }
+}

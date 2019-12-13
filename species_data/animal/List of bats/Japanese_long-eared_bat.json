@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Japanese_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Plecotus"
+    },
+    {
+      "Species": "P. sacrimontis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Japanese long-eared bat (Plecotus sacrimontis) is a species of vesper bat endemic to Japan, where it is found in Hokkaido, Honshu and Shikoku.  It has distinctive, long ears, hence its Japanese name, the 'rabbit bat'. Formerly included as a subspecies of the European bat Plecotus auritus, genetic studies now indicate Plecotus sacrimontis is a separate species.",
+    "Taxonomy and etymology": "It was described as a new species in 1908 by American zoologist Glover Morrill Allen.\nThe holotype had been collected in December 1906 by Alan Owston on Mount Fuji.\nAllen received the specimen from Thomas Barbour.\nAllen noted that it resembled the brown long-eared bat, Plecotus auritus.\nIts species name \"sacrimontis\" is from Latin sacer meaning \"sacred\" and mons meaning \"mountain.\"In 1929, Nikolay Alekseyevich Bobrinski published that he considered P. sacrimontis as a synonym of P. auritus.\nIn 1938, Allen himself expressed doubts about P. sacrimontis as a species, saying \"Bobrinski...is very likely right in believing the name a synonym of P. auritus.\"\nIn 1942, George Henry Hamilton Tate published that he considered P. sacrimontis as a subspecies of P. auritus, with a trinomen of P. auritus sacrimontis.\nThis was largely maintained until 2006, when Spitzenberger et al. revised the genus Plecotus.\nThey found that P. sacrimontis had a high genetic distance from other Plecotus species, and thus determined that it should be considered a full species rather than a subspecies of P. auritus.",
+    "Description": "It has woolly fur and a \"mask\" of darker fur on its face.",
+    "Range and habitat": "Its range includes several islands of Japan, including Hokkaido, Honshu, Shikoku, Rebun, and Rishiri.\nIt is also found on the Kuril Islands, specifically Iturup and Kunashir.\nIt has been documented at a range of elevations from 700–1,700 m (2,300–5,600 ft) above sea level.",
+    "Conservation": "As of 2019, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this classification because its geographic range is relatively large; it is found in a variety of habitats; and no major threats to its existence are known.\n\n\n== References =="
+  }
+}

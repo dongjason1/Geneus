@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Euphorbia_heterochroma",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Euphorbiaceae"
+    },
+    {
+      "Genus": "Euphorbia"
+    },
+    {
+      "Species": "E. heterochroma"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Euphorbia heterochroma is a species of flowering plant in the family Euphorbiaceae.",
+    "References": "Pax in H.G.A.Engler, Pflanzenw. Ost-Afrikas, C: 242 (1895)."
+  }
+}

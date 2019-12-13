@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Streaky_seedeater",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. striolatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The streaky seedeater (Crithagra striolatus) is a species of finch in the Fringillidae family.  It is found in Burundi, Democratic Republic of the Congo, Eritrea, Ethiopia, Kenya, Rwanda, South Sudan, Tanzania, Uganda, and Zambia.",
+    "Phylogeny": "The streaky seedeater was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the streaky seedeater were moved to the resurrected genus Crithagra.",
+    "Habitat": "In the Degua Tembien mountains, the bird was found to be a breeding resident of woodland edges, scrubland and forest edges.\n\n\n== References =="
+  }
+}

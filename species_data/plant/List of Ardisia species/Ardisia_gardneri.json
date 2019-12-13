@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ardisia_gardneri",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Primulaceae"
+    },
+    {
+      "Genus": "Ardisia"
+    },
+    {
+      "Species": "A. gardneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ardisia gardneri is a species of plant in the family Primulaceae. It is endemic to Sri Lanka.",
+    "References": "http://www.theplantlist.org/tpl1.1/record/kew-2647976\nhttp://eol.org/pages/37618001/overview\nhttp://indiabiodiversity.org/species/show/263620"
+  }
+}

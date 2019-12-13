@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_albidum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. albidum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium albidum is an anamorph fungus species of the genus of Penicillium which was isolated from volcanic soils in the south of Chile. Penicillium albidum produces the antibiotic Albidin.",
+    "Further reading": "Morales, A.; Alvear, M.; Valenzuela, E.; Rubio, R.; Borie, F. (2007). \"Effect of inoculation withPenicillium albidum, a phosphate-solubilizing fungus, on the growth ofTrifolium pratense cropped in a volcanic soil\". Journal of Basic Microbiology. 47 (3): 275–280. doi:10.1002/jobm.200610255. PMID 17518421.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

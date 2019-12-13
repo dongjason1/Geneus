@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Frosted_Sac-winged_Bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Saccopteryx"
+    },
+    {
+      "Species": "S. canescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The frosted sac-winged bat (Saccopteryx canescens) is a bat species of the family Emballonuridae from South America. It is found in northern Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Surinam, Venezuela and possibly Bolivia.\n\n\n== References =="
+  }
+}

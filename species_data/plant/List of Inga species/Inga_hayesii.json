@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_hayesii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. hayesii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga hayesii is a species of plant in the family Fabaceae. It is found in Colombia, Costa Rica, Ecuador, Nicaragua, Panama, and Peru. It is threatened by habitat loss.",
+    "Sources": "Mitré, M. (1998). \"Inga hayesii\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T30605A9564433. doi:10.2305/IUCN.UK.1998.RLTS.T30605A9564433.en. Retrieved 19 December 2017."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Evalea_elegans",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Evalea"
+    },
+    {
+      "Species": "E. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Evalea elegans is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Description": "The shell has a ventricose shape. It is spirally ornamented. The columella is plicate.",
+    "References": "",
+    "External links": "To World Register of Marine Species"
+  }
+}

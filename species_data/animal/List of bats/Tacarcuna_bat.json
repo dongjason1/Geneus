@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tacarcuna_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. castaneus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Tacarcuna bat (Lasiurus castaneus) is a species of vesper bat. It is found in Costa Rica, Panama and possibly Colombia.\n\n\n== References =="
+  }
+}

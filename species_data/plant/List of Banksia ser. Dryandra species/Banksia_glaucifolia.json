@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_glaucifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. glaucifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia glaucifolia is a shrub endemic to Western Australia.\nIt was known as Dryandra glauca until 2007, when all Dryandra species were transferred to Banksia by Austin Mast and Kevin Thiele. The name \"Banksia glauca\" had already been published in reference to Banksia integrifolia subsp. integrifolia so Mast and Thiele were forced to choose a new specific epithet; their choice, \"glaucifolia\", retains the original use of \"glauca\", from the Latin glaucus (\"blue-grey\"), combining it with the Latin folium (\"leaf\"). Thus the name refers to the blue-grey leaves of the species.",
+    "References": "Cavanagh, Tony; Pieroni, Margaret (2006). The Dryandras. Melbourne: Australian Plants Society (SGAP Victoria); Perth: Wildflower Society of Western Australia. ISBN 1-876473-54-1.\nMast, Austin R.; Thiele, Kevin (2007). \"The transfer of Dryandra R.Br. to Banksia L.f. (Proteaceae)\". Australian Systematic Botany. 20: 63–71. doi:10.1071/SB06016.\n\"Dryandra glauca\". FloraBase. Western Australian Government Department of Parks and Wildlife."
+  }
+}

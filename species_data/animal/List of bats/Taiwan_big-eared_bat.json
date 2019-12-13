@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Taiwan_big-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Plecotus"
+    },
+    {
+      "Species": "P. taivanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Taiwan big-eared bat (Plecotus taivanus) is a species of vesper bat in the family Vespertilionidae. It is found only in Taiwan.",
+    "Taxonomy": "The Taiwan big-eared bat was described as a new species in 1991 by M. Yoshiyuki.\n\n\n== References =="
+  }
+}

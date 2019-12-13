@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_rostellatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Typhlops"
+    },
+    {
+      "Species": "T. rostellatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Puerto Rican worm snake (Typhlops rostellatus) is a species of snake in the Typhlopidae family.",
+    "See also": "\nList of amphibians and reptiles of Puerto Rico\nFauna of Puerto Rico\nList of endemic fauna of Puerto Rico\n\n\n== References =="
+  }
+}

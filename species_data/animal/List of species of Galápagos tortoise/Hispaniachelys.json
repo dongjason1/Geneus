@@ -1,0 +1,28 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hispaniachelys",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Genus": "†HispaniachelysSlater et al., 2011"
+    },
+    {
+      "Species": "†H. prebetica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hispaniachelys is an extinct genus of paracryptodire or basal testudines turtle known from southern Spain.",
+    "Description": "Hispaniachelys is known from postcranial material. It is the only known tetrapod from the Mesozoic of the Prebetic and the oldest turtle from southern Europe, dating to the late Oxfordian of the early Late Jurassic, about 161.2-158 million years ago.",
+    "Etymology": "Hispaniachelys was first named by Ben J. Slater, Matías Reolid, Remmert Schouten, and Michael J. Benton in 2011 and the type species is Hispaniachelys prebetica. The generic name is derived from Hispania, a Roman name for the Iberian Peninsula or Spain, and -chelys, Greek for \"turtle\". The specific name refers to the Prebetic, where the holotype was discovered.\n\n\n== References =="
+  }
+}

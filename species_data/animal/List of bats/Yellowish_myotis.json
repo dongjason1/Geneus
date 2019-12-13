@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yellowish_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. levis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The yellowish myotis (Myotis levis), is a vesper bat species from South America. It is found in Argentina, Bolivia, Brazil and Uruguay.\n\n\n== References =="
+  }
+}

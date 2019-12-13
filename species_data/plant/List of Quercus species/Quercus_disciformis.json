@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_disciformis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Cyclobalanopsis"
+    },
+    {
+      "Species": "Q. disciformis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus disciformis is a species of tree in the beech family. It has been found only in southern China, in the Provinces of Guangdong, Guangxi, Guizhou, Hainan, and Hunan.Quercus disciformis is a tree up to 14 meters tall with leaves as much as 14 cm long.",
+    "References": "",
+    "External links": "line drawing, Flora of China Illustrations vol. 4, figure 392, drawings 5-9 at bottom"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_apium",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. apium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma apium is a mushroom of the agaric genus Tricholoma that is found in Europe. It is classified as vulnerable in the IUCN Red List of Threatened Species.",
+    "See also": "List of North American Tricholoma\nList of Tricholoma species",
+    "References": "",
+    "External links": "Tricholoma apium  in Index Fungorum"
+  }
+}

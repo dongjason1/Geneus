@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mormopterus_petersi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Ozimops"
+    },
+    {
+      "Species": "O. petersi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ozimops petersi, the inland free-tailed bat is a species of bat found in Australia.\nIt is notable for being able to tolerate the most extreme body temperature range of any known mammal.",
+    "Taxonomy": "It was initially described in 1884 by Swedish zoologist Dr. Wilhelm Leche. \nLeche had acquired a collection of specimens from Gustav Schneider, a Swiss natural history dealer, and used to describe a new species that was distinguishable from the rest of the series.In 1906, Oldfield Thomas published a paper in which he considered N. petersi as synonymous with an earlier description of species Mormopterus planiceps (Ozimops planiceps, in part).This status was largely maintained until 2014, although greater diversity had previously been identified, when a study examining the morphology and genetics of the bats of Australia showed that it was distinct enough to be considered a full species. This description removed the name from a synonymy of M. planiceps, publishing a subgeneric arrangement Mormopterus (Ozimops) petersi before that was elevated to genus Ozimops.Leche initially placed it in the now defunct genus Nyctinomus with the species name petersi.\nWhile Leche did not state the eponym for the species name \"petersi\", it is possible that it was named in honor of Wilhelm Peters, a German naturalist who described several species and genera of bats and had died a year prior to Leche's publication in 1884.",
+    "Description": "In describing the species, Leche noted that it is similar in appearance to the east-coast free-tailed bat, Mormopterus norfolkensis.\nHe wrote that it differs in its flat, compressed skull.\nIt is a small species of bat, with a head and body length of 57 mm (2.2 in), a tail length of 33 mm (1.3 in), and a forearm length of 34 mm (1.3 in).\nThe tail extends approximately 12 mm (0.47 in) past the edge of the uropatagium.\nIts tragus is tiny, at only 3 mm (0.12 in) long.\nIt weighs 7.5–11.8 g (0.26–0.42 oz).",
+    "Biology": "Ozimops petersi is nocturnal species, roosting in sheltered places during the day such as tree cavities or under metal roofs.\nFemales have one breeding season annually, and give birth in November or December.\nThe litter size is generally one individual, with the young called a \"pup.\"This species of bat can tolerate the most extreme range of body temperatures of any known mammal.\nIts body temperature has been recorded as low as 3.3 °C (37.9 °F) and as high as 45.8 °C (114.4 °F).\nThis upper limit even exceeds recorded maximum body temperatures of camels.\nThese bats can survive these otherwise lethal extremes by using torpor, which is a physiological adaptation.",
+    "Conservation": "As of 2019, it is listed as least concern by the IUCN—its lowest conservation priority.\nIt meets the criteria for this assessment because it has a large geographic range; it tolerates a variety of habitats; its population size is thought to be large; and it is documented regularly throughout its range.\nIts population may exceed one million individuals, although this number may be declining.\n\n\n== References =="
+  }
+}

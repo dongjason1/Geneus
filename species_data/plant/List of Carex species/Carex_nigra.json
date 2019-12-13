@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_nigra",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Subgenus": "Carex subg. Carex"
+    },
+    {
+      "Section": "Carex sect. Phacocystis"
+    },
+    {
+      "Species": "C. nigra"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex nigra (L.) Reichard (syn. C. acuta auct. non L.) is a perennial species of plants in the family Cyperaceae native to wetlands of Europe, western Asia, northwestern Africa, and eastern North America. Common names include common sedge, black sedge or smooth black sedge. The eastern limit of its range reaches central Siberia, Turkey and probably Caucasus.\n\n\n== References =="
+  }
+}

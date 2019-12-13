@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Reddish_scops_owl",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Strigiformes"
+    },
+    {
+      "Family": "Strigidae"
+    },
+    {
+      "Genus": "Otus"
+    },
+    {
+      "Species": "O. rufescens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The reddish scops owl (Otus rufescens) is an owl found in southeast Asia.",
+    "References": "\nBirdLife Species Factsheet\nITIS Report"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Russula_graveolens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Russula"
+    },
+    {
+      "Species": "R. graveolens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Russula graveolens is an edible species of fungus in the genus Russula. The species was first officially described by Swedish mycologist Lars Romell in 1893.",
+    "References": "",
+    "External links": "Russula graveolens  in Index Fungorum\nRussula graveolens  in MycoBank."
+  }
+}

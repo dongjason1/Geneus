@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trametes_elegans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Basidiomycetes"
+    },
+    {
+      "Subclass": "Agaricomycetidae"
+    },
+    {
+      "Order": "Polyporales"
+    },
+    {
+      "Family": "Polyporaceae"
+    },
+    {
+      "Genus": "Lenzites"
+    },
+    {
+      "Species": "L. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lenzites elegans – also known as Trametes elegans and Daedalea elegans – is a common polypore and wood-decay fungus with a pantropical distribution, found on hardwood hosts in regions including eastern North America, Australia, New Zealand, and Japan. Alluding to the pore surface which often exhibits a maze-like structure, L. elegans is also referred to as white maze polypore.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

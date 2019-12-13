@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bambusa_glaucophylla",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Poaceae"
+    },
+    {
+      "Genus": "Bambusa"
+    },
+    {
+      "Species": "B. glaucophylla"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bambusa glaucophylla  is a species of Bambusa bamboo.",
+    "Distribution": "\n\n== References =="
+  }
+}

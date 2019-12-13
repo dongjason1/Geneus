@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_stanfieldi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. stanfieldi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus stanfieldi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell attains 33 mm.",
+    "Distribution": "This marine species occurs off the Bahamas.",
+    "References": "Petuch, E. J. 1993b. Molluscan Discoveries from the tropical western Atlantic region. Part II. A new species of Leporiconus Iredale, 1930 from the San Blas Islands, Panama. La Conchiglia 25(266):57-59, 5 figs.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\n\"Purpuriconus jucundus stanfieldi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

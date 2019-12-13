@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/MacConnell's_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "MesophyllaThomas, 1901"
+    },
+    {
+      "Species": "M. macconnelli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "MacConnell's bat, Mesophylla macconnelli, is a bat species from South and Central America. It is monotypic within the genus Mesophylla.\n\n\n== References =="
+  }
+}

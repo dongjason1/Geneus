@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_tomentosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. tomentosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera tomentosa, is a species in the carnivorous plant genus Drosera that is endemic to Brazil. It was originally described in 1824 by Augustin Saint-Hilaire. In 1906, Ludwig Diels reduced the species to a variety of D. montana. Diels' taxonomic rank for the species is still supported by some.",
+    "See also": "List of Drosera species\n\n\n== References =="
+  }
+}

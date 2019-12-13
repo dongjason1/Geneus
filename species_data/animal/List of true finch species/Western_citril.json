@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Western_citril",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. frontalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The western citril (Crithagra frontalis), also known as the yellow-browed citril, is a species of finch in the Fringillidae family.  It is found in central Africa.\nThe western citril was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the western citril were moved to the resurrected genus Crithagra.\n\n\n== References =="
+  }
+}

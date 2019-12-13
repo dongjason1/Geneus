@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_tarraconense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. tarraconense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium tarraconense is an anamorph species of fungus in the genus Penicillium which was isolated from air in Madrid in Spain.\n\n\n== References =="
+  }
+}

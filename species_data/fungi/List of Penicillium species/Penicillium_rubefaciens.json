@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_rubefaciens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. rubefaciens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium rubefaciens is a species of fungus in the genus Penicillium which has been isolated from sandy soil.",
+    "Further reading": "Robert Samson (2013). Advances in Penicillium and Aspergillus Systematics. Springer Science & Business Media. ISBN 1-4757-1856-X.\n\n\n== References =="
+  }
+}

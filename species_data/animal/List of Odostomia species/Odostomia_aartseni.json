@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_aartseni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. aartseni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia aartseni is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This species occurs in the following locations:\nEuropean waters (ERMS scope) : Mediterranean Sea.",
+    "References": "Nofroni I., 1988, Two new Odostomia from the Mediterranean, La Conchiglia 20 (234-235): 10-11, 15",
+    "External links": "To CLEMAM\nTo Encyclopedia of Life\nTo World Register of Marine Species"
+  }
+}

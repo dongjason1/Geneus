@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_aestuans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. aestuans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma aestuans is a mushroom of the agaric genus Tricholoma. First described formally by Elias Magnus Fries in 1821, it was transferred to the genus Tricholoma by Claude Casimir Gillet in 1874.",
+    "See also": "List of North American Tricholoma\nList of Tricholoma species",
+    "References": "",
+    "External links": "Tricholoma aestuans  in Index Fungorum"
+  }
+}

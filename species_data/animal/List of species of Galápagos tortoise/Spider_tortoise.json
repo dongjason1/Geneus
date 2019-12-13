@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Spider_tortoise",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Testudinoidea"
+    },
+    {
+      "Family": "Testudinidae"
+    },
+    {
+      "Genus": "Pyxis"
+    },
+    {
+      "Species": "P. arachnoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The spider tortoise (Pyxis arachnoides) is a species of tortoise in the family Testudinidae.\nIt is endemic to Madagascar and is one of only two species in the genus Pyxis.Very little is known about the life cycle of this endangered tortoise, which is believed to live for up to 70 years. The remaining tortoises are found only in south western Madagascar, where they inhabit the spiny vegetation of the sandy coastal areas. Here they feed on young leaves, insect larvae, and even the droppings of larger animals. When the wet season arrives, the dormancy period ends and the tortoises begin to mate. Females only lay one egg when they reproduce, and the egg is incubated for about 220–250 days.\nTheir trade is illegal in Madagascar, but they are extensively smuggled  for food, body parts, and illegal pets.",
+    "References": "\nLeuteritz, T. & Walker, R. (2008). \"Pyxis arachnoides\". IUCN Red List of Threatened Species. Version 2013.2. Madagascar Tortoise Freshwater Turtle Red List Workshop. International Union for Conservation of Nature. Retrieved 21 May 2014."
+  }
+}

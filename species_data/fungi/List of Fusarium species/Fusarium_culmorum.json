@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_culmorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. culmorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium culmorum is a fungal plant pathogen and the causal agent of seedling blight, foot rot, ear blight, stalk rot, common root rot and other diseases of cereals, grasses, and a wide variety of monocots and dicots.  In coastal dunegrass (Leymus mollis), F. culmorum is a nonpathogenic symbiont conferring both salt and drought tolerance to the plant.",
+    "Identification": "Colonies grow rapidly on potato dextrose agar. The aerial mycelium is whitish to yellow, tan or pale orange, but becomes brown to dark brown to red-brown with age.  Under alternating conditions of light and temperature, rings of spore masses may be formed by some isolates.",
+    "Identification-Macroconidia": "Microconidia are absent, but macroconidia are usually abundant. The sporodochia are orange to brown color and relatively common. \nThe macroconidia are thick and bluntly pointed at their apex, and conspicuously wider above the center of the spore.  The dorsal side is somewhat curved, but the ventral side is almost straight. The distinguishing characteristic from F. sambucinum is the broader macroconidia.  \nTheir size ranges from 4 to 7 μm wide and from 25 to 50 μm long; the septae are usually three or five in number. They develop singly from phialides (5 x 15–20 μm). They are loose at first and are later aligned in sporodochia.",
+    "Identification-Chlamydospores": "Chlamydospores are usually abundant and form relatively quickly, requiring 3–5 weeks on carnation leaf agar.  They are found in both hyphae and macroconidia. Those found in the macroconidia persist longer than those found in the hyphae under field conditions. They are thick-walled and globose in shape, found singly, in clumps or chains. Their size ranges from 9–14 μm in diameter.",
+    "Disease cycle": "Fusarium culmorum which causes seedling blight, Fusarium head blight (FHB) as well as foot and root rot (FRR) is considered one of the most serious pathogens of wheat and other small grain cereals besides F. graminearum.  Different from F. graminearum, the teleomorph of F. culmorum is not known, which means the ascospores are not produced. Instead, it reproduces asexually by developing conidia, which is also the main mode of dispersal. Chlamydospores can survive in host debris during winter, whereas the microconidia are usually not produced in natural conditions.As a soil-borne fungus, Fusarium culmorum could survive on or within the infected seeds and result in pre- or post-emergence seedling death. However, seedborne inoculum has not been confirmed to contribute to the FHB. When causing FHB, macroconidia in soil and crop residues are dispersed by wind, rain splash or transmitted by insects to reach the host. The ear of wheat is most susceptible to F. culmorum conidia during anthesis and FHB can last from anthesis to grain harvest. Systematic infection has been reported, and the infection of wheat head leads to kernel contamination with mycotoxins. Chlamydospores can also infect coleoptiles as well as primary and secondary roots, causing FRR during the crop growing period, which is a monocyclic disease that only attributes to initial inoculum.",
+    "Environment": "",
+    "Environment-Fusarium head blight (FHB)": "A warm and moist environment is preferred by F. culmorum to cause FHB. Frequent rains between anthesis and kernel filling stages facilitates the occurrence of FHB. The level of pathogen presenting in the soil level also increases the risk of this disease. Temperature and moisture in the microclimate play an important role once the inoculum reaches the ear of crops. The optimum temperature is 25 °C. Long moist periods and temperatures above 15 °C is needed for the infection. Germination of macroconidia is limited to a minimum humidity of 0.86 aw (water activity).",
+    "Environment-Foot and root rot (FRR)": "The development of FRR can be affected by several factors, such as residue management, previous crop, plant density, nitrogen fertilization and environmental conditions. Wheat monoculture and rotation with other cereal crops contribute to maintaining the survival of inoculum in the soil and then increases the FRR severity. High planting density and nitrogen fertilization level are shown to boosts the chance of FRR. Warm and drought conditions that may trigger water stress also increase the pathogen sensitivity and make the FRR severe.",
+    "Management": "The inoculum can be controlled by applying cultural practices, fungicide, resistant cultivars and biological agents. From the cultural practices aspect, plowing is better than minimum or no tillage in F. culmorum management. Crop rotation with noncereal host could also decreases the occurrence rate of disease. Since F. culmorum causes pre- or post- emergence damping off by colonizing seeds, sowing healthy seeds with fungicide coat is one of the most efficient approaches of management; however, which is usually limited to the early states of the crop growing since the fungicides can not maintain long periods of efficient protection. Fungicides mainly belonging to the strobilurin and azole classes are reported to reduce the disease by up to 70% in the field. The ideal strategy to control the disease is the adoption of resistant cultivars, however, wheat that is highly resistant to F. culmorum has not yet been found. Additionally, the integration of biological management methods can be effective. Developing biological control agents and applying natural antagonist microbes of F. culmorum onto the host plant or crop residues by seed dressing or spray decreases the severity of FHB or FRR.",
+    "Hosts": "See: \n\nList of asparagus diseases\nList of carrot diseases\nList of barley diseases\nList of maize diseases\nList of oat diseases\nList of potato diseases\nList of rye diseases\nList of wheat diseases",
+    "References": "",
+    "External links": "FusKey - Fusarium Interactive Key"
+  }
+}

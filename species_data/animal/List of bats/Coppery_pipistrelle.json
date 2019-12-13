@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Coppery_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Arielulus"
+    },
+    {
+      "Species": "A. cuprosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The coppery pipistrelle (Arielulus cuprosus) is a species of vesper bat found only in Malaysia.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Java_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. javanicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Java pipistrelle (Pipistrellus javanicus) is a species of pipistrelle bat found in South and Southeast Asia, including Afghanistan; Bangladesh; Brunei; Cambodia; China; India; Indonesia; Laos; Malaysia; Myanmar; Nepal; Pakistan; Philippines; Singapore; Thailand and Vietnam. It favors human habitations.",
+    "References": "\nWon, Changman; Kimberly G. Smith (1999). \"History and current status of mammals of the Korean Peninsula\". Mammal Review. Mammal Society. 29 (1): 3–33. doi:10.1046/j.1365-2907.1999.00034.x."
+  }
+}

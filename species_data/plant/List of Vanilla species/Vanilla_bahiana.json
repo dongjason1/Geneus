@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vanilla_bahiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Vanilloideae"
+    },
+    {
+      "Genus": "Vanilla"
+    },
+    {
+      "Species": "V. bahiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Vanilla bahiana is a species of vanilla orchid that is endemic to Bahia, located in eastern Brazil.",
+    "References": "\n\n== External links =="
+  }
+}

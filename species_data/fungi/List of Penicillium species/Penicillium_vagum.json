@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_vagum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. vagum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium vagum is a species of fungus in the genus Penicillium which was isolated from an air sample in the Stellenbosch Mountains in Western Cape in South Africa.\n\n\n== References =="
+  }
+}

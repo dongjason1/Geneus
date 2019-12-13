@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Small_white-winged_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Desmalopex"
+    },
+    {
+      "Species": "D. microleucopterus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The small white-winged flying fox (Desmalopex microleucopterus) is a species of megabat in the family Pteropodidae. It is known from Mindoro Island, in the Philippines.\n\n\n== References =="
+  }
+}

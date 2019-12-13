@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Kalinowski's_mastiff_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mormopterus"
+    },
+    {
+      "Subgenus": "Mormopterus"
+    },
+    {
+      "Species": "M. kalinowskii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Kalinowski's mastiff bat (Mormopterus kalinowskii) is a species of bat in the family Molossidae, the free-tailed bats. It is native to Peru and northern Chile. Relatively little is known about the species, but it is thought to be common in its range. It is sometimes seen in urban areas. Molecular sequencing data indicates that the closest relatives of M. kalinowski are members of another genus, Nyctinomops.",
+    "Taxonomy and etymology": "It was described as a new species in 1893 by British zoologist Oldfield Thomas.\nThomas initially placed it in the now-defunct genus Nyctinomus, with the scientific name Nyctinomus kalinowskii.\nThe eponym for the species name \"kalinowskii\" was Jan Kalinowski, a Polish zoologist who immigrated to Peru.\nThomas wanted to acknowledge Kalinowski's efforts in collecting the holotype, saying that he was the collector \"to whose labours we owe the valuable collection of small Mammals described in the present paper.\"\nBy 1907, at least one author had reclassified N. kalinowskii into the genus Mormopterus, where it has consistently remained as Mormopterus kalinowskii.",
+    "Description": "It is a very small species of bat, with a forearm length of 34.5 mm (1.36 in), a head and body length of 46 mm (1.8 in), and a tail length of 28 mm (1.1 in).\nIts fur is pale gray in color.\nIts ears are smaller than many other species of free-tailed bat, and they are not conjoined.\nIts dental formula is 1.1.1.32.1.2.3, for a total of 28 teeth.",
+    "Range and habitat": "It has been documented in two countries in South America: Peru and Chile.",
+    "Conservation": "It is currently evaluated as least-concern by the IUCN—its lowest conservation priority.\nIt meets the criteria for this assessment because its population is presumably large, and its habitat is not declining in extent or quality fast enough to qualify for more-threatened categories.\nSome of its range includes protected areas.\nIt can tolerate some disturbance, and small populations have been found within cities.\n\n\n== References =="
+  }
+}

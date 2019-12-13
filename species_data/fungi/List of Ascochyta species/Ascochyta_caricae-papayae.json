@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_caricae-papayae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Pleosporomycetidae"
+    },
+    {
+      "Order": "Pleosporales"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Phoma"
+    },
+    {
+      "Species": "P. caricae-papayae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phoma caricae-papayae is a fungal plant pathogen infecting papayas.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

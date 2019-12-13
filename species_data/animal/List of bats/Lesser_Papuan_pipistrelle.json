@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_Papuan_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. papuanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser Papuan pipistrelle (Pipistrellus papuanus) is a species of vesper bat. It can be found in  Indonesia and Papua New Guinea.\n\n\n== Sources =="
+  }
+}

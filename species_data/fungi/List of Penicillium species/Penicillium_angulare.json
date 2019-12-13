@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_angulare",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. angulare"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium angulare is a fungus species of the genus of Penicillium which was isolated in north America.",
+    "See also": "List of Penicillium species",
+    "Further reading": "Penicillium thiersii, Penicillium angulare and Penicillium decaturense, new species isolated from wood-decay fungi in North America and their phylogenetic placement from multilocus DNA sequence analysis\n\n\n== References =="
+  }
+}

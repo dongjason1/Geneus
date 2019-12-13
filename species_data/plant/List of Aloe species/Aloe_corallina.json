@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_corallina",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. corallina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe corallina is a species of plant in the genus Aloe. It is native  to Angola and Namibia.  Its natural habitats are subtropical or tropical dry shrubland and rocky areas. It is threatened by habitat loss.",
+    "References": "\nLoots, S. 2004.  Aloe corallina.   2006 IUCN Red List of Threatened Species.   Downloaded 20 August 2007."
+  }
+}

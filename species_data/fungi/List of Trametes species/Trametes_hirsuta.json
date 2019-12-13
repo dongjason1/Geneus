@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trametes_hirsuta",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Polyporales"
+    },
+    {
+      "Family": "Polyporaceae"
+    },
+    {
+      "Genus": "Trametes"
+    },
+    {
+      "Species": "T. hirsuta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trametes hirsuta, commonly known as hairy bracket, is a fungal plant pathogen. It is found on dead wood of deciduous trees, especially beechwood. It is found all year round and persists due to its leathery nature.",
+    "Biotechnology": "Lyophilized cell cultures of Trametes hirsuta yield aldehydes from alkenes, representing a biotransformation alternative to ozonolysis.",
+    "See also": "List of Trametes species\n\n\n== References =="
+  }
+}

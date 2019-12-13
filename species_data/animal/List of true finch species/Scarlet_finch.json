@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Scarlet_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. sipahi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The scarlet finch (Carpodacus sipahi) is a small passerine bird in the finch family Fringillidae.\nIt is found in the Himalayas from Uttarakhand state in the Indian Himalayas eastwards across Nepal, stretching further east to the adjacent hills of Northeast India and Southeast Asia as far south as Thailand. It is resident in the Himalayas, but many birds winter to the immediate south. Its natural habitat is temperate forests.\nIt was described by the British naturalist Brian Houghton Hodgson in 1836 under the binomial name Corythus sipahi. The species name sipahi comes from the Hindustani word sipāhi for a soldier, the origin of the term sepoy.The scarlet finch was formerly placed in the monotypic genus Haematospiza but was moved to the rosefinch genus Carpodacus based on the results of molecular phylogenetic studies.",
+    "Gallery": "\n\t\t\n\t\t\n\n\n== References =="
+  }
+}

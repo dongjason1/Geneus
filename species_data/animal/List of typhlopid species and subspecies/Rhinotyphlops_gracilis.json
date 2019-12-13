@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_gracilis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. gracilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia gracilis, also known as the gracile blind snake or Urungu beaked snake is a species of snake in the family Typhlopidae. It is endemic to Africa and is known from northern Zambia, western Tanzania, and southern Democratic Republic of the Congo.",
+    "References": "",
+    "Further reading": "Sternfeld, Richard. 1910. Neue Schlangen aus Kamerun, Abbessinien und Deutsch-Ostafrika. Mitteilungen aus dem Zoologischen Museum in Berlin 5: 67-70."
+  }
+}

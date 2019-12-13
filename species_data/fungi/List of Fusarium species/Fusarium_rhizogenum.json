@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_rhizogenum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Hypocreomycetidae"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Nectria"
+    },
+    {
+      "Species": "N. radicicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nectria radicicola is a plant pathogen that is the causal agent of root rot. Substrates include ginseng and Narcissus. It is also implicated in the black foot disease of grapevine.",
+    "References": "",
+    "Bibliography": "Boerema, G. H.; Hamers, Maria E. C. (May 1989). \"Check-list for scientific names of common parasitic fungi. Series 3b: Fungi on bulbs: Amaryllidaceae and Iridaceae\". Netherlands Journal of Plant Pathology. 95 (S3): 1–29. doi:10.1007/BF01981520.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

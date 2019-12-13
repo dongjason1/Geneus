@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Astragalus_onobrychis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Genus": "Astragalus"
+    },
+    {
+      "Species": "A. onobrychis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Astragalus onobrychis is a species of milkvetch in the family Fabaceae. It is the type species of the genus Astragalus, the largest genus of Angiosperms by number of known species.",
+    "References": "\nL. (1753) Species Plantarum, Tomus II: 760.\n\"5844\". Germplasm Resources Information Network (GRIN). Agricultural Research Service (ARS), United States Department of Agriculture (USDA)."
+  }
+}

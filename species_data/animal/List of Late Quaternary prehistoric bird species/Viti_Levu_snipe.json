@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Viti_Levu_snipe",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Charadriiformes"
+    },
+    {
+      "Family": "Scolopacidae"
+    },
+    {
+      "Genus": "Coenocorypha"
+    },
+    {
+      "Species": "C. miratropica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Viti Levu snipe (Coenocorypha miratropica) is an extinct species of austral snipe endemic to Fiji. A species of the mostly New Zealand genus Coenocorypha, it became extinct after the arrival of humans in Fiji.",
+    "References": "Worthy T. H. (2003). A new extinct species of snipe Coenocorypha from Viti Levu, Fiji. Bulletin of the British Ornithologists' Club 123: 90-103."
+  }
+}

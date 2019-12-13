@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Asparagus_longicladus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Asparagoideae"
+    },
+    {
+      "Genus": "Asparagus"
+    },
+    {
+      "Species": "A. longicladus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Asparagus longicladus is a species of flowering plant in the family Asparagaceae, native to Mozambique, Zimbabwe, Botswana and the Caprivi Strip.\n\n\n== References =="
+  }
+}

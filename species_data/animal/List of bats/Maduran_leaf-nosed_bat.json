@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Maduran_leaf-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. madurae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Maduran leaf-nosed bat (Hipposideros madurae) is a species of bat in the family Hipposideridae endemic to Indonesia.\nThis species is known from the eastern half of Java and on Madura Island. It is found below 1,000 metres (3,300 ft).\nIt is an IUCN Red List Least Concern species.",
+    "Taxonomy and etymology": "It was described as a new species in 1993 by Kitchener and Maryanto.\nIts species name \"madurae\" was derived from Madura Island where the holotype was collected.\n\n\n== References =="
+  }
+}

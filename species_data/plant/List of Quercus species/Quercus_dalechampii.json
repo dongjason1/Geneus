@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_dalechampii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Quercus"
+    },
+    {
+      "Species": "Q. dalechampii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus dalechampii is a European species of oak in the beech family. It is native to southeastern Europe: Bulgaria, Greece and the rest of the Balkan Peninsula, Italy, Austria, Hungary, Slovakia, and the Czech Republic.",
+    "References": "",
+    "External links": "Encyclopedia of Life"
+  }
+}

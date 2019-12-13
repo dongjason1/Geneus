@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-bellied_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mops"
+    },
+    {
+      "Species": "M. niveiventer"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-bellied free-tailed bat (Mops niveiventer) is a species of bat in the family Molossidae. It is found in Angola, Democratic Republic of the Congo, and Zambia. Its natural habitats are subtropical or tropical moist lowland forests and moist savanna. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

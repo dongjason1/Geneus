@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_dryophilus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Xerocomellus"
+    },
+    {
+      "Species": "X. dryophilus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Xerocomellus dryophilus,  formerly known as Boletus dryophilus or Xerocomus dryophilus, is a mushroom in the family Boletaceae native to North America.\nIt was transferred to the new genus Xerocomellus in 2014.",
+    "References": "Xerocomellus dryophilus  in Index Fungorum"
+  }
+}

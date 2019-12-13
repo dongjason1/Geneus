@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Syrnola_canaria",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Syrnola"
+    },
+    {
+      "Species": "S. canaria"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Syrnola canaria is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This marine species occurs off Queensland, Australia.",
+    "References": "Laseron, C. (1959). The family Pyramidellidae (Mollusca) from northern Australia. Australian Journal of Marine and Freshwater Research. 10 : 177-267, figs 1-213",
+    "External links": "To World Register of Marine Species"
+  }
+}

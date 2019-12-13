@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_williamsonii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. williamsonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium williamsonii is a species of orchid, commonly known as Williamson's dendrobium. It is native to southern China (Guangxi, Hainan, Yunnan), Assam, and Indochina (Thailand, Myanmar, Vietnam).\n\n\n== References =="
+  }
+}

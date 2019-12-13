@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eastern_forest_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Vespadelus"
+    },
+    {
+      "Species": "V. pumilus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The eastern forest bat (Vespadelus pumilus) is a species of vesper bat in the family Vespertilionidae. It is found only in Australia, where it has been recorded from Queensland to New South Wales. The population is in decline, with the number of mature individuals decreasing.\n\n\n== References =="
+  }
+}

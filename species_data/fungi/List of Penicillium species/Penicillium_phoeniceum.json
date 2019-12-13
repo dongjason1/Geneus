@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_phoeniceum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. phoeniceum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium phoeniceum is an anamorph, saprotrophic species of the genus of Penicillium which produces oosporein, phoenicine and phenicin.",
+    "Further reading": "\"Untersuchungen über die Farbstoffbildung von Penicillium funiculosum Thom\". Archiv für Mikrobiologie. 44: 87–92. doi:10.1007/BF00409582.\nWalter Karrer (2013). Konstitution und Vorkommen der organischen Pflanzenstoffe: exclusive Alkaloide. Springer-Verlag. ISBN 3034868081.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_erythraeus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. erythraea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Eritrean blind snake (Letheobia erythraea) is a species of snake in the Typhlopidae family. It is endemic to Eritrea.",
+    "References": "",
+    "Further reading": "Scortecci, G. 1928 (1929). Rettili dell'Eritrea esistenti nelle Collezioni del Museo Civico di Milano. Atti della Società Italiana di Scienze Naturali, e del Museo Civico di Storia Naturale, Milano 67(3-4):290-339."
+  }
+}

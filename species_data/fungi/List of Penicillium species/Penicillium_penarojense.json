@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_penarojense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. penarojense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium penarojense is a species of fungus in the genus Penicillium which was isolated from soil of the Colombian Amazon forest.",
+    "Further reading": "Houbraken, J.; Lopez-Quintero, C. A.; Frisvad, J. C.; Boekhout, T.; Theelen, B.; Franco-Molano, A. E.; Samson, R. A. (2010). \"Penicillium araracuarense sp. nov., Penicillium elleniae sp. nov., Penicillium penarojense sp. nov., Penicillium vanderhammenii sp. nov. And Penicillium wotroi sp. nov., isolated from leaf litter\". International Journal of Systematic and Evolutionary Microbiology. 61 (6): 1462–75. doi:10.1099/ijs.0.025098-0. PMID 20639229.\n\n\n== References =="
+  }
+}

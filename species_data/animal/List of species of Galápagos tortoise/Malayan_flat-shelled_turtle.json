@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malayan_flat-shelled_turtle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Testudinoidea"
+    },
+    {
+      "Family": "Geoemydidae"
+    },
+    {
+      "Subfamily": "Geoemydinae"
+    },
+    {
+      "Genus": "NotochelysGray, 1863"
+    },
+    {
+      "Species": "N. platynota"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malayan flat-shelled turtle (Notochelys platynota) is a species of turtle found in Southeast Asia.",
+    "Distribution": "Myanmar, Thailand, Cambodia, West Malaysia, Indonesia (Sumatra, Java, Borneo, Bangka), Vietnam, Singapore.\nType locality: \"in India Orientali\", later restricted to \"Sumatra; Singapore\" by Gray (1863:177).",
+    "References": "Asian Turtle Trade Working Group (2000). \"Notochelys platynota\". The IUCN Red List of Threatened Species. IUCN. 2000: e.T14856A97374195. doi:10.2305/IUCN.UK.2000.RLTS.T14856A4465399.en. Retrieved 15 January 2018. Database entry includes justification for why this species is vulnerable\nBuskirk, James 1997 The Malayan Flat-Shelled Turtle Notochelys platynota Vivarium 9 (1): 6-9;15\nGray, J.E. 1834 Characters of several new species of freshwater tortoises (Emys) from India and China. Proc. Zool. Soc. London 2: 53-55\nGray, J.E. 1863 Observations on the box tortoises, with the descriptions of three new Asiatic species. Proceedings of the Zoological Society of London 1863: 173-179\nGray, J.E. 1864 Observations on the box tortoises, with the description of three new Asiatic species. Ann. Mag. Nat. Hist. (3) 13: 105-111\nGray, J.E. 1873 On the original form, development, and cohesion of the bones of the sternum of chelonians; with notes on the skeleton of Sphargis. Ann. Mag. nat. Hist. (4) 11: 161-172\nLiat, Lim Boo & Das, Indraneil 1999 The turtles of Borneo and peninsular Malaysia. Kota Kinabalu, natural History Publications, 151 pp.",
+    "External links": "Notochelys platynota at the Reptarium.cz Reptile Database\nhttp://itgmv1.fzk.de/www/itg/uetz/herp/photos/Notochelys_platynota.jpg"
+  }
+}

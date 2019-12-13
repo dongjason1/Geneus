@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_albicans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. albicans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium albicans is a fungus species of the genus of Penicillium.",
+    "Further reading": "Amany, A. E. H. A.; Neveen, G. S. I. (1999). \"Comparative studies on the biochemistry of Penicillium albicans (alkalosensitive) and Vertiallium lateritium, (facultative alkalophile) with special reference to the role of sodium ion in alkalophily\". European Journal of Soil Biology. 35: 1. doi:10.1016/S1164-5563(99)00106-5.\n., A. H. A. A. E.; ., N. S. I. G. (1999). \"Comparative Biochemical Studies on Penicillium albicans (Alkalosensitive) and Verticillium lateritium (Facultative Alkalophile)\". Pakistan Journal of Biological Sciences. 2 (2): 290. doi:10.3923/pjbs.1999.290.295.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Diminutive_serotine",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. diminutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The diminutive serotine (Eptesicus diminutus), is a bat species from South America. It is found in Argentina, Colombia, Brazil, Paraguay, Uruguay, and Venezuela.\n\n\n== References =="
+  }
+}

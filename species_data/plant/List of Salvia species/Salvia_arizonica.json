@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_arizonica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. arizonica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia arizonica is a species of sage known commonly as desert indigo sage and Arizona sage. It can be distinguished from its relatives by its triangular, serrated leaves. It blooms copiously in small blue flowers. This is a vigorous sage which propagates via underground spreading runners and seeds. It is native to Arizona, New Mexico, and Texas. It is frequently found at higher elevations (2100–2900 m).",
+    "Notes": "",
+    "External links": "USDA Plants Profile"
+  }
+}

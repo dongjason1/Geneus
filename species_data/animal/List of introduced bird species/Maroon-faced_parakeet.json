@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Maroon-faced_parakeet",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Psittaciformes"
+    },
+    {
+      "Family": "Psittacidae"
+    },
+    {
+      "Genus": "Pyrrhura"
+    },
+    {
+      "Species": "P. leucotis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-eared parakeet or maroon-faced parakeet (Pyrrhura leucotis) is a small parrot belonging to the genus Pyrrhura. As here defined, it is endemic to Atlantic Forest in eastern Brazil. The Venezuelan, grey-breasted and Pfrimer's parakeets were formerly classed as subspecies of this bird but are increasingly treated as separate species.",
+    "Description": "It is 21–22 centimetres long. The plumage is mostly green. The chest has dark grey and whitish scaling on a green background, and the rump and belly are maroon. The face and throat are dark maroon, the forehead is bluish and there is a whitish ear-patch. The long, graduated tail has a red underside. The bird has a sharp call which is repeated three or four times.\nThe grey-breasted parakeet is very similar but is proportionally larger-headed, has a longer bill with a deeper mandible, lacks blue to the forecrown (as do the occasional white-eared parakeet), and its breast is entirely scaled dark grey and whitish (little or no green background). Pfrimer's parakeet essentially lacks a whitish ear-patch, and is therefore easily separated from the white-eared parakeet.",
+    "Habitat and range": "It is found in eastern Brazil where it occurs from Rio de Janeiro state north to Bahia. It inhabits the canopy of humid forests from the lowlands up to 500 metres above sea-level. It usually forages in flocks. Its population has declined recently because of deforestation.",
+    "References": "\nMata, Jorge R. Rodriguez; Erize, Francisco & Rumboll, Maurice (2006) A Field Guide to the Birds of South America: Non-Passerines, HarperCollins, London.\nSouza, Deodato (2002) All the Birds of Brazil: An Identification Guide, Dall."
+  }
+}

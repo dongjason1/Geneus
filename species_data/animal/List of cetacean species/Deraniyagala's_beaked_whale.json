@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Deraniyagala's_beaked_whale",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Artiodactyla"
+    },
+    {
+      "Infraorder": "Cetacea"
+    },
+    {
+      "Family": "Ziphiidae"
+    },
+    {
+      "Genus": "Mesoplodon"
+    },
+    {
+      "Species": "M. hotaula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Deraniyagala's beaked whale (Mesoplodon hotaula) is a species of mesoplodont whale.",
+    "Taxonomy": "Deraniyagala's beaked whale was once synonymous with the Ginkgo-toothed beaked whale (Mesoplodon ginkgodens), until several studies confirmed that M. hotaula was genetically different from M. ginkgodens. Like several other species of beaked whales, Deraniyagala's beaked whale is known only from stranded individuals, in this case, seven. The first stranding occurred in Sri Lanka, but was falsely identified as Ginkgo-toothed beaked whale by Moore and Gilmore, 1965. The two species were split due to recent DNA analysis by various organisations in the 2000s, with the seven individuals' control region, cytochrome b, cytochrome oxidase, and various introns taken for genetic analysis. It was found that genetic variance (Dα) of the cytochrome b between Deraniyagala's whale and the Ginkgo-toothed beaked whale was 8.2% ± 1.79%, whereas genetic variance range between 5.5% to 16.6% in other Mesoplodon species (the smaller the percentage, the lesser the genetic differences between the two species). It was first recognised by Paules Edward Pieris Deraniyagala in 1963 and was subsequently named after him.",
+    "Distribution": "Deraniyagala's beaked whale is known from only seven individuals that have stranded themselves on beaches of various islands in the Indian and South Pacific Oceans: Seychelles, Maldives, Sri Lanka, Gilbert Islands, Kiribati and Line Islands. It is thought that, like Cuvier's beaked whale, they live in insular populations (isolated communities).",
+    "Diet": "Like other mesoplodont whales, it is thought that Deraniyagala's whale feeds mainly on deep-sea squid-and-fish.",
+    "See also": "\nList of cetacean species\n\n\n== References =="
+  }
+}

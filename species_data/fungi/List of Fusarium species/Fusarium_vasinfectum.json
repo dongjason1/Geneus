@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_vasinfectum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Nectriaceae"
+    },
+    {
+      "Genus": "Fusarium"
+    },
+    {
+      "Species": "F. oxysporum"
+    },
+    {
+      "Subspecies": "F. o. f.sp. vasinfectum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Fusarium oxysporum f.sp. vasinfectum is a fungal plant pathogen.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

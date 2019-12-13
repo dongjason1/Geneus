@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_jejuense",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. jejuense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium jejuense is a fungus species in the family Trichocomaceae. Discovered during a survey of fungal biodiversity in a marine environment in Korea, the species was described as new to science in 2015. Its sister species is P. crocicola, from which it can be differentiated by differences in culture morphology and sclerotia production when grown on various types of growth media. The specific epithet jejuense refers to the type locality, Jeju Island.\n\n\n== References =="
+  }
+}

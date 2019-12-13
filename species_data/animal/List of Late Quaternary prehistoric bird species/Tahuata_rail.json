@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tahuata_rail",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Gruiformes"
+    },
+    {
+      "Family": "Rallidae"
+    },
+    {
+      "Genus": "Gallirallus"
+    },
+    {
+      "Species": "G. roletti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Tahuata rail (Gallirallus roletti) is an extinct species of flightless bird in the Rallidae, or rail family.",
+    "History": "It was described in 2007 from subfossil remains found in 1984-1985 by Barry Rolett at the Hanamiai archaeological site, on the island of Tahuata in the Marquesas Islands of French Polynesia.  The site dates to about 1000 yr BP, from the early period of human settlement of the island.",
+    "Etymology": "The species was named in honour of archaeologist Barry V. Rolett, whose research in the Marquesas has been of both archaeological and biological importance, particularly for the excavation of an extensive series of Gallirallus bones at the Hanamiai site.\n\n\n== References =="
+  }
+}

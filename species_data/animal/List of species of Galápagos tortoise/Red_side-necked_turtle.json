@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Red_side-necked_turtle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Pleurodira"
+    },
+    {
+      "Family": "Chelidae"
+    },
+    {
+      "Subfamily": "Chelinae"
+    },
+    {
+      "Genus": "RhinemysWagler, 1830"
+    },
+    {
+      "Species": "R. rufipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The red side-necked turtle (Rhinemys rufipes), red turtle, red-footed sideneck turtle, William's toadhead turtle, or red-footed Amazon side-necked turtle is a monotypic species of turtle in the family Chelidae. It is found in Colombia and possibly Peru and Brazil.\n\n\n== References =="
+  }
+}

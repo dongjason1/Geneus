@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Stylidium_piliferum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Stylidiaceae"
+    },
+    {
+      "Genus": "Stylidium"
+    },
+    {
+      "Species": "S. piliferum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Stylidium piliferum is a species of dicotyledonous plant from the genus Stylidium. It is found in Western Australia.",
+    "Subspecies": "This species has only a subspecies:\nS. p. minor\nS. p. piliferum",
+    "References": "\n\n== External links =="
+  }
+}

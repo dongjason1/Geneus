@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rodrigues_owl",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Strigiformes"
+    },
+    {
+      "Family": "Strigidae"
+    },
+    {
+      "Genus": "†Mascarenotus"
+    },
+    {
+      "Species": "†M. murivorus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Rodrigues owl (Mascarenotus murivorus), also known as Leguat's owl or (somewhat misleadingly) Rodrigues little owl, was a small owl. It lived on the Mascarene island of Rodrigues, but it is nowadays extinct. It is part of the genus of Mascarene owls, Mascarenotus, although more recent studies have recommended reclassifying it and its relatives under the genus Otus. Like many of the Mascarene land-birds, the genus was a distinct relative to South-East Asian taxa, in this case apparently being a descendant of the direct ancestor of the Oriental scops owl.\n\nIt is sometimes assumed that Leguat mentioned this bird in his 1708 memoir, but this seems to be in error; Julien Tafforet gave a good description in 1726, however. The Rodrigues bird, which Tafforet compared to the petit-duc, the Eurasian scops owl (and not, as often assumed to the little owl, the chouette chevêche), was more arboreal than its congeners and fed on small birds and \"lizards\" (small specimens of the Rodrigues day gecko and the Rodrigues giant day gecko). A monotonous call was given in good weather. \nConsidering the bird's likely relationships as evidenced by the subfossil bones discovered later, and the detailed description of the related Mauritius owl, the Rodriguez bird was as large as a good-sized Australian boobook, with females reaching the size of a long-eared owl, and had ear tufts like an Otus owl and nearly naked legs.\nIn the original description, Milne-Edwards referred the bones to a Strix owl, mistakenly assuming that Tafforet had described a species of the tuftless owl genera. One larger tibiotarsus was assigned by him to the same sort of bird, but not described further. Günther & E. Newton, in their discussion of additional bones, quite logically assigned this bone to a female of this species, given that the small size of the island seems to preclude two competing similar species of owl to coexist. Rothschild, however, described the larger bone as type of what he assumed was a miniature eagle owl, Bubo leguati. It is nowadays accepted that the assignment to sex by Günther & Newton was correct.",
+    "Extinction": "Regardless of whether Leguat mentioned owls, Tafforet's record is the last reference to this bird. It probably was unable to cope with the ecological alterations and the predation which resulted from the human settlement and the large rat population. \nThe bird became apparently extinct in the mid-18th century; as Rodrigues is quite a small island, it is likely that Pingré would have recorded them in 1761 if they had still been present.",
+    "References": "\nMilne-Edwards, Alphonse (1873): Recherches sur la faune ancienne des Îles Mascareignes. Ann. Sci. Nat. Zool. (Paris) 5(19), Article 3. [Article in French] Note: Usually, the year of publication is given as 1874. However, although the volume was nominally of that year, it was already released in 1873."
+  }
+}

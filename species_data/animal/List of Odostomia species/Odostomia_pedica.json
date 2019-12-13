@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Odostomia_pedica",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Odostomia"
+    },
+    {
+      "Species": "O. pedica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Odostomia pedica is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "References": "",
+    "External links": "To World Register of Marine Species"
+  }
+}

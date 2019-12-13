@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Desert_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Hypsugo"
+    },
+    {
+      "Species": "H. ariel"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The desert pipistrelle (Hypsugo ariel) is a species of vesper bat  in the genus Hypsugo. It is found in Egypt, Israel, Jordan, Oman, Saudi Arabia, Sudan, and Yemen. Some of the Arabian populations were previously regarded as a separate species, Hypsugo bodenheimeri, but the proposed differences between the two do not hold. Its natural habitats are subtropical or tropical dry shrubland, rocky areas, and hot deserts.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bulbophyllum_lupulinum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Genus": "Bulbophyllum"
+    },
+    {
+      "Species": "B. lupulinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bulbophyllum lupulinum is a species of orchid in the genus Bulbophyllum.",
+    "References": "The Bulbophyllum-Checklist\nThe Internet Orchid Species Photo Encyclopedia",
+    "External links": "\nDressler, S.; Schmidt, M. & Zizka, G. (2014). \"Bulbophyllum lupulinum\". African plants – a Photo Guide. Frankfurt/Main: Forschungsinstitut Senckenberg."
+  }
+}

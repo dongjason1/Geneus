@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Underwood's_long-tongued_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "HylonycterisThomas, 1903"
+    },
+    {
+      "Species": "H. underwoodi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Underwood's long-tongued bat (Hylonycteris underwoodi) is a species of bat in the family Phyllostomidae. It is monotypic within the genus Hylonycteris. It is found in Belize, Guatemala, Mexico, Nicaragua, and Panama.",
+    "Taxonomy": "It was described as a new species in 1903 by British mammalogist Oldfield Thomas. The holotype had been collected by Cecil F. Underwood, who is the eponym for the species name \"underwoodi\".\n\n\n== References =="
+  }
+}

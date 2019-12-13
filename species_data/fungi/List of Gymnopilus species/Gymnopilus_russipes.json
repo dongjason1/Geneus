@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_russipes",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. russipes"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus russipes is a species of mushroom in the Cortinariaceae family.",
+    "External links": "Gymnopilus russipes at Index Fungorum"
+  }
+}

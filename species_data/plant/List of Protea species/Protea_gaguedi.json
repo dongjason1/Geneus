@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Protea_gaguedi",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Protea"
+    },
+    {
+      "Species": "P. gaguedi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Protea gaguedi is similar to Protea welwitschii and has hairless mature leaves and solitary flower heads. It is widely distributed in Africa, from Ethiopia to KwaZulu-Natal in South Africa.",
+    "References": "\nvan Wyk, B. and van Wyk, P. 1997. Field Guide to trees of South Africa. Struik, Cape Town\nPooley, E. 2005. A Field Guide to Wild Flowers of Kwazulu-Natal and the Eastern Region. National Floral Publications Trust, Durban"
+  }
+}

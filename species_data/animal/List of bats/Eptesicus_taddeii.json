@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eptesicus_taddeii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. taddeii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eptesicus taddeii is a species of medium-sized bat belonging to the family Vespertilionidae. It is restricted to the Atlantic Forest of southern Brazil.\nThis newly discovered species, which has a total length of up to 120 mm, is most similar to Eptesicus brasiliensis but can be distinguished from that species by its more robust appearance, redder colouring, larger muzzle and rounder-shaped ears.\nThe specific name honours the Brazilian zoologist Valdir Antônio Taddei.",
+    "References": "\nJoão M. D. Miranda, Itiberê P. Bernardi & Fernando C. Passos (2006). \"A new species of Eptesicus (Mammalia: Chiroptera: Vespertilionidae) from the Atlantic Forest, Brazil\" (PDF). Zootaxa. 1383: 57–68. Archived from the original (PDF) on 2011-07-06."
+  }
+}

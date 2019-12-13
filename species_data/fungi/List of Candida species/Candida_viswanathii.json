@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_viswanathii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. viswanathii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida viswanathii is a species of yeast in the genus Candida. It is named after the noted Indian pulmonologist, Raman Viswanthan.\n\n\n== References =="
+  }
+}

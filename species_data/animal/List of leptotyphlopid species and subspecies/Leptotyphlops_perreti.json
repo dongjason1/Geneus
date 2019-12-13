@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_perreti",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Myriopholis"
+    },
+    {
+      "Species": "M. perreti"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Myriopholis perreti is a species of snake in the family Leptotyphlopidae. The species is endemic to western Central Africa.",
+    "Etymology": "The specific name, perreti, is in honor of Swiss herpetologist Jean-Luc Perret.",
+    "Geographic range": "M. perreti is found in Cameroon and Gabon. It may also occur in the Republic of Congo.",
+    "Habitat": "M. perreti inhabits forest areas.",
+    "Reproduction": "M. perreti is oviparous.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Myriopholis peretti, new combination).\nChippaux J-F, Jackson K (2019). Snakes of Central and Western Africa. Baltimore: Johns Hopkins University Press. 448 pp. ISBN 978-1421427195.\nRoux-Estève R (1979). \"Une nouvelle espèce de Leptotyphlops (Serpentes) du Cameroun: Leptotyphlops perreti\". Revue Suisse de Zoologie 86 (2): 463-466. (Leptotyphlops perreti, new species). (in French with abstract in English)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Californian_turkey",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "Meleagris"
+    },
+    {
+      "Species": "M. californica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Californian turkey (Meleagris californica) is an extinct species of turkey indigenous to the Pleistocene and early Holocene of California. It became extinct about 10,000 years ago.\n \nFossil evidence indicates that the Californian turkey was stockier than the wild turkey of the eastern United States, with a shorter, wider beak, but was largely similar otherwise. It is a very common fossil in the La Brea tar pits.There is some evidence that the Asiatic human invasion of the New World contributed to the extinction of this species, whose bones are found in remnants of their early camps.This species was originally described as a type of peacock, by Miller in 1909, and placed in the genus Pavo with that bird.  Years later he reclassified it as an intermediate between the peacock and the ocellated turkey. But it eventually was seen as a close relative of modern living turkeys.",
+    "Distribution": "\"The unquestionable  geographic  range  of M. californica extended from Orange County in the south (Imperial Highway), through Los Angeles County (Rancho La Brea and probable also Workman and Alhambra Streets), to Santa Barbara County in  the  north (Carpinteria).\"",
+    "References": "\nPhysical Geography of North America, by Antony Orme\nhttps://blogs.scientificamerican.com/guest-blog/california-s-wild-turkey-troubles/"
+  }
+}

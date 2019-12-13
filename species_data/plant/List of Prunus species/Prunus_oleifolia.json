@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_oleifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. oleifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus oleifolia is a species of Prunus native to southern South America, including Bolivia, Paraguay, Brazil and Argentina. It is a tree 5-18 m tall. In spite of some confusion involving its missing holotype and poor descriptions, it is a good species, and a close relative of Prunus reflexa.\n\n\n== References =="
+  }
+}

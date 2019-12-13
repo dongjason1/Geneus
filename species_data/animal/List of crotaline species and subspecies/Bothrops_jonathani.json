@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_jonathani",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. jonathani"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Bothrops jonathani, known commonly as Jonathan's lancehead or the Cochabamba lancehead, is a species of venomous snake, a pit viper in the family Viperidae. The species is endemic to South America.",
+    "Etymology": "The specific name, jonathani, is in honor of American herpetologist Jonathan A. Campbell.",
+    "Geographic range": "B. jonathani is found in Cochabamba Department of southern Bolivia and in adjacent northwestern Argentina.",
+    "Habitat": "B. jonathani inhabits xeric areas of the Andes at altitudes of 2,000 m (6,600 ft) and higher.",
+    "References": "",
+    "Further reading": "Harvey, Michael B. (1994). \"A new species of montane pitviper (Serpentes: Viperidae: Bothrops) from Cochabamba, Bolivia\". Proc. Biol. Soc. Washington 107 (1): 60-66. (Bothrops jonathani, new species)."
+  }
+}

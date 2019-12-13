@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Principe_seedeater",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. rufobrunnea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Príncipe seedeater (Crithagra rufobrunnea) is a species of finch in the Fringillidae family. It is found only on the islands of São Tomé and Príncipe off the west coast of Africa. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical moist lowland forests.The Príncipe seedeater was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the Príncipe seedeater were moved to the resurrected genus Crithagra.",
+    "References": "",
+    "Further reading": "Christy, P. & Clarke, W. V. (1998). Guide des oiseaux de São Tomé et Príncipe (Guide to the Birds of São Tomé and Príncipe). Libreville, Ecofac, 106 pages\nJones, P. J. & Tye, A. (2006). The Birds of São Tomé and Príncipe with Annobón, islands of the Gulf of Guinea. British Ornithologists’ Union, Oxford, 192 pages\nMelo, M. (2007). Bird speciation in the Gulf of Guinea. PhD, School of Biological Sciences, Institute of Evolutionary Biology, University of Edinburgh, Edinburgh.\nNaurois, de, R. (1975). Les Carduelinae des îles de São Tomé et Príncipe (Golfe de Guinée) (Carduelinae in the Islands of São Tomé and Príncipe (Gulf of Guinea)). Ardeola 21 : 903-931."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chrysallida_nivosa",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Jordaniella"
+    },
+    {
+      "Species": "J. nivosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Jordaniella nivosa is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This marine species occurs in the following locations:\nEuropean waters (ERMS scope)\nIrish Exclusive economic Zone\nPortuguese Exclusive Economic Zone\nSpanish Exclusive Economic Zone\nUnited Kingdom Exclusive Economic Zone",
+    "References": "Høisæter, T. (2014). The Pyramidellidae (Gastropoda, Heterobranchia) of Norway and adjacent waters. A taxonomic review. Fauna norvegica. 34: 7-78",
+    "External links": "To CLEMAM\nTo Encyclopedia of Life\nTo Marine Species Identification Portal\nTo World Register of Marine Species"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Bothrops_taeniatus_lichenosus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Bothrops"
+    },
+    {
+      "Species": "B. taeniatus"
+    },
+    {
+      "Subspecies": "B. t. lichenosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Common names: (none).Bothrops taeniatus lichenosus is a venomous pitviper subspecies endemic to South America and known only from one locality in Bolívar State, Venezuela.",
+    "Description": "Same as for B. t. taeniatus, except that B. t. lichenosus has fewer ventral scales and fewer subcaudal scales.",
+    "Geographic range": "It is found in South America and known only from the type locality, which is \"Chimantá Tepui, Estado Bolívar, Venezuela\".",
+    "See also": "List of crotaline species and subspecies\nCrotalinae by common name\nCrotalinae by taxonomic synonyms\nSnakebite",
+    "References": "",
+    "External links": "Bothrops taeniatus at the Reptarium.cz Reptile Database. Accessed 12 August 2008."
+  }
+}

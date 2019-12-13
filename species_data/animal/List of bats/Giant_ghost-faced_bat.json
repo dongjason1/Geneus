@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Giant_ghost-faced_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Mormoopidae"
+    },
+    {
+      "Genus": "Mormoops"
+    },
+    {
+      "Species": "M. magna"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The giant ghost-faced bat (Mormoops magna) was a species of bat endemic to the Caribbean.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_chiapensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. chiapensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga chiapensis is a species of legume in the family Fabaceae. It is found only in Mexico.",
+    "References": "World Conservation Monitoring Centre (1998). \"Inga chiapensis\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38306A10109529. doi:10.2305/IUCN.UK.1998.RLTS.T38306A10109529.en. Retrieved 18 December 2017."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_humicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. humicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium humicola is a species of fungus in the genus Penicillium.",
+    "Further reading": "St. John Poindexter Chilton; L. Henson; Helen W. Johnson (1943). Fungi reported on species of Medicago, Melilotus, and Trifolium. U.S. Dept. of Agriculture.\nPharm zentralhalle Dtschl. T. Steinkopff. 1901.\nPamphlets on Biology: Kofoid collection, Band 3060. University of California. 1906.\n\n\n== References =="
+  }
+}

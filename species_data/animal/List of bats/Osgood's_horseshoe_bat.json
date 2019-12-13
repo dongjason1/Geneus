@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Osgood's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. osgoodi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Osgood's horseshoe bat (Rhinolophus osgoodi) is a species of bat in the family Rhinolophidae. It is endemic to China. Its name refers to Wilfred Hudson Osgood.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinolophus_mossambicus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. mossambicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mozambican horseshoe bat (Rhinolophus mossambicus) is a species of horseshoe bat found in Africa.",
+    "Taxonomy": "It was described as a new species in 2012.\nThe holotype had been collected by A. Monadjem in July 2006 at Niassa Reserve in Mozambique.\nIt was segregated from the Hildebrandt's horseshoe bat (R. hildebrandtii) species complex at the same time as the Smithers's horseshoe bat, Cohen's horseshoe bat, and Rhinolophus mabuensis.\nIts species name \"mossambicus\" refers to the country of Mozambique.",
+    "Description": "Its forearm length is 60–65 mm (2.4–2.6 in).\nIt echolocates at a peak frequency of 35-38 kHz.",
+    "Range and habitat": "Its range includes the African countries of Mozambique and Zimbabwe.\nIt has been documented at a range of elevations from 60–1,000 m (200–3,280 ft) above sea level.\nIt is associated with savanna habitats.",
+    "Conservation": "As of 2017, it is evaluated as a least-concern species by the IUCN.\nIt meets the criteria for this assessment because it has a relatively large geographic range, and it is unlikely to be experiencing rapid population decline.\nIts population trend is, however, projected as decreasing due to threats such as hunting for bushmeat, as well as roost disturbance due to guano mining.\n\n\n== References =="
+  }
+}

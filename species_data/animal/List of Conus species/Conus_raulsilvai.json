@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_raulsilvai",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. raulsilvai"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus raulsilvai is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 17 mm and 25 mm.",
+    "Distribution": "This species occurs in the Atlantic Ocean in Cape Verde. It is known only from Maio Island, from shallow water. It must be an insular endemic, and it is a species at high risk of extinction.",
+    "References": "Rolán E., Monteiro A. and Fernandes C. 1998. Cone shells from Cape Verde Island: new developments, with description of a new species. La Conchiglia 30(286): 36-44, 6 figs., 1 map.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea"
+  }
+}

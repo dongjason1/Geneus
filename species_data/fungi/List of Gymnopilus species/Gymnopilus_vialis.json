@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_vialis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. vialis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus vialis is a species of mushroom in the Cortinariaceae family.",
+    "External links": "Gymnopilus vialis at Index Fungorum"
+  }
+}

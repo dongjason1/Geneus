@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_viscoviridis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Myxacium"
+    },
+    {
+      "Species": "C. viscoviridis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius viscoviridis is a basidiomycete fungus of the genus Cortinarius native to New Zealand, where it grows under Nothofagus and Leptospermum scoparium.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius viscoviridis  in Index Fungorum"
+  }
+}

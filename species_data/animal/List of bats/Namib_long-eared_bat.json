@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Namib_long-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Laephotis"
+    },
+    {
+      "Species": "L. namibensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Namib long-eared bat (Laephotis namibensis) is a species of vesper bat in the family Vespertilionidae found in Namibia. \nIt is found in these habitats: dry savanna and temperate desert.\n\n\n== References =="
+  }
+}

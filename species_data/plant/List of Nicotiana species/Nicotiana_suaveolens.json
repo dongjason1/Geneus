@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nicotiana_suaveolens",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Nicotiana"
+    },
+    {
+      "Species": "N. suaveolens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nicotiana suaveolens, the Australian tobacco, is a herb to 1.5 metres tall. Growing in New South Wales and Victoria.",
+    "References": "\"Nicotiana suaveolens\". PlantNET - NSW Flora Online. Retrieved 2010-01-25."
+  }
+}

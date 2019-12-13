@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Marasmius_tenuissimus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Marasmiaceae"
+    },
+    {
+      "Genus": "Marasmius"
+    },
+    {
+      "Species": "M. tenuissimus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Marasmius tenuissimus is a species of agaric fungus in the large agaric genus Marasmius.",
+    "See also": "List of Marasmius species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Zamia_elegantissima",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Zamia"
+    },
+    {
+      "Species": "Z. elegantissima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Zamia elegantissima is a species of cycad in the family Zamiaceae. It is found on the Atlantic Coast of Colón Province, Panama.",
+    "References": "Whitelock, Loran M. 2002. The Cycads. Portland: Timber Press. ISBN 0-88192-522-5",
+    "External links": " Data related to Zamia elegantissima at Wikispecies"
+  }
+}

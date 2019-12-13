@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Buff-rumped_woodpecker",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Piciformes"
+    },
+    {
+      "Family": "Picidae"
+    },
+    {
+      "Genus": "Meiglyptes"
+    },
+    {
+      "Species": "M. grammithorax"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The buff-rumped woodpecker (Meiglyptes grammithorax) is a species of bird in the family Picidae.\nIt is found in southern Myanmar and Thailand, Malaya, Sumatra and Borneo.\nIts natural habitats are subtropical or tropical dry forests and subtropical or tropical moist lowland forests. It was formerly considered conspecific with the white-rumped woodpecker (Meiglyptes tristis).",
+    "References": "",
+    "External links": "Image at ADW"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Honduran_fruit-eating_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Artibeus"
+    },
+    {
+      "Species": "A. inopinatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Honduran fruit-eating bat (Artibeus inopinatus) is a species of bat in the family Phyllostomidae. It is found in El Salvador, Honduras, and Nicaragua.",
+    "Description": "Artibeus inopinatus is a fruit eating bat native to Central America, of the order Chiroptera, family Phyllostomidae.\nAlthough the Honduran fruit-eating bat is considered data deficient by the IUCN,[1] accounts suggest that they display many of the characteristic features of the Neotropical fruit bats (Arbiteus), and are morphologically very similar to the close relative A. hirsutus.[3][4]With an average weight of 36 g. the Honduran fruit eating bat is one of the smaller Neotropical bats, which typically range from 10-85 g.[6] It displays the characteristic lack of tail and narrow patagium seen in fruit bats, and also has a very densely furred uropatagium, which distinguishes A. hirsutus and A. inopinatus from many other species in the genus. Like most bats, they are nocturnal, roosting during the day, and use echolocation for navigation at night.[6] The bats are in the family Phyllostomidae, also referred to as the New World leaf-nosed bats.[6] This group tends to have distinct pointed, or \"leaf shaped\" snouts which assist them in echolocation.[6]",
+    "Ecology": "",
+    "Ecology-Distribution": "The Honduran Fruit Eating bat has a relatively narrow range compared to other closely related species. It is found along the pacific border of central America, from El Salvador to Nicaragua, and lives at much lower elevations than closely related bats in the genus, rarely exceeding 200 m above sea level. The Honduran fruit-eating bat resides in thorn-scrub habitats, and have been captured in mist nets over streams and in banana groves. They are also known to use empty houses as day time roosts.[1]",
+    "Ecology-Behavior": "Honduran fruit-eating bats live in groups, with the females outnumbering the males significantly (there are accounts of 1 male living with 8 or more females).[1] The bats roost in protected shelters such as caves, or houses to shelter themselves from predators and weather. Their diet consists of fruit, insects, and some pollen.[6] The bats are also thought to undergo periods of dormancy similar to the closely related A. hirsutus.[6] Little is known about the lifestyle and mating habits and patterns of the Honduran fruit-eating bat.",
+    "Ecology-Physiology": "The Honduran fruit-eating bats display poikilothermic characteristics, which is to say that their body temperature is able to rise and drop significantly.[2] When measured at different ambient temperatures, body temperatures as low as 29 °C and as high as 39.2 °C were recorded without the bat entering torpor.[2]",
+    "References": "\n[1] Reid, F. & Medina, A. 2008.  Artibeus inopinatus.   2008 IUCN Red List of Threatened Species.   Downloaded on 28 February 2009.\n[3] Redondo, R et al. (2008) \"Molecular Systematics of the genus Artibeus\"  Molecular Phylogenetics and Evolution. Retrieved 6 November 2016.\n[4] Larsen, P, Marchan-Revadeneira, M. and Baker, R. (2013) \"Speciation Dynamics of the Fruit-Eating Bats (Genus Artibeus): With Evidence of Ecological Divergence in Central American Populations\" Department of Biology, Duke university. Retrieved 6 November 2016.\n[5] Marchan-Rivadeneira, M., et al. (2010) \"Cranial differentiation of fruit-eating bats (genus Artibeus) based on size-standardized data\" Acta Chiropterologica, 12(1); 143-154. Retrieved 6 November 2016.\n[6] Simmons, N. (2005), \"Chiroptera\", in Wilson, Don E.; Reeder, DeeAnn M., Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed), Baltimore: Johns Hopkins University Press, pp. 312–529. Retrieved 6 November 2016."
+  }
+}

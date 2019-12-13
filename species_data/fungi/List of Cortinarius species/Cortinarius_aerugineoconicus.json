@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_aerugineoconicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Subgenus": "Myxacium"
+    },
+    {
+      "Species": "C. aerugineoconicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius aerugineoconicus is a basidiomycete fungus of the genus Cortinarius native to New Zealand, where it grows under Nothofagus.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius aerugineoconicus  in Index Fungorum"
+  }
+}

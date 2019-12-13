@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_cupreorufus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. cupreorufus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius cupreorufus is a species of fungus native to Europe.",
+    "References": "",
+    "External links": "Cortinarius cupreorufus  in MycoBank."
+  }
+}

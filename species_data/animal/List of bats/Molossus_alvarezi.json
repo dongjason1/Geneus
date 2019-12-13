@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Molossus_alvarezi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Molossus"
+    },
+    {
+      "Species": "M. alvarezi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Molossus alvarezi, or Alvarez's mastiff bat, is a species of bat in the family Molossidae, native to the Yucatán Peninsula.  It lives within a relative homogenous environment within perennial forests, low forests, and a band of xeric vegetation.",
+    "Taxonomy": "The genus name Molossus refers to the ancient Molossus breed of shepherd dog, while the specific name alvarezi honors the late José Ticul Álvarez Solórzano for his signiﬁcant contributions to the development of Mexican mammalogy.\n\n\n== References =="
+  }
+}

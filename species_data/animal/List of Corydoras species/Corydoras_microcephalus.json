@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corydoras_microcephalus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Actinopterygii"
+    },
+    {
+      "Order": "Siluriformes"
+    },
+    {
+      "Family": "Callichthyidae"
+    },
+    {
+      "Genus": "Corydoras"
+    },
+    {
+      "Species": "C. microcephalus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corydoras microcephalus is a species of callichthyid armored catfish native to Argentina.",
+    "References": "Froese, Rainer and Pauly, Daniel, eds. (2012). \"Corydoras microcephalus\" in FishBase. October 2012 version."
+  }
+}

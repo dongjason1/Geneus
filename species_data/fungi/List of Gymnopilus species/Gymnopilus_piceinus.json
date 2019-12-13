@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_piceinus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. piceinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus piceinus is a species of mushroom in the Cortinariaceae family.",
+    "See also": "List of Gymnopilus species",
+    "External links": "Gymnopilus piceinus at Index Fungorum"
+  }
+}

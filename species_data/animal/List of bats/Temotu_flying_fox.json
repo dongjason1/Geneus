@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Temotu_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. nitendiensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Temotu flying fox (Pteropus nitendiensis) is a species of flying fox in the family Pteropodidae. It is endemic to the Solomon Islands.  It is threatened by habitat destruction due to subsistence agricultural practices, as well as natural disasters such as tropical cyclones. Due to its imperiled status, it is identified by the Alliance for Zero Extinction as a species in danger of imminent extinction. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.\n\n\n== References =="
+  }
+}

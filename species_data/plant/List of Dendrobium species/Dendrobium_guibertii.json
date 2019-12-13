@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_guibertii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. guibertii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium guibertii is a species of orchid endemic to Thailand. It was first formally described in 1876 by Élie-Abel Carrière and the description was published in Revue Horticole. The specific epithet (guibertii) honours \"M. Guibert of Passy-Paris, well known in the world of horticulture for his remarkable collection of orchids\".\n\n\n== References =="
+  }
+}

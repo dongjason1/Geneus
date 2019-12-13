@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_lobbii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Cyclobalanopsis"
+    },
+    {
+      "Species": "Q. lobbii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus lobbii is an uncommon species of tree in the beech family. It has been found in northeastern India and southwestern China (Yunnan Province).Quercus lobbii is a tree up to 10 meters tall. Leaves can be as much as 7 cm long.",
+    "References": "",
+    "External links": "line drawing, Flora of China Illustrations vol. 4, fig. 385, drawings 6-8 at lower right"
+  }
+}

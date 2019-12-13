@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_neotropicus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. neotropicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius neotropicus is a fungus native to Costa Rica. It was described in 2015 by Emma Harrower and colleagues, and is closely related to the northern hemisphere species Cortinarius violaceus.",
+    "See also": "List of Cortinarius species",
+    "References": "",
+    "External links": "Cortinarius neotropicus  in Index Fungorum"
+  }
+}

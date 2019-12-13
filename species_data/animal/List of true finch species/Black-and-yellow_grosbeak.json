@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-and-yellow_grosbeak",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Mycerobas"
+    },
+    {
+      "Species": "M. icterioides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-and-yellow grosbeak (Mycerobas icterioides) is a species of finch native to the northern parts of the Indian subcontinent, primarily the lower and middle Himalayas. It is in the family Fringillidae.\nThe species ranges across Afghanistan, India, Nepal, and Pakistan where its natural habitat is temperate forests.",
+    "Gallery": "",
+    "Phylogeny": "Eophona genus goes together with Mycerobas genus. Both genera form a single phylogenetic group.\n\n\n== References =="
+  }
+}

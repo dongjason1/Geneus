@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Forest_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. adamsi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The forest pipistrelle (Pipistrellus adamsi), is a species of vesper bat found in Australia, in the northern most parts of Queensland and the Northern Territory.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Megastomia_sulcifera",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Megastomia"
+    },
+    {
+      "Species": "M. sulcifera"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Megastomia sulcifera is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "References": "",
+    "External links": "To World Register of Marine Species"
+  }
+}

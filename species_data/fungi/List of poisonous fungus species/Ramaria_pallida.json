@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ramaria_pallida",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Gomphales"
+    },
+    {
+      "Family": "Gomphaceae"
+    },
+    {
+      "Genus": "Ramaria"
+    },
+    {
+      "Species": "R. pallida"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ramaria pallida is a coral mushroom in the family Gomphaceae. It is found in North America.",
+    "References": "",
+    "External links": "Ramaria pallida  in MycoBank."
+  }
+}

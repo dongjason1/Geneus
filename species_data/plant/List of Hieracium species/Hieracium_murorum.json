@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hieracium_murorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Tribe": "Cichorieae"
+    },
+    {
+      "Genus": "Hieracium"
+    },
+    {
+      "Species": "H. murorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hieracium murorum, the wall hawkweed, is a species of flowering plant in the sunflower family. It is native to Europe and naturalized in some of the colder regions of North America.",
+    "References": "",
+    "External links": "Photo of herbarium specimen at Missouri Botanical Garden, collected near Seattle, Washington, in 2013"
+  }
+}

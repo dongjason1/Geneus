@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Martinique_amazon",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Psittaciformes"
+    },
+    {
+      "Family": "Psittacidae"
+    },
+    {
+      "Genus": "Amazona"
+    },
+    {
+      "Species": "A. martinicana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Martinique amazon (Amazona martinicana) is a hypothetical extinct species of Caribbean parrot in the family Psittacidae. It is not known from any material remains, but was said to be similar to the red-necked amazon (A. arausiaca) from Dominica, the next major island to the north of Martinique. Natives are known to have traded extensively in parrots between the Antilles, and it seems that the Martinique population was in some way related to or even descended from A. arausiaca.Jean-Baptiste Labat described them as follows in 1742:\n\nThose of Dominica have some red feathers on the wings, under the throat, and in the tail; all the rest is green (Amazona bouqueti, w.r.). Those of Martinique have the same plumage as the last mentioned, but the top of the head is slate colour with a small amount of red.\nAssuming it was a genuine and distinct taxon, it was endemic to Martinique and became extinct due to habitat loss as Martinique was cleared for agriculture. It has not been recorded since 1722.The Guadeloupe amazon (\"A. violacea\"), a similarly speculative \"species\", was said to inhabit the island of Guadeloupe. It is sometimes considered to be the same as  \"A. martinicana\". However, it is more widely held to be related or identical to the imperial amazon (A. imperialis), the second Amazona species of Dominica.",
+    "References": "\n Media related to Amazona martinicana at Wikimedia Commons"
+  }
+}

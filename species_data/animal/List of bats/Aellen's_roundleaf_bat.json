@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aellen's_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. marisae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aellen's roundleaf bat (Hipposideros marisae) is a species of bat in the family Hipposideridae. It is found in Ivory Coast, Guinea, and Liberia. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, and caves. It is threatened by habitat loss.",
+    "Taxonomy and etymology": "It was described as a new species in 1954 by Villy Aellen.\nThe eponym for the species name \"marisae\" was Aellen's wife (her name was presumably Marisa).\nOf the name, Aellen wrote, \"Dédiée à ma femme qui m'a accompagné et secondé au cours de ce voyage,\" which translates to: \"Dedicated to my wife who accompanied and assisted me on this trip.\"",
+    "Description": "It is a small species of horseshoe bat, with a forearm length of 41 mm (1.6 in).\nIt has long ears.\nIts fur is uniformly dark gray, while its ears and wing membranes are dark brown.\nIts nose-leaf is black around the edges, with a light brown sella.",
+    "Range and habitat": "It is known from several countries in West Africa, including Ivory Coast, Guinea, and Liberia.",
+    "Conservation": "It is currently evaluated as vulnerable by the IUCN.\nIt meets the criteria for this assessment because its area of occupancy is likely less than 2,000 km2 (770 sq mi); its roosting habitat is likely severely fragmented; its cave roosting sites are threatened by human disturbance; and some populations are likely over-harvested for bushmeat.",
+    "References": "",
+    "External links": "Images of this species"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Woodford's_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Melonycteris"
+    },
+    {
+      "Species": "M. woodfordi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Woodford's fruit bat (Melonycteris woodfordi), also known as the orange fruit bat, is a species of megabat in the family Pteropodidae. It is endemic to the Solomon Islands.\n\n\n== References =="
+  }
+}

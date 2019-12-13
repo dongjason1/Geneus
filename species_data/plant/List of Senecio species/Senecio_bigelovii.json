@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_bigelovii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. bigelovii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio bigelovii or nodding groundsel or nodding ragwort is a perennial herb native to the Colorado Plateau region of the United States.",
+    "References": "",
+    "External links": "USDA Plants Profile for Senecio bigelovii (nodding ragwort)"
+  }
+}

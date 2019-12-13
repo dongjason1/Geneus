@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Heller's_broad-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Platyrrhinus"
+    },
+    {
+      "Species": "P. helleri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Heller's broad-nosed bat (Platyrrhinus helleri) is a bat species from South and Central America.\n\n\n== References =="
+  }
+}

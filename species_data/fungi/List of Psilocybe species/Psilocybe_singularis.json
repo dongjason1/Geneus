@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_singularis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. singularis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe singularis is a species of psilocybin mushroom in the family Strophariaceae. Found in Oaxaca, Mexico, where it grows on bare clay soil in mesophytic forest, it was described as new to science in 2004.",
+    "See also": "List of Psilocybe species\nList of psilocybin mushrooms",
+    "References": "",
+    "External links": "Psilocybe singularis  in Index Fungorum"
+  }
+}

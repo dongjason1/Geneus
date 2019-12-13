@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_glumacea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Genus": "Acianthera"
+    },
+    {
+      "Species": "A. glumacea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acianthera glumacea is a species of orchid.",
+    "References": "\n\n== External links =="
+  }
+}

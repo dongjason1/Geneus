@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Loyalty_bent-winged_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. robustior"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Loyalty bent-winged bat (Miniopterus robustior) is a species of vesper bat in the family Miniopteridae.\nIt is found only in New Caledonia.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_pseudoarmoricus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. pseudoarmoricus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus pseudoarmoricus is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.",
+    "Description": "",
+    "Distribution": "This marine species was found as a fossil in New Zealand",
+    "References": "P Marshall, R Murdoch, Some Tertiary Mollusca, with descriptions of new species; Transactions of the New Zealand Institute, 1920\nMaxwell, P.A. (2009). Cenozoic Mollusca. pp 232–254 in Gordon, D.P. (ed.) New Zealand inventory of biodiversity. Volume one. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia. Canterbury University Press, Christchurch.",
+    "External links": "To World Register of Marine Species"
+  }
+}

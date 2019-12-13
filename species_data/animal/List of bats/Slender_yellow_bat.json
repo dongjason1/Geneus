@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Slender_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Rhogeessa"
+    },
+    {
+      "Species": "R. gracilis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The slender yellow bat (Rhogeessa gracilis) is a species of vesper bat. It is found only in Mexico.\n\n\n== References =="
+  }
+}

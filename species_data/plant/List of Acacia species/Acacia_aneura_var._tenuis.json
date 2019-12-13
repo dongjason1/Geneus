@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_aneura_var._tenuis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. aneura"
+    },
+    {
+      "Variety": "A. a. var. tenuis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia aneura var. tenuis is a perennial tree native to Australia.\n\n\n== References =="
+  }
+}

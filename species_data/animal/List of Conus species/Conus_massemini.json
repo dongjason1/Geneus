@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_massemini",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. massemini"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus massemini is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.This snail is predatory and venomous and is capable of \"stinging\" humans.",
+    "Description": "The length of the shell attains 40 mm.",
+    "Distribution": "This marine species of cone snail occurs off French Guiana.",
+    "References": "Monnier E. & Limpalaër L. (2016). Revision of the Dauciconus daucus complex (Gastropoda: Conidae). Description of two new species: Dauciconus jacquescolombi n.sp. from Martinique and Dauciconus massemini n.sp. from French Guyana. Xenophora Taxonomy. 13: 6-37. page(s): 7",
+    "External links": "\"Dauciconus jacquescolombi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

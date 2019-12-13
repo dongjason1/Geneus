@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_fagicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hymenogastraceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. fagicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe fagicola is a species of psychedelic mushroom in the family Hymenogastraceae native to Mexico.  The type specimen for the species was collected in 1959 in a beech forest in Hidalgo, Mexico.",
+    "See also": "List of Psilocybe species\nList of Psilocybin mushrooms\nPsilocybe",
+    "References": "",
+    "External links": "Psilocybe fagicola  in Index Fungorum\nP. fagicola  in MycoBank."
+  }
+}

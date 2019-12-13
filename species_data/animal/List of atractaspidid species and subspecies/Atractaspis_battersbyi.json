@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atractaspis_battersbyi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Atractaspis"
+    },
+    {
+      "Species": "A. battersbyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Atractaspis battersbyi, or Battersby's burrowing asp, is a species of venomous snake in the family Atractaspididae.",
+    "Etymology": "Both the common name and the specific epithet, battersbyi, are in honor of James Clarence Battersby (1901–1993), herpetologist at the British Museum (Natural History) for 45 years.",
+    "Geographic range": "A. battersbyi is endemic to Africa. It is found in the Central African countries of Congo and Democratic Republic of Congo.",
+    "References": "",
+    "Further reading": "de Witte GF (1959). \"Contribution à la faune herpétologique du Congo Belge. Description de trois serpents nouveaux \". Rev. Zool. Bot. Africaines 50 (3/4): 348-351. (Atractaspis battersbyi, new species, p. 350). (in French)."
+  }
+}

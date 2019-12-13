@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_guilliermondii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Subphylum": "Saccharomycotina"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Meyerozyma"
+    },
+    {
+      "Species": "M. guilliermondii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Meyerozyma guilliermondii (formerly known as Pichia guilliermondii until its rename in 2010) is a species of yeast of the genus Meyerozyma whose asexual or anamorphic form is known as Candida guilliermondii.\nCandida guilliermondii has been isolated from numerous human infections, mostly of cutaneous origin, if only from immunesuppresed patients . C. guilliermondii has also been isolated from normal skin and in sea water, faeces of animals, fig wasps, buttermilk, leather, fish and beer.",
+    "Morphology": "Candida guilliermondii colonies are flat, moist, smooth, and cream to yellow in color on Sabouraud dextrose agar. It does not grow on the surface when inoculated into Sabouraud broth.\nOn cornmeal tween 80 agar and at 25 °C after 72 h, it produces clusters of small blastospores along the pseudohyphae and particularly at septal points. Pseudohyphae are short and few in number",
+    "See also": "Candida",
+    "References": "",
+    "External links": "M. guilliermondii at NCBI Taxonomy browser"
+  }
+}

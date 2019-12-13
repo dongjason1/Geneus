@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_tindalli",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. tindalli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gerrhopilus tindalli, also known as the Nilgiri Hills worm snake or Tindall's worm snake, is a harmless blind snake species found in southern India. No subspecies are currently recognized.",
+    "Etymology": "The specific name, tindalli, is in honor of Roger Tindall.",
+    "Geographic range": "It is found in India in the Nilgiri Hills, Malabar District. The type locality given is \"Nilambur, Malabar district\" [India].",
+    "References": "\n\n== Further reading =="
+  }
+}

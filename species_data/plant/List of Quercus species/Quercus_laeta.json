@@ -1,0 +1,44 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_laeta",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Quercus"
+    },
+    {
+      "Section": "Quercus sect. Quercus"
+    },
+    {
+      "Species": "Q. laeta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus laeta is an oak species in the white oak section, Quercus section Quercus, in the beech family. It is widespread across much of Mexico from Sinaloa and Nuevo León south as far as Oaxaca.",
+    "Description": "Quercus laeta is a tree up to 10 meters tall with a trunk up to 40 cm in diameter. Leaves are dark green, thick and leathery, up to 40 cm long with a few shallow teeth along the edges.",
+    "References": "",
+    "External links": "photo of herbarium specimen collected in Nuevo León in 1992"
+  }
+}

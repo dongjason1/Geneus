@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Amblyodipsas_ventrimaculata",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Amblyodipsas"
+    },
+    {
+      "Species": "A. ventrimaculata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Amblyodipsas ventrimaculata, or the Kalahari purple-glossed snake, is a species of venomous rear-fanged snake in the Atractaspididae family. It is endemic to Namibia, Botswana, northern Zimbabwe, and western Zambia.",
+    "References": "\nRoux, Jean. 1907. Sur quelques Reptiles sud-africains. Rev. suisse Zool. 15:75-86. (In French, with line drawing of head scalation) https://www.biodiversitylibrary.org/item/38729#page/90/mode/1up"
+  }
+}

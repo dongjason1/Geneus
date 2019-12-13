@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hanaki's_dwarf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. hanaki"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hanaki's dwarf bat (Pipistrellus hanaki) is a species of bat only found in Cyrenaica, Libya  and Crete, Greece.",
+    "Taxonomy": "Pipistrellus hanaki was described as a new species in 2004. Its description was the result of a taxonomic split of the common pipistrelle. The holotype had been collected in Cyrenaica, which is in eastern Libya. The eponym for the species name \"hanaki\" is Czech Republic scientist Vladimír  Hanák, for his significant contribution \"to the knowledge  of  the  Palaearctic  bat  fauna\". Hanák was also the first to point out the difference of this taxon from other members of the common pipistrelle species complex.",
+    "Range and habitat": "In Crete, the Hanaki's dwarf bat was recorded in mosaic of oak trees (mainly Quercus pubescens), cypresses (Cupressus sempervirens), olive trees (Olea europea), carob trees (Ceratonia siliqua) and to a lesser extend other cultivated trees (including Ficus carica and Prunus spp.).",
+    "Echolocation": "This species is using the same range of frequencies than the common pipistrelle, however its specific social calls allow a clear identification from the other pipistrelle species.",
+    "Conservation": "This species is protected in the European Union under the Habitats Directive, Annex IV. This species is also listed in the Berne Convention and is specifically targeted by the UNEP-EUROBATS convention.",
+    "References": "",
+    "Literature cited": "Benda, P., Hulva, P., & Gaisler, J. 2004. Systematic status of African populations of Pipistrellus pipistrellus complex (Chiroptera: Vespertilionidae), with a description of a new species from Cyrenaica, Libya.  Acta Chiropterologica, 6(2), 193-217.\nGeorgiakakis, P., & Russo, D. 2012. The distinctive structure of social calls by Hanák's dwarf bat Pipistrellus hanaki. Acta Chiropterologica, 14(1), 167-174.\nHulva, P., Benda, P., Hanak, V., Evin, A., & Horacek, I. 2007. New mitochondrial lineages within the Pipistrellus pipistrellus complex from Mediterranean Europe. FOLIA ZOOLOGICA-PRAHA-, 56(4), 378."
+  }
+}

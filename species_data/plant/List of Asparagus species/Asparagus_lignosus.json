@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Asparagus_lignosus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asparagaceae"
+    },
+    {
+      "Subfamily": "Asparagoideae"
+    },
+    {
+      "Genus": "Asparagus"
+    },
+    {
+      "Species": "A. lignosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Asparagus lignosus  (\"Katdoring\") is a thorny, spindly creeper of the Asparagus genus, that is indigenous to the south-western Cape of South Africa.It occurs in rocky sandstone slopes and fynbos vegetation in the Western Cape.",
+    "References": "",
+    "Further reading": "Pink, A. (2004). Gardening for the Million. Project Gutenberg Literary Archive Foundation."
+  }
+}

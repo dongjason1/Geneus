@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Myotis_laniger",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. laniger"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chinese water myotis (Myotis laniger) is a species of vesper bat. It is native to eastern India, Vietnam and China where it is found in forest habitats. It is believed to roost in caves and hollow trees.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Blyth's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. lepidus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Blyth's horseshoe bat (Rhinolophus lepidus) is a species of bat in the family Rhinolophidae.\nIt is found across southern Asia from Afghanistan to Vietnam.\nThe species can be identified from its pointed, bifid sella.\nThe Blyth's horseshoe bat population on Tioman Island, Malaysia, is known to fly and hunt in the forest during the day and night. It is thought that these bats can forage during the day owing to the absence of resident avian predators in the forest there.",
+    "References": "",
+    "External links": "Sound recordings of Rhinolophus lepidus on BioAcoustica"
+  }
+}

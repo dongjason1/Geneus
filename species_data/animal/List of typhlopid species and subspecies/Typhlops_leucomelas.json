@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_leucomelas",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Indotyphlops"
+    },
+    {
+      "Species": "I. leucomelas"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pied worm snake (Indotyphlops leucomelas) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

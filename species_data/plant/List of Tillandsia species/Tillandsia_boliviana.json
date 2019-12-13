@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_boliviana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Allardtia"
+    },
+    {
+      "Species": "T. boliviana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia boliviana is a species in the genus Tillandsia. This species is endemic to Bolivia.",
+    "References": "Checklist of Bolivian Bromeliaceae Retrieved 21 October 2009"
+  }
+}

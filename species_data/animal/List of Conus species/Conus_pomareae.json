@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_pomareae",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. pomareae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus pomareae is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "",
+    "Distribution": "This marine species occurs in the Pacific Ocean off the Society Islands .",
+    "References": "Eric Monnier & Loïc Limpalaër, A new endemic species from French Polynesia : Leporiconus pomareae n. sp. (Gastropoda, Conidae); Xenophora Taxonomy N° 5 - Supplément au Xenophora n° 148 - Octobre 2014\nFilmer R.M. (2001). A Catalogue of Nomenclature and Taxonomy in the Living Conidae 1758 - 1998. Backhuys Publishers, Leiden. 388pp.",
+    "External links": "To World Register of Marine Species"
+  }
+}

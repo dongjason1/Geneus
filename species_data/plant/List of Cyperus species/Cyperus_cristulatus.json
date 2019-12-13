@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cyperus_cristulatus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Cyperus"
+    },
+    {
+      "Species": "C. cristulatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cyperus cristulatus is a sedge of the family Cyperaceae that is native to the  Kimberley region of Western Australia.",
+    "See also": "List of Cyperus species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Temminck's_trident_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Aselliscus"
+    },
+    {
+      "Species": "A. tricuspidatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Temminck's trident bat (Aselliscus tricuspidatus) is a species of bat in the family Hipposideridae. It is found in Indonesia, Papua New Guinea, the Solomon Islands, and Vanuatu.",
+    "References": "\nSimmons, N.B. 2005. Order Chiroptera. Pp. 312–529 in Wilson, D.E. and Reeder, D.M. (eds.). Mammal Species of the World: a taxonomic and geographic reference. 3rd ed. Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp. ISBN 978-0-8018-8221-0"
+  }
+}

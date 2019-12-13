@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ontong_Java_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. howensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ontong Java flying fox (Pteropus howensis) is a species of flying fox in the family Pteropodidae. It is endemic to the  Ontong Java Atoll in the Solomon Islands.  Its natural habitats are subtropical or tropical dry forests and subtropical or tropical swamps. It was classified as \"Data Deficient\" in 2008 by the IUCN over concerns of taxonomic validity.  However its confirmed range extends only over small islands, all of which are near to sea level.  It is therefore threatened by rising sea levels.\n\n\n== Sources =="
+  }
+}

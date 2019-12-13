@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_stellata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. stellata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida stellata is a species of yeast of the genus Candida. The year of 1978 saw work of Yarrow & Meyer the yeast was reclassified to its current name from Saccharomyces stellatus, which was initially described by Kroemer and Krumbholz in 1931.\n\n\n== References =="
+  }
+}

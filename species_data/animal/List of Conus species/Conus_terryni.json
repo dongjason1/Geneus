@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_terryni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. terryni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus terryni is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 20 mm and 30 mm.",
+    "Distribution": "This marine species occurs off the Philippines.",
+    "References": "Tenorio M.J. & Poppe G.T. (2004) Description of three deep-water species of Conus from the Central Philippines. (Gastropoda, Conidae). Visaya 1(1): 20-30\nPuillandre, N.; Duda, T.F.; Meyer, C.; Olivera, B.M.; Bouchet, P. (2015). \"One, four or 100 genera? A new classification of the cone snails\". Journal of Molluscan Studies. 81: 1–23. doi:10.1093/mollus/eyu055. PMC 4541476.",
+    "External links": "The Conus Biodiversity website\n\"Hermes terryni\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

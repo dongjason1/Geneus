@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Justicia_lanstyakii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Acanthaceae"
+    },
+    {
+      "Genus": "Justicia"
+    },
+    {
+      "Species": "J. lanstyakii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Justicia lanstyakii is a plant native to the Cerrado vegetation of Brazil.",
+    "See also": "List of plants of Cerrado vegetation of Brazil"
+  }
+}

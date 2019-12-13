@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_neoniveus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. neoniveus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus neoniveus is a species of fungus in the genus Aspergillus. It is from the Terrei section. The species was first described in 2011. It has been isolated from forest soil in Thailand and soil in Canada.",
+    "Growth and morphology": "A. neoniveus has been cultivated on both yeast extract sucrose agar (YES) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.\n\n\t\t\n\n\n== References =="
+  }
+}

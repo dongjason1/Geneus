@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_zambalensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. zambalensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas zambalensis is a species of cycad endemic to Luzon, Philippines.",
+    "Distribution": "There are two subpopulations of Cycas zambalensis, which are found in:\nBarangay San Juan in Botolan, Zambales\nnear Barangay Pundaquit in San Antonio, Zambales, and in Barangay Cawag in Subic, Zambales\n\n\n== References =="
+  }
+}

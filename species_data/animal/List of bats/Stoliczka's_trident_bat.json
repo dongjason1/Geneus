@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Stoliczka's_trident_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Aselliscus"
+    },
+    {
+      "Species": "A. stoliczkanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Stoliczka's trident bat (Aselliscus stoliczkanus) is a species of bat in the family Hipposideridae. It is found in China, Laos, Malaysia, Myanmar, Thailand, and Vietnam.\nIn northern Thailand, it is found in Doi Pha Hom Pok National Park.",
+    "References": "\nSimmons, N.B. 2005. Order Chiroptera. Pp. 312–529 in Wilson, D.E. and Reeder, D.M. (eds.). Mammal Species of the World: a taxonomic and geographic reference. 3rd ed. Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp. ISBN 978-0-8018-8221-0"
+  }
+}

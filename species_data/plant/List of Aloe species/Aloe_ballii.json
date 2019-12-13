@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aloe_ballii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Asphodelaceae"
+    },
+    {
+      "Subfamily": "Asphodeloideae"
+    },
+    {
+      "Genus": "Aloe"
+    },
+    {
+      "Species": "A. ballii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aloe ballii is a species of plant in the family Asphodelaceae, subfamily Asphodeloideae. It is found in Mozambique and Zimbabwe.\n\n\n== References =="
+  }
+}

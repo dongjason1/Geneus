@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Temminck's_mysterious_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Nycticeius"
+    },
+    {
+      "Species": "N. aenobarbus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Temminck's mysterious bat (Nycticeius aenobarbus) is a species of bat of the family Vespertilionidae.\nAs the name suggests, there is very little known information about this bat. The species is listed as Data Deficient on the IUCN Red List, and there is no information on population, habitat, ecology, major threats, or conservation actions. Carter and Dolan (1978) have suggested that the one known specimen is not from South America.Temminck's mysterious bat is usually listed as a synonym of the silver-tipped myotis, but it is clearly distinct on both the species and generic levels.",
+    "See also": "Silver-tipped myotis\n\n\n== References =="
+  }
+}

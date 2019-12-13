@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Kenyan_wattled_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Glauconycteris"
+    },
+    {
+      "Species": "G. kenyacola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Kenyan wattled bat (Glauconycteris kenyacola) is a species of vesper bat and a member of the family Vespertilionidae.\nIt is found only in Kenya.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Prunus_bracteopadus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Prunus"
+    },
+    {
+      "Species": "P. bracteopadus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Prunus bracteopadus is a putative species of bird cherry native to the eastern foothills of the Himalayas, Assam and Uttarakhand. It is very closely related to, and perhaps conspecific with, Prunus napaulensis.",
+    "Notes": "\n\n== References =="
+  }
+}

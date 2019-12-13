@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_guayaquilensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Trilepida"
+    },
+    {
+      "Species": "T. guayaquilensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Guayaquila blind snake (Trilepida guayaquilensis) is a species of snakes in the family Leptotyphlopidae.\n\n\n== References =="
+  }
+}

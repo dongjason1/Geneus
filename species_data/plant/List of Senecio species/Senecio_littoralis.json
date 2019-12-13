@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_littoralis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. littoralis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio littoralis, the woolly ragwort, is a species of flowering plant in the aster family. It is endemic to the Falkland Islands. Its natural habitats are temperate shrubland, rocky areas, and rocky shores. This species is threatened by habitat loss.",
+    "References": "Broughton, D.A. & McAdam, J.H. 2003. Senecio littoralis. 2006 IUCN Red List of Threatened Species.  Downloaded on 20 July 2007."
+  }
+}

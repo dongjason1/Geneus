@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Thomas's_nectar_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Lonchophylla"
+    },
+    {
+      "Species": "L. thomasi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Thomas's nectar bat (Lonchophylla thomasi) is a bat species from South and Central America.\n\n\n== References =="
+  }
+}

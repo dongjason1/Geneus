@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Epicrates_monensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Boidae"
+    },
+    {
+      "Genus": "Chilabothrus"
+    },
+    {
+      "Species": "C. monensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mona Island boa (Chilabothrus monensis) is a species of snake in the family Boidae. It is endemic to the West Indies.",
+    "Distribution and habitat": "Chilabothrus monensis is found in the West Indies, around Mona Island and Cayo Diablo near Puerto Rico, in the U.S. Virgin Islands, and in the British Virgin Islands: Tortola, Great Camanoe, Necker, and Virgin Gorda.",
+    "Subspecies": "Two subspecies are recognized, including the nominotypical subspecies.\n\nChilabothrus monensis granti Stull, 1933\nChilabothrus monensis monensis Zenneck, 1898",
+    "References": "",
+    "Further reading": "Zenneck J (1898). \"Die Zeichnung der Boiden \". Zeitschrift für Wissenschaftliche Zoologie 64: 1-384. (Epicrates monensis, new species, pp. 64–66). (in German)."
+  }
+}

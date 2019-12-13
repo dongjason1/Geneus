@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Canis_lepophagus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Carnivora"
+    },
+    {
+      "Family": "Canidae"
+    },
+    {
+      "Genus": "Canis"
+    },
+    {
+      "Species": "C. lepophagus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Canis lepophagus (Latin: canis: 'dog', lepus : 'hare' or 'rabbit', suffix -phagus: '-eating'; hence hare-eating dog) is an extinct species of canid which was endemic to much of North America during the Early Pliocene. It is notable because its lineage is proposed to have led to both wolves and coyotes.",
+    "Evolution": "Kurten proposed that the Blancan C. lepophagus derived from smaller Miocene Canis species in North America. It then became widespread across Eurasia where it was either identical to, or closely related with, C. arnensis of Europe. Wang proposed a linear progression from Eucyon davisi to C lepophagus to the coyote.Johnston describes C. lepophagus as having a more slender skull and skeleton than in the modern coyote. Nowak found that the early populations had small, delicate and narrowly proportioned skulls that resemble small coyotes and appear to be ancestral to C. latrans. Johnson noted that some specimens found in Cita Canyon, Texas had larger, broader skulls, and along with other fragments Nowak suggested that these were evolving into wolves.Tedford disagreed with previous authors and found that its cranio-dental morphology lacked some characteristics that are shared by C. lupus and C. latrans, and therefore there was not a close relationship but it did suggest C. lepophagus was the ancestor of both wolves and coyotes. Additionally, C. edwardii, C. latrans and C. aureus form together a small clade and because C. edwardii appeared earliest spanning the mid-Blancan (late Pliocene) to the close of the Irvingtonian (late Pleistocene) C. edwardii is proposed as the descendant of C. lepophagus and the ancestor of the coyote and the golden jackal.",
+    "Evolution-Fossil distribution": "The first fossil record was found in Cita Canyon, Texas. Subsequent discoveries of specimens were found in four other Texas sites, Tonuco Mountain, New Mexico, western Washington Sante Fe River, Florida, Black Ranch in northern California, sites in Nebraska, Idaho, Utah, and Oklahoma.\n\n\n== References =="
+  }
+}

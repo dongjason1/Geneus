@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_floribunda",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. floribunda"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea floribunda, commonly known as the seven dwarfs grevillea, is a shrub which is endemic to central New South Wales and Queensland west of the Great Dividing Range in Australia.\n\n\n== References =="
+  }
+}

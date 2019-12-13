@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Abo_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Glauconycteris"
+    },
+    {
+      "Species": "G. poensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Abo bat (Glauconycteris poensis) is a species of vesper bat in the family Vespertilionidae.\nIt is found in several countries in West Africa and Central Africa.\nIt is found in these habitats: subtropical or tropical dry forest and subtropical or tropical moist lowland forest.",
+    "Taxonomy and etymology": "It was described as a new species in 1842 by British zoologist John Edward Gray.\nGray placed the species into a new genus, Kerivoula, with the scientific name Kerivoula poensis.\nIts species name \"poensis\" means \"belonging to Po.\"\nThe holotype was collected on Fernando Pó, likely inspiring the species name.",
+    "Description": "Its fur is yellowish-gray in color.",
+    "Range and habitat": "It is found in several countries in West and Central Africa, including Benin, Cameroon, Democratic Republic of the Congo, Côte d'Ivoire, Equatorial Guinea, Ghana, Guinea, Liberia, Nigeria, Senegal, Sierra Leone, and Togo.",
+    "Conservation": "It is currently evaluated as least concern by the IUCN—its lowest conservation priority.\nIt meets the criteria for this classification because it has a large geographic range; its population is presumably large; and it is not likely to be in rapid population decline.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gomantong_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. gomantongensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Gomantong myotis (Myotis gomantongensis) is a species of bat in the family Vespertilionidae that is endemic to Sabah district of Malaysia.",
+    "Habitat": "The species live in limestone caves, where it breeds and lives in small colonies. Their diet is unknown.",
+    "Threats": "The species were under Data Deficient status in 2000, however, as of 2008 it is now on Least Concern status. Currently they are under protection at Gomantong Forest Reserve, which is their home.\n\n\n== References =="
+  }
+}

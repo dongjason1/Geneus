@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_qinqixianii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. qinqixianii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus qinqixianii is a species of fungus in the genus Aspergillus which has been isolated from desert soil from the Taklimakan desert in China. It is from the Nidulantes section. Aspergillus qinqixianii produces \nasteltoxin, asperthecin, emericellin, 2-ω-hydroxyemodin, shamixanthones, terrein, curvularin and dehydrocurvularin.",
+    "Growth and morphology": "A. qinqixianii has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below.",
+    "References": "",
+    "Further reading": "Samson, Robert A.; Varga, János (1 January 2007). \"Aspergillus Systematics in the Genomic Era\". CBS Fungal Biodiversity Centre. \nHubka, Vit; Nováková, Alena; Peterson, Stephen W.; Frisvad, Jens C.; Sklenář, František; Matsuzawa, Tetsuhiro; Kubátová, Alena; Kolařík, Miroslav (31 August 2016). \"A reappraisal of Aspergillus section Nidulantes with descriptions of two new sterigmatocystin-producing species\". Plant Systematics and Evolution. 302 (9): 1267–99. doi:10.1007/s00606-016-1331-5."
+  }
+}

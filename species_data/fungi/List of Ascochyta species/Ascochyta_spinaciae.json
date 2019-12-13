@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_spinaciae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Incertae sedis"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. spinaciae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta spinaciae is a fungal plant pathogen that causes leaf spot of spinach.",
+    "References": "",
+    "See also": "List of Ascochyta species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_stolkiae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. stolkiae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium stolkiae is a species of fungus in the genus Penicillium.",
+    "Further reading": "Dee, J. M.; Mollicone, M.; Longcore, J. E.; Roberson, R. W.; Berbee, M. L. (2015). \"Cytology and molecular phylogenetics of Monoblepharidomycetes provide evidence for multiple independent origins of the hyphal habit in the Fungi\". Mycologia. 107 (4): 710. doi:10.3852/14-275. PMID 25911696.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Melissa's_yellow-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Vampyressa"
+    },
+    {
+      "Species": "V. melissa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Melissa's yellow-eared bat (Vampyressa melissa) is a species of bat in the family Phyllostomidae. It is found in southern Colombia, Ecuador and Peru.\n\n\n== References =="
+  }
+}

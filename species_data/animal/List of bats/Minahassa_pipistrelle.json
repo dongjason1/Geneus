@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Minahassa_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Pipistrellus"
+    },
+    {
+      "Species": "P. minahassae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Minahassa pipistrelle (Pipistrellus minahassae) is a species of vesper bat.\nIt can be found in Indonesia.\n\n\n== Sources =="
+  }
+}

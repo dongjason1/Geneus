@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Giant_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Macronycteris"
+    },
+    {
+      "Species": "M. gigas"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The giant roundleaf bat (Macronycteris gigas) is a species of bat in the family Hipposideridae found in western tropical Africa. Its natural habitats are subtropical or tropical moist lowland forests and caves. The species was formerly considered part of M. commersoni, which is now viewed as being restricted to Madagascar. Both commersoni and it were formerly placed in the genus Hipposideros, but moved to the resurrected Macronycteris in 2017 on the basis of molecular evidence. It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

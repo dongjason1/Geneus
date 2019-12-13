@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dendrobium_regium",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Dendrobieae"
+    },
+    {
+      "Subtribe": "Dendrobiinae"
+    },
+    {
+      "Genus": "Dendrobium"
+    },
+    {
+      "Species": "D. regium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dendrobium regium is a species of orchid endemic to India. It has been found in Chhattisgarh, Jharkhand, Orissa, and Andhra Pradesh.",
+    "References": "",
+    "External links": "IOSPE orchid photos, Dendrobium regium Prain 1902, Photo by © Steven Beckendorf"
+  }
+}

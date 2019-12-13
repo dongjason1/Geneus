@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_armin",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. armin"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes armin is a tropical pitcher plant native to the Philippines. The type specimen was collected in 1989 on Sibuyan Island, at an elevation of 750 m above sea level. The specific epithet armin honours Armin Rios Marin.\n\n\n== References =="
+  }
+}

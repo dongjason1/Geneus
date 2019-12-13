@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_songyi",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. songyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma songyi is a species of fungus in the family Hypocreaceae. It is a soil-inhabiting fungus that associates with the pine mushroom, Tricholoma matsutake. Close relatives include Trichoderma koningii and T. caerulescens, from which T. songyi can be distinguished by differences in growth rate, the morphology of agar-grown cultures, and an odor similar to coconuts.",
+    "References": "",
+    "External links": "Trichoderma songyi  in Index Fungorum"
+  }
+}

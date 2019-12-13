@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-browed_laughingthrush",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Leiothrichidae"
+    },
+    {
+      "Genus": "Pterorhinus"
+    },
+    {
+      "Species": "P. sannio"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-browed laughingthrush (Pterorhinus sannio) is a bird species in the family Leiothrichidae. It is found in China, Hong Kong, India, Laos, Myanmar, Thailand, and Vietnam.\nThis species was formerly placed in the genus Garrulax but following the publication of a comprehensive molecular phylogenetic study in 2018, it was moved to the resurrected genus Pterorhinus.",
+    "References": "",
+    "External links": "Image at ADW"
+  }
+}

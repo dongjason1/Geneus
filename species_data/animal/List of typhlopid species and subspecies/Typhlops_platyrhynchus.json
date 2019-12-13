@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_platyrhynchus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Afrotyphlops"
+    },
+    {
+      "Species": "A. platyrhynchus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Tanga worm snake (Afrotyphlops platyrhynchus) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

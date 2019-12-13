@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_parapsilosis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Debaryomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. parapsilosis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida parapsilosis is a fungal species of yeast that has become a significant cause of sepsis and of wound and tissue infections in immunocompromised people. Unlike Candida albicans and Candida tropicalis, C. parapsilosis is not an obligate human pathogen, having been isolated from nonhuman sources such as domestic animals, insects and soil. C. parapsilosis is also a normal human commensal and it is one of the fungi most frequently isolated from human hands. There are several risk factors that can contribute to C. parapsilosis colonization. Immunocompromised individuals and surgical patients, particularly those undergoing surgery of the gastrointestinal tract, are at high risk for infection with C. parapsilosis. There is currently no consensus on the treatment of invasive candidiasis caused by C. parapsilosis, although the therapeutic approach typically includes the removal of foreign bodies such as implanted prostheses and the administration of systemic antifungal therapy. Amphotericin B and Fluconazole are often used in the treatment of C. parapsilosis infection.",
+    "History and taxonomy": "Candida parapsilosis was discovered in Puerto Rico in 1928 by Ashford from a diarrheal stool. It was first named Monilia parapilosis and considered nonpathogenic. It was later encountered as a causative agent of sepsis in an intravenous drug user in 1940. It is now considered an important, emerging nosocomial pathogen. C. parapsilosis is the most common non-C. albicans species of Candida and the second most common pathogen in superficial candidiasis after C. albicans.",
+    "Biology": "Candida parapsilosis does not form true hyphae; it exists in either a yeast phase or pseudohyphal form. It is white, creamy, and shiny in dextrose agar and its cell shape is oval, round, or cylindrical. When C. parapsilosis is in yeast form, its phenotype is smooth or cratered. In contrast, the phenotype of the pseudohyphae form is wrinkled or concentric. Recently found the formation of pseudohyphae is another significant factor that changes the morphology and phenotype of colonies which is related to citrulline. C. parapsilosis is encountered more frequently in nature than other species Candida, likely because it is one of the few species of the genus not restricted to humans. C. parasilosis does not need prior colonization and is usually transmitted by external sources. Invasive infection occurs very often in low-birth weight newborn babies in the United States, and bloodstream infection found in North America. It is most commonly isolated from human skin and is most frequently encountered in Asia and Latin America. C. parapsilosis is considered a killer yeast and fungal antagonist based on its ability to produce chemicals that exert cytotoxic effects on the cells of other organisms.",
+    "Disease": "Endocarditis can be caused by C. parapsilosis in patients using prosthetic valves (57.4%), intravenous drug (20%), or having intravenous parenteral nutrition (6.9%), abdominal surgery (6.9%), immunosuppression (6.4%), treatment with broad-spectrum antibiotics (5.6%), and previous valvular disease (4.8%). Although the mortality rate is 41.7% to 61%, the treatment is still unknown. Ocular infection caused by C. parapsilosis has been reported after cataract extraction and with corticosteroid eye drop use. C. parapsilosis infection of the skin and gastrointestinal tract can occur, in which the production of pseudohyphae is associated with the elicitation of an inflammatory response. Candida parapsilosis is occasionally encountered in onychomycosis.Adhesion capacity and biofilm are important for C. parapsilosis, because C. parapilosis infection is mostly due to the use of in-dwelling devices. Adhesion capacity is the ability of fungus to adhere to other organisms' cells or tissue, especially mucosal surfaces, which is required for initial colonization. C. parapsilosis is associated with thin, unstructured biofilms that consist of aggregated blastospores whose membranes contain more carbohydrate than protein. The existence of the fungus in a biofilm contributes to its ability to resist antifungal treatment. Thus, adhesion to abiotic and biotic surfaces is often a precursor to infection. The risk of C. parapsilosis infection is increased in the setting of implanted medical devices, prostheses, and therapy with hyperalimentation solutions. Also, low-birth weight infants are at higher risk of sepsis from this species.\n\n\n== References =="
+  }
+}

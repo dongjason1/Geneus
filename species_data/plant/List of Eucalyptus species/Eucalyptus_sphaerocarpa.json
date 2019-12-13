@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eucalyptus_sphaerocarpa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eucalyptus"
+    },
+    {
+      "Species": "E. sphaerocarpa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eucalyptus sphaerocarpa, commonly known as the Blackdown stringybark, is a eucalypt that is native to Queensland.",
+    "See also": "\nList of Eucalyptus species\n\n\n== References =="
+  }
+}

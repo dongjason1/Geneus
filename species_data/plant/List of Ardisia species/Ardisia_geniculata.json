@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ardisia_geniculata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Primulaceae"
+    },
+    {
+      "Genus": "Ardisia"
+    },
+    {
+      "Species": "A. geniculata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ardisia geniculata is a species of plant in the family Primulaceae. It is endemic to Panama.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_sancti-lasallei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. sancti-lasallei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas sancti-lasallei is a recently described species of cycad endemic to Mindanao, Philippines. It is found in the Cugman River watershed in Cagayan de Oro, Misamis Oriental, Philippines.",
+    "References": "\nAgoo, E.M.G.; Madulid, D.A. 2012. Cycas sancti-lasallei (Cycadaceae), a New Species from the Philippines. Blumea - Biodiversity, Evolution and Biogeography of Plants. 57(2); 131-133. DOI: https://dx.doi.org/10.3767/000651912X657503"
+  }
+}

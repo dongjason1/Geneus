@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sind_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Eptesicus"
+    },
+    {
+      "Species": "E. nasutus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sind bat (Eptesicus nasutus) is a species of vesper bat. It is found in Afghanistan, Iran, Iraq, Oman, Pakistan, Saudi Arabia, and Yemen.\n\n\n== References =="
+  }
+}

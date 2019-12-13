@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Stylidium_ecorne",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Stylidiaceae"
+    },
+    {
+      "Genus": "Stylidium"
+    },
+    {
+      "Subgenus": "Stylidium subg. Centridium"
+    },
+    {
+      "Species": "S. ecorne"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Stylidium ecorne is a dicotyledonous plant that belongs to the genus Stylidium (family Stylidiaceae). It is an annual plant that grows from 5 to 12 cm tall. It has pale or bright pink flowers and occurs in swampy areas.",
+    "Taxonomy": "S. ecorne was initially identified by Ferdinand von Mueller, but it was not specifically named until Rica Erickson and Jim Willis reviewed the taxonomy of Stylidium calcaratum in 1956 and authored S. calcaratum var. ecorne. Erickson and Willis decided to keep it at the variety level on the basis that it shared a similar morphology to that of S. calcaratum with the exception of the nectary spur, which was reduced or absent in S. calcaratum var. ecorne. Pauline G. Farrell and Sydney Herbert James, in their 1979 review, based their decision to elevate the variety to species level on chromosomal and reproductive discontinuities.Farrell and James discovered that S. ecorne has a haploid chromosome number of 13, whereas S. calcaratum has a haploid chromosome number of 11. Farrell and James reasoned that dysploid reduction (also called aneuploidy) in the genus Stylidium is frequent and probable in this case, meaning that S. calcaratum is virtually certain to be derived from S. ecorne. This reduction is also evident from the floral spur, reduced number of ovules, and increased tolerance of other habitats, which the authors cited as derived conditions in S. calcaratum. Crosses between S. ecorne and S. calcaratum yielded very few seeds, indicating that the taxa are well isolated from each other.",
+    "Distribution": "S. ecorne is as widely distributed as S. calcaratum but occurs less frequently due to its restricted ecological habitat preference. It can be found from north of Geraldton in Western Australia to Mount Chudalup in the south and east through South Australia to western Victoria with some outlying populations near Gembrook and Violet Town.",
+    "See also": "List of Stylidium species\n\n\n== References =="
+  }
+}

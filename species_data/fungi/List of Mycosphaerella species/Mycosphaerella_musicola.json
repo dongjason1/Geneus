@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_musicola",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Mycosphaerella"
+    },
+    {
+      "Species": "M. musicola"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycosphaerella musicola is a fungal plant pathogen, which is the causal agent of Yellow Sigatoka leaf spot disease on banana plants.",
+    "Characteristics": "Sigatoka leaf spot disease (SD) is a disease of bananas and is caused by the ascomycetous fungus, Mycosphaerella musicola. This pathogen can be distinguished morphologically from Mycosphaerella fijiensis, which causes black leaf streak disease (BLSD), by the characteristics of the conidia and conidiophore. The anamorph of M. musicola, Pseudocercospora musae, lacks the thickened cell walls that are present at the base of the conidia of Paracercospora fijien, the anamorph of M. fijiensis, and are shorter and less wavy. The conidiophores of P. musae are bottle-shaped and much smaller than the elongated conidiophores of P. fijiensis which are often bent and bear conspicuous conidial scars. The two species can also be differentiated by molecular methods.",
+    "Distribution": "Mycosphaerella musicola was first reported from Java in 1902 and by 1962 was found in most banana growing regions of the world. Although it is spread over short distances by conidia and ascospores, over long distances it is the movement of infected germplasm such as diseased leaves and suckers that is likely to be responsible. In the Pacific islands and in lowland areas of South America and Africa, symptoms of SD are now rarely seen and BLSD has largely supplanted it. SD is more adapted to cooler regions and often predominates at altitudes over 1200 metres while BLSD is rarely seen at such elevations.",
+    "Life cycle": "When spores of M. musicola are deposited on a susceptible banana leaf they germinate within three hours if there is a film of water present or if the humidity is very high. The optimal temperature for germination of the conidia is between 25-29 °C and for the ascospores, 25-26 °C. The germ tube grows epiphytically over the epidermis for about five days before penetrating the leaf via a stoma. Once inside the leaf the invasive hypha forms a vesicle and fine hyphae grow through the mesophyll layers into an air chamber. More hyphae then grow into the palisade tissue and continue on into other air chambers, eventually emerging through stomata in the streak that has developed. Further epiphytic growth occurs before the re-entry of the hypha into the leaf through another stoma repeats the process.Both conidia and ascospores are important for dispersal of M. musicola with the ascospores being involved in the movement of the pathogen over longer distances than the conidia. The deposition of ascospores by wind currents is generally near the tips of the leaves resulting in a distinctive pattern of infection on the leaf extremities. When conidia are the source of the inoculum and these are dislodged by rain, a distinctive line of streaks is produced as water trickles down the leaf blade.",
+    "Symptoms": "It is not always easy to differentiate between the symptoms of SD and BLSD. The first sign of disease in SD is the appearance of small yellow streaks on the upper side of leaves while in BLSD small, dark brown streaks appear on the lower surface of leaves. These streaks enlarge and coalesce forming necrotic lesions with light gray centres and yellow perimeters. Large areas of leaf can be damaged causing a lowering of photosynthetic ability, a reduction in crop yield and premature ripening of the fruit. BLSD is the more serious of the diseases as the symptoms emerge on younger leaves and it affects many cultivars that have developed resistance to SD, including the plantain subgroup.",
+    "See also": "List of Mycosphaerella species",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\nSigatoka Leaf Spot Diseases\nPaDIL"
+  }
+}

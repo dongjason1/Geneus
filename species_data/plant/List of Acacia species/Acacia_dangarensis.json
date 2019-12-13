@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_dangarensis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. dangarensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia dangarensis, commonly known as the Mount Dangar wattle, is a species of Acacia native to eastern Australia.",
+    "See also": "List of Acacia species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Helminthophis_flavoterminatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Anomalepididae"
+    },
+    {
+      "Genus": "Helminthophis"
+    },
+    {
+      "Species": "H. flavoterminatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Helminthophis flavoterminatus is a species of snake in the Anomalepididae family. It is endemic to Colombia and Venezuela.\n\n\n== References =="
+  }
+}

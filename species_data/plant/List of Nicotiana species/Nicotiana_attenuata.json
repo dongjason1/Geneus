@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nicotiana_attenuata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Nicotiana"
+    },
+    {
+      "Species": "N. attenuata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nicotiana attenuata is a species of wild tobacco known by the common name coyote tobacco. It is native to western North America from British Columbia to Texas and northern Mexico, where it grows in many types of habitat. It is a glandular and sparsely hairy annual herb exceeding a meter in maximum height. The leaf blades may be 10 centimetres (4 in) long, the lower ones oval and the upper narrower in shape, and are borne on petioles. The inflorescence bears several flowers with pinkish or greenish white tubular throats 2 to 3 centimetres (4⁄5 to 1 1⁄5 in) long, their bases enclosed in pointed sepals. The flower face has five mostly white lobes. The fruit is a capsule about 1 centimetre (1⁄2 in) long.",
+    "Natural history": "",
+    "Natural history-Introduction": "Nicotiana attenuata has been utilized as an ecological model species since 1994, thanks in large part to its diverse interactions with a host of different plants, insects and microorganisms in its native habitat. Work at the Max Planck Institute for Chemical Ecology in Jena, Germany, has been instrumental in integrating a toolbox of genomic, ecological, and analytical tools alongside field work in the Great Basin Desert in order to study the interactions of N. attenuata in its native environment.",
+    "Natural history-Introduction-Genome": "Nicotiana attenuata’s genome is ~2.26 Gb long, significantly more than the plant model species Arabidopsis thaliana. Preferential gene retention after a genome-wide duplication event in the genus Nicotiana partially accounts for this large size, which is roughly twice that of N. obtusifolia (~1.23 Gb), a closely related species.",
+    "Predators": "Two species of hornworm, the tobacco hornworm and the tomato hornworm, use N. attenuata as a host plant. Each of these species respond negatively to high concentrations of nicotine within plant leaves, with the tobacco hornworm showing a more intense reaction. Nicotine concentrations together with insect predators help to determine where on the plant the hornworms prefer to feed.",
+    "Defenses against herbivory": "N. attenuata has been observed to utilize direct and indirect defenses against herbivory. Their main predators are hawkmoth larvae known as the tobacco hornworm (Manduca sexta) and tomato hornworm (Manduca quinquemaculata). When these worms eat trichomes on the tobacco leaves the plant produces trypsin proteinase inhibitors as a direct defense, weakening the hornworm's ability to digest plant material. As an indirect defense, when the leaves are eaten by larvae, the plant emits green leaf volatiles (GLVs) that attract Geocoris bugs, which are predators of the worm. These GLVs are one of many herbivory-induced plant volatiles (HIPVs) that N. attenuata emits via jasmonic acid signaling. When GLVs come into contact with saliva from the hornworm there is a conformational change in the GLVs that attracts Geocoris bugs and increases predation on the hornworm eggs and larvae. It has also been discovered that wild tobacco responds to volatile organic compounds (VOCs) emitted from other proximate species and undergoes priming of defenses.Another indirect defense that has recently been studied is a change in flowering time and phenology, prompting a change in pollinator from the night-active hawkmoth to day-active hummingbirds. The flowers of N. attenuata normally open at dusk and are exposed during the night where Hawkmoth pollination occurs coupled with oviposition and thus future herbivory by hawkmoth larvae. Saliva from the hornworm causes a jasmonic acid transduction cascade leading to changes in flower phenology. Flowers reduce benzyl acetone (BA) concentrations, a hawkmoth-attracting volatile, and shift corolla opening to dawn, where day-active hummingbird pollination prevails and herbivory by the Hawkmoth larvae is lessened. This shift from night opening to morning opening flowers was discovered using a native population of N. attenuata in Utah. Mesh coverings were placed over selected plants in different test groups with hornworms present or absent, and through a series of trials the ratio of morning opening to night opening flowers after just 8 days was significantly increased in the plants with hornworms present.Collectively, these direct and indirect defenses show the impressive plasticity in behavior of N. attenuata in responding to herbivore attack.",
+    "Uses": "This plant was used for a great variety of medicinal purposes by many Native American groups, and was smoked ceremonially by the Hopi, Apache, Navajo, Paiute, and other groups.Among the Zuni people, the smoke is blown over the body to reduce the throbbing from rattlesnake bite. It is also smoked ceremonially among them.",
+    "References": "",
+    "External links": "Jepson Manual Treatment\nCalflora Database: Nicotiana attenuata (coyote tobacco)\nPhoto gallery"
+  }
+}

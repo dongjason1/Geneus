@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_keroseneae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. keroseneae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida keroseneae is a species of yeast in the genus Candida, family Saccharomycetaceae. Described as new to science in 2011, it was isolated from aviation fuel.",
+    "Taxonomy": "The type strain of this yeast (IMI 395605T) was isolated from aircraft fuel (kerosene) sampled from a European aircraft. Later analysis demonstrated that the isolated strains were able to grow in liquid media containing 50% Jet A-1 aviation fuel. Molecular analysis was performed using the ribosomal RNA gene sequences of internal transcribed spacer regions in addition to the D1/D2 domains of the 26S nuclear ribosomal RNA gene. The two isolated strains  clustered within the Candida membranifaciens clade, with C. tumulicola as the most closely related species. The specific epithet keroseneae is New Latin for kerosene, the substrate of the new species.",
+    "Description": "The yeast cells, after growth on glucose-peptone-yeast extract broth culture for three days at 25 °C (77 °F), are egg-shaped to elongated, measuring 3–11 by 1–3.5 µm. They occur singly, in budding pairs, or as short pseudohyphae. The yeast can assimilate the following carbon sources: glucose, galactose, sucrose, L-arabinose, cellobiose, maltose, trehalose, lactose, D-xylose, rhamnose, isomaltulose, melibiose, melezitose; mannitol, sorbitol, glycerol, erythritol; N-acetyl glucosamine, 2-ketogluconate, α-methyl-D-glucoside, levulinate and glucosamine. The yeast grew at a variety of temperatures between 25 and 37 °C (77 and 99 °F), but no growth was observed at 5 °C (41 °F) or 40 °C (104 °F).The kerosene from which the two yeast strains were isolated was analyzed with gas chromatography and shown to have 48 identifiable components. C. keroseneae appears to consume the n-alkane compounds hexadecane, heptadecane, and octadecane. Other microbes that can contaminate fuels include the yeast Yarrowia lipolytica, the filamentous fungus Hormoconis resinae, and the bacterium Pseudomonas aeruginosa.\n\n\n== References =="
+  }
+}

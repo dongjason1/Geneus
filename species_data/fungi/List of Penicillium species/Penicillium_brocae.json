@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_brocae",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. brocae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium brocae is a fungus species of the genus of Penicillium which was isolated  in Chiapas in Mexico.Penicillium brocae produces brocazine A, brocazine B, brocazine C,  brocazine D, brocazine F, bisthiodiketopiperazine and the polyketides brocaenol A, brocaenol B, brocaenol C",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

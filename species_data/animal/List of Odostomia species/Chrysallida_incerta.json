@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chrysallida_incerta",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Subclass": "Heterobranchia"
+    },
+    {
+      "Infraclass": "Euthyneura"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Spiralinella"
+    },
+    {
+      "Species": "S. incerta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Spiralinella incerta is a rather widely distributed species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Taxonomy": "Following Giannuzzi-Savelli et al. (2014) for generic allocation, but taking into account that Spiralinella is the valid generic name, not Partulida Schaufuss, 1869 (unavailable).",
+    "Distribution": "This marine species occurs in the following locations:",
+    "References": "",
+    "External links": "To Encyclopedia of Life"
+  }
+}

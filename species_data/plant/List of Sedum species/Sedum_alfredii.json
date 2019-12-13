@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sedum_alfredii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Saxifragales"
+    },
+    {
+      "Family": "Crassulaceae"
+    },
+    {
+      "Genus": "Sedum"
+    },
+    {
+      "Species": "S. alfredii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sedum alfredii is a perennial herb in areas of Asia, with top or tip branched stems that ascend from between 10 and 20 cm in length. Leaves of Sedum alfredii are deciduous and alternate proximally on the stem. Leaf blades are wedge-shaped with straight lines. Leaf blade shape may also be characterized as being oval (obovate) or broad with a tapered base. The overall shape of Sedum alfredii leaves measure approximately 1.2 – 3 cm × 0.2 – 0.6 cm. Leaf base is usually wedge shaped and is occasionally characterized by a short branch or shoot. Leaf endpoint of Sedum alfredii is rounded, with a blunted and sometimes notched leaf tip. Flower head of Sedum alfredii measures between roughly 5 and 8 cm in diameter. Flowers of Sedum alfredii are small, measuring roughly 1 mm in diameter. Yellow petals are characteristically representative of Sedum alfredii, appearing oblong in shape, and measuring roughly 4 –6 mm × 1.6 – 1.8 mm. Nectar scales of Sedum alfredii measure 1.2 mm, with rounded or even blunted scale ends, which should be visible. Seeds of Sedum alfredii are brown in color and measure 0.6 mm in diameter.",
+    "Description": "Mining ecotype S. alfredii\nAs opposed to the non-mining ecotype S. alfredii\nCrassulaceae family\nSucculent nature\nDrought tolerant",
+    "Metal hyperaccumulation": "Cadmium (Cd) hyperaccumulation in leaves, stems, and roots of S. alfredii, however the greatest Cd concentration is in leaf biomass. In the presence of Cd, S. alfredii uptake of Iron (Fe) also increases significantly. Vacuole, nonchlorophyllous mesophyll and other water storage cell types may be locations in S. alfredii which hyperaccumulate Cd. Levels of Zn also increase as a result of increased Cd presence. The cell wall plays a very important role in tolerance and Cd detoxification in the mining ecotype S. alfredii.",
+    "Phytoremediation": "Common mining pollutants are Cd and Zn. Content of Cd in leaves is significantly higher than stem or root content, demonstrating a more efficient transport of Cd from roots to shoots compared to other hyperaccumulators. Efficient transport is important to phytoremediate heavy metal contamination. At high concentrations of Cd, growth is inhibited, however, photosynthetic activity does not appear to be affected. Chlorophyll content has been shown to increase in response to increased Cd levels.",
+    "References": "Flora of China. http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200009898\nNi, T. H., Y. Z. Wei (2003). Subcellular distribution of cadmium in mining ecotype Sedum alfredii. Acta Botanica Sinica, 25(8), 925-928.\nYang, X., T. Li, J. Yang, Z. He, L. Lu, F. Meng (2006). Zinc compartmentation in root, transport into xylem, and absorption into leaf cells in the hyperaccumulating species of Sedum alfredii Hance. Planta, 224, 185-195.\nYang, X. E., X. X. Long, H. B. Ye, Z. L. He, D. V. Calvert, P. J. Stoffella (2004). Cadmium tolerance and hyperaccumulation in a new Zn-hyperaccumulating plant species (Sedum alfredii Hance). Plant and Soil, 259, 181-189.\nZhou, W., B. Qiu, (2005). Effects of cadmium hyperaccumulation on physiological characteristics of Sedum alfredii Hance (Crassulaceae). Plant Science, 169, 737-745."
+  }
+}

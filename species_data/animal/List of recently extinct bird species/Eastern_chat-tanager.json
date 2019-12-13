@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eastern_chat-tanager",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Calyptophilidae"
+    },
+    {
+      "Genus": "Calyptophilus"
+    },
+    {
+      "Species": "C. frugivorus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The eastern chat-tanager (Calyptophilus frugivorus) is a species of bird formerly placed in the family Thraupidae.\nIt is found on the island of Hispaniola where it is now restricted to central and southern parts of the Dominican Republic. It formerly also occurred on the Samaná Peninsula as well as on Gonâve Island in Haiti. In the south-west of Hispaniola it is replaced by the western chat-tanager (C. tertius), which was formerly considered conspecific.\nIts natural habitats are subtropical or tropical moist montane forests, subtropical or tropical dry shrubland, and subtropical or tropical high-altitude shrubland.\nIt is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

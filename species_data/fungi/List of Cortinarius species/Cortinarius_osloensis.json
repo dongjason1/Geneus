@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_osloensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. osloensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius osloensis is a species of fungus native to Norway.",
+    "References": "",
+    "External links": "Cortinarius osloensis  in MycoBank."
+  }
+}

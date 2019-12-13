@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ternstroemia_lineata",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Ericales"
+    },
+    {
+      "Family": "Pentaphylacaceae"
+    },
+    {
+      "Genus": "Ternstroemia"
+    },
+    {
+      "Species": "T. lineata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ternstroemia lineata is a plant species native to high elevations in central Mexico. Many publications call this T. pringlei, but more recent publications confirm that the correct name is T. lineata.\n\n\n== References =="
+  }
+}

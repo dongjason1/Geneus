@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Gymnopilus_hillii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Gymnopilus"
+    },
+    {
+      "Species": "G. hillii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gymnopilus hillii is a species of mushroom in the Cortinariaceae family.",
+    "See also": "List of Gymnopilus species",
+    "External links": "Gymnopilus hillii at Index Fungorum"
+  }
+}

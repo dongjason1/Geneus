@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chelydrops",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Family": "Chelydridae"
+    },
+    {
+      "Genus": "†ChelydropsPeters, 1868"
+    },
+    {
+      "Species": "†C. stricta"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Chelydrops is an extinct genus of Chelydridae from Miocene of North America. Only one species is described, Chelydrops stricta (Matthew, 1924).\nThe genus was considered by Hutchison (2008) to be a junior synonym of the genus Macrochelys, containing the alligator snapping turtle; Hutchison transferred the species C. stricta to the genus Macrochelys.",
+    "References": "\nCarroll, R. L. Vertebrate Paleontology and Evolution. W. H Freeman Company, 1988."
+  }
+}

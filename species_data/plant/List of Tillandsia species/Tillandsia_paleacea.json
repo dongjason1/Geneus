@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_paleacea",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Phytarrhiza"
+    },
+    {
+      "Species": "T. paleacea"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia paleacea is a species in the genus Tillandsia. This species is native to Bolivia.",
+    "Cultivars": "Tillandsia 'Sweet Isabel'",
+    "References": "BSI Cultivar Registry Retrieved 11 October 2009\nChecklist of Bolivian Bromeliaceae Retrieved 21 October 2009"
+  }
+}

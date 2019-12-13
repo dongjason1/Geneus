@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Christmas_sandpiper",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Charadriiformes"
+    },
+    {
+      "Family": "Scolopacidae"
+    },
+    {
+      "Genus": "Prosobonia"
+    },
+    {
+      "Species": "†P. cancellata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Christmas sandpiper (Prosobonia cancellata) was a small shorebird.  It became extinct some time in the first half of the 19th century.  It was endemic to Kiritimati (or Christmas) Island in Kiribati.\n\n\n== References =="
+  }
+}

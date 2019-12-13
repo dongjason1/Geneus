@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ryūkyū_robin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Muscicapidae"
+    },
+    {
+      "Genus": "Larvivora"
+    },
+    {
+      "Species": "L. komadori"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ryukyu robin (Larvivora komadori) is a bird endemic to the Ryūkyū Islands, of Japan.The specific name komadori is, somewhat confusingly, the common name of its relative the Japanese robin in Japanese.\nThe Ryukyu robin, together with the Japanese robin and the European robin, was previously placed in the genus Erithacus . A 2006 molecular phylogenetic study found that the two east Asian species were more similar to the Siberian blue robin, at the time in Luscinia, than to the European robin. In 2010 a large study confirmed this result and also found that Luscinia was non-monophyletic. The genus Larvivora was therefore resurrected to accommodate a clade containing the Japanese robin, the Ryukyu robin, the Siberian blue robin and several other species that had previously been placed in Luscinia.",
+    "References": "\n\n== External links =="
+  }
+}

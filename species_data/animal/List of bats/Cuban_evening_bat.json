@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cuban_evening_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Nycticeius"
+    },
+    {
+      "Species": "N. cubanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Cuban evening bat (Nycticeius cubanus) is a species of bat in the vesper bat family, Vespertilionidae, that is endemic to western Cuba. It is a small bat, even smaller than cogener Nycticeius humeralis. It is insectivorous, but otherwise little is known about its behavior and diet.\n\n\n== References =="
+  }
+}

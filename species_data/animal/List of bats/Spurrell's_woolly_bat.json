@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Spurrell's_woolly_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Kerivoula"
+    },
+    {
+      "Species": "K. phalaena"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Spurrell's woolly bat (Kerivoula phalaena) is a species of vesper bat in the family Vespertilionidae named after Herbert George Flaxman Spurrell.\nIt is found in Cameroon, Democratic Republic of the Congo, Ivory Coast, Ghana, Guinea, Liberia, and Uganda.\nIts natural habitats are subtropical or tropical dry forests, subtropical or tropical moist lowland forests, and subtropical or tropical moist montane forests.\n\n\n== References =="
+  }
+}

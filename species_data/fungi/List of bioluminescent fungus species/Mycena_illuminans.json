@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_illuminans",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. illuminans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena illuminans is a species of agaric fungus in the family Mycenaceae. It is bioluminescent.",
+    "See also": "List of bioluminescent fungi",
+    "References": "",
+    "External links": "Mycena illuminans  in Index Fungorum"
+  }
+}

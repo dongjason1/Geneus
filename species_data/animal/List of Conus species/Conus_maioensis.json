@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_maioensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. maioensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus maioensis is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 15 mm and 40 mm.",
+    "Distribution": "This species occurs in the Eastern Atlantic Ocean, along the northern coast of the island of Maio, Cape Verde. Its conservation status is least concern.",
+    "References": "Trovão, H., Rolán, E. and Félix-Alves, I. A. V. 1990. A new species of Conus from the Cabo Verde Archipelago, West Africa (Mollusca: Gastropoda: Conidae). Publicações Ocasionais da Sociedade Portuguesa de Malacologia 15:69-78, 11 figs.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Africonus maioensis\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

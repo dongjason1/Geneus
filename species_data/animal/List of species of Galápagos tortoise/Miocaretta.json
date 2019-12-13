@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Miocaretta",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Testudines"
+    },
+    {
+      "Suborder": "Cryptodira"
+    },
+    {
+      "Superfamily": "Chelonioidea"
+    },
+    {
+      "Family": "Cheloniidae"
+    },
+    {
+      "Genus": "†MiocarettaDeraniyagala, 1967"
+    },
+    {
+      "Species": "†M. lankae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Miocaretta is an extinct genus of sea turtle from the Miocene era in what is now Sri Lanka. It was first named by Paul E. P. Deraniyagala in 1967. The type and only species is M. lankae.",
+    "References": "",
+    "External links": "Miocaretta at the Paleobiology Database\nTurtles of Sri Lanka"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Common_diuca-finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Thraupidae"
+    },
+    {
+      "Genus": "Diuca"
+    },
+    {
+      "Species": "D. diuca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The common diuca finch (Diuca diuca) is a species of bird in the family Thraupidae. It is found in Argentina, Bolivia, Brazil, Chile, and Uruguay. Its natural habitats are subtropical or tropical dry shrubland, subtropical or tropical high-altitude shrubland, and heavily degraded former forest.",
+    "References": "",
+    "External links": " Media related to Diuca diuca at Wikimedia Commons"
+  }
+}

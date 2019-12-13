@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Drosera_dielsiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Droseraceae"
+    },
+    {
+      "Genus": "Drosera"
+    },
+    {
+      "Subgenus": "Drosera subg. Drosera"
+    },
+    {
+      "Section": "Drosera sect. Drosera"
+    },
+    {
+      "Species": "D. dielsiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Drosera dielsiana is a compact rosetted sundew native to South Africa (KwaZulu-Natal, the Free State, the Northern Provinces), Eswatini (Swaziland), Mozambique, Malawi, and Zimbabwe. It was described as a new species by Arthur Wallis Exell and Jack Rodney Laundon in 1956. The chromosome number is 2n=40. It was named in honor of Ludwig Diels, the author of the 1906 monograph on the Droseraceae.",
+    "See also": "List of Drosera species\n\n\n== References =="
+  }
+}

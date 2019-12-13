@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mono's_short-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Carollia"
+    },
+    {
+      "Species": "C. monohernandezi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mono's short-tailed bat (Carollia monohernandezi) is a leaf-nosed bat species from South America found in Colombia and Panama. Specimens have been collected in habitats ranging from dry to tropical rain forest at elevations ranging from 30 to 2,660 m.\n\n\n== References =="
+  }
+}

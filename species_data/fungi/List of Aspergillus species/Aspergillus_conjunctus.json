@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_conjunctus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. conjunctus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus conjunctus is a species of fungus in the genus Aspergillus. It is from the Sparsi section. The species was first described in 1965. It has been isolated from forest soil in Costa Rica. It has been reported to produce auroglaucin.",
+    "Growth and morphology": "A. conjunctus has been cultivated on both Czapek yeast extract agar (CYA) plates and Malt Extract Agar Oxoid® (MEAOX) plates. The growth morphology of the colonies can be seen in the pictures below. \n\n\t\t\n\n\n== References =="
+  }
+}

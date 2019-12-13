@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yellow-collared_chlorophonia",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Euphoniinae"
+    },
+    {
+      "Genus": "Chlorophonia"
+    },
+    {
+      "Species": "C. flavirostris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The yellow-collared chlorophonia (Chlorophonia flavirostris) is a bird species in the family Fringillidae (it was formerly placed in Thraupidae).\nIt is found in Colombia, Ecuador, and Panama.\nIts natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest.\n\n\n== References =="
+  }
+}

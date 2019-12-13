@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inga_fosteriana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Inga"
+    },
+    {
+      "Species": "I. fosteriana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inga fosteriana is a species of legume in the family Fabaceae.\nIt is found only in Peru.",
+    "Sources": "World Conservation Monitoring Centre (1998). \"Inga fosteriana\". The IUCN Red List of Threatened Species. IUCN. 1998: e.T38298A10106731. doi:10.2305/IUCN.UK.1998.RLTS.T38298A10106731.en. Retrieved 16 December 2017."
+  }
+}

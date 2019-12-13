@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Forest_canary",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Crithagra"
+    },
+    {
+      "Species": "C. scotops"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The forest canary (Crithagra scotops) is a species of finch in the family Fringillidae.\nIt is found in South Africa and Swaziland.\nIts natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest.\nThe forest canary was formerly placed in the genus Serinus but phylogenetic analysis using mitochondrial and nuclear DNA sequences found that the genus was polyphyletic. The genus was therefore split and a number of species including the forest canary were moved to the resurrected genus Crithagra.",
+    "References": "",
+    "External links": "Forest canary - Species text in The Atlas of Southern African Birds."
+  }
+}

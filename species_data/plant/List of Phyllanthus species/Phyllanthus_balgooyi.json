@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phyllanthus_balgooyi",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Phyllanthaceae"
+    },
+    {
+      "Genus": "Phyllanthus"
+    },
+    {
+      "Species": "P. balgooyi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phyllanthus balgooyi is an herbaceous plant in the family Phyllanthaceae, found in Palawan and Sabah. The plant is a hyperaccumulator of nickel, with a concentration of the metal exceeding 16% in the plant's phloem sap.",
+    "Distribution": "Phyllanthus balgooyi is found in perhumid equatorial rainforests in Palawan, Philippines and in Sabah, Malaysian Borneo, with the plant preferring open habitats such as mountain ridges and river banks, where it could become dominant. Where it is found, P. balgooyi are typically isolated individuals. The soil where the species grows originated from serpentinised ultramafic bedrock, which is rich in metals such as nickel, cobalt and manganese. P. balgooyi is described as \"widespread and locally common\" in its habitat, in contrast to other Phyllanthus species which are typically restricted to several outcrops.The plant's earliest specimen was acquired in Palawan in 1886, though it was initially classified as a different species. It was first described in 2003, and was named after Dutch florist M.M.J. van Balgooy.",
+    "Description": "The plant appears as monoecious shrubs or small trees ranging from 0.5 to 9 meters, with its trunk reaching up to 2.1 meters with a diameter of up to 25 cm. The bark is rough and greyish-brown, with the asymmetrical leaves being distichous numbering between 20 and 70 leaves per branchlet. P. balgooyi produces 3-lobed, capsular greenish-brown or greenish-yellow fruits.The size of P. balgooyi varies depending on location, with populations in the Philippines being shorter than 1.5 meters while a specimen in Sabah was recorded to be 9 meters high, and researchers have proposed the separation of the species into multiple subspecies depending on morphology and ecology. Typically, however, specimens appear as shrubs.",
+    "Description-Bioaccumulation": "P. balgooyi is a hyperaccumulator of nickel, with the highest concentrations being found in the sap of its phloem. Nickel concentrations in the plant's phloem ranges up to 89 mg per gram, with the overall concentration foliar nickel concentration of up to 16 mg per gram. Its hyperaccumulating properties were first recorded in 1992, though the plant was then classified as P. palawanensis. Gas chromatography–mass spectrometry analysis showed that most of the nickel within the phloem sap is in form of nickel citrate. The increased nickel concentrations are primarily found in the phloem, with the plant's other organs containing considerably less nickel. Additionally, the plant also accumulated increased concentrations of cobalt and zinc, though not to the extent of nickel concentrations.The plant's sap is notable for being of a bright green color due to the high nickel content, with up to 16.9% nickel by weight and the sap is described as  \"one of the most unusual biological liquids\". This figure is the second highest recorded concentration of nickel of any living material, behind a 25% figure for a Pycnandra acuminata sample from New Caledonia. Due to its bioaccumulation capabilities, P. balgooyi has been brought forward as a potential candidate for phytomining (i.e. extracting metals from plants), to be utilized in soils where the nickel concentration is too low for commercial mining operations.It was proposed that the accumulation of nickel to toxic levels was a defense mechanism against insects feeding on the sap, though Poaphilini moths have been observed to consume P. balgooyi leaves – the insects utilize the concentrated nickel for their own defensive mechanism against predators. P. balgooyi's shed leaves also increase the concentration of nickel in the topsoil surrounding the plant, benefiting its seedlings while increasing the difficulty for competing seedlings of non-hyperaccumulating plants.",
+    "References": "",
+    "Bibliography": "Hoffmann, Petra; Baker, Alan J.M.; Madulid, Domingo A.; Proctor, John (2003). \"Phyllanthus balgooyi (Euphorbiaceae s.l.), a new nickel-hyperaccumulating species from Palawan and Sabah\". Blumea. 48 (1): 193–199. doi:10.3767/000651903X686178.\nMesjasz-Przybylowicz, Jolanta; Przybylowicz, Wojciech; Barnabas, Alban; van der Ent, Antony (2016). \"Extreme nickel hyperaccumulation in the vascular tracts of the tree from Borneo\" (PDF). New Phytologist. 209 (4): 1513–1526. doi:10.1111/nph.13712. PMID 26508435.\nvan der Ent, Antony; Erskine, Peter; Sumail, Sukaibin (2015). \"Ecology of nickel hyperaccumulator plants from ultramafic soils in Sabah (Malaysia)\". Chemoecology. 25 (5): 243–259. doi:10.1007/s00049-015-0192-7.\nvan der Ent, Antony; Callahan, Damien L.; Noller, Barry N.; Mesjasz-Przybylowicz, Jolanta; Przybylowicz, Wojciech J.; Barnabas, Alban; Harris, Hugh H. (2017). \"Nickel biopathways in tropical nickel hyperaccumulating trees from Sabah (Malaysia)\". Scientific Reports. 7 (1): 41861. Bibcode:2017NatSR...741861V. doi:10.1038/srep41861. PMC 5311975. PMID 28205587."
+  }
+}

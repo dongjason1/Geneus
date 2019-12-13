@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Yellow-faced_siskin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Spinus"
+    },
+    {
+      "Species": "S. yarrellii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The yellow-faced siskin (Spinus yarrellii) is a species of finch in the family Fringillidae.\nIt is found in Brazil and Venezuela.\nIts natural habitats are subtropical or tropical moist mountains, subtropical or tropical dry shrubland, arable land, plantations, and urban areas.\nThe binomial of this bird commemorates the English ornithologist William Yarrell.",
+    "Phylogeny": "It has been obtained by Antonio Arnaiz-Villena et al.",
+    "References": "\nClement, Peter; Harris, Alan & Davis, John (1993): Finches and Sparrows: an identification guide. Christopher Helm, London. ISBN 0-7136-8017-2"
+  }
+}

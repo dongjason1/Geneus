@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black-browed_babbler",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Pellorneidae"
+    },
+    {
+      "Genus": "Malacocincla"
+    },
+    {
+      "Species": "M. perspicillata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The black-browed babbler (Malacocincla perspicillata) is a mysterious songbird species in the family Pellorneidae. It is endemic to Borneo. Only a single specimen, collected in the 19th century, is known.\nIts natural habitat is subtropical or tropical moist lowland forests. Its status is insufficiently known, though it is unlikely to be extinct.\nIt was formerly classified as a Vulnerable by the IUCN. But new research has shown the lack of reliable information, while on the other hand some conjectural assumptions have been gleaned from the specimen, opening up new lines of research. Consequently, its status is changed to Data Deficient in 2008. It is threatened by agriculture, logging even within protected areas, plantations for rubber and palm oil and drought fires. There is risk of near complete loss of dryland lowland forest in Kalimantan within the next few years.",
+    "References": "",
+    "References-Notes": "",
+    "Sources": "BirdLife International (BLI) (2008): 2008 IUCN Redlist status changes. Retrieved 23 May 2008\nCollar, N.J. & Robson, C. (2007): Family Timaliidae (Babblers). In: del Hoyo, Josep; Elliott, Andrew & Christie, D.A. (eds.): Handbook of Birds of the World, Volume 12 (Picathartes to Tits and Chickadees): 70-291. Lynx Edicions, Barcelona.",
+    "External links": "BirdLife Species Factsheet"
+  }
+}

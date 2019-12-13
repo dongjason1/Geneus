@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aspergillus_aculeatus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Aspergillus"
+    },
+    {
+      "Species": "A. aculeatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aspergillus aculeatus is a fungus species in the genus Aspergillus. It has been implicated as the causative agent in plant disease. A. aculeatus belongs to the group of black Aspergilli which are important industrial workhorses. A. aculeatus belongs to the Nigri section.\nAspergillus aculeatus is considered to be a ubiquitous species that could be usually isolated from rotting fruits and soil. Morphological characteristics such a color, size, shape and ornamentation of conidia are crucial for the classification of strains of black-spored Aspergillus species. Modern biochemical and molecular identification techniques are helpful in the identification of Aspergillus isolates, as black-spored Aspergillus species may have significant variations in their morphological and physiological characteristics.\nAspergillus can rapidly degrade cell walls of plants they infect, and isolates of A. aculeatus have been used to produce a number of important industrial enzymes, including cellulases, hemicellulases and proteases. These by-products are broadly used in the food and feed industries.\nDue to its industrial value, the biochemical and catalytic properties of several hydrolases from A. aculeatus have been extensively studied. Also, structural studies using X-ray crystallography have been carried out on several polysaccharide degrading enzymes from Aspergillus aculeatus. (Luis M. Chong L.)\nThe genome of A. aculeatus was sequenced and published in 2010. The genome assembly size was 36.01 Mbp.",
+    "References": "Aspergillus japonicus var. aculeatus (Iizuka) Al-Musallam, Revision of the black Aspergillus species: 30 (1980)\nAspergillus yezoensis Y. Sasaki, Journal of the Faculty of Agriculture of the Hokkaido Imperial University 49: 144 (1950)\nAspergillus aculeatus Iizuka 1953, J. Agric. Chem. Soc. Japan 27:807.\nCharacterization of Aspergillus aculeatus β-glucosidase 1 accelerating cellulose hydrolysis with Trichoderma cellulase system. Baba, Y., J. Sumitani, S. Tani, and T. Kawaguchi. 2015. AMB Express 5:3.",
+    "External links": "USDA ARS Fungal Database"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Corymbia_hendersonii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Corymbia"
+    },
+    {
+      "Species": "C. hendersonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Corymbia hendersonii or Henderson's bloodwood, is a bloodwood native to Queensland.\n\n\n== References =="
+  }
+}

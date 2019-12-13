@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_calidicanium",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. calidicanium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium calidicanium is a fungus species of the genus of Penicillium which was isolated from soil in Taiwan.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

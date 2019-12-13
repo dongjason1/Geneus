@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_primulinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. primulinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium primulinum is an anamorph species of fungus in the genus Penicillium.",
+    "Further reading": "Sekhon, A. S.; Garg, A. K.; Padhye, A. A.; Standard, P. G.; Kaufman, L; Ajello, L (1989). \"Antigenic relationship of Penicillium marneffei to P. Primulinum\". Journal of medical and veterinary mycology : bi-monthly publication of the International Society for Human and Animal Mycology. 27 (2): 105–12. PMID 2473184.\nRobert A. Samson, John I. Pitt (2013). Modern Concepts in Penicillium and Aspergillus Classification. Springer-Verlag. ISBN 3709112354.\n\n\n== References =="
+  }
+}

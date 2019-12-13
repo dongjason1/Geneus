@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Ascochyta_hordei",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Subclass": "Dothideomycetidae"
+    },
+    {
+      "Order": "Incertae sedis"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Ascochyta"
+    },
+    {
+      "Species": "A. hordei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Ascochyta hordei is a plant pathogen that causes Ascochyta leaf spot on barley, which can also be caused by the related fungi Ascochyta graminea, Ascochyta sorghi and Ascochyta tritici. It is considered a minor disease.",
+    "References": "",
+    "See also": "List of Ascochyta species",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Burmese_whiskered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. montivagus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Burmese whiskered bat (Myotis montivagus) is a species of vesper bat. It is found in China, India, Laos, Malaysia, Myanmar, and Thailand.\n\n\n== References =="
+  }
+}

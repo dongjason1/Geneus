@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_giorossii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. giorossii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus giorossii is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 24 mm and 33 mm.",
+    "Distribution": "This marine species of cone snail occurs off Flores, Indonesia.",
+    "References": "Bozzetti L. (2005) Conus giorossii sp. n. (Prosobranchia: Conidae) da Flores, Indonesia. Malacologia Mostra Mondiale 48: 3-5\nFilmer R.M. (2012) Taxonomic review of the Conus spectrum, Conus stramineus and Conus collisus complexes (Gastropoda - Conidae). Part III: The Conus collisus complex. Visaya 3(6): 4-47.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea\n'Phasmoconus giorossii\nHolotype in MNHN, Paris"
+  }
+}

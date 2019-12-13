@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dioon_stevensonii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Zamiaceae"
+    },
+    {
+      "Genus": "Dioon"
+    },
+    {
+      "Species": "D. stevensonii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dioon stevensonii is a species of cycad native to Mexico.",
+    "References": "Whitelock, Loran M. 2002. The Cycads. Portland: Timber Press. ISBN 0-88192-522-5",
+    "External links": " Data related to Dioon stevensonii at Wikispecies"
+  }
+}

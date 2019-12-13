@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rosa_villosa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Rosales"
+    },
+    {
+      "Family": "Rosaceae"
+    },
+    {
+      "Genus": "Rosa"
+    },
+    {
+      "Species": "R. villosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rosa villosa, the apple rose, is a species of rose. It was described in 1753. It is also known as the \"spansk hyben-rose\" in Danish.",
+    "References": "Linnaeus, C. 1753. Species Plantarum 1: 491.",
+    "External links": " Media related to Rosa villosa at Wikimedia Commons"
+  }
+}

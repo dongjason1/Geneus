@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Theobald's_tomb_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Taphozous"
+    },
+    {
+      "Species": "T. theobaldi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Theobald's tomb bat (Taphozous theobaldi) is a species of sac-winged bat in the family Emballonuridae.\nIt is found in India, Indonesia, Myanmar, Thailand, and Vietnam.\n\n\n== References =="
+  }
+}

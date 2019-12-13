@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Geranium_pusillum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Geraniales"
+    },
+    {
+      "Family": "Geraniaceae"
+    },
+    {
+      "Genus": "Geranium"
+    },
+    {
+      "Species": "G. pusillum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Geranium pusillum, commonly known as small-flowered crane's-bill or (in North America) small geranium, is a herbaceous annual plant of the genus Geranium.",
+    "References": "",
+    "External links": "Jepson Manual Treatment\nPhoto gallery"
+  }
+}

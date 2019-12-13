@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Red-brown_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Hypsugo"
+    },
+    {
+      "Species": "H. kitcheneri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The red-brown pipistrelle (Hypsugo kitcheneri) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Indonesia and possibly Malaysia.\n\n\n== References =="
+  }
+}

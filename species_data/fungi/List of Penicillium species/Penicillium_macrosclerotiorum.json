@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_macrosclerotiorum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. macrosclerotiorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium macrosclerotiorum is a species of the genus of Penicillium which was isolated from soil in south China.",
+    "Further reading": "Wang, L.; Zhang, X. M.; Zhuang, W. Y. (2007). \"Penicillium macrosclerotiorum, a new species producing large sclerotia discovered in south China\". Mycological Research. 111 (10): 1242. doi:10.1016/j.mycres.2007.06.017. PMID 17998158.\n\n\n== References =="
+  }
+}

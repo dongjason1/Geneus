@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Vipera_aspis_atra",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Vipera"
+    },
+    {
+      "Species": "V. aspis"
+    },
+    {
+      "Subspecies": "V. a. atra"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Common names: black asp, black viper.Vipera aspis atra is a venomous viper subspecies endemic to France, Switzerland and Italy.",
+    "Geographic range": "It is found in western Switzerland, northwestern Italy, Spain, and southeastern France. Mallow et al. (2003) describe the range only as \"portions of Switzerland\".",
+    "Conservation status": "This subspecies is classified as Vulnerable (VU) according to the IUCN Red List of Threatened Species (v3.1, 2001).",
+    "Taxonomy": "A recent study by Ursenbacher et al. (2006) suggests that V. a. atra may not be a valid subspecies.",
+    "See also": "List of viperine species and subspecies\nViperinae by common name\nViperinae by taxonomic synonyms\nSnakebite",
+    "References": "\n\n== Further reading =="
+  }
+}

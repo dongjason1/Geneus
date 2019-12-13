@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_sanctum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. sanctum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper sanctum is a plant in the family Piperaceae, endemic to Central America.",
+    "Synonyms": "Artanthe sancta Miq.\nPiper diandrum C.DC.\nPiper dissimulans Trel.\nPiper heterophlebium Trel.\nPiper papantlense C.DC.\nPiper venulosum Trel.",
+    "References": "Prodr. 16(1) 330 1869.\nThe Plant List\nEncyclopedia of Life\n\"Piper sanctum\". Germplasm Resources Information Network (GRIN). Agricultural Research Service (ARS), United States Department of Agriculture (USDA)."
+  }
+}

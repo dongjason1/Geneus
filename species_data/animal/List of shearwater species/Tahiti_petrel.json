@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tahiti_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pseudobulweria"
+    },
+    {
+      "Species": "P. rostrata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Tahiti petrel (Pseudobulweria rostrata) is a species of seabird in the family Procellariidae. It is found in American Samoa, Australia, Fiji, French Polynesia, Mexico, New Caledonia, New Zealand, the Solomon Islands, Tonga, Vanuatu, and possibly the Cook Islands. It is a pelagic bird of the open seas, but nests in subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, subtropical or tropical moist shrubland and subtropical or tropical high-altitude shrubland. It has been recorded as a vagrant in Hawaii, Taiwan, Baja California, and, most surprisingly, in North Carolina.",
+    "Subspecies": "There are two listed subspecies of the Tahiti petrel:\n\nP. r. rostrata, (Peale, 1848): breeds in the Marquesas and the Society Islands.\nP. r. trouessarti, (Brasil, 1917): breeds in New Caledonia.\n\n\n== References =="
+  }
+}

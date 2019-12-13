@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-collared_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Megaerops"
+    },
+    {
+      "Species": "M. wetmorei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-collared fruit bat (Megaerops wetmorei) is a species of megabat found in Southeast Asia.",
+    "External measurements": "A specimen held by Brunei Museum (BM87/1983) had a forearm length 48 mm, head-body length 65 mm, ear 12 mm, hind foot length 8 mm and weight 16 g.\n\n\n== References =="
+  }
+}

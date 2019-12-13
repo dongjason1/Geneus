@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Epicrates_striatus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Boidae"
+    },
+    {
+      "Genus": "Chilabothrus"
+    },
+    {
+      "Species": "C. striatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Chilabothrus striatus, known commonly as the Hispaniolan boa, is a species of snake in the family Boidae. The species is endemic to the West Indies.",
+    "Distribution and habitat": "Chilabothrus striatus is found in The Bahamas, the Bimini Islands, and on Hispaniola.",
+    "Subspecies": "Three subspecies are recognized including the nominotypical subspecies.\nChilabothrus striatus striatus (J.G. Fischer, 1856) – Hispaniolan or Dominican red mountain boa\nChilabothrus striatus exagistus Sheplan & Schwartz, 1974 – Tiburon Peninsula boa\nChilabothrus striatus warreni Sheplan & Schwartz, 1974 – Tortuga boaNota bene: A trinomial authority in parentheses indicates that the subspecies was originally described in a genus other than Chilabothrus.",
+    "Etymology": "The subspecific name, warreni, is in honor of C. Rhea Warren who collected herpetological specimens on Île de la Tortue.",
+    "References": "",
+    "Further reading": "Boulenger GA (1893). Catalogue of the Snakes in the British Museum (Natural History). Volume I., Containing the Families ... Boidæ ... London: Trustees of the British Museum (Natural History). (Taylor and Francis, printers). xiii + 448 pp. + Plates I-XXVIII. (Epicrates striatus, pp. 96-97).\nFischer JG (1856). \"Neue Schlangen des Hamburgischen Naturhistorischen Museums \". Abhandlungen aus dem Gebiete der Naturwissenschaften Verein in Hamburg 3 (4): 79-116. (Homalochilus striatus, new species, pp. 102–106 + Plate II, Figures 2a & 2b). (in German).\nSheplan BR, Schwartz A (1974). \"Hispaniolan Boas of the genus Epicrates (Serpentes, Boidae) and their Antillean relationships\". Annals of Carnegie Museum of Natural History 45: 57-143."
+  }
+}

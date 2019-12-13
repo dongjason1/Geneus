@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurothallis_elegans",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Orchidaceae"
+    },
+    {
+      "Subfamily": "Epidendroideae"
+    },
+    {
+      "Tribe": "Epidendreae"
+    },
+    {
+      "Subtribe": "Pleurothallidinae"
+    },
+    {
+      "Genus": "Crocodeilanthe"
+    },
+    {
+      "Species": "C. elegans"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Crocodeilanthe elegans is an orchid species in the genus Crocodeilanthe found from Venezuela to Ecuador.",
+    "References": "",
+    "External links": "Crocodeilanthe elegans at tropicos.org"
+  }
+}

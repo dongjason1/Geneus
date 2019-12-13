@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sphagnum_fallax",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Phylum": "Bryophyta"
+    },
+    {
+      "Class": "Sphagnopsida"
+    },
+    {
+      "Subclass": "Sphagnidae"
+    },
+    {
+      "Order": "Sphagnales"
+    },
+    {
+      "Family": "Sphagnaceae"
+    },
+    {
+      "Genus": "Sphagnum"
+    },
+    {
+      "Species": "S. fallax"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Sphagnum fallax, the flat-topped bogmoss, is a moss species in the genus Sphagnum",
+    "References": "",
+    "External links": "ITIS\n\"Sphagnum fallax\". National Center for Biotechnology Information (NCBI)."
+  }
+}

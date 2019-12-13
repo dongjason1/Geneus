@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lasiurus_atratus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. atratus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lasiurus atratus, the greater red bat, is a species of vesper bat. It is found in Guyana, Venezuela, French Guiana and Suriname.\n\n\n== References =="
+  }
+}

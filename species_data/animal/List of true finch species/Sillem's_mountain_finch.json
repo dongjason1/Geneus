@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Sillem's_mountain_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. sillemi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Sillem's mountain finch or tawny-headed mountain finch (Carpodacus sillemi) is a species of rosefinch in the finch family. It is found only in China and was only known from two specimens collected in 1929 from the Aksai Chin area of southern Xinjiang Autonomous Region. In 2012, the bird was photographed 1500 km from the original collection location.  This species was originally placed in the genus Leucosticte but a phylogenetic study using mitochondrial DNA sequences published in 2016 found that Sillem's mountain finch was a sister species to the Tibetan rosefinch (Carpodacus roborowskii). The International Ornithological Committee therefore moved Sillem's mountain finch to the genus Carpodacus.The species is named after Jérôme Alexander Sillem, a Dutch bird collector who was a member of the expedition that collected the specimens in 1929.",
+    "References": "",
+    "External links": "Species factsheet: Leucosticte sillemi. BirdLife International (2007)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_lucigaudens",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. lucigaudens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper lucigaudens is a species of plant in the family Piperaceae. It is endemic to Panama.  It is threatened by habitat loss.",
+    "References": "Mitré, M. 1998.  Piper lucigaudens.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

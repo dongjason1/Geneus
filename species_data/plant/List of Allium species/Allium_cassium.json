@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Allium_cassium",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Asparagales"
+    },
+    {
+      "Family": "Amaryllidaceae"
+    },
+    {
+      "Subfamily": "Allioideae"
+    },
+    {
+      "Genus": "Allium"
+    },
+    {
+      "Species": "A. cassium"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Allium cassium is a Middle Eastern species of wild onion native to Turkey, Lebanon, Israel, and Cyprus.\n\n\n== References =="
+  }
+}

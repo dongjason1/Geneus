@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_decorsei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Madatyphlops"
+    },
+    {
+      "Species": "M. decorsei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mocquard's worm snake (Madatyphlops decorsei) is a species of snake in the family Typhlopidae. The species is native to Africa.",
+    "Etymology": "The specific name, decorsei, is in honor of French army doctor Gaston-Jules Decorse (1873-1907).",
+    "Geographic range": "It is endemic to Madagascar.",
+    "References": "",
+    "Further reading": "Hedges SB, Marion AB, Lipp KM, Marin J, Vidal N (2014). \"A taxonomic framework for typhlopid snakes from the Caribbean and other regions (Reptilia, Squamata)\". Caribbean Herpetology (49): 1-61. (Madatyphlops decorsei, new combination).\nMocquard F (1901). \"Note préliminaire sur une collection de Reptiles et de Batraciens recueillis par M. Alluad dans le sud de Madagascar \". Bulletin du Muséum d'Histoire naturelle 7: 251-256. (Typhlops decorsei, new species, p. 255). (in French)."
+  }
+}

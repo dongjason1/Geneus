@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_erianthi",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Subclass": "Incertae sedis"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. erianthi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia erianthi is a plant pathogen.",
+    "See also": "List of Puccinia species",
+    "References": "",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

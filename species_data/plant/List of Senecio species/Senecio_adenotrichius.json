@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_adenotrichius",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. adenotrichius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio adenotrichius is a species of the genus Senecio. It is native to Chile, and common on disturbed land there.\nIt is an invasive plant species in the United States.",
+    "References": "\nCandolle, A. P. de (1837). Prodromus Systematis Naturalis Regni Vegetabilis. 6. p. 416.\n\n\n== External links =="
+  }
+}

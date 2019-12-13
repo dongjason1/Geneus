@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Leptotyphlops_vellardi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Leptotyphlopidae"
+    },
+    {
+      "Genus": "Epictia"
+    },
+    {
+      "Species": "E. vellardi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Epictia vellardi is a species of snakes in the family Leptotyphlopidae. The species is endemic to South America.",
+    "Etymology": "The specific name, vellardi, is in honor of French herpetologist Jehan Albert Vellard, who for most of his life lived and worked in South America.",
+    "Geographic range": "E. vellardi is found in Argentina, Brazil, and Paraguay.",
+    "References": "",
+    "Further reading": "Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges SB (2009). \"Molecular phylogeny, classification, and biogeography of snakes of the family Leptotyphlopidae (Reptilia, Squamata)\". Zootaxa 2244: 1-50. (Epictia vellardi, new combination).\nLaurent RF (1984). \"El género Leptotyphlops en la colección de la Fundación Miguel Lillo \". Acta Zoologica Lilloana 38 (1): 29-34. (Leptotyphlops vellardi, new species). (in Spanish)."
+  }
+}

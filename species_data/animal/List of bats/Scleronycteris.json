@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Scleronycteris",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "ScleronycterisThomas, 1912"
+    },
+    {
+      "Species": "S. ega"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Ega long-tongued bat (Scleronycteris ega) is a bat species from South America. It is found in northwestern Brazil and southern Venezuela. It is monotypic within its genus.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pile-builder_megapode",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Megapodiidae"
+    },
+    {
+      "Genus": "Megapodius"
+    },
+    {
+      "Species": "M. molistructor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pile-builder megapode (Megapodius molistructor) is an extinct species of megapode. The subfossil remains were found by Jean-Christophe Balouet and Storrs L. Olson in the Pindai Caves of New Caledonia.  Its remains have also been found on Tonga.",
+    "Description": "With a weight of 3.5 kg, M. molistructor was heavier than all existing Megapodius species. On Tonga, it was the largest ground-dwelling bird species. The fossil material consists of a left tarsometatarsus, a complete left scapula, a half right scapula, a proximal-end left ulna, a fragment of the right femur, several ungual phalanges, an anterior-end right scapula, a proximal-end right ulna, a distal left ulna, a distal-end left ulna proximal, and a half right femur.",
+    "Extinction": "When the early settlers of the Lapita culture arrived in Tonga around 1500 BC, they found only marine species such as sea turtles and giant forms of terrestrial birds such as megapodes, doves, and rails. The hunting of these bird species for food led to their rapid extinction. In New Caledonia, the giant megapode might have survived into historic times. William Anderson, a naturalist and surgeon's mate aboard HMS Resolution during James Cook's second South Sea voyage, described a bird from New Caledonia with bare legs, which he named Tetrao australis. Considering that all Tetrao species have feathered legs, Anderson's bird might well have been a megapode.",
+    "References": "",
+    "External links": "Steadman, David William: The biogeography and extinction of megapodes in Oceania (PDF, fulltext)\nAssociation Endemia - Megapodius molistructor"
+  }
+}

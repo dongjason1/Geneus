@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_manni",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. manni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mann's worm snake (Letheobia manni ) is a species of blind snake in the family Typhlopidae. The species is endemic to West Africa.",
+    "Etymology": "The specific name, manni, is in honor of William Montana Mann, who was an American entomologist and zoo director.",
+    "Geographic range": "L. manni is found in Guinea and Liberia.",
+    "Reproduction": "L. manni is oviparous.",
+    "References": "",
+    "Further reading": "Loveridge, Arthur (1941). \"Report on the Smithsonian-Firestone Expedition's collection of reptiles and amphibians from Liberia\". Proc. United States Nat. Mus. 91: 113-139. (Typhlops manni, new species, p. 118)."
+  }
+}

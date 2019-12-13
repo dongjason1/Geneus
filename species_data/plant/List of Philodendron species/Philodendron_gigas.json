@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Philodendron_gigas",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Order": "Alismatales"
+    },
+    {
+      "Family": "Araceae"
+    },
+    {
+      "Genus": "Philodendron"
+    },
+    {
+      "Species": "P. gigas"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Philodendron gigas is a species of flowering plant in the family Araceae. It is endemic to Panama, first described in  1997.\n\n\n== References =="
+  }
+}

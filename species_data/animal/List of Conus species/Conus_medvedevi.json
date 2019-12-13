@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_medvedevi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. medvedevi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus medvedevi is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 15 mm and 30 mm.",
+    "Distribution": "This marine species occurs in the Atlantic Ocean and is endemic to Angola.",
+    "References": "Monteiro A., Afonso C., Tenorio M.J., Rosado J. & Pirinhas D. (2014). New data on the endemic cones (Gastropoda, Conidae) of Angola, with the description of new species. Xenophora Taxonomy. 5: 61-73 page(s): 64, pl. 2 figs 1-6",
+    "External links": "To World Register of Marine Species\n\"Varioconus medvedevi\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

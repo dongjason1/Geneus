@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fraternal_fruit-eating_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Artibeus"
+    },
+    {
+      "Species": "A. fraterculus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The fraternal fruit-eating bat (Artibeus fraterculus) is a species of bat in the family Phyllostomidae. It is found in Ecuador and Peru.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Indian_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. lankadiva"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Indian roundleaf bat (Hipposideros lankadiva) is a species of bat in the family Hipposideridae. It is found in Bangladesh, India, and Sri Lanka. Its natural habitats are subtropical or tropical dry forests and caves. It is threatened by habitat loss. Hipposideros schistaceus is a synonym.\n\n\n== References =="
+  }
+}

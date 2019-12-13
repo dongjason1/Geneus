@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Philippine_collared_dove",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Columbiformes"
+    },
+    {
+      "Family": "Columbidae"
+    },
+    {
+      "Genus": "Streptopelia"
+    },
+    {
+      "Species": "S. dusumieri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Philippine collared dove (Streptopelia dusumieri) is a species of bird in the family Columbidae.\nThe species occurs in the Philippines where it is called locally as bato-bato de collar.   It has also been introduced into Guam and the Northern Mariana Islands, although the population on Guam has been severely reduced by introduced brown tree snakes. \nIts natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical mangrove forest.  It was formerly considered a subspecies of the island collared dove.",
+    "References": "\nCollar, N.J. 2011. Species limits in some Philippine birds including the Greater Flameback Chrysocolaptes lucidus. Forktail number 27: 29-38."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Brown-banded_antpitta",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Grallariidae"
+    },
+    {
+      "Genus": "Grallaria"
+    },
+    {
+      "Species": "G. milleri"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The brown-banded antpitta (Grallaria milleri) is a species of bird in the Grallariidae family. It is endemic to Colombia.\nIts natural habitats are subtropical or tropical moist montane forests and plantations. It is threatened by habitat loss.",
+    "References": "",
+    "External links": "BirdLife Species Factsheet."
+  }
+}

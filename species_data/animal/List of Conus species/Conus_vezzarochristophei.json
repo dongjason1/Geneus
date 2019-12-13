@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_vezzarochristophei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. vezzarochristophei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus vezzarochristophei is a species of sea snail, a marine gastropod mollusk, in the family Conidae, the cone snails and their allies.",
+    "Distribution": "This species occurs in Madagascar.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cycas_aenigma",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Cycadophyta"
+    },
+    {
+      "Class": "Cycadopsida"
+    },
+    {
+      "Order": "Cycadales"
+    },
+    {
+      "Family": "Cycadaceae"
+    },
+    {
+      "Genus": "Cycas"
+    },
+    {
+      "Species": "C. aenigma"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cycas aenigma is a species of cycad endemic to the Philippines.",
+    "Range": "Cycas aenigma is known only in cultivation in Puerto Princesa City, Palawan.\n\n\n== References =="
+  }
+}

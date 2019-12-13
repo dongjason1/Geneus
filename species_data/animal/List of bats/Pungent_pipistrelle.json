@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pungent_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Falsistrellus"
+    },
+    {
+      "Species": "F. mordax"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The pungent pipistrelle (Falsistrellus mordax) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Indonesia and possibly the Philippines.\n\n\n== Sources =="
+  }
+}

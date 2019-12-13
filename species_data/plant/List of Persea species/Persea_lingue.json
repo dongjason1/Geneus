@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Persea_lingue",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Magnoliids"
+    },
+    {
+      "Order": "Laurales"
+    },
+    {
+      "Family": "Lauraceae"
+    },
+    {
+      "Genus": "Persea"
+    },
+    {
+      "Species": "P. lingue"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Persea lingue is a species of plant in the family Lauraceae. It belongs to the genus Persea, which contains about 150 species of evergreen trees. It is found in Argentina and Chile. It is threatened by habitat loss.",
+    "Distribution": "Native in Argentina and Chile.",
+    "Use": "In pharmacy its bark was once mentioned as cortex Lauri lingue, medicinal action unknown.",
+    "Etymology": "Persea see Persea.\nLingue from Lingue River in Chile, where it grows.",
+    "References": "\nGonzález, M. 1998. Persea lingue. 2006 IUCN Red List of Threatened Species. Downloaded on 23 August 2007."
+  }
+}

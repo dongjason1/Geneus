@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Schneider's_leaf-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. speoris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Schneider's leaf-nosed bat or Schneider's roundleaf bat (Hipposideros speoris) is a species of bat in the family Hipposideridae. It is found in India and Sri Lanka. Its natural habitats are subtropical or tropical dry forests, caves, and urban areas.\n\nIt was named after Johann Gottlob Schneider, a German classicist and naturalist.\n\n\n== References =="
+  }
+}

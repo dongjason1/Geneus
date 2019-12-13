@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Southeast_Asian_long-fingered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. fuscus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Southeast Asian long-fingered bat (Miniopterus fuscus) is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Japan.\n\n\n== Sources =="
+  }
+}

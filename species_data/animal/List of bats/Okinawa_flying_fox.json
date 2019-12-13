@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Okinawa_flying_fox",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Pteropus"
+    },
+    {
+      "Species": "P. loochoensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Okinawa flying fox (Pteropus loochoensis) is a species of megabat in the genus Pteropus. It is endemic to possibly Japan. It was previously listed as extinct by the IUCN, but because the two known specimens are taxonomically uncertain and of unknown provenance, it was changed to 'Data Deficient'. Some place this animal into synonymy under Pteropus mariannus.\nTwo specimens are in the British Natural History Museum, and the whereabouts of the third is unknown. Two of the specimens are believed to have come from Southeast Asia, so the true distribution of the Okinawa flying fox is unknown.\n\n\n== References =="
+  }
+}

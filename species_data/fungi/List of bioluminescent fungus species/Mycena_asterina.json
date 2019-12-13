@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_asterina",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. asterina"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena asterina is a species of agaric fungus in the family Mycenaceae.  It is found in São Paulo state, Brazil, where it grows singly or scattered on fallen leaves in Atlantic forests. The fruit bodies of the fungus are bioluminescent.",
+    "See also": "List of bioluminescent fungi",
+    "References": "",
+    "External links": "Mycena asterina  in Index Fungorum"
+  }
+}

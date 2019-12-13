@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_caperatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. caperatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium caperatum is an anamorph fungus species of the genus of Penicillium which was isolated from soil in Papua New Guinea .",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_oligolepis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Gerrhopilidae"
+    },
+    {
+      "Genus": "Gerrhopilus"
+    },
+    {
+      "Species": "G. oligolepis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Gerrhopilus oligolepis, also known as the few-scaled worm snake or Wall's worm snake, is a harmless blind snake species found in northern India and Nepal. No subspecies are currently recognized.",
+    "Geographic range": "Found in the eastern Himalayas in India in the area of Sikkim and Darjeeling and in Nepal. The type locality given is \"Nagri Valley below Darjeeling [India] at an altitude of about 5000 feet.\"",
+    "References": "",
+    "Further reading": "Wall F. 1909. Notes on snakes from the neighbourhood of Darjeeling. J. Bombay nat. Hist. Soc. 19:337-357."
+  }
+}

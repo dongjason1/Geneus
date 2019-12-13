@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pleurotus_djamor",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Pleurotaceae"
+    },
+    {
+      "Genus": "Pleurotus"
+    },
+    {
+      "Species": "P. djamor"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pleurotus djamor, commonly known as the pink oyster mushroom, is a species of fungus in the family Pleurotaceae. It was originally named Agaricus djamor by the German-born botanist Georg Eberhard Rumphius and sanctioned under that name by Elias Magnus Fries in 1821. It was known by many different names before being transferred to the genus Pleurotus by Karel Bernard Boedijn in 1959.",
+    "See also": "List of Pleurotus species",
+    "External links": "Pleurotus djamor  in Index Fungorum"
+  }
+}

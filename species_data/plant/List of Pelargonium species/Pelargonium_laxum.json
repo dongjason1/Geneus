@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pelargonium_laxum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Geraniales"
+    },
+    {
+      "Family": "Geraniaceae"
+    },
+    {
+      "Genus": "Pelargonium"
+    },
+    {
+      "Species": "P. laxum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pelargonium laxum is a species of South African erect, branched-stem succulent plant that grows to 30 cm in height.\nThe name was listed as unresolved by The Plant List as of March 2015.",
+    "References": "\nGen. Hist. 1: 730 1831.\nJSTOR entry\nOperation Wildflower entry"
+  }
+}

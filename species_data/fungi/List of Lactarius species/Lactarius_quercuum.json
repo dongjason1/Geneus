@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lactarius_quercuum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Lactarius"
+    },
+    {
+      "Species": "L. quercuum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lactarius quercuum is a member of the large milk-cap genus Lactarius in the order Russulales. Described as new to science in 1963 by American mycologist Rolf Singer, the species is found in Bolivia.",
+    "See also": "List of Lactarius species",
+    "References": "",
+    "External links": "Lactarius quercuum  in Index Fungorum"
+  }
+}

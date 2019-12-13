@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hygrocybe_cantharellus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Hygrophoraceae"
+    },
+    {
+      "Genus": "Hygrocybe"
+    },
+    {
+      "Species": "H. cantharellus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Hygrocybe cantharellus is a mushroom of the waxcap genus Hygrocybe. It is found in eastern North America and Australia.",
+    "See also": "List of Hygrocybe species",
+    "References": "",
+    "External links": "Hygrocybe cantharellus  in Index Fungorum"
+  }
+}

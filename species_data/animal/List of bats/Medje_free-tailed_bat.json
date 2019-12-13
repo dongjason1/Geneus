@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Medje_free-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Molossidae"
+    },
+    {
+      "Genus": "Mops"
+    },
+    {
+      "Species": "M. congicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Medje free-tailed bat (Mops congicus) is a species of bat in the family Molossidae. It is found in Cameroon, Democratic Republic of the Congo, and Uganda. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical moist lowland forests. It is threatened by habitat loss.",
+    "Taxonomy": "It was described as a new species in 1917 by Joel Asaph Allen.\nThe holotype had been collected in 1910 by Herbert Lang and James Chapin near the town of Medje in what was then Belgian Congo.\n\n\n== References =="
+  }
+}

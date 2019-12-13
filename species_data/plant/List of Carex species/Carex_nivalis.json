@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carex_nivalis",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Cyperaceae"
+    },
+    {
+      "Genus": "Carex"
+    },
+    {
+      "Species": "C. nivalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Carex nivalis is a species of sedge that was first described by Francis Boott in 1845. It is found from Afghanistan to southwest China. The name has also been used as a synonym for Carex micropoda.\n\n\n== References =="
+  }
+}

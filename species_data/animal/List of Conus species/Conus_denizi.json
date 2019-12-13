@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_denizi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. denizi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus denizi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.Like all species within the genus Conus, these cone snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The shell is very small, and it is one of the smallest of the endemic species found in the Cape Verde Islands. General profile is ventricosely conical, somewhat elongated with a rounded shoulder. Spire moderate, straight to slightly convex with 4-5 well defined cords on the flat to slightly convex sutural ramps. Sides of the last whorl are straight or slightly convex. Body whorl is smooth except for 8-10 spiral grooves that occupy almost the entire anterior third of the body whorl. Spire is predominantly white with alternating dark brown axial blotches. Last whorl is olive-green to light olive-green, normally with 3 interrupted spiral bands formed by well-defined white blotches  occasionally arranged in zigzag or chevron shaped) tinged with brown to dark brown markings. Tip of anterior portion of last whorl is tinged with brown to very dark brown. Aperture is purplish-brown in fresh specimens with 2 distinct whitish bands: one located near mid-body and another, not so evident, just below the shoulder. Inner lip has a yellowish colour. Periostracum is thin, yellow, smooth and translucent.",
+    "Distribution": "The species is found on Praia Grande, on the northeast coast of São Vicente Island, Cape Verde.",
+    "References": "Puillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "To World Register of Marine Species\nCone Shells - Knights of the Sea"
+  }
+}

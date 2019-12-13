@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eryx_miliaris",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Boidae"
+    },
+    {
+      "Genus": "Eryx"
+    },
+    {
+      "Species": "E. miliaris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eryx miliaris, known commonly as the Dwarf sand boa, is a species of snake in the Boidae family. The species is endemic to Asia.",
+    "Geographic range": "E. miliaris is found in Iran, Afghanistan, Turkmenistan, Uzbekistan, southern Russia, and northwestern China.",
+    "References": "",
+    "Further reading": "Eichwald [K]E. 1831. Zoologia specialis quam expositis animalibus tum vivis, tum fossilibus potissimum rossiae in universum, et poloniae in specie, in usum lectionum publicarum in Universitate Caesarea Vilnensi habendarum. Pars posterior. Vilnius: J. Zawadzki. pp. 116–197. (Eryx miliaris, p. 176). (in Latin).\nPallas PS. 1773. Reise durch verschiedene Provinzen des Russischen Reichs. Zwenter Theil [Volume 2]. St. Petersburg, Russia: Russian Academy of Sciences. 744 pp. (Anguis miliaris, new species, p. 718). (in German and Latin)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chinese_white-browed_rosefinch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Carpodacus"
+    },
+    {
+      "Species": "C. dubius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chinese white-browed rosefinch (Carpodacus dubius) is a true finch species (family Fringillidae).\nIt is found in central China and eastern Tibet. Its natural habitats are temperate forests and temperate shrubland.\nThis species was at one time considered as a subspecies of the Himalayan white-browed rosefinch (Carpodacus thura) but was up-ranked to species status. This was supported  by a phylogenetic analysis of DNA sequences.",
+    "References": "\n\n== External links =="
+  }
+}

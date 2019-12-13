@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Robust_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Scotophilus"
+    },
+    {
+      "Species": "S. robustus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The robust yellow bat (Scotophilus robustus) is a species of vesper bat. It is found only in Madagascar.\n\n\n== References =="
+  }
+}

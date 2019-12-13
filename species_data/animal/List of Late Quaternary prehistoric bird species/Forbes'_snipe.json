@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Forbes'_snipe",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Charadriiformes"
+    },
+    {
+      "Family": "Scolopacidae"
+    },
+    {
+      "Genus": "Coenocorypha"
+    },
+    {
+      "Species": "C. chathamica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Forbes's snipe (Coenocorypha chathamica),  was a species of New Zealand snipe endemic to the Chatham Islands. It was the larger of two species found there, the smaller being the surviving Chatham snipe. It was never seen alive by scientists and is known only from fossil material collected on the islands. Why it became extinct while its smaller relative survived is a mystery, as is the exact timing of its extinction, although it may have survived, unnoticed, until the 15th century.",
+    "References": "Tennyson, A. & Martinson, P. (2006) Extinct Birds of New Zealand Te Papa Press,Wellington ISBN 978-0-909010-21-8\nWorthy, Trevor H., & Holdaway, Richard N. (2002) The Lost World of the Moa, Indiana University Press:Bloomington, ISBN 0-253-34034-9",
+    "External links": "Forbes' snipe. Coenocorypha chathamica. by Paul Martinson. Artwork produced for the book Extinct Birds of New Zealand, by Alan Tennyson, Te Papa Press, Wellington, 2006"
+  }
+}

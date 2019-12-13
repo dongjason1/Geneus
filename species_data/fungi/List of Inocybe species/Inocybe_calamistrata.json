@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Inocybe_calamistrata",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Inocybaceae"
+    },
+    {
+      "Genus": "Inocybe"
+    },
+    {
+      "Species": "Inocybe calamistrata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Inocybe calamistrata is a species of Inocybaceae fungus found in Europe.",
+    "See also": "\nList of Inocybe species\n\n\n== References =="
+  }
+}

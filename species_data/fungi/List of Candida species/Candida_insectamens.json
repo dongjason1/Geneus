@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Candida_insectamens",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Saccharomycetes"
+    },
+    {
+      "Order": "Saccharomycetales"
+    },
+    {
+      "Family": "Saccharomycetaceae"
+    },
+    {
+      "Genus": "Candida"
+    },
+    {
+      "Species": "C. insectamens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Candida insectamens is a yeast species in the genus Candida.\n\n\n== References =="
+  }
+}

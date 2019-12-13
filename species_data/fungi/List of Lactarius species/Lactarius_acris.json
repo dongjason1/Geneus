@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lactarius_acris",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Russulales"
+    },
+    {
+      "Family": "Russulaceae"
+    },
+    {
+      "Genus": "Lactarius"
+    },
+    {
+      "Species": "L. acris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Lactarius acris is a member of the large milk-cap genus Lactarius in the order Russulales. Found in Europe, the species was described in 1821 by British botanist Samuel Frederick Gray. It is considered unpalatable due to its strong flavour, but the bitterness can be removed by repeated washing and salting.",
+    "Description": "This is the only species in the Lactarius genus whose milk turns pink after a few moments of exposure to air. The cap has between 5 and 8 cm in diameter and is chestnut brown, and becomes sticky when wet.",
+    "See also": "List of Lactarius species",
+    "References": "",
+    "External links": "Lactarius acris  in Index Fungorum"
+  }
+}

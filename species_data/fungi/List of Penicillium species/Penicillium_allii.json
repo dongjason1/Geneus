@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_allii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. allii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium allii is an anamorph fungus species of the genus of Penicillium. Penicillium allii is a pathogen of garlic (Allium sativum).",
+    "Further reading": "Penicillium allii, a New Species from Egyptian Garlic Michael A. Vincent and John I. Pitt Mycologia Vol. 81, No. 2 (Mar. - Apr., 1989), pp. 300–303 Published by: Mycological Society of America",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

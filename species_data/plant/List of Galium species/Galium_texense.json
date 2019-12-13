@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Galium_texense",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Gentianales"
+    },
+    {
+      "Family": "Rubiaceae"
+    },
+    {
+      "Genus": "Galium"
+    },
+    {
+      "Species": "G. texense"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Galium texense, the Texas bedstraw, is a species of plants in the coffee family. It is native to Texas, Oklahoma and Arkansas.",
+    "References": "",
+    "External links": "US Department of Agriculture plant profile"
+  }
+}

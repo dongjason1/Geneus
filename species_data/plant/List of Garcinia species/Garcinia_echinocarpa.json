@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Garcinia_echinocarpa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Clusiaceae"
+    },
+    {
+      "Genus": "Garcinia"
+    },
+    {
+      "Species": "G. echinocarpa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Garcinia echinocarpa is a species of small to medium tree in the Clusiaceae family.",
+    "References": "\nThe Plant List\nThe Plant Note"
+  }
+}

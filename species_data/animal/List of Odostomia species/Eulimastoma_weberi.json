@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eulimastoma_weberi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "(unranked)": "clade Heterobranchiaclade Euthyneuraclade Panpulmonata"
+    },
+    {
+      "Superfamily": "Pyramidelloidea"
+    },
+    {
+      "Family": "Pyramidellidae"
+    },
+    {
+      "Genus": "Eulimastoma"
+    },
+    {
+      "Species": "E. weberi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eulimastoma weberi is a species of sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.",
+    "Distribution": "This species occurs in the following locations:\nGulf of Mexico",
+    "References": "",
+    "External links": "To Encyclopedia of Life\nTo USNM Invertebrate Zoology Mollusca Collection\nTo ITIS\nTo World Register of Marine Species"
+  }
+}

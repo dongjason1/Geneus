@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tilda's_yellow-shouldered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Sturnira"
+    },
+    {
+      "Species": "S. tildae"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tilda's yellow-shouldered bat (Sturnira tildae) is a bat species from South America. It is found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname, Venezuela, and Trinidad and Tobago.\n\n\n== References =="
+  }
+}

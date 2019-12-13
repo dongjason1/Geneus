@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_jamaicensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Typhlops"
+    },
+    {
+      "Species": "T. jamaicensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Typhlops jamaicensis, also known as the Jamaican blind snake or Jamaica worm snake, is a species of snake in the Typhlopidae family.</ref>\n\n\n== References =="
+  }
+}

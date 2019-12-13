@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_newtonii",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. newtoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Letheobia newtoni is a species of snake in the family Typhlopidae.",
+    "Etymology": "The specific name, newtoni, is in honor of \"M[onsieur]. F. Newton\", who collected the type specimen on Ilhéu das Rolas in the Gulf of Guinea. \"F. Newton\" refers to Portuguese botanist Colonel Francesco Newton (1864–1909).",
+    "Description": "The holotype of L. newtoni is 40 cm (16 in) in total length, which includes a tail 6 mm (0.24 in) long. The body is slender, the diameter not exceeding 8 mm (0.31 in). The scales are in 28 rows around the body. Dorsally and ventrally, it is uniformly yellowish white.",
+    "Reproduction": "L. newtoni is oviparous.",
+    "References": "",
+    "Further reading": "Bocage, JV Barboza du (1890). \"Sur une espèce nouvelle à ajoutter [sic] à la faune erpètologique [sic] de St. Thomé et Rolas \". Jornal de Sciências, Mathemáticas, Physicas e Naturaes da Academia Real das Sciências de Lisboa, Series 2, 2: 61-62. (Typhlops newtoni, new species). (in French).\nBoulenger GA (1893). Catalogue of the Snakes in the British Museum (Natural History). Volume I., Containing the Families Typhlopidæ ... London: Trustees of the British Museum (Natural History). (Taylor and Francis, printers). xiii + 448 pp. + Plates I-XXVIII. (Typhlops newtonii, p. 55).\nBroadley DG, Wallach V (2007). \"A review of East and Central African species of Letheobia Cope, revived from the synonymy of Rhinotyphlops Fitzinger, with descriptions of five new species\". Zootaxa 1515: 31-68. (Letheobia newtoni, new combination)."
+  }
+}

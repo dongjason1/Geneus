@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_sclerotigenum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. sclerotigenum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium sclerotigenum is a species of fungus in the genus Penicillium. Described as new to science in 1955, it was first isolated from tubers of Chinese yam (Dioscorea batatas) found in Japan. It is also associated with blue mold of yam in Korea. A DNA biosensor method for detecting the fungus in yam has been reported. The anti-insect compound sclerotigenin was reported from the fungus in 1999.\n\n\n== References =="
+  }
+}

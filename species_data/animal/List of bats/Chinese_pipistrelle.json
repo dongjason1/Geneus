@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chinese_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Hypsugo"
+    },
+    {
+      "Species": "H. pulveratus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chinese pipistrelle (Hypsugo pulveratus) is a species of vesper bat in the family Vespertilionidae.\nIt is found in China, Laos, Thailand, and Vietnam.",
+    "Taxonomy": "\n\n== References =="
+  }
+}

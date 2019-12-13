@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Heller's_pipistrelle",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Neoromicia"
+    },
+    {
+      "Species": "N. helios"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Heller's pipistrelle (Neoromicia helios) is a species of vesper bat.\nIt is found in Kenya, Somalia, Tanzania, and Uganda.\n\n\n== References =="
+  }
+}

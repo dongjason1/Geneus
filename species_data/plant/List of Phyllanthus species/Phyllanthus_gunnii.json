@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phyllanthus_gunnii",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Phyllanthaceae"
+    },
+    {
+      "Genus": "Phyllanthus"
+    },
+    {
+      "Species": "P. gunnii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phyllanthus gunnii, the scrubby spurge, is a small plant growing in eastern and southern Australia, often on rocky forest sites near water.\n\n\n== References =="
+  }
+}

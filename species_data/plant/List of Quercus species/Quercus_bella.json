@@ -1,0 +1,40 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Quercus_bella",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fagales"
+    },
+    {
+      "Family": "Fagaceae"
+    },
+    {
+      "Genus": "Quercus"
+    },
+    {
+      "Subgenus": "Quercus subg. Cyclobalanopsis"
+    },
+    {
+      "Species": "Q. bella"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Quercus bella is an uncommon species of tree in the beech family. It has been found only in Yunnan Province in southern China.Quercus bella is a tree up to 30 meters tall, with leaves as much as 15 cm long.",
+    "References": "",
+    "External links": "line drawings, Flora of China Illustrations vol. 4, fig. 386, drawings 1-4 at right"
+  }
+}

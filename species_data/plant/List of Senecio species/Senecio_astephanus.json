@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Senecio_astephanus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Asteraceae"
+    },
+    {
+      "Genus": "Senecio"
+    },
+    {
+      "Species": "S. astephanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Senecio astephanus is a species of flowering plant in the aster family known by the common name San Gabriel ragwort. It is endemic to California, where it is known only from the rocky slopes of the Transverse Ranges and adjacent Coast Ranges. It is a perennial herb growing up to a meter tall and producing discoid flower heads containing golden yellow florets.",
+    "References": "",
+    "External links": "Jepson Manual Treatment\nUSDA Plants Profile\nFlora of North America"
+  }
+}

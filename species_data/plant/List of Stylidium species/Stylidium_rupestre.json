@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Stylidium_rupestre",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Asterales"
+    },
+    {
+      "Family": "Stylidiaceae"
+    },
+    {
+      "Genus": "Stylidium"
+    },
+    {
+      "Subgenus": "Stylidium subg. Tolypangium"
+    },
+    {
+      "Section": "Stylidium sect. Saxifragoidea"
+    },
+    {
+      "Species": "S. rupestre"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Stylidium rupestre is a dicotyledonous plant that belongs to the genus Stylidium (family Stylidiaceae), a species sometimes named as the rock triggerplant. It is found in Southwest Australia. The species was first described by Otto Wilhelm Sonder.",
+    "See also": "List of Stylidium species",
+    "References": "\n\"Stylidium rupestre Sond. f. rupestre\". Australian Plant Name Index (APNI), IBIS database. Centre for Plant Biodiversity Research, Australian Government."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tropidolaemus_laticinctus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Tropidolaemus"
+    },
+    {
+      "Species": "T. laticinctus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tropidolaemus laticinctus is a species of venomous snake in the pit viper subfamily, Crotalinae. Its common names are broad-banded temple pitviper, or broad-banded pit viper. It is endemic to the Indonesian island of Sulawesi.",
+    "Description": "Unlike other temple viper species, this species lacks age-related and sexually dimorphic coloration.\n\n\n== References =="
+  }
+}

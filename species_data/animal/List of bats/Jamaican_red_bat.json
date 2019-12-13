@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Jamaican_red_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Lasiurus"
+    },
+    {
+      "Species": "L. degelidus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Jamaican red bat (Lasiurus degelidus) is a species of vesper bat. It is endemic to Jamaica.",
+    "Habitat": "This is one of the poorest known species of bats on Jamaica. No specimens have been recorded from within caves or near caves so this appears to be a tree-roosting bat. It is caught over water.\n\n\n== References =="
+  }
+}

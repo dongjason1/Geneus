@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mahonia_trifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Ranunculales"
+    },
+    {
+      "Family": "Berberidaceae"
+    },
+    {
+      "Genus": "Berberis"
+    },
+    {
+      "Species": "B. trifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Berberis trifolia is a shrub in the Berberidaceae described as a species in 1830. It is endemic to Mexico, known from the states of Hidalgo, Mexico, and Veracruz.",
+    "References": "\n\n== External links =="
+  }
+}

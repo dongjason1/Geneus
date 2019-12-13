@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tricholoma_tigrinum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Tricholomataceae"
+    },
+    {
+      "Genus": "Tricholoma"
+    },
+    {
+      "Species": "T. tigrinum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tricholoma tigrinum is a gilled mushroom. First described under the name Agaricus tigrinus by Jacob Christian Schäffer in 1774, the species was transferred to the genus Tricholoma in 1871 by Paul Kummer.\n  \nSchäffer's 1762 illustration of Agaricus tigrinus is now thought to represent Tricholoma pardinum (possibly due to an error) and some sources consider the name Tricholoma tigrinum to be a synonym of Tricholoma pardinum.  However the authoritative Species Fungorum database maintains Tricholoma tigrinum as a separate species though nowadays the name could scarcely be used in practice in this independent sense and a modern definition of it is not available.  See the Tricholoma pardinum article for more details of this story.",
+    "See also": "List of Tricholoma species",
+    "References": "",
+    "External links": "Tricholoma tigrinum  in Index Fungorum"
+  }
+}

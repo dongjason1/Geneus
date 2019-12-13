@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_caecus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Letheobia"
+    },
+    {
+      "Species": "L. caeca"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Gabon beaked snake (Letheobia caeca) is a species of blind snake in the family Typhlopidae. It is endemic to Sub-Saharan Africa. It is known from Gabon (its type locality), Cameroon, the Republic of the Congo, the Democratic Republic of the Congo, and Ghana. However, the identity of different populations is not fully clear.",
+    "References": "",
+    "Further reading": "Duméril, A.H.A. 1856. Note sur les reptiles du Gabon. Revue et Magasin de Zoologie Pure et Apliquée, Paris, Series 2, Volume 8, pp. 369–377, 417-424, 460-470, 553-562. (Onychocephalus cæcus, p. 462)\nBroadley, Donald G.; Wallach, Van (2007). \"A review of East and Central African species of Letheobia Cope, revived from the synonymy of Rhinotyphlops Fitzinger, with descriptions of five new species (Serpentes: Typhlopidae)\". Zootaxa (1515): 31–68. Abstract"
+  }
+}

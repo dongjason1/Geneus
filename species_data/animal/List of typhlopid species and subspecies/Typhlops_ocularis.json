@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_ocularis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Madatyphlops"
+    },
+    {
+      "Species": "M. ocularis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Parker's worm snake (Madatyphlops ocularis) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

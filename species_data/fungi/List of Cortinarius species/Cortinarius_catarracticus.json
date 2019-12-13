@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Cortinarius_catarracticus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Cortinariaceae"
+    },
+    {
+      "Genus": "Cortinarius"
+    },
+    {
+      "Species": "C. catarracticus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Cortinarius catarracticus is a species of potentially lethal fungus in the family Cortinariaceae native to South Australia.\n\n\n== References =="
+  }
+}

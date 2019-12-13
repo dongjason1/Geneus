@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Oenothera_linifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Onagraceae"
+    },
+    {
+      "Genus": "Oenothera"
+    },
+    {
+      "Species": "O. linifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Oenothera linifolia is a species of flowering plant in the evening primrose family known by the common name threadleaf evening primrose. It is native to the southeastern United States.",
+    "References": "",
+    "External links": "Missouri Plants"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peters's_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. ater"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peters's myotis or small black myotis (Myotis ater) is a species of vesper bat. It is found in Indonesia, Malaysia, Thailand, Vietnam, and the Philippines; its exact distribution is uncertain as it is difficult to distinguish from some other Myotis species.\n\n\n== References =="
+  }
+}

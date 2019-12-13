@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_masked_owl",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Strigiformes"
+    },
+    {
+      "Family": "Tytonidae"
+    },
+    {
+      "Genus": "Tyto"
+    },
+    {
+      "Species": "T. sororcula"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Moluccan masked owl (Tyto sororcula), also known as the lesser masked owl, is a species of owl in the barn owl family. It is endemic to the south Moluccas of Indonesia. Some taxonomists consider this species to be conspecific with the Australian masked owl.\n\n\n== References =="
+  }
+}

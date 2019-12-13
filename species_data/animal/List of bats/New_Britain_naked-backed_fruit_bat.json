@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/New_Britain_naked-backed_fruit_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Pteropodidae"
+    },
+    {
+      "Genus": "Dobsonia"
+    },
+    {
+      "Species": "D. praedatrix"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The New Britain naked-backed fruit bat (Dobsonia praedatrix) is a species of megabat in the family Pteropodidae. It is endemic to New Britain island in northern Papua New Guinea.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Typhlops_comorensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Madatyphlops"
+    },
+    {
+      "Species": "M. comorensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Comoro worm snake (Madatyphlops comorensis) is a species of snake in the Typhlopidae family.\n\n\n== References =="
+  }
+}

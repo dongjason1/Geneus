@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Orange-crowned_euphonia",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Euphoniinae"
+    },
+    {
+      "Genus": "Euphonia"
+    },
+    {
+      "Species": "E. saturata"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The orange-crowned euphonia (Euphonia saturata) is a species of bird in the Fringillidae family.",
+    "Distribution and habitat": "It is found in Colombia, Ecuador, and Peru.  Its natural habitats are subtropical or tropical dry forests, subtropical or tropical moist lowland forests, and heavily degraded former forest.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trinidadian_funnel-eared_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Natalidae"
+    },
+    {
+      "Genus": "Natalus"
+    },
+    {
+      "Species": "N. tumidirostris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Trinidadian funnel-eared bat (Natalus tumidirostris) is a species of bat in the family Natalidae. It is endemic to Colombia, Venezuela, Guyana, Suriname, French Guiana, Trinidad and Tobago and Netherlands Antilles.\n\n\n== References =="
+  }
+}

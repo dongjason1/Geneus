@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Boletus_barragensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Boletales"
+    },
+    {
+      "Family": "Boletaceae"
+    },
+    {
+      "Genus": "Boletus"
+    },
+    {
+      "Species": "B. barragensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Boletus barragensis is a species of bolete fungus in the family Boletaceae native to Australia. It was first reported as form of Boletus luridus in 1934 by John Burton Cleland, before being described by Cheryl Grgurinovic in 1997.",
+    "See also": "List of Boletus species",
+    "References": "",
+    "External links": "Boletus barragensis  in MycoBank."
+  }
+}

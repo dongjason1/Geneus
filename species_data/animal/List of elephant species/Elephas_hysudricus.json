@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Elephas_hysudricus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Proboscidea"
+    },
+    {
+      "Family": "Elephantidae"
+    },
+    {
+      "Genus": "Elephas"
+    },
+    {
+      "Species": "E. hysudricus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Elephas hysudricus is an extinct elephant species and was described from fossil remains found in the Siwalik hills. It lived during the Pliocene and Pleistocene epochs.\n\n\n== References =="
+  }
+}

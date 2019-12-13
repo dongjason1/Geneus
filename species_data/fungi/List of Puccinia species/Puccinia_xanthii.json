@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_xanthii",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "Puccinia xanthii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Puccinia xanthii is a plant pathogen infecting sunflowers. It also causes rust on Xanthium occidentale and can be used as a form of biological control where this plant is an invasive species.",
+    "See also": "List of Puccinia species\n\n\n== References =="
+  }
+}

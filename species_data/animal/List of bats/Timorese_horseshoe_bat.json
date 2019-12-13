@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Timorese_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. montanus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Timorese horseshoe bat (Rhinolophus montanus) is a species of bat native to Timor-Leste.",
+    "Taxonomy and etymology": "It was described as a subspecies of the large-eared horseshoe bat by Robert Goodwin in 1979.\nIts trinomen was Rhinolophus philippinensis montanus.\nIt was maintained as a subspecies until 2002, when Csorba argued that it was morphologically distinct enough to be considered a full species.\nSince this publication, it has consistently been considered its own species, Rhinolophus montanus.\nIts species name \"montanus\" is Latin in origin, meaning \"montane.\"\nGoodwin chose this species name because the holotype was found at a high elevation of 1,220 m (4,000 ft) above sea level.",
+    "Biology": "It is nocturnal, roosting in sheltered places during the day such as caves.\nUnlike some bat species which are highly colonial, it roosts in small groups of perhaps 6 or 7 individuals.\nWhen roosting, it prefers to hang from the ceilings of caves rather than in crevices.\nIndividuals are well-spaced during roosting rather than clustered.\nIt has been roosting with other species of bat, including Creagh's horseshoe bat, the western bent-winged bat, and the small bent-winged bat.",
+    "Range and habitat": "The holotype, paratype, and two additional specimens were all collected from Quoto Lou Caves in Timor-Leste, about 1,220 metres (4,000 ft) above sea level.\nThese caves are not natural, and were excavated by the Japanese during their occupation of East Timor.\nThe caves are located near Ermera.\nThere have been additional acoustic detections near Laleia, Nino Konis Santana National Park, and Betano.",
+    "Conservation": "It is currently assessed as endangered by the IUCN, indicating that it is at risk of going extinct.\nIt meets the criteria for this assessment because its area of occupancy is smaller than 500 km2 (190 sq mi), and it is threatened by habitat destruction and human disturbance of its roosts.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Viola_tripartita",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Violaceae"
+    },
+    {
+      "Genus": "Viola"
+    },
+    {
+      "Species": "V. tripartita"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Viola tripartita is a species of violet known by the common name threepart violet. It is native to Eastern North America, being primarily found in the Southern Appalachian Mountains. Its preferred habitat is rich, mesic forests over calcareous rocks. It is a small perennial herb that has yellow flowers in the spring. It is distinguished from other caulescent yellow violets native to the area by having leaves that are wider than long which have a cuneate base.\n\n\n== References =="
+  }
+}

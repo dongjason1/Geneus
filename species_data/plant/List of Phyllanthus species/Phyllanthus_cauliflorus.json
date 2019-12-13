@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Phyllanthus_cauliflorus",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malpighiales"
+    },
+    {
+      "Family": "Phyllanthaceae"
+    },
+    {
+      "Genus": "Phyllanthus"
+    },
+    {
+      "Species": "P. cauliflorus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Phyllanthus cauliflorus is a species of plant in the family Phyllanthaceae. It is endemic to Jamaica.\n\n\n== References =="
+  }
+}

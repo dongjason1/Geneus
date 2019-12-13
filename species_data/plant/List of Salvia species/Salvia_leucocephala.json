@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Salvia_leucocephala",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Lamiales"
+    },
+    {
+      "Family": "Lamiaceae"
+    },
+    {
+      "Genus": "Salvia"
+    },
+    {
+      "Species": "S. leucocephala"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Salvia leucocephala is a species of flowering plant in the family Lamiaceae that is native to Ecuador.\nIts natural habitat is subtropical or tropical dry shrubland.",
+    "Sources": "Montúfar, R. & Pitman, N. (2004). \"Salvia leucocephala\". The IUCN Red List of Threatened Species. IUCN. 2004: e.T45573A11005299. doi:10.2305/IUCN.UK.2004.RLTS.T45573A11005299.en. Retrieved 18 December 2017."
+  }
+}

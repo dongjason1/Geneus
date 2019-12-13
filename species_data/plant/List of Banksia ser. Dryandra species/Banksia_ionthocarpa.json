@@ -1,0 +1,41 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Banksia_ionthocarpa",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Banksia"
+    },
+    {
+      "Subgenus": "Banksia subg. Banksia"
+    },
+    {
+      "Series": "Banksia ser. Dryandra"
+    },
+    {
+      "Species": "B. ionthocarpa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Banksia ionthocarpa is a shrub endemic to Western Australia. It was known as Dryandra ionthocarpa until 2007.",
+    "Taxonomy": "Banksia ionthocarpa was first discovered in 1987 by professional seed supplier Peter Luscombe. The following year specimens were collected by both Margaret Pieroni and Alex George. For the next eight years, the species was referred to by the manuscript name Dryandra sp. Kamballup (M.Pieroni 20/9/1988). In 1996, Alex George formally published the species as Dryandra ionthocarpa, the specific epithet coming from the Greek ionthas (\"shaggy\") and carpos (\"fruit\"), in reference to the tuft of hair on each follicle. Indeed, George considered the fruit to be so distinctive that he placed it alone in a new series that he named Dryandra ser. Ionthocarpae.Since 1998, Austin Mast has been publishing results of ongoing cladistic analyses of DNA sequence data for the subtribe Banksiinae. His analyses have provided compelling evidence of the paraphyly of Banksia with respect to Dryandra; that is, it seems that Dryandra arose from within the ranks of Banksia. Early in 2007, Mast and Kevin Thiele initiated a rearrangement of Banksia by sinking Dryandra into it as B. ser. Dryandra; Dryandra ionthocarpa thus became Banksia ionthocarpa. This transfer necessitated the setting aside of George's infrageneric arrangement of Dryandra; thus D. ser. Ionthocarpae is no longer current. Mast and Thiele have foreshadowed publishing a full arrangement once DNA sampling of Dryandra is complete.Two subspecies are recognised, the autonym B. ionthocarpa subsp. ionthocarpa, and B. ionthocarpa subsp. chrysophoenix, first collected by Pieroni in 1999 and published by George in 2005.",
+    "References": "",
+    "External links": "\"Banksia ionthocarpa (A.S.George) A.R.Mast & K.R.Thiele\". FloraBase. Western Australian Government Department of Parks and Wildlife. \n\"Dryandra ser. Ionthocarpae A.S.George\". Flora of Australia Online. Department of the Environment and Heritage, Australian Government.\n\"Dryandra ionthocarpa A.S.George\". Flora of Australia Online. Department of the Environment and Heritage, Australian Government.\n\"Banksia ionthocarpa (A.S.George) A.R.Mast & K.R.Thiele\". Australian Plant Name Index (APNI), IBIS database. Centre for Plant Biodiversity Research, Australian Government."
+  }
+}

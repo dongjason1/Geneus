@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_bengalensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. bengalensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus bengalensis, common name the Bengal cone, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 60 mm and 148 mm.",
+    "Distribution": "This marine species occurs off the Bay of Bengal, the Andaman Sea, Burma and Thailand",
+    "References": "MacDonald & Co (1979). The MacDonald Encyclopedia of Shells. MacDonald & Co. London & Sydney.\nRöckel, D., Korn, W. & Kohn, A.J. (1995). A Manual of Living Conidae. Verlag Christa. Wiesbaden : Hemmen. 358 pp.\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\nCone Shells - Knights of the Sea\n\"Cylinder bengalensis\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

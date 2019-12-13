@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rodrigues_bulbul",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Pycnonotidae"
+    },
+    {
+      "Genus": "Hypsipetes"
+    },
+    {
+      "Species": "H. cowlesi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Rodrigues bulbul (Hypsipetes cowlesi) is an extinct bird which was endemic to the island of Rodrigues, the easternmost of the Mascarene Islands group of the western Indian Ocean. It is known only from subfossil remains collected in 1974.\n\n\n== References =="
+  }
+}

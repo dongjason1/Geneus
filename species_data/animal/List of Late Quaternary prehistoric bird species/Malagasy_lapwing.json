@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Malagasy_lapwing",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Charadriiformes"
+    },
+    {
+      "Family": "Charadriidae"
+    },
+    {
+      "Genus": "Vanellus"
+    },
+    {
+      "Species": "V. madagascariensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Malagasy lapwing (Vanellus madagascariensis) is an extinct wader in the lapwing family. It is known only from two subfossil humeri found in separate localities in south-western Madagascar which were described by Steven M. Goodman. Radiocarbon dating has indicated that the species became extinct in the 14th century during a period of climatic aridification.\n\n\n== References =="
+  }
+}

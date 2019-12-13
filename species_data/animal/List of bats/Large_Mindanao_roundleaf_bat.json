@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large_Mindanao_roundleaf_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Hipposideridae"
+    },
+    {
+      "Genus": "Hipposideros"
+    },
+    {
+      "Species": "H. coronatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large Mindanao roundleaf bat (Hipposideros coronatus) is a species of bat in the family Hipposideridae endemic to the Philippines.\n\n\n== References =="
+  }
+}

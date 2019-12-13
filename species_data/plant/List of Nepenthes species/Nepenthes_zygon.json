@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Nepenthes_zygon",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Caryophyllales"
+    },
+    {
+      "Family": "Nepenthaceae"
+    },
+    {
+      "Genus": "Nepenthes"
+    },
+    {
+      "Species": "N. zygon"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Nepenthes zygon is a tropical pitcher plant native to the Philippines. The type specimen originates from a plant cultivated at the Royal Botanic Gardens, Kew, grown from seed collected in 1997 by Robert Cantley on Mount Pasian, Mindanao.",
+    "References": "\nRowson, D. 2015. Caught in a trap. The Biologist 62(2): 12–14."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dominican_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. dominicensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Dominican myotis (Myotis dominicensis) is a species of vesper bat. It is found in Dominica and Guadeloupe.\n\n\n== References =="
+  }
+}

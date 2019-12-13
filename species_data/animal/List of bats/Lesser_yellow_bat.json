@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_yellow_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Scotophilus"
+    },
+    {
+      "Species": "S. borbonicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser yellow bat (Scotophilus borbonicus) is a vesper bat found only on Madagascar and Réunion. On Réunion, it was considered common early in the 19th century, but was last sighted late in the 19th century. Only a single specimen attributed to this species, collected in 1868, is known from Madagascar. It was listed as a critically endangered species in 1996 due to habitat loss, and may be extinct.\n\n\n== References =="
+  }
+}

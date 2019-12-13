@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Psilocybe_cyanofibrillosa",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Strophariaceae"
+    },
+    {
+      "Genus": "Psilocybe"
+    },
+    {
+      "Species": "P. cyanofibrillosa"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Psilocybe cyanofibrillosa, also known as rhododendron psilocybe and blue-haired psilocybe,  is a psilocybin mushroom of the family Strophariaceae having psilocybin and psilocin as main active compounds. First documented in 1980 in the Pacific Northwest, it is relatively uncommon and can be distinguished from other closely related species by its smaller spores and forking cheilocystidia.\nPsilocybe cyanescens also has forking cheilocystidia, but less often than Psilocybe cyanofibrillosa. Psilocybe cyanofibrillosa is also distinguished from Psilocybe cyanescens by an absence of pleurocystidia. \nThe name of this species refers to the fibrils on the Stipe (mycology) that turn bluish in age, or when handled.\nThis species is closely related to Psilocybe subfimetaria.",
+    "Description": "Psilocybe cyanofibrillosa has a farinaceous smell and taste.",
+    "Description-Pileus": "The Pileus is 1.4–3.5 cm in diameter and conic to convex to broadly convex then becoming flat in age. It is not usually umbonate. The pileus is deep chestnut brown and hygrophanous, fading to yellowish brown or grayish white when dry. The surface is viscid when moist from the separable gelatinous pellicle.",
+    "Description-Gills": "The gills are  adnate to adnexed to slightly subdecurrent in age. It is light grayish, becoming purplish brown with age while the edges remain whitish.",
+    "Description-Spores": "Psilocybe cyanofibrillosa spores are purplish brown in deposit, subellipsoid in shape, and (9)9.5–11(12) x (5.5)6–6.6(7) μm.",
+    "Description-Stipe": "The stipe is 3–8 cm long and 0.5 cm thick. It has an equal structure only enlarging near the base. The stipe is striate, pallid to yellow brown with fine fibrils that stain blue when handled. The stipe has a cortina that sometimes leaves a fragile annular zone. White rhizomorphs are at the base. The flesh is brownish and bruises bluish to indigo-black.",
+    "Description-Microscopic features": "Psilocybe cyanofibrillosa basidia each produce four spores, and rarely only two spores. The cheilocystidia are fusiform to lanceolate and 22–33 x 5.5–7 μm, with an elongated, forking neck and are 1–1.5 μm thick at its apex. Pleurocystidia are absent in Psilocybe cyanofibrillosa.",
+    "Habitat and formation": "Psilocybe cyanofibrillosa is found growing scattered to gregarious, from September to December from Northern California to British Columbia, Canada. It is found in soils enriched with deciduous wood debris, among bush lupines, in Alder and Willow wood chips and bark mulch, Fir sawdust, in coastal regions, in rhododendron gardens and nurseries, and in flood plains in river estuaries.",
+    "Chemistry": "Both psilocybin and psilocin (0.05 mg per gram dry weight and 1.4 mg per gram psilocin) were detected by Beug and Bigwood.",
+    "References": "Stamets PE, Beug MW, Bigwood JE, Guzmán G. (1980). A new species and new variety of Psilocybe from North America. Mycotaxon 11(2): 476-484."
+  }
+}

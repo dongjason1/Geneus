@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Large_ground_finch",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Thraupidae"
+    },
+    {
+      "Genus": "Geospiza"
+    },
+    {
+      "Species": "G. magnirostris"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The large ground finch (Geospiza magnirostris) is a species of bird. One of Darwin's finches, it is now placed in the family Thraupidae and was formerly in the Emberizidae. It is endemic to the Galapagos Islands, and is found in the arid zone of most of the archipelago, though it is absent from the southeastern islands (Floreana, Española, San Cristóbal and Santa Fé). It is the largest species of Darwin's finch both in total size and size of beak. It has a large, short beak for cracking nuts to get food.\n\n\n== References =="
+  }
+}

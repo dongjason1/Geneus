@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Puccinia_horiana",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Basidiomycota"
+    },
+    {
+      "Class": "Urediniomycetes"
+    },
+    {
+      "Order": "Uredinales"
+    },
+    {
+      "Family": "Pucciniaceae"
+    },
+    {
+      "Genus": "Puccinia"
+    },
+    {
+      "Species": "P. horiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Chrysanthemum white rust is a disease of plants caused by the fungus Puccinia horiana that infects species of the genus Chrysanthemum.",
+    "Origin and Spread": "Chrysanthemum white rust (CWR) was first identified in Japan, although it is now established throughout Asia, Europe, South America. It has been found in the United States, Australia, and New Zealand on several occasions, but early detection and eradication efforts have prevented the disease from becoming established in these countries.",
+    "Disease Cycle": "P. horiana is a microcyclic, autoecious rust, meaning that the fungus has two known spore stages: teliospores and basidiospores, as well as no known alternate host.  Similar to other microcyclic rusts, two-celled teliospores produce unicellular basidiospores which are then dispersed via air currents. Under a laboratory setting, it has been shown to both spores need high humidity (50-90% RH) and a thin layer of water to germinate. This rust is susceptible to desiccation and has been shown to lose viability in drier climates. Due to this trait, chrysanthemum white rust is more likely to be spread via greenhouse contamination than by air, such as by human contact, improper sanitation techniques, or by keeping a constant high humidity to keep the spores viable.",
+    "Symptoms": "Plants infected by chrysanthemum white rust exhibit spots on the upper surfaces of leaves. These spots are initially pale-green to yellow in color and up to 5mm in diameter, but may turn brown as the tissue becomes necrotic. On the underside of the leaf, the spots develop into pink or white pustules that become prominent as the teliospores develop.",
+    "Economic Importance": "Due to the popularity of chrysanthemums as an ornamental flower, there has been a large effort in preventing spread of CWR. In the United States CWR is a quarantine significant pest, according to the US department of agriculture. Importation of certain Chrysanthemum species are prohibited from several countries due to the potential of P. horiana to be transported with these prohibited hosts. According to APHIS, best management practices include the use of proper cultural techniques, disease scouting, sanitation, fungicide applications, and worker training. While difficult to measure current total economic loss caused by the disease, at peak infection seasons, it has been shown that Turkey and Poland experience anywhere from 80% to 100% crop loss, which is significant as they are the top producers of Chrysanthemums.",
+    "Pathogenesis": "Similar to most rusts, CWR has 4 stages of infection:\n(i)              Basidospore lands on susceptible plant. Development of germ tube and infection peg begins.\n(ii)             Formation of small vesicles inside the host epidermis.\n(iii)            Formation of elongated fungal vesicles inside the host epidermis\n(iv)            Formation of septate fungal vesicles with branching hyphae. Here the fungus will move to infect the rest of the plant. \nInfection of CWR is systemic. By creating such a systemic infection, P. horiana has the potential to overwinter in plants as a form of protection . Like previously stated, sanitation is the best preventive for CRW. However, Propiconazole has been shown to be an effective fungistatic. Propiconazole's mode of action blocks the biosynthesis of ergosterols, which is critical to the formation of cell walls of fungi. This stops the growth of the fungus, effectively preventing further infection and/or invasion of host tissues",
+    "See also": "List of Puccinia species\n\n\n== References =="
+  }
+}

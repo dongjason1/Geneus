@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_flavigenum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. flavigenum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium flavigenum is a species of the genus of Penicillium which produces penitrem A, penicillin and roquefortine C.",
+    "Further reading": "Juan-Francisco Martín; Carlos García-Estrada; Susanne Zeilinger (2014). Biosynthesis and Molecular Genetics of Fungal Secondary Metabolites. Springer. ISBN 1493911910.\nValdez, J. G.; Makuch, M. A.; Ordovini, A. F.; Frisvad, J. C.; Overy, D. P.; Masuelli, R. W.; Piccolo, R. J. (2009). \"Identification, pathogenicity and distribution of Penicilliumspp. Isolated from garlic in two regions in Argentina\". Plant Pathology. 58 (2): 352. doi:10.1111/j.1365-3059.2008.01960.x.\nAilsa D. Hocking; John I. Pitt; Robert A. Samson; Ulf Thrane (2006). Advances in Food Mycology. Springer Science & Business Media. ISBN 0387283919.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}

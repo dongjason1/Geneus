@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Marasmius_limosus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Marasmiaceae"
+    },
+    {
+      "Genus": "Marasmius"
+    },
+    {
+      "Species": "M. limosus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Marasmius limosus is a mushroom in the family Marasmiaceae.",
+    "See also": "List of Marasmius species\n\n\n== References =="
+  }
+}

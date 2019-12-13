@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_spear-nosed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Phyllostomidae"
+    },
+    {
+      "Genus": "Phyllostomus"
+    },
+    {
+      "Species": "P. elongatus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser spear-nosed bat (Phyllostomus elongatus) is a bat species from South America. It is found in Bolivia, Brazil, Colombia, Ecuador, Guyana, Peru, Suriname and Venezuela.\n\n\n== References =="
+  }
+}

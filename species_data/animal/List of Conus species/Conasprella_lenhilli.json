@@ -1,0 +1,43 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conasprella_lenhilli",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conasprella"
+    },
+    {
+      "Species": "C. lenhilli"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conasprella lenhilli, common name the brown-flamed cone, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conasprella, these cone snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Distribution": "This species occurs in the Caribbean Sea off Turks & Caicos.",
+    "Description": "The maximum recorded shell length is 41.3 mm.",
+    "Habitat": "Minimum recorded depth is 440 m. Maximum recorded depth is 440 m.",
+    "References": "Puillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\n\"Dalliconus lenhilli\". Gastropods.com. Retrieved 15 January 2019."
+  }
+}

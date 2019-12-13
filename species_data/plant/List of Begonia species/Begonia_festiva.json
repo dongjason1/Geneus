@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Begonia_festiva",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Cucurbitales"
+    },
+    {
+      "Family": "Begoniaceae"
+    },
+    {
+      "Genus": "Begonia"
+    },
+    {
+      "Species": "B. festiva"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Begonia festiva is a species of flowering plant in the family Begoniaceae.\n\n\n== References =="
+  }
+}

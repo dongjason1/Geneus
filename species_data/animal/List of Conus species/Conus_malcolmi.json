@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_malcolmi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. malcolmi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus malcolmi is a species of sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.These snails are predatory and venomous. They are capable of \"stinging\" humans.",
+    "Description": "The size of the shell varies between 11 mm and 30 mm.",
+    "Distribution": "This marine species occurs in the Red Sea.",
+    "References": "Révision of the Kioconus caillaudi complex. Description of two new endemic Kioconus (Gastropoda, Conidae): K. hoaraui n.sp, from La Réunion and K. malcolmi n.sp, from the Red Sea by E. Monnier & L. Limpalaër; Xenophora Taxonomy N° 7 - Supplément au Xenophora n° 150 - Avril 2015",
+    "External links": "To World Register of Marine Species"
+  }
+}

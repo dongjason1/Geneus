@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Madagascar_partridge",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Galliformes"
+    },
+    {
+      "Family": "Phasianidae"
+    },
+    {
+      "Genus": "MargaroperdixL. Reichenbach, 1853"
+    },
+    {
+      "Species": "M. madagarensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Madagascan partridge (Margaroperdix madagarensis) is a species of bird in the family Phasianidae. It is found only in Madagascar.\nIts natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest.\n\n\n== References =="
+  }
+}

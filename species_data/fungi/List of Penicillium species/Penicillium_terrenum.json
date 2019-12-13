@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_terrenum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. terrenum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium terrenum is an anamorph species of fungus in the genus Penicillium.",
+    "Further reading": "Scott, B. (1968). \"Studies on the genus Eupenicillium Ludwig IV. New species from soil\". Mycopathologia et Mycologia Applicata. 36: 1. doi:10.1007/BF02057162.\n\n\n== References =="
+  }
+}

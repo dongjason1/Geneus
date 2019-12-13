@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_alainallaryi",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. alainallaryi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus alainallaryi is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell varies between 30 mm and 42 mm.",
+    "Distribution": "This species occurs in the caribbean Sea off Colombia.",
+    "References": "Bozzetti, L. and Monnier, E. 2009. Conus alainallaryi (Gastropoda: Prosobranchia: Conidae) a new species from Colombia. Malacologia Mostra Mondia 65:5-6\nPuillandre N., Duda T.F., Meyer C., Olivera B.M. & Bouchet P. (2015). One, four or 100 genera? A new classification of the cone snails. Journal of Molluscan Studies. 81: 1-23",
+    "External links": "The Conus Biodiversity website\n\"Purpuriconus alainallaryi\". Gastropods.com. Retrieved 10 January 2019.\nHolotype in MNHN, Paris"
+  }
+}

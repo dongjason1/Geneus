@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Conus_madecassinus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Mollusca"
+    },
+    {
+      "Class": "Gastropoda"
+    },
+    {
+      "Clade": "Caenogastropoda"
+    },
+    {
+      "Clade": "Hypsogastropoda"
+    },
+    {
+      "Clade": "Neogastropoda"
+    },
+    {
+      "Superfamily": "Conoidea"
+    },
+    {
+      "Family": "Conidae"
+    },
+    {
+      "Genus": "Conus"
+    },
+    {
+      "Species": "C. madecassinus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Conus madecassinus is a species of predatory sea snail, a marine gastropod mollusc in the family Conidae, the cone snails, cone shells or cones.Like all species within the genus Conus, these snails are predatory and venomous. They are capable of \"stinging\" humans, therefore live ones should be handled carefully or not at all.",
+    "Description": "The size of the shell attains 32 mm.",
+    "Distribution": "This marine species occurs off Southern and Southwestern Madagascar.",
+    "References": "Bozzetti L. (2012) Two new species of Conidae (Gastropoda: Prosobranchia) from Southern and South-Western Madagascar. Malacologia Mostra Mondiale 74: 4-6",
+    "External links": "\"Graphiconus madecassina\". Gastropods.com. Retrieved 16 January 2019."
+  }
+}

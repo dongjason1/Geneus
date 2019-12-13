@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trichoderma_harzianum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Order": "Hypocreales"
+    },
+    {
+      "Family": "Hypocreaceae"
+    },
+    {
+      "Genus": "Trichoderma"
+    },
+    {
+      "Species": "T. harzianum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trichoderma harzianum is a fungus that is also used as a fungicide. It is used for foliar application, seed treatment and soil treatment for suppression of various disease causing fungal pathogens. Commercial biotechnological products such as 3Tac have been useful for treatment of Botrytis, Fusarium and Penicillium sp.. It is also used for manufacturing enzymes.",
+    "Taxonomy and genetics": "Most Trichoderma strains have no sexual stage but instead produce only asexual spores. However, for a few strains the sexual stage is known, but not among strains that have usually been considered for biocontrol purposes. The sexual stage, when found, is within the Ascomycetes in the genus Hypocrea. Traditional taxonomy was based upon differences in morphology, primarily of the asexual sporulation apparatus, but more molecular approaches are now being used. Consequently, the taxa recently have gone from nine to at least thirty-three species.",
+    "Genetics": "Most strains are highly adapted to an asexual life cycle. In the absence of meiosis, chromosome plasticity is the norm, and different strains have different numbers and sizes of chromosomes. Most cells have numerous nuclei, with some vegetative cells possessing more than 100. Various asexual genetic factors, such as parasexual recombination, mutation and other processes contribute to variation between nuclei in a single organism (thallus). Thus, the fungi are highly adaptable and evolve rapidly. There is great diversity in the genotype and phenotype of wild strains.\nWhile wild strains are highly adaptable and may be heterokaryotic (contain nuclei of dissimilar genotype within a single organism, and hence highly variable), strains used for biocontrol in commercial agriculture are, or should be, homokaryotic (nuclei are all genetically similar or identical). This, coupled with tight control of variation through genetic drift, allows these commercial strains to be genetically distinct and nonvariable. This is an extremely important quality control item for any company wishing to commercialize these organisms.",
+    "Mycoparasitism": "Trichoderma spp. are fungi that are present in nearly all soils. In soil, they frequently are the most prevalent culturable fungi.  They also exist in many other diverse habitats.\nTrichoderma readily colonizes plant roots and some strains are rhizosphere competent i.e. able to grow on roots as they develop.  Trichoderma spp. also attack, parasitize and otherwise gain nutrition from other fungi.  They have evolved numerous mechanisms for both attack of other fungi and for enhancing plant and root growth.  Different strains of Trichoderma control almost every pathogenic fungus for which control has been sought. However, most Trichoderma strains are more efficient for control of some pathogens than others, and may be largely ineffective against some fungi.\nTrichoderma spp. continue to be a major source of contamination and crop loss for mushroom farmers.",
+    "References": "",
+    "Bibliography": "Yedidia, I., Benhamou, N., and Chet, I. 1999. Induction of defense responses in cucumber plants (Cucumis sativus L.) by the biocontrol agent Trichoderma harzianum. Appl. Environ. Microbiol. 65: 1061–1070.\nBissett, John (November 1991). \"A revision of the genus Trichoderma. III. Section Pachybasium\". Canadian Journal of Botany. 69 (11): 2373–2417. doi:10.1139/b91-298. Retrieved 7 December 2014.\nW. Gams and W. Meyer. What Exactly Is Trichoderma harzianum? Mycologia. Vol. 90, No. 5 (Sep. - Oct., 1998), pp. 904-915",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Acacia_linifolia",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Fabales"
+    },
+    {
+      "Family": "Fabaceae"
+    },
+    {
+      "Clade": "Mimosoideae"
+    },
+    {
+      "Genus": "Acacia"
+    },
+    {
+      "Species": "A. linifolia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Acacia linifolia, known colloquially as white wattle, or flax wattle, is a species of Acacia native to eastern Australia.\n\n\n== References =="
+  }
+}

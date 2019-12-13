@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tropidophis_caymanensis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Tropidophiidae"
+    },
+    {
+      "Genus": "Tropidophis"
+    },
+    {
+      "Species": "T. caymanensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tropidophis caymanensis, or the Cayman Islands dwarf boa, is a species of snake in the family Tropidophiidae. It is endemic to the Cayman Islands.\n\n\n== References =="
+  }
+}

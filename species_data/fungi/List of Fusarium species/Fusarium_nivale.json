@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Fusarium_nivale",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Phylum": "Ascomycota"
+    },
+    {
+      "Class": "Sordariomycetes"
+    },
+    {
+      "Subclass": "Xylariomycetidae"
+    },
+    {
+      "Order": "Xylariales"
+    },
+    {
+      "Family": "Incertae sedis"
+    },
+    {
+      "Genus": "Monographella"
+    },
+    {
+      "Species": "M. nivalis var. nivalis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Monographella nivalis var. nivalis is a plant pathogen.",
+    "External links": "Index Fungorum\nUSDA ARS Fungal Database\n\n\n== References =="
+  }
+}

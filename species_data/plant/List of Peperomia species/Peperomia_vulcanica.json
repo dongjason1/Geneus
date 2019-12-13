@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peperomia_vulcanica",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Peperomia"
+    },
+    {
+      "Species": "P. vulcanica"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peperomia vulcanica is a species of herbaceous flowering plants of the family Piperaceae.",
+    "Description": "It is a creeping plant, rooting at nodes. It has erect lateral branches that are 20–30 cm tall.",
+    "Distribution": "The species is found in rocky areas and rarely as an epiphyte at 250 to 2400 m elevation in São Tomé and Príncipe, Annobón and Liberia.\n\n\n== References =="
+  }
+}

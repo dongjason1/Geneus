@@ -1,0 +1,31 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_anatolicum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. anatolicum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium anatolicum is a fungus species of the genus of Penicillium which was isolated in Turkey, Florida, in the United States and in South Africa.",
+    "See also": "List of Penicillium species",
+    "Further reading": "Houbraken, J.; Frisvad, J. C.; Samson, R. A. (2011). \"Taxonomy of Penicillium section Citrina\". Studies in Mycology. 70: 53–138. doi:10.3114/sim.2011.70.02. PMC 3233908. PMID 22308046.\n\n\n== References =="
+  }
+}

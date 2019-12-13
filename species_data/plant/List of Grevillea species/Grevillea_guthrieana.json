@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Grevillea_guthrieana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Order": "Proteales"
+    },
+    {
+      "Family": "Proteaceae"
+    },
+    {
+      "Genus": "Grevillea"
+    },
+    {
+      "Species": "G. guthrieana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Grevillea guthrieana is a rare shrub growing in areas of high rainfall in north eastern New South Wales, Australia.",
+    "References": "\"New South Wales Flora Online: Grevillea guthrieana\". Royal Botanic Gardens & Domain Trust, Sydney, Australia."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mascarene_petrel",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Procellariiformes"
+    },
+    {
+      "Family": "Procellariidae"
+    },
+    {
+      "Genus": "Pseudobulweria"
+    },
+    {
+      "Species": "P. aterrima"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Mascarene petrel (Pseudobulweria aterrima) is a medium-sized, dark gadfly petrel.\nAlso sometimes known as the Mascarene black petrel, this species was known from four specimens found in the nineteenth century on the island of Réunion. Two birds were found dead in the 1970s, and there have been rare observations of birds in the waters south of Réunion since 1964. It is also known from subfossil remains from the island of Rodrigues. It is known to breed in very small numbers in the Grand Bassin – Le Dimitile Important Bird Area in the mountains of Réunion. The species is classified as critically endangered as it is inferred from the number of records that there is an extremely small population threatened by introduced species, such as feral cats and house rats, and light pollution.",
+    "References": "\nBirdLife International Species Factsheet"
+  }
+}

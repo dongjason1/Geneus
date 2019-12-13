@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Shorea_maxwelliana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Malvales"
+    },
+    {
+      "Family": "Dipterocarpaceae"
+    },
+    {
+      "Genus": "Shorea"
+    },
+    {
+      "Species": "S. maxwelliana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Shorea maxwelliana is a species of plant in the Dipterocarpaceae family. It is a tree found in Sumatra and Peninsular Malaysia. It is threatened by habitat loss.",
+    "Sources": "Ashton, P. 1998.  Shorea maxwelliana.   2006 IUCN Red List of Threatened Species.   Downloaded on 23 August 2007."
+  }
+}

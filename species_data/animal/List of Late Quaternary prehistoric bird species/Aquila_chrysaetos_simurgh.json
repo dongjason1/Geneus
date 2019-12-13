@@ -1,0 +1,33 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Aquila_chrysaetos_simurgh",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Accipitriformes"
+    },
+    {
+      "Family": "Accipitridae"
+    },
+    {
+      "Genus": "Aquila"
+    },
+    {
+      "Species": "A. chrysaetos"
+    },
+    {
+      "Subspecies": "A. c. simurgh"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Aquila chrysaetos simurgh is an extinct subspecies of the widespread golden eagle. Fossils are found in Crete; it was sometimes evaluated as a full species.",
+    "Ecology": "It lived during the Pleistocene in Crete with Mammuthus creticus, the smallest mammoth known."
+  }
+}

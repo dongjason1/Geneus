@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Chinese_grosbeak",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Eophona"
+    },
+    {
+      "Species": "E. migratoria"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The Chinese grosbeak or yellow-billed grosbeak (Eophona migratoria) is a species of finch in the family Fringillidae.\nIt breeds in temperate forests in China, Manchuria and Korea; it winters in southern parts of China and Japan, Taiwan and northern Southeast Asia.",
+    "References": "",
+    "External links": "Images at ADW"
+  }
+}

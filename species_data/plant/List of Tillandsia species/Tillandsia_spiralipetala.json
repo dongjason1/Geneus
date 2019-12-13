@@ -1,0 +1,39 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_spiralipetala",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Monocots"
+    },
+    {
+      "Clade": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Subgenus": "Tillandsia subg. Diaphoranthema"
+    },
+    {
+      "Species": "T. spiralipetala"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia spiralipetala is a plant species in the genus Tillandsia. This species is native to Bolivia and Ecuador.",
+    "References": "\nChecklist of Bolivian Bromeliaceae Retrieved 21 October 2009\nCatalogue of Vascular Plants of Ecuador Retrieved 12 October 2009"
+  }
+}

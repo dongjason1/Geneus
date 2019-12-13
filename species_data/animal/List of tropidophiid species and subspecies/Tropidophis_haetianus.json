@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tropidophis_haetianus",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Tropidophiidae"
+    },
+    {
+      "Genus": "Tropidophis"
+    },
+    {
+      "Species": "T. haetianus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tropidophis haetianus, or the Haitian dwarf boa, is a species of snake in the family Tropidophiidae. It is endemic to the Caribbean Islands.\n\n\n== References =="
+  }
+}

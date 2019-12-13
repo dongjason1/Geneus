@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Lesser_long-fingered_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. fraterculus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The lesser long-fingered bat (Miniopterus fraterculus) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Democratic Republic of the Congo, Kenya, Malawi, Mozambique, Rwanda, South Africa, Swaziland, Uganda, Zambia, and Zimbabwe.\nIts natural habitats are temperate forests, temperate shrubland, caves, and subterranean habitats (other than caves).\n\n\n== References =="
+  }
+}

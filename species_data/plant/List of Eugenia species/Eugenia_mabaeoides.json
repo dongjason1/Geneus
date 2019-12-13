@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Eugenia_mabaeoides",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Rosids"
+    },
+    {
+      "Order": "Myrtales"
+    },
+    {
+      "Family": "Myrtaceae"
+    },
+    {
+      "Genus": "Eugenia"
+    },
+    {
+      "Species": "E. mabaeoides"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Eugenia mabaeoides is a species of plant in the Myrtaceae. It is found only in Sri Lanka.",
+    "References": "\nhttp://oldredlist.iucnredlist.org/details/30893/0\nhttp://www.theplantlist.org/tpl1.1/record/kew-75804\nhttps://www.gbif.org/species/108930784"
+  }
+}

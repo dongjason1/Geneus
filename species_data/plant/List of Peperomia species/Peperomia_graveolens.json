@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Peperomia_graveolens",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Peperomia"
+    },
+    {
+      "Species": "P. graveolens"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Peperomia graveolens is a species of plant in the family Piperaceae. It is endemic to Ecuador.\n\n\n== References =="
+  }
+}

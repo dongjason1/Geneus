@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Trametes_cubensis",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Polyporales"
+    },
+    {
+      "Family": "Polyporaceae"
+    },
+    {
+      "Genus": "Trametes"
+    },
+    {
+      "Species": "T. cubensis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Trametes cubensis is a poroid bracket fungus in the family Polyporaceae. It was first described in 1837 as Polyporus cubensis by Camille Montagne. Pier Andrea Saccardo transferred it to the genus Trametes in 1891.",
+    "See also": "List of Trametes species\n\n\n== References =="
+  }
+}

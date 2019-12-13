@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pinus_pringlei",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Division": "Pinophyta"
+    },
+    {
+      "Class": "Pinopsida"
+    },
+    {
+      "Order": "Pinales"
+    },
+    {
+      "Family": "Pinaceae"
+    },
+    {
+      "Genus": "Pinus"
+    },
+    {
+      "Subgenus": "P. subg. Pinus"
+    },
+    {
+      "Section": "P. sect. Trifoliae"
+    },
+    {
+      "Subsection": "P. subsect. Australes"
+    },
+    {
+      "Species": "P. pringlei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Pinus pringlei, commonly known as Pringle's pine, is a species of conifer in the family Pinaceae.\nIt is found only in Mexico. The specific epithet, pringlei, honours Cyrus Guernsey Pringle (1838–1911), an American botanist, explorer and plant breeder.",
+    "References": "\nConifer Specialist Group 1998.  Pinus pringlei.   2006 IUCN Red List of Threatened Species.   Downloaded on 10 July 2007."
+  }
+}

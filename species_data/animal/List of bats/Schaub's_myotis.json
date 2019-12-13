@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Schaub's_myotis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Vespertilionidae"
+    },
+    {
+      "Genus": "Myotis"
+    },
+    {
+      "Species": "M. schaubi"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Schaub's myotis (Myotis schaubi) is a species of vesper bat. It is found in Armenia, Azerbaijan and Iran and known from fossils from Hungary. It is related to Myotis nattereri.",
+    "References": "\nSimmons, N.B. 2005. Order Chiroptera. Pp. 312–529 in Wilson, D.E. and Reeder, D.M. (eds.). Mammal Species of the World: A Taxonomic and Geographic Reference. 3rd ed. Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp. ISBN 978-0-8018-8221-0"
+  }
+}

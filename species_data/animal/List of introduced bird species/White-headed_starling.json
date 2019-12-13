@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/White-headed_starling",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Sturnidae"
+    },
+    {
+      "Genus": "Sturnia"
+    },
+    {
+      "Species": "S. erythropygia"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The white-headed starling (Sturnia erythropygia), also known as the Andaman white-headed starling, is a species of starling in the family Sturnidae. It is found in wooded habitats of the Andaman and Nicobar Islands.",
+    "References": "BirdLife International 2004.  Sturnus erythropygius. 2006 IUCN Red List of Threatened Species. Downloaded on 24 July 2007."
+  }
+}

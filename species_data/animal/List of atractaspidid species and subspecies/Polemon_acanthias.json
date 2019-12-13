@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Polemon_acanthias",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Lamprophiidae"
+    },
+    {
+      "Genus": "Polemon"
+    },
+    {
+      "Species": "P. acanthias"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Polemon acanthias, or Reinhardt's snake-eater, is a species of venomous rear-fanged snake in the family Atractaspididae. It is endemic to Africa.",
+    "Geographic range": "It is found in Ghana, Guinea, Ivory Coast, Liberia, Sierra Leone, and Togo.",
+    "Description": "Dorsally, Reinhardt's snake-eater is whitish or pale reddish, with five black stripes. The median stripe is the widest, being one plus two half dorsal scale rows wide. The outermost stripes are on the second and third dorsal scale rows on each side of the body. The top of the head is black, with a whitish occipital bar, which is edged posteriorly with black. The end of the snout, the upper lip, and the tip of the tail are white. Ventrally it is white.\nAdults may attain a total length of 55 cm (21 5⁄8 in), with a tail 3 cm (1 1⁄8 in) long.\nVentrals 190-216; anal plate entire; subcaudals divided.\nDiameter of the eye less than its distance from the mouth. Rostral wider than high, barely visible from above. Internasals shorter than the prefrontals. Frontal 1½ times as broad as the supraocular, 1½ to 1⅔ times as long as broad, as long as its distance from the end of the snout, shorter than the parietals. Nasal vertically divided. One preocular, in contact with the posterior nasal. One or two postoculars. Temporals 1+1. Seven upper labials, third and fourth entering the eye. First lower labial forming a suture with its fellow behind the mental. Four lower labials in contact with the anterior chin shield. Two pairs of chin shields, the anterior pair longer than the posterior pair.",
+    "References": "\nReinhardt, J.T. 1860. Herpetologiske Middelelser. II. Beskrivelser af nogle nye til Calamariernes Familie henhörende Slänger. Vidensk. Meddel. Naturhist. Foren. Kjöbenhavn 2:229-250."
+  }
+}

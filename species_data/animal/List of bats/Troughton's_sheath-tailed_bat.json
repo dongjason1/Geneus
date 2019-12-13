@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Troughton's_sheath-tailed_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Emballonuridae"
+    },
+    {
+      "Genus": "Taphozous"
+    },
+    {
+      "Species": "T. troughtoni"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Troughton's sheath-tailed bat (Taphozous troughtoni) is a species of sheathtail bat in the family Emballonuridae, found only in Australia.\n\n\n== References =="
+  }
+}

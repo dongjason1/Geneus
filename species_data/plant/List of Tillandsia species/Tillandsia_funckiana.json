@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Tillandsia_funckiana",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "(unranked)": "Angiosperms"
+    },
+    {
+      "(unranked)": "Monocots"
+    },
+    {
+      "(unranked)": "Commelinids"
+    },
+    {
+      "Order": "Poales"
+    },
+    {
+      "Family": "Bromeliaceae"
+    },
+    {
+      "Subfamily": "Tillandsioideae"
+    },
+    {
+      "Genus": "Tillandsia"
+    },
+    {
+      "Species": "T. funckiana"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Tillandsia funckiana is a species in the genus Tillandsia. This species is native to Venezuela.",
+    "References": "Checklist of Venezuelan Bromeliaceae with Notes on Species Distribution by State and Levels of Endemism retrieved 3 November 2009"
+  }
+}

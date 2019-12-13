@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Woolly_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. luctus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The woolly horseshoe bat (Rhinolophus luctus) is a species of bat in the family Rhinolophidae.\nIt is found in Bangladesh, Brunei, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Nepal, Sri Lanka, Thailand and Vietnam.\n\n\n== References =="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycena_zephirus",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Basidiomycota"
+    },
+    {
+      "Class": "Agaricomycetes"
+    },
+    {
+      "Order": "Agaricales"
+    },
+    {
+      "Family": "Mycenaceae"
+    },
+    {
+      "Genus": "Mycena"
+    },
+    {
+      "Species": "M. zephirus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Mycena zephirus is a species of agaric fungus in the family Mycenaceae. It is bioluminescent.",
+    "See also": "List of bioluminescent fungi",
+    "References": "",
+    "External links": "Mycena zephirus  in Index Fungorum"
+  }
+}

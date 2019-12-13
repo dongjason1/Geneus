@@ -1,0 +1,37 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rhinotyphlops_boylei",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Typhlopidae"
+    },
+    {
+      "Genus": "Rhinotyphlops"
+    },
+    {
+      "Species": "R. boylei"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Rhinotyphlops boylei, commonly known as Boyle's beaked blind snake, is a species of snake in the family Typhlopidae. The species is endemic to Southern Africa.",
+    "Geographic range": "R. boylei is found from Damaraland in Namibia to western Botswana.",
+    "Description": "Dorsally, R. boylei is olive-brown, the scales light-edged. Ventrally, it is pale yellow.\nAdults may attain a snout-vent length (SVL) of 22 cm (8 1⁄2 in).\nThe scales are arranged in 26-28 rows around the body. There are more than 300 dorsal scales in the vertebral row.",
+    "Habitat": "R. boylei prefers sandveld.",
+    "References": "",
+    "Further reading": "FitzSimons V (1932). \"Preliminary descriptions of new forms of South African Reptilia and Amphibia, from the Vernay-Lang Kalahari Expedition, 1930\". Annals of the Transvaal Museum 15 (1): 35-40. (Typhlops boylei, new species)."
+  }
+}

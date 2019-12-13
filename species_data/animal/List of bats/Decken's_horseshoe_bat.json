@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Decken's_horseshoe_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Rhinolophidae"
+    },
+    {
+      "Genus": "Rhinolophus"
+    },
+    {
+      "Species": "R. deckenii"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Decken's horseshoe bat (Rhinolophus deckenii) is a species of bat in the family Rhinolophidae. It is found in Kenya and Tanzania. Its natural habitats are subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, moist savanna, caves, and subterranean habitats (other than caves). It is threatened by habitat loss.\n\n\n== References =="
+  }
+}

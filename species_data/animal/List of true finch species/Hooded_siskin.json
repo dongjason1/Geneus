@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hooded_siskin",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Aves"
+    },
+    {
+      "Order": "Passeriformes"
+    },
+    {
+      "Family": "Fringillidae"
+    },
+    {
+      "Subfamily": "Carduelinae"
+    },
+    {
+      "Genus": "Spinus"
+    },
+    {
+      "Species": "S. magellanicus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The hooded siskin (Spinus magellanicus) is a small passerine bird in the finch family (Fringillidae), native to South America. It belongs to the putative clade of Neotropical siskins in the genus Spinus sensu lato.\nThere are 11 subspecies including the Santa Cruz siskin S. m. santaecrucis of central and eastern Bolivia. This is sometimes considered to be a separate species.",
+    "Description": "Hooded siskins are 10 to 14 cm in length. The male is largely green above and yellow below with a black head. It has a narrow yellow collar and a yellow rump. The tail is black with yellow sides to the base and the wings are black with a broad yellow band. Females are duller with a green-brown head, yellow-green breast and sides and a whitish belly.\nThe twittering song may be uttered from a perch or in flight. It is varied and fast, and may contain imitations of other birds.",
+    "Distribution and ecology": "It inhabits woodland, savannas, scrubland, farmland, parks and gardens. It occurs from sea-level up to 5000 m. In eastern South America it is found from central Argentina north to central Brazil. In the Andean region it occurs from north-west Argentina and northern Chile north to central Colombia. There is an isolated population in south-east Venezuela, Guyana and the Brazilian state of Roraima.\nIt is commonly found in flocks, feeding in trees or bushes or on the ground. The diet consists mainly of seeds together with buds, leaves and some insects. Geophagy has been observed in this species.",
+    "Phylogeny": "It has been obtained by Antonio Arnaiz-Villena et al.\n[1][2]",
+    "References": "\nArnaiz-Villena, Antonio; Alvarez-Tejado M., Ruiz-del-Valle V., García-de-la-Torre C., Varela P, Recio M. J., Ferre S., Martinez-Laso J. (1998). \"Phylogeny and rapid Northern and Southern Hemisphere speciation of goldfinches during the Miocene and Pliocene Epochs\"(PDF). Cell. Mol. Life Sci. 54(9): 1031-41.\nZamora J, Moscoso J, Ruiz-del-Valle V, Ernesto L, Serrano-Vela JI, Ira-Cachafeiro J, Arnaiz-Villena A (2006). \"Conjoint mitochondrial phylogenetic trees for canaries Serinus spp. and goldfinches Carduelis spp. show several specific polytomies\"(PDF). Ardeola 53(1): 1-17.Clement, Peter; Harris, Alan & Davis, John (1993): Finches and Sparrows: an identification guide. Christopher Helm, London. ISBN 0-7136-8017-2\nDelgado-V., Carlos A. (2006): Observación de geofagia por el Jiguero Aliblanco Carduelis psaltria (Fringillidae). [\"Report of geophagy in the Lesser Goldfinch C. psaltria (Fringillidae)\"]. Boletín de la Sociedad Antioqueña de Ornitología 16(2): 31-34. [Spanish with English abstract] PDF fulltext\nJaramillo, Alvaro; Burke, Peter & Beadle, David (2003): Field Guide to the Birds of Chile, Christopher Helm, London. ISBN 0-7136-4688-8"
+  }
+}

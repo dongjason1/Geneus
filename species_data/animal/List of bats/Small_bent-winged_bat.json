@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Small_bent-winged_bat",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Chiroptera"
+    },
+    {
+      "Family": "Miniopteridae"
+    },
+    {
+      "Genus": "Miniopterus"
+    },
+    {
+      "Species": "M. pusillus"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "The small bent-winged bat (Miniopterus pusillus) is a species of vesper bat in the family Miniopteridae.\nIt can be found in the following countries: Bangladesh, Bhutan, India, Indonesia, Laos, Malaysia, Nepal, Philippines, Thailand and Vietnam.\n\n\n== References =="
+  }
+}

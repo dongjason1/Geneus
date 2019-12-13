@@ -1,0 +1,35 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Solanum_grandiflorum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Eudicots"
+    },
+    {
+      "Clade": "Asterids"
+    },
+    {
+      "Order": "Solanales"
+    },
+    {
+      "Family": "Solanaceae"
+    },
+    {
+      "Genus": "Solanum"
+    },
+    {
+      "Species": "S. grandiflorum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Solanum grandiflorum is an evergreen tree or treelet native to the wet lowland forests of the Amazon Basin; currently reported in Bolivia, Brazil, Colombia, Ecuador and Peru at 150–1600 meters above sea level.\n\n\n== References =="
+  }
+}

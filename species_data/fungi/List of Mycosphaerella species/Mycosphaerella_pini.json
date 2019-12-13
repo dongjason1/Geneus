@@ -1,0 +1,34 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Mycosphaerella_pini",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Dothideomycetes"
+    },
+    {
+      "Order": "Capnodiales"
+    },
+    {
+      "Family": "Mycosphaerellaceae"
+    },
+    {
+      "Genus": "Dothistroma"
+    },
+    {
+      "Species": "D. septosporum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Dothistroma septosporum or Mycosphaerella pini is a fungus that causes the disease commonly known as red band needle blight. This fungal disease affects the needles of conifers, but is mainly found on pine. Over 60 species have been reported to be prone to infection and Corsican Pine (Pinus nigra ssp. laricio) is the most susceptible species in Great Britain.It was first recorded in Britain on Corsican pine in 1954 in a nursery in Dorset. The disease spread sporadically until 1966, after which there were no new reports up until the end of the 1990s. Between 1997 and 2005 the majority of reports were on Corsican pine in East Anglia, although it had been found in other parts of Britain.The precise origins of the disease are unknown, although there are suggestions that the disease might be from the pine forests of Nepal, in the Himalayas. The origin is also thought to be from the high altitude rain forests of South America. The general opinion is that the disease has been prevalent in the Southern Hemisphere for some length of time, and that there are now high levels of infection in the Northern Hemisphere, with unprecedented records of the disease in Asia, Europe, and the UK.",
+    "Symptoms": "The symptoms give the disease its name. The first signs of infection that can be seen are yellow and brown spots that develop on the living needles, which soon turn red. This infection starts on the base of the crown on older needles, which then turn a brownish red at the tip, while the rest of the needle remains green. This can be seen clearly between the months of June and July, after which the needles begin to 'turn up', much like a lion's tail. This infection is then passed on to the following years growth, which continues year after year. This ongoing spread of infection weakens the tree over time, with larger percentages of crown infection leading to lower yields of timber and, in some cases, to the mortality of the tree.",
+    "Life cycle": "Spread initially in moist conditions, the pathogen requires physical transport either through mist and rain, or by direct contact with other infected needles. Once the needles have been exposed and the fungus germinates, the pathogen then penetrates the needle through the stoma. The ideal germination temperature is 12-18°C, with high levels of humidity. The needles will then begin to show signs of infection, and eventually the pathogen produces stromata, which is the pathogen's fruiting body. These are formed in the spring and early summer, and usually coincide with above average levels of rainfall. From these the blight is then passed on to the following years growth. The stromata can be seen as a clear or white mass exuding from red spots on the leaf.",
+    "Reproduction": "Dothistroma septosporum is able to reproduce asexually (in the anamorphic stage) as well as sexually (in the teleomorphic stage), but the teleomorphic stage is uncommonly found. The sexual reproduction of the disease holds a greater danger as the division of cells that comes with meiosis allows a far greater genetic variation of the disease, and increases its ability to adapt to local climates and resistance to various forms of control. The pathogen reproduces both asexually and sexually in the UK. The teleomorph that is produced from complete sexual reproduction, Mycosphaerella pini, has not been found in the UK",
+    "Damage": "The disease causes defoliation which increase year on year. This reduces yield of timber growth and weakens the tree, serving as a predisposing factor to other diseases. In several cases of infection, the disease can lead to complete mortality of the tree. Infection may take several years to severely reduce yield, as crown infection under 40% is directly proportional to the reduction in yield. Once crown infection has reached 80% there is no growth at all.",
+    "Control": "As a fungal disease, any intervention that increases airflow and reduces humidity will be beneficial. It has been observed that delays in the first thinning in East Anglia resulted in high mortality rates in the crop. The environmental and economic factors behind copper based fungicide treatment of large scale commercial crops makes control difficult and inadvisable.\n\n\n== References =="
+  }
+}

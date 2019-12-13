@@ -1,0 +1,32 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Piper_laevigatum",
+  "classification": [
+    {
+      "Kingdom": "Plantae"
+    },
+    {
+      "Clade": "Tracheophytes"
+    },
+    {
+      "Clade": "Angiosperms"
+    },
+    {
+      "Clade": "Magnoliids"
+    },
+    {
+      "Order": "Piperales"
+    },
+    {
+      "Family": "Piperaceae"
+    },
+    {
+      "Genus": "Piper"
+    },
+    {
+      "Species": "P. laevigatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Piper laevigatum is a species of plant in the family Piperaceae. It is found in Colombia, Panama, and Peru.\n\n\n== References =="
+  }
+}

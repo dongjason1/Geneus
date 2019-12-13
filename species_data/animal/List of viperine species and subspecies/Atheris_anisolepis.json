@@ -1,0 +1,36 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Atheris_anisolepis",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Reptilia"
+    },
+    {
+      "Order": "Squamata"
+    },
+    {
+      "Suborder": "Serpentes"
+    },
+    {
+      "Family": "Viperidae"
+    },
+    {
+      "Genus": "Atheris"
+    },
+    {
+      "Species": "A. anisolepis"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Common names: (none).Atheris anisolepis is a venomous viper species endemic to west central Africa. No subspecies are currently recognized.",
+    "Geographic range": "It is found in west central Africa: Gabon, Congo, west DR Congo, north Angola.\nThe type locality given is \"d'Alima Lékéti ... Congo (Franceville)\". Broadley (1996:41) limited it to \"Alima Leketi, Congo\" by lectotype designation.",
+    "Taxonomy": "Golay et al. (1993) list this species as a subspecies of A. squamigera. Lawson and Ustach (2000) go a step further, considering it to be a junior synonym of A. squamigera. Either way, it is removed from the list of species.",
+    "See also": "List of viperine species and subspecies\nViperinae by common name\nViperinae by taxonomic synonyms\nSnakebite",
+    "References": "\n\n== Further reading =="
+  }
+}

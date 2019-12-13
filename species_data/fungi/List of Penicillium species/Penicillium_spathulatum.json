@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_spathulatum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. spathulatum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium spathulatum is a species of fungus in the genus Penicillium which produces asperphenamate.",
+    "Further reading": "Nina Gunde-Cimerman; Aharon Oren; Ana Plemenitaš (2006). Adaptation to Life at High Salt Concentrations in Archaea, Bacteria, and Eukarya. Springer Science & Business Media. ISBN 978-1402036330.\n\n\n== References =="
+  }
+}

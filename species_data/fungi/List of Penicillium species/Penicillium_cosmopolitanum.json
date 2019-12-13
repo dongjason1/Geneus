@@ -1,0 +1,30 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Penicillium_cosmopolitanum",
+  "classification": [
+    {
+      "Kingdom": "Fungi"
+    },
+    {
+      "Division": "Ascomycota"
+    },
+    {
+      "Class": "Eurotiomycetes"
+    },
+    {
+      "Order": "Eurotiales"
+    },
+    {
+      "Family": "Trichocomaceae"
+    },
+    {
+      "Genus": "Penicillium"
+    },
+    {
+      "Species": "P. cosmopolitanum"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Penicillium cosmopolitanum is a species of the genus of Penicillium which is named after the worldwide occurrence of this species.",
+    "See also": "List of Penicillium species\n\n\n== References =="
+  }
+}
