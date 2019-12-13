@@ -17,7 +17,7 @@ def load_all(data_directory):
     json_files = list(Path(data_directory).rglob('*.json'))
 
     data = []
-    for json_file in tqdm(json_files[:5], desc='Loading JSON files into memory...'):
+    for json_file in tqdm(json_files, desc='Loading JSON files into memory...'):
         with json_file.open() as json_f:
             try:
                 data.append(json.load(fp=json_f))
