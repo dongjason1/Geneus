@@ -11,10 +11,13 @@ from tqdm import tqdm
 
 from keyword_extractor.keyword import get_keywords, load_embeddings_dict, embed_keywords
 
-
+"""
+For keywords: 
+python3 data_processing/process_species_data.py species_data no_filter create_keyword_representation one_hot_encode_kingdom input_datas/keyword
+"""
 
 def load_all(data_directory):
-    json_files = list(Path(data_directory).rglob('*.json'))
+    json_files = list(Path(data_directory).rglob('*.json'))[15001:20000]
 
     data = []
     for json_file in tqdm(json_files, desc='Loading JSON files into memory...'):
@@ -105,7 +108,6 @@ def create_keyword_representation(documents, n=20, weighted=True):
     banned_sections = ['references', 'see also', 'external links']
     output = []
     
-    print('converting...')
     for doc in tqdm(documents, desc='Converting documents to keyword vectors'):
         # taxonomy words to remove from training data
         taxonomy_words = []
