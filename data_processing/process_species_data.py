@@ -17,8 +17,7 @@ python3 data_processing/process_species_data.py species_data no_filter create_ke
 """
 
 def load_all(data_directory):
-    json_files = list(Path(data_directory).rglob('*.json'))[15001:20000]
-
+    json_files = list(Path(data_directory).rglob('*.json'))
     data = []
     for json_file in tqdm(json_files, desc='Loading JSON files into memory...'):
         with json_file.open() as json_f:
