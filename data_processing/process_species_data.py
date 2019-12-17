@@ -9,7 +9,10 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from keyword_extractor.keyword import get_keywords, load_embeddings_dict, embed_keywords
+# from keyword_extractor.keyword import get_keywords, load_embeddings_dict, embed_keywords
+from bert_extractor.bert_extractor import BertModel
+
+BERT_PATH='/home/yxh597/projects/dl-final-project/bert_en_uncased_L-24_H-1024_A-16'
 
 """
 For keywords: 
@@ -136,6 +139,26 @@ def create_keyword_representation(documents, n=20, weighted=True):
         representation = embed_keywords(keys, embed, weights) if weighted else embed_keywords(keys, embed)
         output.append(representation.tolist())
     return output
+
+
+def extract_text_from_doc(doc):
+    banned_sections = ['references', 'see also', 'external links']
+    concat = ""
+    for key, val in doc['text'].items():
+        if key.lower() not in banned_sections:
+            concat += " " + val         
+    return concat
+
+
+def create_bert_representation(documents, max_len=128):
+    bert_model = BertModel(BERT_PATH, max_len)
+    print('Working on BERT representations...')
+    
+    # Extract sections
+    doc_texts = [extract_text_from_doc(doc) for doc in documents]
+       
+    reprs = bert_model.get_reprs(doc_texts)
+    return reprs.tolist()
 
 
 if __name__ == '__main__':
