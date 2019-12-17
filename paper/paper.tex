@@ -67,7 +67,7 @@ We took a lot at our data by observing the sizes of key parts of the articles by
 
 \begin{figure}
   \includegraphics[width=\linewidth]{article_lengths.png}
-  \caption{asdf}
+  \caption{Histograms for article summary and description lengths.}
   \label{fig:article_lengths}
 \end{figure}
 
@@ -77,11 +77,12 @@ With more time, we would have liked to experiment with filtering on the data to 
 \label{section:methods}
 
 Our classifier design can be seen in Figure \ref{fig:classifier_overview}. We decided to try two different natural language processing methods to generate representations of the data. The first was a simple keyword extractor followed by a pre-trained word embedding model. The other was BERT, the Bidirectional Encoder Representations from Transformers model by Google. These vectorized representations could then be easily fed into a feed forward model for training. For testing, we widtheld some of the testing data for cross validation and we attempted to write our own paragraphs to see if the model could predict the taxonomy we were thinking of. 
-\begin{figure*}
+
+\begin{figure}[h]
   \includegraphics[width=\linewidth]{classifier_overview.png}
   \caption{Flowchart of our classifier.}
   \label{fig:classifier_overview}
-\end{figure*}
+\end{figure}
 
 \subsection{Keyword Extraction}
 We decide to use YAKE, Yet Another Keyword Extractor by Campos et al. Using PKE, the Python Keyphrase Extraction module, we tested several keyword extractors and chose YAKE for its simplicity and proven success. We fed the pretrained model our wikipedia texts and it returned the top 20 keywords and their relevancy scores. 
