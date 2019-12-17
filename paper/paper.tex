@@ -48,13 +48,33 @@ This is the background \cite{Alpher04}
 
 A flowchart of the data collection and processing pipeline can be seen in Figure \ref{fig:data}. The process involves collecting data from Wikipedia and then processing it into representations that will be used as inputs for the deep learning model.
 
+We leveraged Python scripts for their simplicity and the availability of relevant libraries. 
+
 \subsection{Scrape index pages}
-The first step is to creates lists of species articles which is done by supplying manually-found species index pages using \texttt{species\_url\_scraper.py} which then scrapes these articles to output lists of Wikipedia article URLs.
+The first step is to creates lists of species articles which is done by supplying manually-found species index pages using \texttt{species\_url\_scraper.py} which then scrapes these articles to output lists of Wikipedia article URLs. This scraping is done with an HTML parser that searches for hyperlinks that match the \texttt{https://en.wikipedia.org/wiki/Article} form. These are then checked to ensure they actually correspond to an organism. This step outputs a collection of URLs of these articles.
 
-\subsection{Scrape species articles} The next step consumes these lists and scrapes the Wikipedia pages themselves to extract the scientific classification as well as the text content from each of the sections.
+\subsection{Scrape species articles}
+The next step consumes these URL lists and scrapes the Wikipedia pages to extract the scientific classification as well as the text content from each of the sections. The scraping parses the classification from the info boxes on the side of all the pages, which are very consistently-structured across all of English Wikipedia. The text content of various sections is retrieved reliably using the Wikipedia API.
 
+\subsection{Create input vectors}
+The final step of the data process involves loading all of the crawled data into memory to create our final training data and labels. We take the raw data and apply functions to create training data and training labels. We work with two different functions to create our data which is detailed in Section \ref{section:methods}.
+
+\subsection{Review Collected Data}
+
+We selected animal, plant, and fungi pages to scrape (we decided to not work with unicellular organisms simply because they are vastly different from multicellular ones). We ultimately collected data for 25474 species-level pages (5926 animal, 16574 plant, and 2974 fungi). 
+
+We took a lot at our data by observing the sizes of key parts of the articles by plotting histograms as seen in Figure \ref{fig:article_lengths}. Every Wikipedia article has a "summary" which is the initial text without any particular header. There are many "stub" articles with very few words in the summary and little total content. An extremely common first section for species articles was "Description" (10070/25474 articles contained this section). Much like the summaries we note that there is a large number of small descriptions, but the large majority of descriptions are medium-to-large in length, a good sign that this data is going to be useful.
+
+\begin{figure}
+  \includegraphics[width=\linewidth]{article_lengths.png}
+  \caption{asdf}
+  \label{fig:article_lengths}
+\end{figure}
+
+With more time, we would have liked to experiment with filtering on the data to remove articles with certain characteristics, for example we could filter a decent amount of articles with extremely short summaries or descriptions without. Filtering to only use articles that contain descriptions is another experiment that we hypothesize may improve results at the expense of discarding over half of the scraped articles. 
 
 \section{Methods}
+\label{section:methods}
 
 These are the methods.
 
