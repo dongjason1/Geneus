@@ -1,0 +1,29 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Woolly_mammoth",
+  "classification": [
+    {
+      "Kingdom": "Animalia"
+    },
+    {
+      "Phylum": "Chordata"
+    },
+    {
+      "Class": "Mammalia"
+    },
+    {
+      "Order": "Proboscidea"
+    },
+    {
+      "Family": "Elephantidae"
+    },
+    {
+      "Genus": "†Mammuthus"
+    },
+    {
+      "Species": "†M. primigenius"
+    }
+  ],
+  "text": {
+    "__SUMMARY__": "Woolly mammoths were closely related to today's Asian elephants. They looked a lot like their modern cousins, except for one major difference. They were covered in a thick coat of brown hair to keep them warm in their home on the frigid Arctic plains. They even had fur-lined ears. Their large, curved tusks may have been used for fighting. They also may have been used as a digging tool for foraging meals of shrubs, grasses, roots and other small plants from under the snow."
+}
+}
