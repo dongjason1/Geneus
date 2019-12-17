@@ -57,19 +57,19 @@ The first step is to creates lists of species articles which is done by supplyin
 \section{Methods}
 
 Our classifier design can be seen in Figure \ref{fig:classifier_overview}. We decided to try two different natural language processing methods to generate representations of the data. The first was a simple keyword extractor followed by a pre-trained word embedding model. The other was BERT, the Bidirectional Encoder Representations from Transformers model by Google. These vectorized representations could then be easily fed into a feed forward model for training. For testing, we widtheld some of the testing data for cross validation and we attempted to write our own paragraphs to see if the model could predict the taxonomy we were thinking of. 
-\begin{figure}
+\begin{figure*}
   \includegraphics[width=\linewidth]{classifier_overview.png}
   \caption{Flowchart of our classifier.}
   \label{fig:classifier_overview}
-\end{figure}
+\end{figure*}
 
 \subsection{Keyword Extraction}
 We decide to use YAKE, Yet Another Keyword Extractor by Campos et al. Using PKE, the Python Keyphrase Extraction module, we tested several keyword extractors and chose YAKE for its simplicity and proven success. We fed the pretrained model our wikipedia texts and it returned the top 20 keywords and their relevancy scores. 
-\begin{figure}
+\begin{figure*}
   \includegraphics[width=\linewidth]{keywords_example.png}
   \caption{Examples of keywords extracted from the lion, tiger, and bluefin tuna wikipedia pages.}
   \label{fig:keywords_example}
-\end{figure}
+\end{figure*}
 
 To vectorize our keywords, we used the pre-trained word embeddings model, GloVe or Global Vectors for Word Representation. The model was pretrained on 2014 wikipedia data which made it suitable for representing our input. In testing, we discovered some words in our data had not been seen by GloVe and we were unable to vectorize it. We decided to remove those words from our training data because it rarely occurred and the pretrained model was able to generate vectors for most of our keywords. A possible alternative would be to train our own GloVe model based on the data we have. 
 
