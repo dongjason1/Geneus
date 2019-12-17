@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="data.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3529"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path3527"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3287"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path3285" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3043"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path3041" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2295"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2293"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1999"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1997"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1047" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1041" />
+    </marker>
+    <rect
+       id="rect884"
+       height="61.766264"
+       width="111.0545"
+       y="-120.72497"
+       x="22.148509" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="775"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g3015"
+     inkscape:document-units="mm"
+     inkscape:cy="308.61504"
+     inkscape:cx="721.07261"
+     inkscape:zoom="0.81596056"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3287)"
+       d="m 130.66458,138.94916 -8.93014,11.0867"
+       id="path3283"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3525"
+       d="m 130.46022,138.77494 8.39763,11.4953"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3529)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3043)"
+       d="m 130.66458,112.49081 v 11.0867"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2269"
+       d="M 130.66458,89.736631 V 100.82331"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2295)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1995"
+       d="M 130.66458,64.865801 V 75.952493"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1999)" />
+    <rect
+       style="fill:#e9afaf;fill-rule:evenodd;stroke:#d97474;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-3"
+       width="42.144218"
+       height="16.314655"
+       x="109.46698"
+       y="77.751442"
+       ry="0.95150876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.55607px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.088902"
+       x="111.2103"
+       y="81.430466"
+       id="text862"><tspan
+         sodipodi:role="line"
+         x="111.2103"
+         y="81.430466"
+         style="stroke-width:0.088902"
+         id="tspan860">Crawl index pages for</tspan><tspan
+         id="tspan866"
+         sodipodi:role="line"
+         x="111.2103"
+         y="85.875557"
+         style="stroke-width:0.088902">species articles </tspan></text>
+    <text
+       id="text870"
+       y="63.014069"
+       x="152.54395"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="63.014069"
+         x="152.54395"
+         id="tspan868"
+         sodipodi:role="line" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="M 17.769699,-126.65204 H 138.20571 c 2.93159,0 5.29167,2.36008 5.29167,5.29167 v 67.404366 c 0,2.931584 -2.36008,5.291667 -5.29167,5.291667 H 17.769699 c -2.931583,0 -5.291666,-2.360083 -5.291666,-5.291667 v -67.404366 c 0,-2.93159 2.360083,-5.29167 5.291666,-5.29167 z"
+       style="fill:#ff8080;stroke:#d97474;stroke-width:1.342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect898" />
+    <path
+       d="m 23.697266,-118.86523 v 62.414058 H 139.14258 v -62.414058 z"
+       inkscape:href="#rect898"
+       id="path901"
+       xlink:href="#rect898"
+       inkscape:original="M 17.769531 -126.65234 C 14.837948 -126.65234 12.478516 -124.29292 12.478516 -121.36133 L 12.478516 -53.955078 C 12.478516 -51.023494 14.837948 -48.664062 17.769531 -48.664062 L 138.20508 -48.664062 C 141.13667 -48.664062 143.49805 -51.023494 143.49805 -53.955078 L 143.49805 -121.36133 C 143.49805 -124.29292 141.13667 -126.65234 138.20508 -126.65234 L 17.769531 -126.65234 z "
+       inkscape:radius="-7.7866225"
+       sodipodi:type="inkscape:offset"
+       style="fill:#ff8080;stroke:none;stroke-width:1.342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       x="-3.4314592"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#path901);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text882"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-109.20977"><tspan>this is soe text asnd </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-95.980643"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-82.751517"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-69.522391"><tspan>sadfdf ddf df df df d</tspan></tspan></text>
+    <path
+       id="path907"
+       style="fill:#ff8080;stroke:#d97474;stroke-width:1.342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 17.769699,-126.65204 H 138.20571 c 2.93159,0 5.29167,2.36008 5.29167,5.29167 v 67.404366 c 0,2.931584 -2.36008,5.291667 -5.29167,5.291667 H 17.769699 c -2.931583,0 -5.291666,-2.360083 -5.291666,-5.291667 v -67.404366 c 0,-2.93159 2.360083,-5.29167 5.291666,-5.29167 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff8080;stroke:none;stroke-width:1.342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="-7.7866225"
+       inkscape:original="M 17.769531 -126.65234 C 14.837948 -126.65234 12.478516 -124.29292 12.478516 -121.36133 L 12.478516 -53.955078 C 12.478516 -51.023494 14.837948 -48.664062 17.769531 -48.664062 L 138.20508 -48.664062 C 141.13667 -48.664062 143.49805 -51.023494 143.49805 -53.955078 L 143.49805 -121.36133 C 143.49805 -124.29292 141.13667 -126.65234 138.20508 -126.65234 L 17.769531 -126.65234 z "
+       xlink:href="#rect898"
+       id="path909"
+       inkscape:href="#rect898"
+       d="m 23.697266,-118.86523 v 62.414058 H 139.14258 v -62.414058 z" />
+    <text
+       x="-3.4314592"
+       xml:space="preserve"
+       id="text915"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#path901);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-109.20977"><tspan>this is soe text asnd </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-95.980643"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-82.751517"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-69.522391"><tspan>sadfdf ddf df df df d</tspan></tspan></text>
+    <text
+       y="97.328659"
+       x="-88.282082"
+       xml:space="preserve"
+       id="text925"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#path901);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-109.20977"><tspan>this is soe text asnd </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-95.980643"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-82.751517"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-69.522391"><tspan>sadfdf ddf df df df d</tspan></tspan></text>
+    <text
+       y="97.328659"
+       x="-88.282082"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#path901);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text935"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-109.20977"><tspan>this is soe text asnd </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-95.980643"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-82.751517"><tspan>asdf asdf asdf asdf </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.265625"
+         y="-69.522391"><tspan>sadfdf ddf df df df d</tspan></tspan></text>
+    <g
+       transform="translate(2.1166667,15.875003)"
+       id="g940">
+      <rect
+         style="fill:#96de88;fill-opacity:1;fill-rule:evenodd;stroke:#57a14e;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect876"
+         width="34.597317"
+         height="5.1060619"
+         x="111.13229"
+         y="71.711777"
+         ry="0.95150876" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         x="112.08864"
+         y="75.14782"
+         id="text874"><tspan
+           sodipodi:role="line"
+           id="tspan872"
+           x="112.08864"
+           y="75.14782"
+           style="stroke-width:0.0701658">species_url_scraper.py</tspan></text>
+    </g>
+    <g
+       transform="translate(7.3403339,-14.816666)"
+       id="g975">
+      <rect
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect964"
+         width="39.878571"
+         height="5.1060638"
+         x="102.13646"
+         y="66.949272"
+         ry="0.95150876" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         x="103.09282"
+         y="70.385315"
+         id="text968"><tspan
+           sodipodi:role="line"
+           id="tspan966"
+           x="103.09282"
+           y="70.385315"
+           style="stroke-width:0.0701658">List of elephant species.txt</tspan></text>
+    </g>
+    <g
+       transform="translate(9.4570006,-10.583333)"
+       id="g990">
+      <rect
+         ry="0.95150876"
+         y="66.949272"
+         x="102.13646"
+         height="4.7459784"
+         width="42.159111"
+         id="rect977"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text981"
+         y="70.385315"
+         x="103.09282"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.0701658"
+           y="70.385315"
+           x="103.09282"
+           id="tspan979"
+           sodipodi:role="line">List of Corydoras species.txt</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 130.66458,39.4658 V 50.552492"
+       id="path1018"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       ry="0.95150876"
+       y="60.599274"
+       x="115.29762"
+       height="4.7459793"
+       width="34.042061"
+       id="rect992"
+       style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text996"
+       y="64.035316"
+       x="116.25398"
+       style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0701658"
+         y="64.035316"
+         x="116.25398"
+         id="tspan994"
+         sodipodi:role="line">List of moa species.txt</tspan></text>
+    <g
+       transform="translate(0,1.0583333)"
+       id="g1975">
+      <rect
+         style="fill:#e9afaf;fill-rule:evenodd;stroke:#d97474;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect944"
+         width="42.144218"
+         height="16.314655"
+         x="108.93781"
+         y="25.893101"
+         ry="0.95150876" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.55607px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.088902"
+         x="110.68114"
+         y="29.572126"
+         id="text950"><tspan
+           id="tspan948"
+           sodipodi:role="line"
+           x="110.68114"
+           y="29.572126"
+           style="stroke-width:0.088902">Scrape index of</tspan><tspan
+           sodipodi:role="line"
+           x="110.68114"
+           y="34.017216"
+           style="stroke-width:0.088902"
+           id="tspan962">index pages</tspan></text>
+      <g
+         transform="translate(7.3403339,-35.983334)"
+         id="g958">
+        <rect
+           style="fill:#96de88;fill-opacity:1;fill-rule:evenodd;stroke:#57a14e;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect952"
+           width="23.074589"
+           height="5.1060638"
+           x="111.13229"
+           y="71.711777"
+           ry="0.95150876" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+           x="112.08864"
+           y="75.14782"
+           id="text956"><tspan
+             sodipodi:role="line"
+             id="tspan954"
+             x="112.08864"
+             y="75.14782"
+             style="stroke-width:0.0701658">scrape_lists.py</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2247"
+       transform="translate(7.3403339,-14.816666)">
+      <rect
+         ry="0.95150876"
+         y="66.949272"
+         x="102.13646"
+         height="5.1060638"
+         width="39.878571"
+         id="rect2241"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2245"
+         y="70.385315"
+         x="103.09282"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.0701658"
+           y="70.385315"
+           x="103.09282"
+           id="tspan2243"
+           sodipodi:role="line">List of elephant species.txt</tspan></text>
+    </g>
+    <g
+       id="g2255"
+       transform="translate(9.4570006,-10.583333)">
+      <rect
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2249"
+         width="42.159111"
+         height="4.7459784"
+         x="102.13646"
+         y="66.949272"
+         ry="0.95150876" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         x="103.09282"
+         y="70.385315"
+         id="text2253"><tspan
+           sodipodi:role="line"
+           id="tspan2251"
+           x="103.09282"
+           y="70.385315"
+           style="stroke-width:0.0701658">List of Corydoras species.txt</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2257"
+       width="34.042061"
+       height="4.7459793"
+       x="115.29762"
+       y="60.599274"
+       ry="0.95150876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+       x="116.25398"
+       y="64.035316"
+       id="text2261"><tspan
+         sodipodi:role="line"
+         id="tspan2259"
+         x="116.25398"
+         y="64.035316"
+         style="stroke-width:0.0701658">List of moa species.txt</tspan></text>
+    <g
+       transform="translate(7.3403339,35.454167)"
+       id="g2277">
+      <rect
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2271"
+         width="38.294193"
+         height="5.1060638"
+         x="102.13646"
+         y="66.949272"
+         ry="0.95150876" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         x="103.09282"
+         y="70.385315"
+         id="text2275"><tspan
+           sodipodi:role="line"
+           id="tspan2273"
+           x="103.09282"
+           y="70.385315"
+           style="stroke-width:0.0701658">Casuarius_casuarius.json</tspan></text>
+    </g>
+    <g
+       transform="translate(9.4570006,39.6875)"
+       id="g2285">
+      <rect
+         ry="0.95150876"
+         y="66.949272"
+         x="102.13646"
+         height="4.7459793"
+         width="39.13438"
+         id="rect2279"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2283"
+         y="70.385315"
+         x="103.09282"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.0701658"
+           y="70.385315"
+           x="103.09282"
+           id="tspan2281"
+           sodipodi:role="line">Lobaria_scrobiculata.json</tspan></text>
+    </g>
+    <rect
+       ry="0.95150876"
+       y="110.87008"
+       x="115.29762"
+       height="4.7459793"
+       width="39.371346"
+       id="rect2287"
+       style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text2291"
+       y="114.30613"
+       x="116.25398"
+       style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0701658"
+         y="114.30613"
+         x="116.25398"
+         id="tspan2289"
+         sodipodi:role="line">Phaeocollybia_festiva.json</tspan></text>
+    <text
+       id="text2483"
+       y="116.37984"
+       x="71.585121"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="116.37984"
+         x="71.585121"
+         id="tspan2481"
+         sodipodi:role="line"></tspan></text>
+    <g
+       transform="translate(42.333335,-50.800004)"
+       id="g3015">
+      <rect
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2485"
+         width="39.878571"
+         height="39.215954"
+         x="22.16428"
+         y="102.40344"
+         ry="0.95150876" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         x="24.178974"
+         y="105.83949"
+         id="text2489"><tspan
+           sodipodi:role="line"
+           id="tspan2487"
+           x="24.178974"
+           y="105.83949"
+           style="stroke-width:0.0701658">Casuarius_casuarius.json</tspan><tspan
+           sodipodi:role="line"
+           x="24.178974"
+           y="109.34777"
+           style="stroke-width:0.0701658"
+           id="tspan2491" /><tspan
+           sodipodi:role="line"
+           x="24.178974"
+           y="112.85604"
+           style="stroke-width:0.0701658"
+           id="tspan2493" /></text>
+      <text
+         id="text2501"
+         y="107.45802"
+         x="23.12064"
+         style="font-style:normal;font-weight:normal;font-size:1.4545px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0363627"
+         xml:space="preserve"><tspan
+           id="tspan2499"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="107.45802"
+           x="23.12064"
+           sodipodi:role="line">{</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="109.29443"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2508">  &quot;classification&quot;: [</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="111.13084"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2510">      {&quot;Kingdom&quot;: &quot;Animalia&quot;},</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="112.96724"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2512">      {&quot;Phylum&quot;: &quot;Chordata&quot;},</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="114.80364"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2514">      {&quot;Class&quot;: &quot;Aves&quot;},</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="116.64005"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2516">      {&quot;Order&quot;: &quot;Casuariiformes&quot;},</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="118.47646"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2518">      {&quot;Family&quot;: &quot;Casuariidae&quot;},</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="120.31287"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2520">      {&quot;Genus&quot;: &quot;Casuarius&quot;},</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="122.14927"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2522">      {&quot;Species&quot;: &quot;C. casuarius&quot;}</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="123.98567"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2524">  ],</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="125.82208"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2526">  &quot;text&quot;: {</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="127.65849"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2528">    &quot;__SUMMARY__&quot;: &quot;The southern cassowary&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="129.49489"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2530">    &quot;Taxonomy&quot;: &quot;Presently, most&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="131.3313"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2532">    &quot;Description&quot;: &quot;The southern cassowary&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="133.16771"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2534">    &quot;Range and habitat&quot;: &quot;The southern&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="135.0041"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2536">    &quot;Behaviour&quot;: &quot;It forages on the&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="136.84052"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2538">    &quot;Conservation&quot;: &quot;Although subject to&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="138.67693"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2540">  }</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.0363627"
+           y="140.51332"
+           x="23.12064"
+           sodipodi:role="line"
+           id="tspan2542">}</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2544"
+       width="39.878571"
+       height="19.051126"
+       x="64.49762"
+       y="26.732618"
+       ry="0.95150876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+       x="65.453979"
+       y="30.168669"
+       id="text2552"><tspan
+         sodipodi:role="line"
+         x="65.453979"
+         y="30.168669"
+         style="stroke-width:0.0701658"
+         id="tspan2550">List of elephant species.txt</tspan></text>
+    <text
+       id="text2592"
+       y="32.721176"
+       x="65.997932"
+       style="font-style:normal;font-weight:normal;font-size:1.29082px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0322707"
+       xml:space="preserve"><tspan
+         id="tspan2972"
+         style="stroke-width:0.0322707"
+         y="32.721176"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/Mammuthus_armeniacus</tspan><tspan
+         id="tspan2974"
+         style="stroke-width:0.0322707"
+         y="34.334702"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/Mammuthus_africanavus</tspan><tspan
+         id="tspan2976"
+         style="stroke-width:0.0322707"
+         y="35.948227"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/Indian_elephant</tspan><tspan
+         id="tspan2978"
+         style="stroke-width:0.0322707"
+         y="37.561752"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/African_bush_elephant</tspan><tspan
+         id="tspan2980"
+         style="stroke-width:0.0322707"
+         y="39.175278"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/Subspecies_of_Canis_lupus</tspan><tspan
+         id="tspan2982"
+         style="stroke-width:0.0322707"
+         y="40.788799"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/Syrian_elephant</tspan><tspan
+         id="tspan2984"
+         style="stroke-width:0.0322707"
+         y="42.402325"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/Sumatran_elephant</tspan><tspan
+         id="tspan2986"
+         style="stroke-width:0.0322707"
+         y="44.01585"
+         x="65.997932"
+         sodipodi:role="line">https://en.wikipedia.org/wiki/Elephas_planifrons</tspan></text>
+    <rect
+       ry="0.95150876"
+       y="125.37641"
+       x="109.46698"
+       height="16.314655"
+       width="42.144218"
+       id="rect3025"
+       style="fill:#e9afaf;fill-rule:evenodd;stroke:#d97474;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3031"
+       y="128.85661"
+       x="110.68113"
+       style="font-style:normal;font-weight:normal;font-size:3.29606px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0824017"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0824017"
+         y="128.85661"
+         x="110.68113"
+         sodipodi:role="line"
+         id="tspan3029">Transform scraped data</tspan><tspan
+         id="tspan3159"
+         style="stroke-width:0.0824017"
+         y="132.97668"
+         x="110.68113"
+         sodipodi:role="line">into model input vectors</tspan></text>
+    <g
+       id="g3039"
+       transform="translate(2.1166667,63.500006)">
+      <rect
+         ry="0.95150876"
+         y="71.711777"
+         x="109.54478"
+         height="5.1060638"
+         width="37.189934"
+         id="rect3033"
+         style="fill:#96de88;fill-opacity:1;fill-rule:evenodd;stroke:#57a14e;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3037"
+         y="75.14782"
+         x="110.50113"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.0701658"
+           y="75.14782"
+           x="110.50113"
+           id="tspan3035"
+           sodipodi:role="line">process_species_data.py</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3265"
+       width="28.856838"
+       height="4.7459717"
+       x="98.364288"
+       y="151.61595"
+       ry="0.95150876" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+       x="99.320648"
+       y="155.052"
+       id="text3269"><tspan
+         sodipodi:role="line"
+         id="tspan3267"
+         x="99.320648"
+         y="155.052"
+         style="stroke-width:0.0701658">keyword_data.json</tspan></text>
+    <rect
+       ry="0.95150876"
+       y="151.61588"
+       x="134.34773"
+       height="4.7459717"
+       width="30.585251"
+       id="rect3271"
+       style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3275"
+       y="155.05193"
+       x="135.30409"
+       style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.0701658"
+         y="155.05193"
+         x="135.30409"
+         id="tspan3273"
+         sodipodi:role="line">keyword_labels.json</tspan></text>
+    <g
+       id="g3793"
+       transform="translate(42.333335,-5.2916663)">
+      <rect
+         ry="0.95150876"
+         y="102.40344"
+         x="22.16428"
+         height="19.380365"
+         width="39.878571"
+         id="rect3743"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3751"
+         y="105.83949"
+         x="24.178974"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         xml:space="preserve"><tspan
+           id="tspan3749"
+           style="stroke-width:0.0701658"
+           y="105.83949"
+           x="24.178974"
+           sodipodi:role="line">keyword_data.json</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.78495px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.044624"
+         x="23.649807"
+         y="108.76742"
+         id="text3791"><tspan
+           id="tspan3789"
+           sodipodi:role="line"
+           x="23.649807"
+           y="108.76742"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624">[</tspan><tspan
+           id="tspan3989"
+           sodipodi:role="line"
+           x="23.649807"
+           y="111.02104"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624">  [0.08571, 0.21517, -0.1316, ...],</tspan><tspan
+           id="tspan3991"
+           sodipodi:role="line"
+           x="23.649807"
+           y="113.27466"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624">  [0.48345, -0.12973, 0.2344, ...],</tspan><tspan
+           id="tspan3995"
+           sodipodi:role="line"
+           x="23.649807"
+           y="115.52828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624">  [0.06933, 0.18614, 0.13064, ...],</tspan><tspan
+           id="tspan3997"
+           sodipodi:role="line"
+           x="23.649807"
+           y="117.78191"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624">  ...</tspan><tspan
+           id="tspan3993"
+           sodipodi:role="line"
+           x="23.649807"
+           y="120.03552"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624">]</tspan></text>
+    </g>
+    <g
+       transform="translate(42.333335,20.108336)"
+       id="g4019">
+      <rect
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#e27c38;stroke-width:0.450923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3999"
+         width="39.878571"
+         height="19.380365"
+         x="22.16428"
+         y="102.40344"
+         ry="0.95150876" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.80662px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0701658"
+         x="24.178974"
+         y="105.83949"
+         id="text4003"><tspan
+           sodipodi:role="line"
+           x="24.178974"
+           y="105.83949"
+           style="stroke-width:0.0701658"
+           id="tspan4001">keyword_labels.json</tspan></text>
+      <text
+         id="text4017"
+         y="108.76742"
+         x="23.649807"
+         style="font-style:normal;font-weight:normal;font-size:1.78495px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.044624"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624"
+           y="108.76742"
+           x="23.649807"
+           sodipodi:role="line"
+           id="tspan4005">[</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624"
+           y="111.02104"
+           x="23.649807"
+           sodipodi:role="line"
+           id="tspan4007">  [0, 1, 0],</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624"
+           y="113.27466"
+           x="23.649807"
+           sodipodi:role="line"
+           id="tspan4009">  [0, 0, 1],</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624"
+           y="115.52828"
+           x="23.649807"
+           sodipodi:role="line"
+           id="tspan4011">  [1, 0, 0],</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624"
+           y="117.78191"
+           x="23.649807"
+           sodipodi:role="line"
+           id="tspan4013">  ...</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Go Mono for Powerline';-inkscape-font-specification:'Go Mono for Powerline';stroke-width:0.044624"
+           y="120.03552"
+           x="23.649807"
+           sodipodi:role="line"
+           id="tspan4015">]</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -40,7 +40,19 @@ This is the background \cite{Alpher04}
 
 \section{Data}
 
-This is the data. \cite{Authors14}
+\begin{figure}
+  \includegraphics[width=\linewidth]{data.png}
+  \caption{Visualization of the data-processing pipeline.}
+  \label{fig:data}
+\end{figure}
+
+A flowchart of the data collection and processing pipeline can be seen in Figure \ref{fig:data}. The process involves collecting data from Wikipedia and then processing it into representations that will be used as inputs for the deep learning model.
+
+\subsection{Scrape index pages}
+The first step is to creates lists of species articles which is done by supplying manually-found species index pages using \texttt{species\_url\_scraper.py} which then scrapes these articles to output lists of Wikipedia article URLs.
+
+\subsection{Scrape species articles} The next step consumes these lists and scrapes the Wikipedia pages themselves to extract the scientific classification as well as the text content from each of the sections.
+
 
 \section{Methods}
 
