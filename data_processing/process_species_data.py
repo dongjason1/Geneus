@@ -106,7 +106,9 @@ def one_hot_encode(all_data, keys):
         for entry in single_data['classification']:
             key, value = list(entry.items())[0]
             if key in keys:
-                vector[labels_keys_flattened.index(key)] = 1
+                if value[0] == '?':
+                    value = value[1:]
+                vector[labels_values_flattened.index(value)] = 1
 
         return vector.tolist()
 
