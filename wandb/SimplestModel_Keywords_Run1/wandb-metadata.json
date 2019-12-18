@@ -1,0 +1,31 @@
+{
+    "root": "/home/andrew/Desktop/Geneus",
+    "program": "<python with no main file>",
+    "colab": "https://colab.research.google.com/drive/1e_CibsKF4KI88NQcL1243qvJnrUJgSy0",
+    "git": {
+        "remote": "https://github.com/dongjason1/Geneus.git",
+        "commit": "52c2a83e88736f3dc84b73b89c30809396f68941"
+    },
+    "email": "art81@case.edu",
+    "codeSaved": true,
+    "startedAt": "2019-12-17T21:19:16.919467",
+    "host": "andrew-XPS-15",
+    "username": "andrew",
+    "executable": "/usr/bin/python3.7",
+    "os": "Linux-4.15.0-72-generic-x86_64-with-Ubuntu-16.04-xenial",
+    "python": "3.7.5",
+    "gpu": "GeForce GTX 960M",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/home/andrew/.local/share/jupyter/runtime/kernel-c43f13e5-b29b-45a4-9405-a6ec83b6f361.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "dauntless-resonance-38",
+    "project": "geneus",
+    "heartbeatAt": "2019-12-17T21:22:30.761298"
+}

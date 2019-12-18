@@ -1,0 +1,11 @@
+diff --git a/species_data/animal/List of anomalepidid species and subspecies/Typhlophis.json b/species_data/animal/List of anomalepidid species and subspecies/Typhlophis.json
+index 7fd29d9..2f86793 100644
+--- a/species_data/animal/List of anomalepidid species and subspecies/Typhlophis.json	
++++ b/species_data/animal/List of anomalepidid species and subspecies/Typhlophis.json	
+@@ -36,4 +36,4 @@
+     "External links": "Typhlophis squamosus at the Reptarium.cz Reptile Database. Accessed 29 August 2007.",
+     "Further reading": "Boulenger GA (1893). Catalogue of the Snakes in the British Museum (Natural History). Volume I., Containing the Families ... Glauconiidæ ... London: Trustees of the British Museum (Natural History). (Taylor and Francis, printers). xiii + 448 pp. + Plates I-XXVIII. (Genus Typhlophis, p. 57; species T. squamosus, p. 57).\nKok, Philippe; Rivas Fuenmayor, Gilson (2008). \"Typhlophis ayarzaguenai Señaris, 1998 is a junior synonym of Typhlophis squamosus (Schlegel, 1839)\". Reptilia-Amphibia 29 (4): 555-558.\nSchlegel H (1839). Abbildungen neuer oder unvollständig bekannter AMPHIBIEN, nach der Natur oder dem Leben entworfen, herausgegeben und mit einem erläuternden Texte begleitet. Düsseldorf: Arnz & Comp. xiv + 141 pp. (Typhlops squamosus, new species, p. 36). (in German)."
+   }
+-}
+\ No newline at end of file
++}

@@ -1,0 +1,31 @@
+{
+    "root": "/home/andrew/Desktop/Geneus",
+    "program": "<python with no main file>",
+    "colab": "https://colab.research.google.com/drive/1e_CibsKF4KI88NQcL1243qvJnrUJgSy0",
+    "git": {
+        "remote": "https://github.com/dongjason1/Geneus.git",
+        "commit": "73d6458b9ae847e38e622f7685ee762b6edf3ec7"
+    },
+    "email": "art81@case.edu",
+    "codeSaved": true,
+    "startedAt": "2019-12-16T01:07:36.176631",
+    "host": "andrew-XPS-15",
+    "username": "andrew",
+    "executable": "/usr/bin/python3.7",
+    "os": "Linux-4.15.0-72-generic-x86_64-with-Ubuntu-16.04-xenial",
+    "python": "3.7.5",
+    "gpu": "GeForce GTX 960M",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/home/andrew/.local/share/jupyter/runtime/kernel-fbe626f3-62ad-47b8-b2ef-1c5b280ff39a.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "toasty-water-28",
+    "project": "geneus",
+    "heartbeatAt": "2019-12-16T01:10:11.856204"
+}

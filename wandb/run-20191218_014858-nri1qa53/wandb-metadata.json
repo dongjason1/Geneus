@@ -1,0 +1,31 @@
+{
+    "root": "/home/andrew/Desktop/Geneus",
+    "program": "<python with no main file>",
+    "colab": "https://colab.research.google.com/drive/1e_CibsKF4KI88NQcL1243qvJnrUJgSy0",
+    "git": {
+        "remote": "https://github.com/dongjason1/Geneus.git",
+        "commit": "1595f1741e2e3682b6e21b69efd0780efa9cdf84"
+    },
+    "email": "art81@case.edu",
+    "codeSaved": true,
+    "startedAt": "2019-12-18T01:48:58.886156",
+    "host": "andrew-XPS-15",
+    "username": "andrew",
+    "executable": "/usr/bin/python3.7",
+    "os": "Linux-4.15.0-72-generic-x86_64-with-Ubuntu-16.04-xenial",
+    "python": "3.7.5",
+    "gpu": "GeForce GTX 960M",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/home/andrew/.local/share/jupyter/runtime/kernel-d175edea-118e-4cea-900f-c3a227e815de.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "desert-terrain-43",
+    "project": "geneus",
+    "heartbeatAt": "2019-12-18T01:49:01.587408"
+}

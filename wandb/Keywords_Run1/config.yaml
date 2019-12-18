@@ -1,0 +1,13 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.8.18
+    is_jupyter_run: true
+    magic:
+      enable: true
+    python_version: 3.7.5
+f:
+  desc: null
+  value: /home/andrew/.local/share/jupyter/runtime/kernel-fbe626f3-62ad-47b8-b2ef-1c5b280ff39a.json

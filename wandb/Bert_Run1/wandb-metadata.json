@@ -1,0 +1,25 @@
+{
+    "root": "/home/andrew",
+    "program": "<python with no main file>",
+    "colab": "https://colab.research.google.com/drive/1e_CibsKF4KI88NQcL1243qvJnrUJgSy0",
+    "startedAt": "2019-12-17T16:58:08.902724",
+    "host": "andrew-XPS-15",
+    "username": "andrew",
+    "executable": "/usr/bin/python3.7",
+    "os": "Linux-4.15.0-72-generic-x86_64-with-Ubuntu-16.04-xenial",
+    "python": "3.7.5",
+    "gpu": "GeForce GTX 960M",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/home/andrew/.local/share/jupyter/runtime/kernel-c403b765-ba5d-4474-bdad-9c98089b8914.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "pious-darkness-29",
+    "project": "geneus",
+    "heartbeatAt": "2019-12-17T16:59:59.343526"
+}

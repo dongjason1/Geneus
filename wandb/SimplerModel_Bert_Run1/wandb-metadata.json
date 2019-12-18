@@ -1,0 +1,25 @@
+{
+    "root": "/home/andrew",
+    "program": "<python with no main file>",
+    "colab": "https://colab.research.google.com/drive/1e_CibsKF4KI88NQcL1243qvJnrUJgSy0",
+    "startedAt": "2019-12-17T19:39:05.651107",
+    "host": "andrew-XPS-15",
+    "username": "andrew",
+    "executable": "/usr/bin/python3.7",
+    "os": "Linux-4.15.0-72-generic-x86_64-with-Ubuntu-16.04-xenial",
+    "python": "3.7.5",
+    "gpu": "GeForce GTX 960M",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/home/andrew/.local/share/jupyter/runtime/kernel-d9fa4990-1d31-467e-aff3-43d246f594da.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "magic-bee-32",
+    "project": "geneus",
+    "heartbeatAt": "2019-12-17T19:43:50.573939"
+}
