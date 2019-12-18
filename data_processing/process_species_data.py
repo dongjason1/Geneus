@@ -1,8 +1,11 @@
 import argparse
 import glob
+import itertools
 import json
 import os
 import sys
+
+import numpy
 import numpy as np
 from json import JSONDecodeError
 from pathlib import Path
@@ -10,7 +13,7 @@ from pathlib import Path
 from tqdm import tqdm
 
 # from keyword_extractor.keyword import get_keywords, load_embeddings_dict, embed_keywords
-from bert_extractor.bert_extractor import BertModel
+# from bert_extractor.bert_extractor import BertModel
 
 BERT_PATH='/home/yxh597/projects/dl-final-project/bert_en_uncased_L-24_H-1024_A-16'
 
@@ -77,68 +80,89 @@ def no_filter(all_data):
 def one_hot_encode_kingdom(all_data):
     kingdoms = ['Animalia', 'Plantae', 'Fungi']
 
-    def one_hot_encode(single_data):
+def find_all_for_key(all_data, target_key):
+    if target_key == 'Kingdom':
+        return ['Animalia', 'Plantae', 'Fungi']
+    key_set = set()
+    for single_data in all_data:
         for entry in single_data['classification']:
             key, value = list(entry.items())[0]
-            if key == 'Kingdom':
-                item = [0, 0, 0]
-                for i in range(len(kingdoms)):
-                    if kingdoms[i] in value:
-                        item[i] = 1
-                        return item
-                print(f'Kingdom {value} is unknown for {single_data["url"]}')
-                sys.exit(1)
+            if key == target_key:
+                key_set.add(value)
+    return key_set
 
-        print(f'{single_data["url"]} has no Kingdom...')
-        sys.exit(1)
 
-    return list(map(one_hot_encode, tqdm(all_data)))
+def one_hot_encode(all_data, keys):
+    labels_values = [list(sorted(find_all_for_key(all_data, target_key))) for target_key in keys]
+    labels_keys = [[target_key]*len(label) for label, target_key in zip(labels_values, keys)]
 
-"""
-Creates the keyword word embedding representation of the text data. Cleans the data for mentions of the taxonomy
+    labels_values_flattened = list(itertools.chain(*labels_values))
+    labels_keys_flattened = list(itertools.chain(*labels_keys))
 
-Params:
-    documents (lis of dict): JSON documents to convert
-    n (int): number of keywords to generate
-    weighted (bool): whether or not to use a weighted sum
-"""
-def create_keyword_representation(documents, n=20, weighted=True):
-    print('loading embeddings...')
-    embed = load_embeddings_dict(path='data_processing/glove_model/glove.6B.300d.txt')
-    
-    # wikipedia sections not to read
-    banned_sections = ['references', 'see also', 'external links']
-    output = []
-    
-    for doc in tqdm(documents, desc='Converting documents to keyword vectors'):
-        # taxonomy words to remove from training data
-        taxonomy_words = []
-        for dic in doc['classification']:
-            key = list(dic.keys())[0]
-            val = dic[key]
-            taxonomy_words.append(key.lower())
-            taxonomy_words.append(val.lower())
-        
-        #concatenate the paragraphs
-        concat = ""
-        for key, val in doc['text'].items():
-            if key.lower() not in banned_sections:
-                concat += " " + val
-                
-        # get keywords from concatenated sections and remove taxonomy words
-        keys, weights = get_keywords(concat, num=n)
-        i = 0
-        while i < len(keys):
-            if keys[i].lower() in taxonomy_words:
-                del keys[i]
-                np.delete(weights, i)
-                i-=1
-            i += 1
-        
-        # Get the word embedding representation
-        representation = embed_keywords(keys, embed, weights) if weighted else embed_keywords(keys, embed)
-        output.append(representation.tolist())
-    return output
+    shape = len(labels_keys_flattened)
+
+    def one_hot_encode_item(single_data):
+        vector = np.zeros(shape, dtype=numpy.int8)
+        for entry in single_data['classification']:
+            key, value = list(entry.items())[0]
+            if key in keys:
+                if value[0] == '?':
+                    value = value[1:]
+                vector[labels_values_flattened.index(value)] = 1
+
+        return vector.tolist()
+
+    return labels_keys_flattened, labels_values_flattened, list(map(one_hot_encode_item, tqdm(all_data)))
+
+def one_hot_encode_phyla(all_data):
+    return one_hot_encode(all_data, keys=['Kingdom', 'Phylum'])
+
+
+# """
+# Creates the keyword word embedding representation of the text data. Cleans the data for mentions of the taxonomy
+#
+# Params:
+#     documents (lis of dict): JSON documents to convert
+#     n (int): number of keywords to generate
+#     weighted (bool): whether or not to use a weighted sum
+# """
+# def create_keyword_representation(documents, n=20, weighted=True):
+#     print('loading embeddings...')
+#     embed = load_embeddings_dict(path='data_processing/glove_model/glove.6B.300d.txt')
+#
+#     # wikipedia sections not to read
+#     banned_sections = ['references', 'see also', 'external links']
+#     output = []
+#
+#     for doc in tqdm(documents, desc='Converting documents to keyword vectors'):
+#         # taxonomy words to remove from training data
+#         taxonomy_words = []
+#         for dic in doc['classification']:
+#             key = list(dic.keys())[0]
+#             val = dic[key]
+#             taxonomy_words.append(key.lower())
+#             taxonomy_words.append(val.lower())
+#
+#         #concatenate the paragraphs
+#         concat = ""
+#         for key, val in doc['text'].items():
+#             if key.lower() not in banned_sections:
+#                 concat += " " + val
+#
+#         # get keywords from concatenated sections and remove taxonomy words
+#         keys, weights = get_keywords(concat, num=n)
+#         i = 0
+#         while i < len(keys):
+#             if keys[i].lower() in taxonomy_words:
+#                 del keys[i]
+#                 np.delete(weights, i)
+#                 i-=1
+#             i += 1
+#
+#         # Get the word embedding representation
+#         representation = embed_keywords(keys, embed, weights) if weighted else embed_keywords(keys, embed)
+#         output.append(representation.tolist())
+#     return output
 
 
 def extract_text_from_doc(doc):
@@ -164,25 +188,54 @@ def create_bert_representation(documents, max_len=128):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Format")
     parser.add_argument('data_directory', type=str, help='directory that has json files')
-    parser.add_argument('filter_func', type=str, default='no_filter', help='function in this module to filter data points')
-    parser.add_argument('data_func', type=str, help='function in this module to transform into data')
-    parser.add_argument('label_func', type=str, help='function in this module to transform into labels')
     parser.add_argument('filename_prefix', type=str, help='output filename prefix')
     args = parser.parse_args()
 
     raw_data = load_all(args.data_directory)
-    print(f'Filtering {len(raw_data)} data items... ', end='')
-    filtered_data = locals()[args.filter_func](raw_data)
-    print(f'{len(filtered_data)} remaining.')
-    print('Creating data items...')
-    data = locals()[args.data_func](raw_data)
-    print('Creating label items...')
-    labels = locals()[args.label_func](raw_data)
+    labels_keys_flattened, labels_values_flattened, labels = one_hot_encode(raw_data, keys=['Kingdom', 'Phylum', 'Class'])
 
-    if len(data) != len(labels):
-        print(f'Length of data ({len(data)}) and labels ({len(labels)}) were unequal... aborting.')
-        sys.exit(1)
+    labels_keys_filename = args.filename_prefix + '_labels_keys.json'
+    labels_values_filename = args.filename_prefix + '_labels_values.json'
+    labels_filename = args.filename_prefix + '_labels.json'
 
-    print('Saving data and labels... ', end='')
-    save_data(data, labels, filename_prefix=args.filename_prefix)
-    print('DONE!')
+    if not os.path.exists(labels_keys_filename):
+        Path(labels_keys_filename).touch()
+    if not os.path.exists(labels_values_filename):
+        Path(labels_values_filename).touch()
+    if not os.path.exists(labels_filename):
+        Path(labels_filename).touch()
+
+    with open(labels_keys_filename, 'w+') as f:
+        json.dump(labels_keys_flattened, fp=f)
+    with open(labels_values_filename, 'w+') as f:
+        json.dump(labels_values_flattened, fp=f)
+    with open(labels_filename, 'w+') as f:
+        json.dump(labels, fp=f)
+
+
+
+# if __name__ == '__main__':
+#     parser = argparse.ArgumentParser(description="Format")
+#     parser.add_argument('data_directory', type=str, help='directory that has json files')
+#     parser.add_argument('filter_func', type=str, default='no_filter', help='function in this module to filter data points')
+#     parser.add_argument('data_func', type=str, help='function in this module to transform into data')
+#     parser.add_argument('label_func', type=str, help='function in this module to transform into labels')
+#     parser.add_argument('filename_prefix', type=str, help='output filename prefix')
+#     args = parser.parse_args()
+#
+#     raw_data = load_all(args.data_directory)
+#     print(f'Filtering {len(raw_data)} data items... ', end='')
+#     filtered_data = locals()[args.filter_func](raw_data)
+#     print(f'{len(filtered_data)} remaining.')
+#     print('Creating data items...')
+#     # data = locals()[args.data_func](raw_data)
+#     print('Creating label items...')
+#     labels = locals()[args.label_func](raw_data)
+#
+#     # if len(data) != len(labels):
+#     #     print(f'Length of data ({len(data)}) and labels ({len(labels)}) were unequal... aborting.')
+#     #     sys.exit(1)
+#
+#     print('Saving data and labels... ', end='')
+#     # save_data(data, labels, filename_prefix=args.filename_prefix)
+#     print('DONE!')
