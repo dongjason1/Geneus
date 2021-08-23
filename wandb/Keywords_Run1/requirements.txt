@@ -78,7 +78,7 @@ jupyter-core==4.6.1
 jupyter-http-over-ws==0.0.6
 jupyter==1.0.0
 jupyterlab-server==1.0.6
-jupyterlab==1.2.3
+jupyterlab==1.2.21
 kazam==1.4.5
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
