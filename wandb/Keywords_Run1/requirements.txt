@@ -114,7 +114,7 @@ pathtools==0.1.2
 pexpect==4.7.0
 pickleshare==0.7.5
 pillow==6.2.1
-pip==20.0.dev0
+pip==21.1
 plainbox==0.25
 pluginlib==1.11.3
 prometheus-client==0.7.1
