@@ -146,7 +146,7 @@ qt-gui-cpp==0.3.11
 qt-gui-py-common==0.3.11
 qt-gui==0.3.11
 qtconsole==4.6.0
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.22.0
 resource-retriever==1.12.5
 rosbag==1.12.14
