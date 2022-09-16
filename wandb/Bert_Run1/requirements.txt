@@ -88,7 +88,7 @@ language-selector==0.1
 laser-geometry==1.6.4
 louis==2.6.4
 lxml==3.5.0
-mako==1.0.3
+mako==1.2.2
 markdown==3.1.1
 markupsafe==1.1.1
 matplotlib==3.1.1
